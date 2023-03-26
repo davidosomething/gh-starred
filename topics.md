@@ -45,7 +45,6 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
-- [crystal](#crystal)
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
@@ -270,12 +269,10 @@
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
-- [tachiyomiorg/tachiyomi-1.x](https://github.com/tachiyomiorg/tachiyomi-1.x) - [WIP] 1.x app rewrite
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [gitpoint/git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
@@ -293,7 +290,6 @@
 - [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [LogRocket/redux-logger](https://github.com/LogRocket/redux-logger) - Logger for Redux
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
 
@@ -334,7 +330,6 @@
 ## arduino 
 
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
-- [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
 
 ## artificial-intelligence 
 
@@ -442,7 +437,6 @@
 - [luruke/awesome-casestudy](https://github.com/luruke/awesome-casestudy) - 📕  Curated list of technical case studies on WebGL and creative development
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-- [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
@@ -528,7 +522,6 @@
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-- [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
 - [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -583,7 +576,7 @@
 
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash and zsh key bindings for Git objects, powered by fzf
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
@@ -753,7 +746,7 @@
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -786,13 +779,11 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [hliyan/jarvis](https://github.com/hliyan/jarvis) - J.A.R.V.I.S - Just Another Rudimentary Verbal Instruction Shell
-- [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [ByronHsu/life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick
-- [genuinetools/pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [cutenode/delice](https://github.com/cutenode/delice) - 📑 A CLI to help you get insight into your projects' licenses
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -958,10 +949,6 @@
 - [michaelgrosner/tribeca](https://github.com/michaelgrosner/tribeca) - A high frequency, market making cryptocurrency trading platform in node.js
 - [Scanate/EthList](https://github.com/Scanate/EthList) - The Comprehensive Ethereum Reading List
 
-## crystal 
-
-- [getmango/Mango](https://github.com/getmango/Mango) - Mango is a self-hosted manga server and web reader
-
 ## csharp 
 
 - [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag & experimentation management platform
@@ -977,7 +964,6 @@
 - [projectwallace/constyble](https://github.com/projectwallace/constyble) - CSS complexity linter
 - [yandex/reshadow](https://github.com/yandex/reshadow) - Markup and styles that feel right
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
-- [neoclide/coc-css](https://github.com/neoclide/coc-css) - Css language server extension for coc.nvim
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
 - [linkedin/eyeglass](https://github.com/linkedin/eyeglass) - NPM Modules for Sass
 - [projectwallace/css-analyzer](https://github.com/projectwallace/css-analyzer) - Analytics for CSS
@@ -1198,7 +1184,6 @@
 - [csumpter/restic-docker](https://github.com/csumpter/restic-docker) - 
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-- [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
@@ -1214,14 +1199,12 @@
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
 ## documentation 
 
 - [wlezzar/doks](https://github.com/wlezzar/doks) - Search for your distributed documentation in one place
-- [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [uber/react-view](https://github.com/uber/react-view) - React View is an interactive playground, documentation and code generator for your components.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [shamin/greenboard](https://github.com/shamin/greenboard) - 📖    Gatsby theme for api documentation
@@ -1248,6 +1231,7 @@
 
 ## electron 
 
+- [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Editor for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
@@ -1256,7 +1240,6 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
-- [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [rhysd/electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' mini-window for Electron apps
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron
@@ -1277,12 +1260,10 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
-- [gielcobben/caption](https://github.com/gielcobben/caption) - Get Caption, start watching.
 - [ssbc/patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
 - [terkelg/ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [k0kubun/Nocturn](https://github.com/k0kubun/Nocturn) - Multi-platform Twitter Client built with React, Redux and Electron
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -1347,11 +1328,9 @@
 - [jaredpalmer/backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [wavesoft/dot-dom](https://github.com/wavesoft/dot-dom) - .dom is a tiny (512 byte) template engine that uses virtual DOM and some of react principles
 - [vb/lazyframe](https://github.com/vb/lazyframe) - 🛀🏽 Dependency-free library for lazyloading iframes
-- [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [hyperform/hyperform](https://github.com/hyperform/hyperform) - Capture form validation back from the browser
 - [dleitee/strman](https://github.com/dleitee/strman) - 🏗A Javascript string manipulation library.
 - [isRuslan/vim-es6](https://github.com/isRuslan/vim-es6) - List of JavaScript ES6 snippets and syntax highlighting for vim.
-- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 
@@ -1363,7 +1342,6 @@
 - [mansona/lint-to-the-future](https://github.com/mansona/lint-to-the-future) - A modern way to progressively update your code to the best practices
 - [JamieMason/eslint-formatter-git-log](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
-- [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [getify/eslint-plugin-proper-arrows](https://github.com/getify/eslint-plugin-proper-arrows) - ESLint rules to ensure proper arrow function definitions
 - [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
 - [wix-incubator/eslint-plugin-lodash](https://github.com/wix-incubator/eslint-plugin-lodash) - ESLint rules for lodash
@@ -1572,12 +1550,10 @@
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
-- [genuinetools/pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [JamieMason/eslint-formatter-git-log](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [rbong/vim-flog](https://github.com/rbong/vim-flog) - A fast, beautiful, and powerful git branch viewer for vim.
-- [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [isacikgoz/gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
 - [bahmutov/changed-log](https://github.com/bahmutov/changed-log) - Returns all commit messages between 2 versions of an NPM module
@@ -1586,7 +1562,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sodapopcan/vim-twiggy](https://github.com/sodapopcan/vim-twiggy) - Git branch management for Vim
 - [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
-- [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
 - [Fakerr/git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
@@ -1634,11 +1609,9 @@
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [n0v1c3/vira](https://github.com/n0v1c3/vira) - Create and update your Jira issues while inside Vim!
-- [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [kactus-io/kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [genuinetools/pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [eldimious/network-avatar-picker](https://github.com/eldimious/network-avatar-picker) - A npm module that returns user's social network avatar. Supported providers: facebook, instagram, twitter, tumblr, vimeo, github, youtube and gmail
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
@@ -1650,7 +1623,6 @@
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
-- [gitpoint/git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint for GitHub and GitLab
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [dolmen/github-keygen](https://github.com/dolmen/github-keygen) - Easy creation of secure SSH configuration for your GitHub account(s)
@@ -1685,7 +1657,6 @@
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [git-duet/git-duet](https://github.com/git-duet/git-duet) - Support for pairing with git
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
-- [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
@@ -1698,7 +1669,6 @@
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -1726,7 +1696,6 @@
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [vim-jp/go-vimlparser](https://github.com/vim-jp/go-vimlparser) - :zap: Vim Script Parser written in Go
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [wincent/clipper](https://github.com/wincent/clipper) - ✂️ Clipboard access for local and remote tmux sessions
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
@@ -1740,7 +1709,7 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A blazing fast cross platform/shell prompt renderer
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
@@ -1762,13 +1731,11 @@
 - [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
-- [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [kentaro-m/md2confl](https://github.com/kentaro-m/md2confl) - 🛠 md2confl is a CLI tool to convert the markdown text to confluence wiki format.
@@ -1776,7 +1743,6 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
-- [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [discord/lilliput](https://github.com/discord/lilliput) - Resize images and animated GIFs in Go
@@ -1801,7 +1767,6 @@
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [vim-jp/go-vimlparser](https://github.com/vim-jp/go-vimlparser) - :zap: Vim Script Parser written in Go
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 
@@ -1826,12 +1791,10 @@
 - [f/graphql.js](https://github.com/f/graphql.js) - A Simple and Isomorphic GraphQL Client for JavaScript
 - [dotansimha/graphql-yoga](https://github.com/dotansimha/graphql-yoga) - 🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.
 - [marmelab/json-graphql-server](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds.
-- [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [join-monster/join-monster](https://github.com/join-monster/join-monster) - A GraphQL to SQL query execution layer for query planning and batch data fetching.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [jparise/vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -1903,7 +1866,6 @@
 - [porridge/bambam](https://github.com/porridge/bambam) - keyboard mashing and doodling game for babies and toddlers
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-- [AdollaApp/Adolla](https://github.com/AdollaApp/Adolla) - Manga reader for every device with a web browser
 - [ustaxes/UsTaxes](https://github.com/ustaxes/UsTaxes) - Tax filing web application
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
@@ -2035,7 +1997,6 @@
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - 💻 JavaScript implementations of computer science algorithms
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-- [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
 - [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
@@ -2194,7 +2155,6 @@
 - [yagiz/Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS
 - [google/EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework
 - [RemoteDebug/remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Debug Safari and WebViews on iOS from tools like VS Code and Chrome DevTools
-- [gitpoint/git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac) - List of applications and tools that make my macOS experience even more amazing
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
@@ -2269,8 +2229,6 @@
 - [kwent/syno](https://github.com/kwent/syno) - Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x.
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
-- [yaegassy/coc-jsdoc](https://github.com/yaegassy/coc-jsdoc) - lehre (jsdoc/esdoc/tsdoc document block generator) extension for coc.nvim
-- [shamansir/rpd](https://github.com/shamansir/rpd) - :ok_hand: A Minimal Engine for creating Node-Based Visual Programming User Interfaces
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 - [rsms/estrella](https://github.com/rsms/estrella) - Lightweight and versatile build tool based on the esbuild compiler
@@ -2415,7 +2373,6 @@
 - [brycedorn/react-intense](https://github.com/brycedorn/react-intense) - A React component for viewing large images up close 🔍
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [11ways/json-dry](https://github.com/11ways/json-dry) - 🌞 JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...
-- [getify/CAF](https://github.com/getify/CAF) - Cancelable Async Flows (CAF)
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [denisraslov/react-spreadsheet-grid](https://github.com/denisraslov/react-spreadsheet-grid) - An Excel-like grid component for React with custom cell editors, performant scroll & resizable columns
@@ -2503,9 +2460,6 @@
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [dyo/dyo](https://github.com/dyo/dyo) - Dyo is a JavaScript library for building user interfaces.
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
-- [pauldijou/redux-act](https://github.com/pauldijou/redux-act) - An opinionated lib to create actions and reducers for Redux
-- [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
-- [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [hyperform/hyperform](https://github.com/hyperform/hyperform) - Capture form validation back from the browser
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
@@ -2543,7 +2497,6 @@
 - [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
 - [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
@@ -2590,7 +2543,6 @@
 
 - [ruyadorno/snapstub](https://github.com/ruyadorno/snapstub) - Copy API endpoints to your fs and run a local server using them
 - [ajitid/fzf-for-js](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript
-- [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
 - [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 - [jonschlinkert/clone-deep](https://github.com/jonschlinkert/clone-deep) - Recursively (deep) clone JavaScript native types, like Object, Array, RegExp, Date as well as primitives. Used by superstruct, merge-deep, and many others!
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
@@ -2613,7 +2565,7 @@
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [blitz-js/superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [ehmicky/safe-json-value](https://github.com/ehmicky/safe-json-value) - ⛑️ JSON serialization should never fail
 - [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()
@@ -2663,7 +2615,6 @@
 
 - [Suwayomi/Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) - A rewrite of Tachiyomi for the Desktop
 - [wlezzar/doks](https://github.com/wlezzar/doks) - Search for your distributed documentation in one place
-- [tachiyomiorg/tachiyomi-1.x](https://github.com/tachiyomiorg/tachiyomi-1.x) - [WIP] 1.x app rewrite
 - [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [pinterest/ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 - [mcxiaoke/awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin) - A curated list of awesome Kotlin frameworks, libraries, documents and other resources
@@ -2684,7 +2635,6 @@
 - [godaddy/terminus](https://github.com/godaddy/terminus) - Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
@@ -2730,7 +2680,6 @@
 - [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [gribnoysup/wunderbar](https://github.com/gribnoysup/wunderbar) - Simple horizontal bar chart printer for your terminal
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
-- [getify/CAF](https://github.com/getify/CAF) - Cancelable Async Flows (CAF)
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim) - A comprehensive Vim utility functions for Vim plugins
@@ -2944,7 +2893,6 @@
 - [nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) - Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
-- [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [camspiers/dotfiles](https://github.com/camspiers/dotfiles) - Dotfiles (macOS, stow, brew, yabai, nvim, kitty, tmux)
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
@@ -2995,6 +2943,7 @@
 
 ## macos 
 
+- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
@@ -3053,7 +3002,6 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [gielcobben/caption](https://github.com/gielcobben/caption) - Get Caption, start watching.
 - [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
 - [S1ngS1ng/HammerSpoon](https://github.com/S1ngS1ng/HammerSpoon) - 😌HammerSpoon config file, 💻Window Management, 🎵VOX, VIM-binding #KillThe🐁
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -3072,7 +3020,6 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 - [hatashiro/kawa](https://github.com/hatashiro/kawa) - A macOS input source switcher with user-defined shortcuts.
@@ -3177,7 +3124,6 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
-- [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [midwayjs/pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
@@ -3224,6 +3170,8 @@
 
 ## neovim 
 
+- [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
+- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) - A neovim plugin to add notes or comments to any buffer
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
@@ -3313,7 +3261,6 @@
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [gbprod/nord.nvim](https://github.com/gbprod/nord.nvim) - An arctic, north-bluish clean and elegant Neovim theme.
 - [tandy1229/wordswitch.nvim](https://github.com/tandy1229/wordswitch.nvim) - a neovim plugin that can easily switch words, such as switch 'true' to 'false'
-- [yaegassy/coc-tailwindcss3](https://github.com/yaegassy/coc-tailwindcss3) - Intelligent Tailwind CSS tooling for coc.nvim
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
 - [Dkendal/nvim-treeclimber](https://github.com/Dkendal/nvim-treeclimber) - Neovim structured editing plugin
@@ -3355,7 +3302,6 @@
 - [Shougo/pum.vim](https://github.com/Shougo/pum.vim) - Original popup completion menu framework library
 - [lambdalisue/guise.vim](https://github.com/lambdalisue/guise.vim) - 🎭  Guise is a Vim/Neovim plugin that opens a new tab page rather than invokes a new nested instance when a user tried to open a new Vim/Neovim through a job or terminal on the instance.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
-- [xiyaowong/coc-sumneko-lua](https://github.com/xiyaowong/coc-sumneko-lua) - Lua extension using sumneko lua-language-server for coc.nvim
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window
@@ -3374,8 +3320,6 @@
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
-- [yaegassy/coc-jsdoc](https://github.com/yaegassy/coc-jsdoc) - lehre (jsdoc/esdoc/tsdoc document block generator) extension for coc.nvim
-- [yaegassy/coc-pydocstring](https://github.com/yaegassy/coc-pydocstring) - doq (python docstring generator) extension for coc.nvim
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
 - [notomo/reacher.nvim](https://github.com/notomo/reacher.nvim) - Displayed range search buffer
 - [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.
@@ -3407,7 +3351,6 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [lambdalisue/glyph-palette.vim](https://github.com/lambdalisue/glyph-palette.vim) - 🎨 An universal palette for Nerd Fonts
 - [lambdalisue/nerdfont.vim](https://github.com/lambdalisue/nerdfont.vim) - 👓  Fundemental plugin to handle Nerd Fonts in Vim
-- [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -3417,8 +3360,6 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
 - [kyazdani42/blue-moon](https://github.com/kyazdani42/blue-moon) - A dark color scheme for Neovim derived from palenight and carbonight
-- [weirongxu/coc-floatinput](https://github.com/weirongxu/coc-floatinput) - Floating input for coc.nvim
-- [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [mhinz/vim-halo](https://github.com/mhinz/vim-halo) - :innocent: Visual highlight for your cursor.
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
 - [0ihsan/neuron.vim](https://github.com/0ihsan/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
@@ -3431,19 +3372,13 @@
 - [Lenovsky/nuake](https://github.com/Lenovsky/nuake) - A Quake-style terminal panel for Neovim and Vim
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
-- [weirongxu/coc-calc](https://github.com/weirongxu/coc-calc) - Calculate extension for coc.nvim
-- [antonk52/coc-cssmodules](https://github.com/antonk52/coc-cssmodules) - css modules autocompletion and go to definition coc.nvim plugin
 - [mcchrish/info-window.nvim](https://github.com/mcchrish/info-window.nvim) - See file information in a floating window
-- [neoclide/coc-html](https://github.com/neoclide/coc-html) - Html language server extension for coc.nvim.
 - [LinArcX/mpi](https://github.com/LinArcX/mpi) - minimal (n)vim plugins - icons (Under 200 LOC)
 - [camspiers/lens.vim](https://github.com/camspiers/lens.vim) - A Vim Automatic Window Resizing Plugin
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [zhaosheng-pan/vim-sidebar-manager](https://github.com/zhaosheng-pan/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
-- [kyoh86/vim-editerm](https://github.com/kyoh86/vim-editerm) - 
 - [lambdalisue/edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
-- [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
-- [iamcco/coc-spell-checker](https://github.com/iamcco/coc-spell-checker) - A basic spell checker that works well with camelCase code for (Neo)vim
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
@@ -3455,39 +3390,25 @@
 - [zgpio/tree.nvim](https://github.com/zgpio/tree.nvim) - Neovim file-explorer powered by C++
 - [wsdjeg/vim-fuzzy](https://github.com/wsdjeg/vim-fuzzy) - Fuzzy find plugin for SpaceVim
 - [gillyb/stable-windows](https://github.com/gillyb/stable-windows) - Keeps vim windows stable on layout changes
-- [neoclide/coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim, fork of vscode-python
 - [ripxorip/aerojump.nvim](https://github.com/ripxorip/aerojump.nvim) - Aerojump is a fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
-- [weirongxu/coc-explorer](https://github.com/weirongxu/coc-explorer) - 📁 Explorer for coc.nvim
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
 - [desmap/slick](https://github.com/desmap/slick) - Vim/Neovim Colortheme–Truecolor, Stunning, Complete
-- [kizza/actionmenu.nvim](https://github.com/kizza/actionmenu.nvim) - A nice context menu for vim
-- [voldikss/coc-extensions](https://github.com/voldikss/coc-extensions) - 🌸 Collections of coc.nvim extensions maintained by @voldikss
 - [burner/vim-svelte](https://github.com/burner/vim-svelte) - 
 - [m-pilia/vim-yggdrasil](https://github.com/m-pilia/vim-yggdrasil) - Vim library to generate tree-like views
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-- [neoclide/coc-pairs](https://github.com/neoclide/coc-pairs) - Basic auto pairs extension of coc.nvim
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [iamcco/diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) - diagnostic language server integrate with linters
-- [neoclide/coc-css](https://github.com/neoclide/coc-css) - Css language server extension for coc.nvim
-- [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
-- [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
 - [voldikss/vim-translator](https://github.com/voldikss/vim-translator) - :closed_book: Translating plugin for Vim/Neovim
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
-- [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
-- [neoclide/coc-yaml](https://github.com/neoclide/coc-yaml) - Yaml language server extension for coc.nvim
-- [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
-- [neoclide/coc-lists](https://github.com/neoclide/coc-lists) - Common lists for coc.nvim
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
-- [daa84/neovim-gtk](https://github.com/daa84/neovim-gtk) - gtk ui for neovim
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
 - [mhinz/vim-tree](https://github.com/mhinz/vim-tree) - 🌲 Use tree(1) for quick navigation.
-- [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [neoclide/coc-neco](https://github.com/neoclide/coc-neco) - viml completion source for coc.nvim
 - [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
@@ -3497,7 +3418,6 @@
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [vv-vim/vv](https://github.com/vv-vim/vv) - Neovim client for macOS
-- [ncm2/ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
 - [numirias/semshi](https://github.com/numirias/semshi) - 🌈 Semantic Highlighting for Python in Neovim
 - [andreypopp/vim-colors-plain](https://github.com/andreypopp/vim-colors-plain) - Minimal colorscheme for vim
 - [semanser/vim-outdated-plugins](https://github.com/semanser/vim-outdated-plugins) - 🔄   Async Vim/Neovim plugin for showing the number of your outdated plugins
@@ -3508,11 +3428,9 @@
 - [lambdalisue/session.vim](https://github.com/lambdalisue/session.vim) - Yet another simple session management plugin for Vim/Neovim
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
 - [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
-- [teto/nvim-palette](https://github.com/teto/nvim-palette) - Easy access to nvim options
 - [neovim/neovim-ruby](https://github.com/neovim/neovim-ruby) - Ruby support for Neovim
 - [dansomething/vim-eclim](https://github.com/dansomething/vim-eclim) - Mirror of the VIM files from https://github.com/ervandew/eclim to support installation via various plugin managers.
 - [srstevenson/vim-picker](https://github.com/srstevenson/vim-picker) - A Vim plugin for fuzzy selection of files, buffers, tags, and more
-- [nicodebo/vim-pck](https://github.com/nicodebo/vim-pck) - vim package manager
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client
@@ -3549,7 +3467,6 @@
 - [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim) - Vim plugin to control splits with visual selections or text objects
 - [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim) - Vim plugin for insert mode completion of words in adjacent tmux panes
 - [vim-test/vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
-- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [prabirshrestha/async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace) - Vim Space Controller
@@ -3679,7 +3596,6 @@
 - [maximilianschmitt/cypress-routines](https://github.com/maximilianschmitt/cypress-routines) - Easily write scalable Node.js setup code for Cypress
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
 - [lmammino/financial](https://github.com/lmammino/financial) - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
-- [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [adaltas/node-csv-parse](https://github.com/adaltas/node-csv-parse) - CSV parsing implementing the Node.js `stream.Transform` API
@@ -3692,7 +3608,6 @@
 - [ByronHsu/life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [feross/queue-microtask](https://github.com/feross/queue-microtask) - fast, tiny `queueMicrotask` shim for modern engines
-- [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
@@ -3792,7 +3707,6 @@
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [helpers/handlebars-helpers](https://github.com/helpers/handlebars-helpers) - 188 handlebars helpers in ~20 categories. Can be used with Assemble, Ghost, YUI, express.js etc.
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
-- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [lukeed/taskr](https://github.com/lukeed/taskr) - A fast, concurrency-focused task automation tool.
 - [bevry/projectz](https://github.com/bevry/projectz) - Stop wasting time maintaining your project's readme and package files! Let Projectz do it for you.
@@ -3845,12 +3759,12 @@
 
 ## objective-c 
 
+- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [pallotron/yubiswitch](https://github.com/pallotron/yubiswitch) - OSX status bar application to enable/disable Yubikey Nano
 - [timonus/Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and links.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [jeaye/color_coded](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting of C, C++, ObjC
-- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 ## open-source 
@@ -3903,7 +3817,6 @@
 - [davidosomething/apcaccess-command-output](https://github.com/davidosomething/apcaccess-command-output) - Script to output APC UPS short status using apcaccess command
 - [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) - Implementation of gx without the need of netrw
 - [itsFrank/nvim-swell](https://github.com/itsFrank/nvim-swell) - A neovim plugin for making windows swole
-- [pbogut/fzf-mru.vim](https://github.com/pbogut/fzf-mru.vim) - Vim plugin that is using fzf.vim (or Telescope) to display your most recently used files.
 - [sQVe/dotfiles](https://github.com/sQVe/dotfiles) - sQVe dotfiles
 - [theleagueof/league-mono](https://github.com/theleagueof/league-mono) - A monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier.
 - [b4b4r07/cursor-x.nvim](https://github.com/b4b4r07/cursor-x.nvim) - 
@@ -3918,7 +3831,6 @@
 - [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim) - Install and upgrade third party tools automatically
 - [Skyscanner/eslint-plugin-skyscanner-dates](https://github.com/Skyscanner/eslint-plugin-skyscanner-dates) - ESLint plugin to help with safe date handling
 - [bfredl/nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins
-- [huy-hng/anyline.nvim](https://github.com/huy-hng/anyline.nvim) - Neovim Indentation Line with Animations
 - [tjdevries/config_manager](https://github.com/tjdevries/config_manager) - My configuration files and tools
 - [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) - A telescope.nvim extension that offers intelligent prioritization when selecting files from your editing history.
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
@@ -4090,7 +4002,6 @@
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor #StandWithUkraine
 - [shamansir/noodle](https://github.com/shamansir/noodle) - Visual programming UI and framework driven by pure functional language and data streams
 - [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
-- [josa42/coc-lua](https://github.com/josa42/coc-lua) - Lua language server extension using lua-lsp for coc.nvim.
 - [blackosx/OpenCanopyIcons](https://github.com/blackosx/OpenCanopyIcons) - A range of .icns files designed specifically for OpenCanopy
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) - Smooth scrolling neovim plugin written in lua
 - [yairEO/knobs](https://github.com/yairEO/knobs) - UI knobs controllers for JS/CSS live manipulation of various parameters
@@ -4115,7 +4026,6 @@
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos
-- [rafcamlet/coc-nvim-lua](https://github.com/rafcamlet/coc-nvim-lua) - Simple neovim lua completion source for coc.nvim
 - [n1ckyrush/wyzecam-hls](https://github.com/n1ckyrush/wyzecam-hls) - Converts MP4 files from WyzeCam NFS to HLS stream. Much more stable alternative to RTSP firmware.
 - [HclX/WyzeHacks](https://github.com/HclX/WyzeHacks) - Hacks I discovered allowing Wyze camera owners to do customizations
 - [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) - 
@@ -4129,7 +4039,6 @@
 - [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac) - Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 - [jbyuki/contextmenu.nvim](https://github.com/jbyuki/contextmenu.nvim) - contextual menu for neovim plugins
 - [analgesicproductions/Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) - Anodyne 1 Source Code
-- [josa42/coc-docker](https://github.com/josa42/coc-docker) - Docker language server extension using dockerfile-language-server-nodejs for coc.nvim.
 - [ameyrupji/thunderbolt-macpro-5-1](https://github.com/ameyrupji/thunderbolt-macpro-5-1) - My story to add thunderbolt support to my Mac Pro Early 2009 (5,1)
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [xcodereleases/xcinfo](https://github.com/xcodereleases/xcinfo) - Install as many Xcodes at once as you can
@@ -4140,23 +4049,17 @@
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [GoogleChromeLabs/idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern
 - [beeender/Comrade](https://github.com/beeender/Comrade) - Brings JetBrains/IntelliJ IDEs magic to Neovim with minimal setup.
-- [joshua7v/coc-comrade](https://github.com/joshua7v/coc-comrade) - An extension of coc.nvim to bring Intellij completion source into vim with comrade
 - [voldikss/vim-skylight](https://github.com/voldikss/vim-skylight) - 💡Search asynchronously and preview file/symbol under cursor in the floating window.
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
-- [nvim-lua/marks.nvim](https://github.com/nvim-lua/marks.nvim) - Marks related utilties
 - [tweakpane/use-tweaks](https://github.com/tweakpane/use-tweaks) - 🎛️ Tweak React components with Tweakpane
 - [kosimst/Firicico](https://github.com/kosimst/Firicico) - Combined programming mono font with italics and font ligatures made from Fira Code and Pacifico for Italics
 - [kosimst/FiraFlott](https://github.com/kosimst/FiraFlott) - Free Operator Mono Alternative based on FiraCode and FlottFlott
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
-- [oslabs-beta/Dockter](https://github.com/oslabs-beta/Dockter) - A low-overhead, open-source Docker log management tool
 - [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - neovim statusline plugin written in lua
 - [gotchane/vim-git-commit-prefix](https://github.com/gotchane/vim-git-commit-prefix) - This vim plugin is to support adding git commit prefix.
 - [LoricAndre/fzterm.nvim](https://github.com/LoricAndre/fzterm.nvim) - Fuzzy finder plugin for neovim, written in lua
 - [ChristianChiarulli/nvcode-color-schemes.vim](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - A bunch of generated colorschemes (treesitter supported)
-- [solidiquis/alacpretty](https://github.com/solidiquis/alacpretty) - Alacritty is a cross-platform GPU-accelerated terminal emulator. Make it pretty without having to edit your yaml file 🌈
-- [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
-- [fannheyward/coc-rome](https://github.com/fannheyward/coc-rome) - Rome extension for coc.nvim
 - [pmndrs/detect-gpu](https://github.com/pmndrs/detect-gpu) - Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.
 - [google/vimscript-language-server](https://github.com/google/vimscript-language-server) - 
 - [lukeed/nestie](https://github.com/lukeed/nestie) - A tiny (242B) and fast utility to expand a flattened object
@@ -4165,7 +4068,6 @@
 - [johndbritton/teleport](https://github.com/johndbritton/teleport) - Virtual KVM for OS X
 - [trentm/node-dashdash](https://github.com/trentm/node-dashdash) - A light, featureful and explicit option parsing library for node.js.
 - [ntfstool/ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
-- [smolck/veonim](https://github.com/smolck/veonim) - 
 - [kentonv/dvorak-qwerty](https://github.com/kentonv/dvorak-qwerty) - "Dvorak-Qwerty ⌘" (DQ) keyboard layout for Windows and Unix/Linux/X
 - [crossfilter/crossfilter](https://github.com/crossfilter/crossfilter) - Fast n-dimensional filtering and grouping of records.
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
@@ -4197,19 +4099,15 @@
 - [anishathalye/periscope](https://github.com/anishathalye/periscope) - Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
 - [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
-- [felippepuhle/coc-graphql](https://github.com/felippepuhle/coc-graphql) - GraphQL Language Service extension for coc.nvim
 - [krasimir/octomments](https://github.com/krasimir/octomments) - A small library that offers GitHub issues as comments for your site/blog
 - [blahgeek/neovim-colorcoder](https://github.com/blahgeek/neovim-colorcoder) - 
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [planbcoding/vscode-react-refactor](https://github.com/planbcoding/vscode-react-refactor) - This simple extension provides refactor code actions for React developers.
-- [fannheyward/coc-react-refactor](https://github.com/fannheyward/coc-react-refactor) - React refactor extension for coc.nvim
-- [fannheyward/coc-docthis](https://github.com/fannheyward/coc-docthis) - JSDoc extension for coc.nvim that generates detailed JSDoc comments for TypeScript/JavaScript files.
 - [frameable/tragopan](https://github.com/frameable/tragopan) - Minimal dependency-free pan/zoom library
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
 - [frameable/aviary.sh](https://github.com/frameable/aviary.sh) - Minimal distributed configuration management in bash
 - [dbakker/vim-paragraph-motion](https://github.com/dbakker/vim-paragraph-motion) - Vim replacement mappings for { and }
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
-- [pr4th4m/coc-restclient](https://github.com/pr4th4m/coc-restclient) - Http rest client extension for coc.nvim
 - [GoogleCloudPlatform/require-so-slow](https://github.com/GoogleCloudPlatform/require-so-slow) - `require`s taking too much time? Profile 'em.
 - [gregberge/react-teleporter](https://github.com/gregberge/react-teleporter) - Teleport React components in the same React tree 📡
 - [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
@@ -4237,7 +4135,6 @@
 - [tyru/notify-changed.vim](https://github.com/tyru/notify-changed.vim) - Notify buffer changed lines using OS notification system (supported: macOS/Windows/WSL/Linux, Vim 8.1+/Neovim 0.5+)
 - [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - The fastest deep equality check with Date, RegExp and ES6 Map, Set and typed arrays support
 - [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (144 bytes) event emitter library for JavaScript
-- [yakyak/yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
 - [osquery/osquery-toolchain](https://github.com/osquery/osquery-toolchain) - A LLVM-based toolchain for Linux designed to build a portable osquery
 - [Konfekt/vim-compilers](https://github.com/Konfekt/vim-compilers) - a collection of compilers for ready use by Vim's built-in compiler feature (see :help :compiler)
 - [lukejacksonn/perflink](https://github.com/lukejacksonn/perflink) - Low friction JavaScript benchmarks that you can share via URL
@@ -4264,14 +4161,12 @@
 - [tyru/forget-me-not.vim](https://github.com/tyru/forget-me-not.vim) - EXPERIMENTAL: Session management plugin
 - [stribika/stribika.github.io](https://github.com/stribika/stribika.github.io) - 
 - [anvaka/panzoom](https://github.com/anvaka/panzoom) - Universal pan and zoom library (DOM, SVG, Custom)
-- [iamcco/coc-project](https://github.com/iamcco/coc-project) - project extension for coc.nvim
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [jxnblk/vim-mdx-js](https://github.com/jxnblk/vim-mdx-js) - 
 - [thoughtbot/fishery](https://github.com/thoughtbot/fishery) - A library for setting up JavaScript objects as test data
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [gaul/awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
-- [replicatedhq/dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [simevidas/web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of over 1000 RSS feeds for web developers, updated monthly
 - [littlegtplr/Hackintosh-Clover-folder-for-Coffee-Lake-builds](https://github.com/littlegtplr/Hackintosh-Clover-folder-for-Coffee-Lake-builds) - Hackintosh Clover folder for Coffee Lake builds
 - [lukeed/klona](https://github.com/lukeed/klona) - A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
@@ -4282,9 +4177,7 @@
 - [mg979/vim-xtabline](https://github.com/mg979/vim-xtabline) - Tabline customization with buffer filtering
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 - [liyanchang/yubikey-setup](https://github.com/liyanchang/yubikey-setup) - How to set up your yubikey
-- [iamcco/coc-actions](https://github.com/iamcco/coc-actions) - Actions menu for Neovim
 - [arzg/vim-substrata](https://github.com/arzg/vim-substrata) - A cold, dark colourscheme for Vim
-- [fannheyward/coc-postfix](https://github.com/fannheyward/coc-postfix) - Postfix completion for Vim/Neovim
 - [ciplogic/fheroes2enh](https://github.com/ciplogic/fheroes2enh) - Free Heroes 2 - Enhanced
 - [mjec/khefin](https://github.com/mjec/khefin) - A simple way to generate password-proteceted secrets from a FIDO2 authenticator with the hmac-secret extension
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
@@ -4320,7 +4213,6 @@
 - [replit/upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 - [tsuyoshicho/action-vimhelp-html-generate](https://github.com/tsuyoshicho/action-vimhelp-html-generate) - Generate html from Vim help (/doc)
-- [bmatcuk/coc-stylelintplus](https://github.com/bmatcuk/coc-stylelintplus) - stylelint extension for coc.nvim supporting additional features
 - [bmatcuk/stylelint-lsp](https://github.com/bmatcuk/stylelint-lsp) - A stylelint Language Server
 - [ben-z/free-sidecar](https://github.com/ben-z/free-sidecar) - Enable Sidecar on Unsupported iPads and Macs running iPadOS 13 and macOS Catalina
 - [TrashboxBobylev/Summoning-Pixel-Dungeon](https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon) - The expansion for Shattered Pixel Dungeon
@@ -4360,13 +4252,11 @@
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [huytd/haskplex-font](https://github.com/huytd/haskplex-font) - 
 - [sfninja/thetool](https://github.com/sfninja/thetool) - thetool is a CLI tool to capture different cpu, memory and other profiles for your node app in Chrome DevTools friendly format
-- [fannheyward/coc-styled-components](https://github.com/fannheyward/coc-styled-components) - Styled component for coc.nvim as a tsserver plugin
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [dekuNukem/daytripper](https://github.com/dekuNukem/daytripper) - Hide-My-Windows Laser Tripwire
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs) - Beautiful toolbox for jsdoc generated documentation - with 'typescript', `category` and `component` plugins
-- [iamcco/coc-webpack](https://github.com/iamcco/coc-webpack) - Autocomplete support for webpack config
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [sdhand/picom](https://github.com/sdhand/picom) - A compositor for X11, active fork.
 - [AndrewRadev/quickpeek.vim](https://github.com/AndrewRadev/quickpeek.vim) - Show a preview popup on quickfix entries
@@ -4419,10 +4309,8 @@
 - [vim-scripts/ShowMarks](https://github.com/vim-scripts/ShowMarks) - Visually shows the location of marks.
 - [bootleq/ShowMarks](https://github.com/bootleq/ShowMarks) - Modified version of ShowMarks plugin.
 - [gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox) - Retro groove color scheme for Vim - community maintained edition
-- [iamcco/coc-vimlsp](https://github.com/iamcco/coc-vimlsp) - viml language server
 - [simontonsoftware/micro-dash](https://github.com/simontonsoftware/micro-dash) - A much smaller Lodash
 - [chitoku-k/zsh-togglecursor](https://github.com/chitoku-k/zsh-togglecursor) - Toggles cursor when switching between the vi command (vicmd) and insert (main) keymaps.
-- [iamcco/coc-diagnostic](https://github.com/iamcco/coc-diagnostic) - diagnostic-languageserver extension for coc.nvim
 - [victorvoid/dinoql](https://github.com/victorvoid/dinoql) - A customizable GraphQL style query language for interacting with JavaScript objects.
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [lukeed/dequal](https://github.com/lukeed/dequal) - A tiny (304B to 489B) utility to check for deep equality
@@ -4439,7 +4327,6 @@
 - [dylang/observatory](https://github.com/dylang/observatory) - Beautiful UI for showing tasks running on the command line.
 - [dylang/changelog](https://github.com/dylang/changelog) - Finally see what's changed when you do npm update.  Changelog generates a changelog for npm modules and github repos.
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
-- [zidhuss/coc-lbdbq](https://github.com/zidhuss/coc-lbdbq) - lbdbq completion for coc.nvim
 - [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda
 - [shipshapecode/react-shepherd](https://github.com/shipshapecode/react-shepherd) - A React wrapper for the site tour library Shepherd
 - [rstacruz/react-meta-elements](https://github.com/rstacruz/react-meta-elements) - Sets document title and meta tags using React elements or hooks
@@ -4466,9 +4353,7 @@
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
 - [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare) - fastest deep equal comparison for React
 - [TehShrike/deepmerge](https://github.com/TehShrike/deepmerge) - A library for deep (recursive) merging of Javascript objects
-- [EmmyLua/EmmyLua-LanguageServer](https://github.com/EmmyLua/EmmyLua-LanguageServer) - 
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
-- [NiceDash/Vibe](https://github.com/NiceDash/Vibe) - A beautiful react.js dashboard build with Bootstrap 4 👌
 - [sickill/vim-pasta](https://github.com/sickill/vim-pasta) - Pasting in Vim with indentation adjusted to destination context
 - [hughsk/flat](https://github.com/hughsk/flat) - :steam_locomotive: Flatten/unflatten nested Javascript objects
 - [segeljakt/vim-isotope](https://github.com/segeljakt/vim-isotope) - Insert and attach special characters with ease
@@ -4488,7 +4373,6 @@
 - [glyphic-co/textblock](https://github.com/glyphic-co/textblock) - Continuously responsive typesetting — Demo:
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [ddrscott/vim-side-search](https://github.com/ddrscott/vim-side-search) - Search context in Vim in a sidebar using `rg` output
-- [ddrscott/vim-side-git](https://github.com/ddrscott/vim-side-git) - Git history in a side panel
 - [nearform/react-browser-hooks](https://github.com/nearform/react-browser-hooks) - React Browser Hooks
 - [openipcamera/openipc-firmware](https://github.com/openipcamera/openipc-firmware) - OpenIPC Firmware for Wyze Cameras
 - [EliasKotlyar/Xiaomi-Dafang-Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks) - 
@@ -4509,7 +4393,6 @@
 - [zenangst/Gray](https://github.com/zenangst/Gray) - :first_quarter_moon: Tailor your macOS Mojave experience
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [mui/material-ui-pickers](https://github.com/mui/material-ui-pickers) - Date & Time pickers for Material UI (support from v1 to v4)
-- [neoclide/coc-sources](https://github.com/neoclide/coc-sources) - Additional common sources of coc.nvim
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [tyru/tapi-reg.vim](https://github.com/tyru/tapi-reg.vim) - Seamless vim register manipulation in :terminal buffer via terminal-api
 - [thefrontside/microstates](https://github.com/thefrontside/microstates) - Composable state primitives for JavaScript
@@ -4578,7 +4461,6 @@
 - [gutenye/json5.vim](https://github.com/gutenye/json5.vim) - Syntax highlighting for JSON5 in Vim
 - [scurker/babel-plugin-transform-currency-operators](https://github.com/scurker/babel-plugin-transform-currency-operators) - An experimental babel plugin for transforming currency.js operators
 - [openexchangerates/money.js](https://github.com/openexchangerates/money.js) - money.js is a tiny (1kb) javascript currency conversion library, for web & nodeJS
-- [chromium/vim-codesearch](https://github.com/chromium/vim-codesearch) - Vim integration for Chromium Codesearch at https://cs.chromium.org
 - [zzzeyez/pecan](https://github.com/zzzeyez/pecan) - menubar for macOS
 - [indutny/bn.js](https://github.com/indutny/bn.js) - BigNum in pure javascript
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
@@ -4599,7 +4481,6 @@
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [mattzeunert/immutable-object-formatter-extension](https://github.com/mattzeunert/immutable-object-formatter-extension) - Make ImmutableJS objects more readable when viewed in Chrome DevTools
-- [SkyLeach/pudb.vim](https://github.com/SkyLeach/pudb.vim) - Integrate the awesome PUDB debugger with NeoVim
 - [lifepillar/pgsql.vim](https://github.com/lifepillar/pgsql.vim) - The best PostgreSQL plugin for Vim!
 - [andrewdavey/immutable-devtools](https://github.com/andrewdavey/immutable-devtools) - Chrome Dev Tools custom formatter for Immutable-js values
 - [yeoman/stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes
@@ -4688,20 +4569,16 @@
 - [metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme) - A collection of Black Metal inspired base16 schemes.
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
-- [draftcode/ijaas](https://github.com/draftcode/ijaas) - Make IntelliJ as a Java server that does autocompletion for Vim.
 - [appium/node-teen_process](https://github.com/appium/node-teen_process) - A slightly more grown-up version of Node's child_process
 - [sindresorhus/pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json
 - [sindresorhus/read-pkg-up](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file
-- [cvazac/eslint-plugin-react-perf](https://github.com/cvazac/eslint-plugin-react-perf) - Performance-minded React linting rules for ESLint
 - [timoxley/linklocal](https://github.com/timoxley/linklocal) - Install local dependencies as symlinks.
 - [paulirish/commitlintbot](https://github.com/paulirish/commitlintbot) - 
 - [sindresorhus/import-modules](https://github.com/sindresorhus/import-modules) - Import all modules in a directory
 - [mcandre/slick](https://github.com/mcandre/slick) - a CI-ready shell language syntax checker
 - [rlue/vim-barbaric](https://github.com/rlue/vim-barbaric) - Automatic input method switching for vim
 - [gwwar/z-context](https://github.com/gwwar/z-context) - A Chrome DevTools Extension that finds stacking contexts and z-index values in the elements panel
-- [humanmade/react-wp-scripts](https://github.com/humanmade/react-wp-scripts) - Integrate create-react-app with your WordPress theme/plugin.
 - [lacygoill/vim-freekeys](https://github.com/lacygoill/vim-freekeys) - 
-- [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
 - [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 - [fvictorio/vim-extract-variable](https://github.com/fvictorio/vim-extract-variable) - Vim plugin to extract an expression to a variable
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
@@ -4734,7 +4611,6 @@
 - [mbriggs/mark.vim](https://github.com/mbriggs/mark.vim) - mirror of http://www.vim.org/scripts/script.php?script_id=2666
 - [gilligan/textobj-lastpaste](https://github.com/gilligan/textobj-lastpaste) - vim text object plugin for last paste
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
-- [jeanguyomarch/eovim](https://github.com/jeanguyomarch/eovim) - The Enlightened Neovim
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [webpack/enhanced-resolve](https://github.com/webpack/enhanced-resolve) - Offers an async require.resolve function. It's highly configurable.
@@ -4764,7 +4640,6 @@
 - [korzhyk/base16-terminal-app](https://github.com/korzhyk/base16-terminal-app) - Base16 color scheme for OSX Terminal.app
 - [neovim/lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
 - [dbakker/vim-projectroot](https://github.com/dbakker/vim-projectroot) - Find out which project a file belongs to, easy to use in scripts/mappings
-- [feix760/vim-javascript-gf](https://github.com/feix760/vim-javascript-gf) - vim plugin for javascript to go to file
 - [zendesk/cross-storage](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions
 - [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
 - [jeromelebel/MongoHub-Mac](https://github.com/jeromelebel/MongoHub-Mac) - Mac Native Mongodb Client
@@ -4785,7 +4660,6 @@
 - [nelstrom/vim-subrip](https://github.com/nelstrom/vim-subrip) - Vim syntax highlighting and other bits for working with SubRip Text files (.srt)
 - [nelstrom/vim-docopen](https://github.com/nelstrom/vim-docopen) - A helper to open online documentation for the current help listing
 - [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
-- [tweekmonster/fzf-filemru](https://github.com/tweekmonster/fzf-filemru) - File MRU with fzf.vim
 - [cwise89/react-detect-offline](https://github.com/cwise89/react-detect-offline) - Offline and Online components for React
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [venantius/vim-cljfmt](https://github.com/venantius/vim-cljfmt) - A Vim plugin for cljfmt, the Clojure formatting tool.
@@ -4820,7 +4694,6 @@
 - [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
 - [mattn/vim-prompter](https://github.com/mattn/vim-prompter) - 
 - [mattn/vim-fixedsearch](https://github.com/mattn/vim-fixedsearch) - 
-- [ericelliott/autodux](https://github.com/ericelliott/autodux) - Automate the Redux boilerplate.
 - [skywind3000/quickmenu.vim](https://github.com/skywind3000/quickmenu.vim) - A nice customizable popup menu for vim
 - [gdnmobilelab/png-pong](https://github.com/gdnmobilelab/png-pong) - An image manipulation library with a very specific set of skills.
 - [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas) - High performance &lt;canvas&gt; rendering for React components
@@ -4834,11 +4707,9 @@
 - [googlecodelabs/codelab-components](https://github.com/googlecodelabs/codelab-components) - Web components for creating codelabs
 - [HerringtonDarkholme/yats.vim](https://github.com/HerringtonDarkholme/yats.vim) - Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
-- [cantierecreativo/redux-bees](https://github.com/cantierecreativo/redux-bees) - A nice, short and declarative way to interact with JSON APIs
 - [skeeto/enchive](https://github.com/skeeto/enchive) - Encrypted personal archives
 - [Bishop92/JavaScript-Data-Structures](https://github.com/Bishop92/JavaScript-Data-Structures) - A library for data structure in JavaScript
 - [dntzhang/pasition](https://github.com/dntzhang/pasition) - Path Transition with little JS code, render to anywhere - 轻量级 Path 过渡库，渲染到任何地方
-- [faceyspacey/redux-first-router](https://github.com/faceyspacey/redux-first-router) - 🎖 seamless redux-first routing -- just dispatch actions
 - [neo4j-graphql/neo4j-graphql-cli](https://github.com/neo4j-graphql/neo4j-graphql-cli) - Deploy a Neo4j backed GraphQL API based on your GraphQL schema
 - [dollarshaveclub/stickybits](https://github.com/dollarshaveclub/stickybits) - Stickybits is a lightweight alternative to `position: sticky` polyfills 🍬
 - [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume) - An exporter from a LinkedIn profile to JSON Résumé
@@ -4857,7 +4728,6 @@
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [vbwx/base16-terminal-app](https://github.com/vbwx/base16-terminal-app) - Base16 template for Terminal.app
 - [rosiejs/rosie](https://github.com/rosiejs/rosie) - factory for building JavaScript objects, mostly useful for setting up test data. Inspired by factory_girl
-- [dzhou121/gonvim](https://github.com/dzhou121/gonvim) - 
 - [jednano/eclint](https://github.com/jednano/eclint) - Validate or fix code that doesn't adhere to EditorConfig settings or infer settings from existing code.
 - [matryer/xbar-plugins](https://github.com/matryer/xbar-plugins) - Plugin repository for xbar (the BitBar reboot)
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
@@ -4869,7 +4739,6 @@
 - [Shougo/context_filetype.vim](https://github.com/Shougo/context_filetype.vim) - Context filetype library for Vim script
 - [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion) - A simple alignment operator for Vim text editor
 - [adpushup/woodlot](https://github.com/adpushup/woodlot) - An all-in-one JSON logging utility that supports ExpressJS HTTP logging, custom logging, provides multi-format output and an easy to use events API.
-- [miya0001/vim-dict-wordpress](https://github.com/miya0001/vim-dict-wordpress) - WordPress dict files for vim
 - [lambdalisue/vim-protocol](https://github.com/lambdalisue/vim-protocol) - Enable remote access like ':e https://git.io/vgDtJ' without netrw.vim
 - [craigemery/vim-autotag](https://github.com/craigemery/vim-autotag) - Automatically discover and "properly" update ctags files on save
 - [mptre/vim-printf](https://github.com/mptre/vim-printf) - Turn lines into printf statements
@@ -4884,7 +4753,6 @@
 - [tigrawap/slit](https://github.com/tigrawap/slit) - slit - a modern PAGER for viewing logs, get more than most in less time
 - [lelandrichardson/react-primitives](https://github.com/lelandrichardson/react-primitives) - Primitive React Interfaces Across Targets
 - [sjl/vitality.vim](https://github.com/sjl/vitality.vim) - Make Vim play nicely with iTerm 2 and tmux.
-- [gabebw/vim-spec-runner](https://github.com/gabebw/vim-spec-runner) - :runner: An efficient and intelligent spec runner for RSpec and JS unit tests
 - [michaelwayman/node-sass-chokidar](https://github.com/michaelwayman/node-sass-chokidar) - A thin wrapper around node-sass to replicate the --watch using chokidar instead of Gaze
 - [discourse/onebox](https://github.com/discourse/onebox) - A gem for turning URLs into website previews
 - [pomle/megamanjs](https://github.com/pomle/megamanjs) - An attempt to remake Megaman 2 in JavaScript with the end goal being a reusable platform engine.
@@ -4893,10 +4761,7 @@
 - [chr4/nginx.vim](https://github.com/chr4/nginx.vim) - Improved nginx vim plugin (incl. syntax highlighting)
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [mxw/vim-jsx](https://github.com/mxw/vim-jsx) - React JSX syntax highlighting and indenting for vim.
-- [cchrysostomou/redux-dropzone-component](https://github.com/cchrysostomou/redux-dropzone-component) - Wrapping the dropzone.js element in a global store to allow for custom rendering of components and passing of dropzone component
 - [felixrieseberg/React-Dropzone-Component](https://github.com/felixrieseberg/React-Dropzone-Component) - :camera: ReactJS Dropzone for File Uploads (using Dropzone.js)
-- [agraboso/redux-api-middleware](https://github.com/agraboso/redux-api-middleware) - Redux middleware for calling an API.
-- [fantasywind/redux-middleware-fetch](https://github.com/fantasywind/redux-middleware-fetch) - Redux Whatwg Fetch Middleware
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [segmentio/niffy](https://github.com/segmentio/niffy) - Perceptual diffing suite built on Nightmare
 - [codrops/GridLoadingAnimations](https://github.com/codrops/GridLoadingAnimations) - Some inspiration for loading effects on grid items.
@@ -4907,14 +4772,12 @@
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [ziishaned/opus](https://github.com/ziishaned/opus) - Open source knowledge base application for Teams
 - [python-twitter-tools/twitter](https://github.com/python-twitter-tools/twitter) - Python Twitter API
 - [jridgewell/Unlock](https://github.com/jridgewell/Unlock) - Unlock multiple Core Storage encrypted volumes at boot.
 - [tjdevries/vim-inyoface](https://github.com/tjdevries/vim-inyoface) - Comments that are in your face!
 - [tjdevries/pastery.vim](https://github.com/tjdevries/pastery.vim) - 🎂 Making pasting into a tasty experience 🎂
 - [maniart/diffyjs](https://github.com/maniart/diffyjs) - A dependency-free motion detection library for the browser
 - [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
-- [yuku/old-textcomplete](https://github.com/yuku/old-textcomplete) - Moved to yuku/textcomplete
 - [uhub/awesome-viml](https://github.com/uhub/awesome-viml) - A curated list of awesome VimL frameworks, libraries and software.
 - [cdonohue/polychrome](https://github.com/cdonohue/polychrome) - 🎨 Easy color manipulation in ~2kb (gzipped)
 - [aleen42/badges](https://github.com/aleen42/badges) - :flower_playing_cards: Standard and acceptable badges list
@@ -4949,7 +4812,6 @@
 - [ProLoser/Github-Omnibox](https://github.com/ProLoser/Github-Omnibox) - Github Commands from Google Chrome Omnibox (address bar)
 - [googleads/videojs-ima](https://github.com/googleads/videojs-ima) - IMA SDK Plugin for Video.js
 - [sunaku/vim-shortcut](https://github.com/sunaku/vim-shortcut) - 💇 Discoverable & searchable shortcuts for (Neo)Vim
-- [zertosh/eslint-plugin-dependencies](https://github.com/zertosh/eslint-plugin-dependencies) - require/import dependency validation
 - [driusan/mandown](https://github.com/driusan/mandown) - a tool to help write man pages in markdown
 - [Slgoetz/lemniscate](https://github.com/Slgoetz/lemniscate) - Infinite Loop
 - [filamentgroup/criticalCSS](https://github.com/filamentgroup/criticalCSS) - Finds the Above the Fold CSS for your page, and outputs it into a file
@@ -5000,9 +4862,7 @@
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 - [kamwitsta/nordisk](https://github.com/kamwitsta/nordisk) - A calm, fairly low contrast, dark color scheme
 - [haya14busa/vim-metarepeat](https://github.com/haya14busa/vim-metarepeat) - 
-- [Valodim/vim-zsh-completion](https://github.com/Valodim/vim-zsh-completion) - omnicompletion via zsh's completion engine
 - [gregsexton/gitv](https://github.com/gregsexton/gitv) - gitk for Vim.
-- [ivanov/vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
 - [guns/xterm-color-table.vim](https://github.com/guns/xterm-color-table.vim) - All 256 xterm colors with their RGB equivalents, right in Vim!
 - [python-rope/ropemode](https://github.com/python-rope/ropemode) - Common parts of ropemacs and ropevim.
 - [python-rope/ropevim](https://github.com/python-rope/ropevim) - vim mode that uses rope library to provide features like python refactorings and code-assists
@@ -5019,10 +4879,6 @@
 - [reimertz/brand-colors](https://github.com/reimertz/brand-colors) - 🎨 A color collection available in sass, less, stylus and css
 - [tjmehta/101](https://github.com/tjmehta/101) - A modern JS utility library
 - [beameio/beame-insta-ssl](https://github.com/beameio/beame-insta-ssl) - HTTP is over. Don’t get left behind. Get free, secure HTTPS tunneling to your machine! Quick start here!
-- [redux-utilities/redux-actions](https://github.com/redux-utilities/redux-actions) - Flux Standard Action utilities for Redux.
-- [vicentedealencar/redux-pouchdb](https://github.com/vicentedealencar/redux-pouchdb) - sync store state to pouchdb
-- [elgerlambert/redux-localstorage](https://github.com/elgerlambert/redux-localstorage) - Store enhancer that syncs (a subset) of your Redux store state to localstorage.
-- [redux-utilities/redux-promise](https://github.com/redux-utilities/redux-promise) - FSA-compliant promise middleware for Redux.
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
 - [petrbroz/vim-glsl](https://github.com/petrbroz/vim-glsl) - 
@@ -5056,7 +4912,6 @@
 - [thinca/vim-scall](https://github.com/thinca/vim-scall) - Calls a script local function readily.
 - [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc) - Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
 - [osrec/currencyFormatter.js](https://github.com/osrec/currencyFormatter.js) - A super simple currency formatting library
-- [haya14busa/vim-stacktrace](https://github.com/haya14busa/vim-stacktrace) - :mag: :bug: :paw_prints:  Stacktrace of Vim script
 - [junegunn/tabularize](https://github.com/junegunn/tabularize) - Formatting tabular data with paddings
 - [osyo-manga/vim-anzu](https://github.com/osyo-manga/vim-anzu) - Vim search status.
 - [robinparisi/tingle](https://github.com/robinparisi/tingle) - ⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use
@@ -5095,7 +4950,6 @@
 - [katiefenn/parker](https://github.com/katiefenn/parker) - Stylesheet analysis tool.
 - [liftoff/HumanInput](https://github.com/liftoff/HumanInput) - A JavaScript library for handling keyboard shortcuts and other human-generated events
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
-- [yarax/eslint-plugin-typelint](https://github.com/yarax/eslint-plugin-typelint) - TypeLint is an ESlint plugin for optional static typing in JavaScript, based on JSDoc.
 - [stylelint-scss/stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) - A collection of SCSS specific linting rules for Stylelint
 - [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck) - Job scheduler and rate limiter, supports Clustering
 - [peterkhayes/rolling-rate-limiter](https://github.com/peterkhayes/rolling-rate-limiter) - Rate limiter for node.js that supports a rolling window, either in-memory or backed by redis
@@ -5107,7 +4961,6 @@
 - [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 - [tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim) - :notebook: Display vim version numbers in docs
 - [callmecavs/jump.js](https://github.com/callmecavs/jump.js) - A modern smooth scrolling library.
-- [FriedSock/smeargle](https://github.com/FriedSock/smeargle) - Vim plugin for colouring the text background based on information mined from git
 - [chrisbra/vim-zsh](https://github.com/chrisbra/vim-zsh) - Official Vim Runtime Files for Zsh
 - [mozilla/fathom](https://github.com/mozilla/fathom) - A framework for extracting meaning from web pages
 - [sharat87/pip-app](https://github.com/sharat87/pip-app) - A set of shell functions to make it easy to install small apps and utilities distributed with pip.
@@ -5136,7 +4989,6 @@
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 - [paulirish/speedline](https://github.com/paulirish/speedline) - Calculate the speed index from devtools performance trace
-- [wearefriday/spectre](https://github.com/wearefriday/spectre) - A simple UI for browsing and inspecting diffs, and an API for runner scripts to submit screenshots to and receive a pass or fail in real time. (For use with Wraith, Backstop, Selenium etc)
 - [kovetskiy/spin](https://github.com/kovetskiy/spin) - The universal progress indicator
 - [base16-builder/base16-builder](https://github.com/base16-builder/base16-builder) - :hammer: Base16 Builder is a nimble command-line tool that generates themes for your favourite programs.
 - [eventi/noreallyjustfuckingstopalready](https://github.com/eventi/noreallyjustfuckingstopalready) - Please OS X (or whatever your name is) just fucking reset your DNS cache please
@@ -5156,7 +5008,6 @@
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [szynszyliszys/repaintless](https://github.com/szynszyliszys/repaintless) - Library for fast CSS Animations
 - [FredKSchott/fflip](https://github.com/FredKSchott/fflip) - Flexible Feature Flipping/Flagging for Node.js
-- [eraserhd/vim-ios](https://github.com/eraserhd/vim-ios) - iOS plugin for Vim
 - [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [thinca/vim-splash](https://github.com/thinca/vim-splash) - Changes the splash of Vim as you like.
 - [tmux-plugins/vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) - Make terminal vim and tmux work better together.
@@ -5240,7 +5091,6 @@
 - [tschaub/gh-pages](https://github.com/tschaub/gh-pages) - General purpose task for publishing files to a gh-pages branch on GitHub
 - [shakyShane/html-injector](https://github.com/shakyShane/html-injector) - BrowserSync html injector
 - [Yatser/prettypullrequests](https://github.com/Yatser/prettypullrequests) - A chrome extension to make reviewing pull requests in Github a little easier.
-- [Yomguithereal/kotatsu](https://github.com/Yomguithereal/kotatsu) - Straightforward command line tool to setup a development environment for modern JavaScript.
 - [nishanths/license](https://github.com/nishanths/license) - Command line license text generator.
 - [ConnorAtherton/walkway](https://github.com/ConnorAtherton/walkway) - An easy way to animate SVG elements.
 - [inikulin/elegant-status](https://github.com/inikulin/elegant-status) - Create elegant task status for CLI.
@@ -5412,7 +5262,6 @@
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 - [guardian/frontend](https://github.com/guardian/frontend) - The Guardian DotCom.
-- [bbc/wraith](https://github.com/bbc/wraith) - Wraith — A responsive screenshot comparison tool
 - [Nitrux/luv-icon-theme](https://github.com/Nitrux/luv-icon-theme) - Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
 - [datafolklabs/cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [stefanocudini/leaflet-panel-layers](https://github.com/stefanocudini/leaflet-panel-layers) - Leaflet Control Layers extended with support groups and icons
@@ -5473,8 +5322,6 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [BrainMaestro/packagehub](https://github.com/BrainMaestro/packagehub) - An extension for displaying dependencies of projects on GitHub
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
-- [mkarpoff/vim8-pack](https://github.com/mkarpoff/vim8-pack) - Some simple tools to maintain and update git based packages for vim 8
-- [nicodebo/vim-pck](https://github.com/nicodebo/vim-pck) - vim package manager
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
@@ -5601,7 +5448,6 @@
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [yaegassy/coc-pydocstring](https://github.com/yaegassy/coc-pydocstring) - doq (python docstring generator) extension for coc.nvim
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
@@ -5617,7 +5463,6 @@
 - [petobens/poet-v](https://github.com/petobens/poet-v) - Vim Meets Poetry and Pipenv Virtual Environments
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [neoclide/coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim, fork of vscode-python
 - [ripxorip/aerojump.nvim](https://github.com/ripxorip/aerojump.nvim) - Aerojump is a fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
@@ -5634,7 +5479,6 @@
 - [szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter) - Edit your Jupyter notebooks in Vim/Neovim
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [nicodebo/vim-pck](https://github.com/nicodebo/vim-pck) - vim package manager
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [navdeep-G/setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
 - [tomasbasham/ratelimit](https://github.com/tomasbasham/ratelimit) - API Rate Limit Decorator
@@ -5643,7 +5487,6 @@
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
-- [maralla/completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made ease.
 - [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [raimon49/requirements.txt.vim](https://github.com/raimon49/requirements.txt.vim) - the Requirements File Format syntax support for Vim
@@ -5704,9 +5547,9 @@
 
 ## react 
 
+- [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
-- [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [inovua/reactdatagrid](https://github.com/inovua/reactdatagrid) - Empower Your Data with the best React Data Grid there is
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
@@ -5817,7 +5660,6 @@
 - [fernandopasik/react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for ⚛️  React.Children data structure that adds recursive filter, map and more methods to iterate nested children.
 - [ctrlplusb/react-sizeme](https://github.com/ctrlplusb/react-sizeme) - Make your React Components aware of their width and height!
 - [kripod/react-hooks](https://github.com/kripod/react-hooks) - Essential set of React Hooks for convenient Web API consumption and state management.
-- [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
 - [avkonst/hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
 - [TimboKZ/Chonky](https://github.com/TimboKZ/Chonky) - 😸 A File Browser component for React.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (December 2022)
@@ -5828,7 +5670,6 @@
 - [data-client/rest-hooks](https://github.com/data-client/rest-hooks) - Normalized state management for async data. Safe. Fast. Reusable.
 - [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - A multi-tab layout manager
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
-- [supasate/connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router v4
 - [tvler/prop-sets](https://github.com/tvler/prop-sets) - Generate and test every possible instance of a component in React
 - [frontarm/mdx-util](https://github.com/frontarm/mdx-util) - Utilities for working with MDX
 - [open-source-labs/spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
@@ -5980,20 +5821,14 @@
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [clauderic/react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️
-- [k0kubun/Nocturn](https://github.com/k0kubun/Nocturn) - Multi-platform Twitter Client built with React, Redux and Electron
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
 - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
 - [rstacruz/webpack-tricks](https://github.com/rstacruz/webpack-tricks) - Tips and tricks in using Webpack
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
-- [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
-- [davidkpiano/react-redux-form](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
-- [mironov/react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Loading Bar (aka Progress Bar) for Redux and React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [fckt/react-layer-stack](https://github.com/fckt/react-layer-stack) - Layering system for React. Useful for popover/modals/tooltip/dnd application
-- [diegoddox/react-redux-toastr](https://github.com/diegoddox/react-redux-toastr) - react-redux-toastr is a toastr message implemented with Redux
-- [Storytel/react-redux-spinner](https://github.com/Storytel/react-redux-spinner) - An automatic spinner for react and redux
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
 - [lexich/redux-api](https://github.com/lexich/redux-api) - Flux REST API for redux infrastructure
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -6003,15 +5838,10 @@
 - [jsx-eslint/eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements.
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [mariusandra/pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS Maps without external dependencies
-- [LogRocket/redux-logger](https://github.com/LogRocket/redux-logger) - Logger for Redux
-- [omnidan/redux-undo](https://github.com/omnidan/redux-undo) - :recycle: higher order reducer to add undo/redo functionality to redux state containers
-- [markerikson/redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of Redux-related addons, libraries, and utilities
-- [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [rehypejs/rehype-react](https://github.com/rehypejs/rehype-react) - plugin to transform to React
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
-- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 
 ## react-native 
 
@@ -6030,7 +5860,6 @@
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero) - A lightweight state container based on Redux
-- [gitpoint/git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
@@ -6039,7 +5868,6 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications https://rxdb.info/
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [EvanBacon/Expo-Voxel](https://github.com/EvanBacon/Expo-Voxel) - 🎮🌳 Voxel Terrain made in React Native. ∛
-- [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [futurice/pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit) - Pepperoni - React Native App Starter Kit for Android and iOS
@@ -6113,7 +5941,6 @@
 ## redux 
 
 - [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
-- [supasate/connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router v4
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas](https://github.com/mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas) - React application built with HTML5 Canvas. ES6, React, JSX, Redux. Features cute Harvest Moon sprites! :cow:
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
@@ -6128,32 +5955,15 @@
 - [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero) - A lightweight state container based on Redux
 - [React-Sight/React-Sight](https://github.com/React-Sight/React-Sight) - Visualization tool for React, with support for Fiber, Router (v4), and Redux
 - [wellguimaraes/stateware](https://github.com/wellguimaraes/stateware) - Smart state container with easy copy and auto memoized getters
-- [react-stack/redux-storage](https://github.com/react-stack/redux-storage) - Persistence layer for redux with flexible backends
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
 - [EvanBacon/Expo-Crossy-Road](https://github.com/EvanBacon/Expo-Crossy-Road) - 🐥🚙 Crossy Road game clone made in Expo (iOS, Android, web), THREE.js, Tween, React Native. 🐔
-- [k0kubun/Nocturn](https://github.com/k0kubun/Nocturn) - Multi-platform Twitter Client built with React, Redux and Electron
-- [redux-offline/redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
-- [davidkpiano/react-redux-form](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
-- [mironov/react-redux-loading-bar](https://github.com/mironov/react-redux-loading-bar) - Loading Bar (aka Progress Bar) for Redux and React
-- [diegoddox/react-redux-toastr](https://github.com/diegoddox/react-redux-toastr) - react-redux-toastr is a toastr message implemented with Redux
-- [Storytel/react-redux-spinner](https://github.com/Storytel/react-redux-spinner) - An automatic spinner for react and redux
-- [digiaonline/redux-fetch-data](https://github.com/digiaonline/redux-fetch-data) - Redux utility library for fetching data using promises on both server and client.
 - [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 - [lexich/redux-api](https://github.com/lexich/redux-api) - Flux REST API for redux infrastructure
-- [pburtchaell/redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware) - Enables simple, yet robust handling of async action creators in Redux
 - [reactide/reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
-- [pauldijou/redux-act](https://github.com/pauldijou/redux-act) - An opinionated lib to create actions and reducers for Redux
-- [LogRocket/redux-logger](https://github.com/LogRocket/redux-logger) - Logger for Redux
-- [omnidan/redux-undo](https://github.com/omnidan/redux-undo) - :recycle: higher order reducer to add undo/redo functionality to redux state containers
-- [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
-- [markerikson/redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of Redux-related addons, libraries, and utilities
-- [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
-- [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 - [futurice/pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit) - Pepperoni - React Native App Starter Kit for Android and iOS
-- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 
 ## rest-api 
 
@@ -6277,7 +6087,6 @@
 - [gicmo/bolt](https://github.com/gicmo/bolt) - ⚡🐧 - Thunderbolt 3 device manager | This is a MIRROR of bolt from fd.o
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
-- [genuinetools/pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [open-source-labs/spearmint](https://github.com/open-source-labs/spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
 - [eddiejibson/limitrr](https://github.com/eddiejibson/limitrr) - Light NodeJS rate limiting and response delaying using Redis - including Express middleware.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -6356,7 +6165,6 @@
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
@@ -6471,6 +6279,7 @@
 
 ## swift 
 
+- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [hmarr/vitals](https://github.com/hmarr/vitals) - 📊 A tiny macOS process monitor
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
@@ -6488,7 +6297,6 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [keith/swift.vim](https://github.com/keith/swift.vim) - Vim runtime files for Swift
-- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [hatashiro/kawa](https://github.com/hatashiro/kawa) - A macOS input source switcher with user-defined shortcuts.
 
@@ -6537,7 +6345,6 @@
 - [liamg/shox](https://github.com/liamg/shox) - 🍫 A customisable, universally compatible terminal status bar
 - [lambdalisue/edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
-- [Phantas0s/devdash](https://github.com/Phantas0s/devdash) - :bento: Highly Configurable Terminal Dashboard for Developers and Creators
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
@@ -6635,6 +6442,7 @@
 
 ## typescript 
 
+- [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [chdsbd/eslint-plugin-better-dates](https://github.com/chdsbd/eslint-plugin-better-dates) - ⏱ An ESlint plugin to encourage better `Date` usage and prevent `Date`-related bugs.
 - [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
@@ -6671,8 +6479,6 @@
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
-- [heavenshell/ts-lehre](https://github.com/heavenshell/ts-lehre) - Generate document block(JsDoc, EsDoc, TsDoc) from source code
-- [yaegassy/coc-jsdoc](https://github.com/yaegassy/coc-jsdoc) - lehre (jsdoc/esdoc/tsdoc document block generator) extension for coc.nvim
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [polyforest/jsdoc-tsimport-plugin](https://github.com/polyforest/jsdoc-tsimport-plugin) - A JSDoc plugin to support the typescript module import syntax.
 - [rsms/estrella](https://github.com/rsms/estrella) - Lightweight and versatile build tool based on the esbuild compiler
@@ -6689,7 +6495,6 @@
 - [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
-- [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [ukrbublik/react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - User-friendly query builder for React
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
 - [lmammino/financial](https://github.com/lmammino/financial) - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
@@ -6718,7 +6523,6 @@
 - [tvler/prop-sets](https://github.com/tvler/prop-sets) - Generate and test every possible instance of a component in React
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [blend/promise-utils](https://github.com/blend/promise-utils) - Lodash-like, dependency-free utilities for native ES6 promises.
-- [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [formstate/formstate](https://github.com/formstate/formstate) - ❤️ Form state so simple that you will fall in love 🌹
 - [energizer91/smart-request-balancer](https://github.com/energizer91/smart-request-balancer) - Smart request queue with fine tuning of rate and limit of requests
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
@@ -6776,6 +6580,7 @@
 
 ## vim 
 
+- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time
@@ -6791,7 +6596,6 @@
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - ripgrep source for nvim-cmp
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
-- [yaegassy/coc-tailwindcss3](https://github.com/yaegassy/coc-tailwindcss3) - Intelligent Tailwind CSS tooling for coc.nvim
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -6808,8 +6612,6 @@
 - [nanotee/zoxide.vim](https://github.com/nanotee/zoxide.vim) - A small (Neo)Vim wrapper for zoxide
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) - A more adventurous wildmenu
-- [yaegassy/coc-jsdoc](https://github.com/yaegassy/coc-jsdoc) - lehre (jsdoc/esdoc/tsdoc document block generator) extension for coc.nvim
-- [yaegassy/coc-pydocstring](https://github.com/yaegassy/coc-pydocstring) - doq (python docstring generator) extension for coc.nvim
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [arp242/switchy.vim](https://github.com/arp242/switchy.vim) - Switch to related files
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -6832,7 +6634,6 @@
 - [wfxr/code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [voldikss/fzf-floaterm](https://github.com/voldikss/fzf-floaterm) - Fzf support for vim-floaterm
-- [JMcKiern/vim-shoot](https://github.com/JMcKiern/vim-shoot) - Vim plugin to take screenshots of code
 - [SidOfc/mkdx](https://github.com/SidOfc/mkdx) - A vim plugin that adds some nice extra's for working with markdown documents
 - [mhinz/vim-halo](https://github.com/mhinz/vim-halo) - :innocent: Visual highlight for your cursor.
 - [0ihsan/neuron.vim](https://github.com/0ihsan/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
@@ -6848,19 +6649,14 @@
 - [Jorengarenar/vim-darkness](https://github.com/Jorengarenar/vim-darkness) - Dark, monochromatic Vim colorscheme
 - [Lenovsky/nuake](https://github.com/Lenovsky/nuake) - A Quake-style terminal panel for Neovim and Vim
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
-- [weirongxu/coc-calc](https://github.com/weirongxu/coc-calc) - Calculate extension for coc.nvim
-- [antonk52/coc-cssmodules](https://github.com/antonk52/coc-cssmodules) - css modules autocompletion and go to definition coc.nvim plugin
-- [neoclide/coc-html](https://github.com/neoclide/coc-html) - Html language server extension for coc.nvim.
 - [LinArcX/mpi](https://github.com/LinArcX/mpi) - minimal (n)vim plugins - icons (Under 200 LOC)
 - [bennyyip/plugpac.vim](https://github.com/bennyyip/plugpac.vim) - Thin wrapper of minpac, provides vim-plug-like experience
 - [axvr/zepl.vim](https://github.com/axvr/zepl.vim) - Simple and minimal REPL integration plugin for Vim and Neovim.
 - [danishprakash/vim-yami](https://github.com/danishprakash/vim-yami) - Monochromatic dark(闇) theme for Vim
 - [camspiers/lens.vim](https://github.com/camspiers/lens.vim) - A Vim Automatic Window Resizing Plugin
 - [zhaosheng-pan/vim-sidebar-manager](https://github.com/zhaosheng-pan/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
-- [kyoh86/vim-editerm](https://github.com/kyoh86/vim-editerm) - 
 - [lambdalisue/edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
 - [nicwest/vim-camelsnek](https://github.com/nicwest/vim-camelsnek) - Convert between camel and snek case (and kebab case)
-- [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [dstein64/vim-startuptime](https://github.com/dstein64/vim-startuptime) - ⏲️ A plugin for profiling Vim and Neovim startup time.
 - [dylanaraps/fff.vim](https://github.com/dylanaraps/fff.vim) - A plugin for vim/neovim which allows you to use fff as a file opener.
@@ -6869,11 +6665,9 @@
 - [tveskag/nvim-blame-line](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 - [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [petobens/poet-v](https://github.com/petobens/poet-v) - Vim Meets Poetry and Pipenv Virtual Environments
-- [iamcco/coc-spell-checker](https://github.com/iamcco/coc-spell-checker) - A basic spell checker that works well with camelCase code for (Neo)vim
 - [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [wadackel/vim-dogrun](https://github.com/wadackel/vim-dogrun) - :dog: A dark Neovim / Vim colorscheme for the GUI and 256 / true-color terminals.
-- [JoshMcguigan/estream](https://github.com/JoshMcguigan/estream) - Vim plugin to take back the quickfix window
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [yuezk/vim-js](https://github.com/yuezk/vim-js) - 💯The most accurate syntax highlighting plugin for JavaScript and Flow.js
@@ -6881,13 +6675,11 @@
 - [wsdjeg/vim-fuzzy](https://github.com/wsdjeg/vim-fuzzy) - Fuzzy find plugin for SpaceVim
 - [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
 - [gillyb/stable-windows](https://github.com/gillyb/stable-windows) - Keeps vim windows stable on layout changes
-- [neoclide/coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim, fork of vscode-python
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [romainl/vim-dichromatic](https://github.com/romainl/vim-dichromatic) - A dark Vim colorscheme for color blind vimmers. But not only.
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [arp242/jumpy.vim](https://github.com/arp242/jumpy.vim) - Filetype-specific mappings for [[, ]], g[, and g]
-- [weirongxu/coc-explorer](https://github.com/weirongxu/coc-explorer) - 📁 Explorer for coc.nvim
 - [bfrg/vim-qf-preview](https://github.com/bfrg/vim-qf-preview) - Preview the quickfix item under the cursor in a popup window
 - [rickhowe/diffchar.vim](https://github.com/rickhowe/diffchar.vim) - Highlight the exact differences, based on characters and words
 - [jonasjacek/colorcli](https://github.com/jonasjacek/colorcli) - Collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, mcabber, Vim, Vifm, and Mutt.
@@ -6901,14 +6693,12 @@
 - [LuRsT/austere.vim](https://github.com/LuRsT/austere.vim) - An austere colorscheme for vim
 - [xdefrag/vim-beelzebub](https://github.com/xdefrag/vim-beelzebub) - Almost monochrome colorscheme with no syntax highlighting at all.
 - [huyvohcmc/atlas.vim](https://github.com/huyvohcmc/atlas.vim) - Colorful theme for colorful souls
-- [voldikss/coc-extensions](https://github.com/voldikss/coc-extensions) - 🌸 Collections of coc.nvim extensions maintained by @voldikss
 - [burner/vim-svelte](https://github.com/burner/vim-svelte) - 
 - [m-pilia/vim-ccls](https://github.com/m-pilia/vim-ccls) - Vim plugin for the ccls language server
 - [m-pilia/vim-yggdrasil](https://github.com/m-pilia/vim-yggdrasil) - Vim library to generate tree-like views
 - [kamykn/spelunker.vim](https://github.com/kamykn/spelunker.vim) - Improved vim spelling plugin (with camel case support)!
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [wincent/docvim](https://github.com/wincent/docvim) - Documentation generator for Vim plug-ins
-- [neoclide/coc-pairs](https://github.com/neoclide/coc-pairs) - Basic auto pairs extension of coc.nvim
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [rbong/vim-flog](https://github.com/rbong/vim-flog) - A fast, beautiful, and powerful git branch viewer for vim.
 - [rbong/vim-crystalline](https://github.com/rbong/vim-crystalline) - Functions for taking the monotony out of building your own fancy statusline in Vim
@@ -6916,25 +6706,16 @@
 - [davidosomething/vim-colors-meh](https://github.com/davidosomething/vim-colors-meh) - My perpetually WIP colorscheme
 - [iamcco/diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) - diagnostic language server integrate with linters
 - [Tanath/dotfiles](https://github.com/Tanath/dotfiles) - Tanath's dotfiles and misc reference docs.
-- [neoclide/coc-css](https://github.com/neoclide/coc-css) - Css language server extension for coc.nvim
-- [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
-- [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
 - [voldikss/vim-translator](https://github.com/voldikss/vim-translator) - :closed_book: Translating plugin for Vim/Neovim
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
-- [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
 - [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
-- [neoclide/coc-yaml](https://github.com/neoclide/coc-yaml) - Yaml language server extension for coc.nvim
-- [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
-- [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
-- [neoclide/coc-lists](https://github.com/neoclide/coc-lists) - Common lists for coc.nvim
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [mhinz/vim-tree](https://github.com/mhinz/vim-tree) - 🌲 Use tree(1) for quick navigation.
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
 - [artemave/vjs](https://github.com/artemave/vjs) - Missing javascript refactoring tools for vim
 - [tmsvg/pear-tree](https://github.com/tmsvg/pear-tree) - A Vim auto-pair plugin that supports multi-character pairs, intelligent matching, and more
-- [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) - Snippets solution for coc.nvim
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [neoclide/coc-neco](https://github.com/neoclide/coc-neco) - viml completion source for coc.nvim
 - [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
@@ -6952,11 +6733,9 @@
 - [kkvh/vim-docker-tools](https://github.com/kkvh/vim-docker-tools) - Toolkit for managing docker containers, networks and images in vim.
 - [vv-vim/vv](https://github.com/vv-vim/vv) - Neovim client for macOS
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
-- [ncm2/ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
 - [numirias/semshi](https://github.com/numirias/semshi) - 🌈 Semantic Highlighting for Python in Neovim
 - [ernstwi/vim-sticky](https://github.com/ernstwi/vim-sticky) - Persistent settings for Vim
 - [ericpruitt/tmux.vim](https://github.com/ericpruitt/tmux.vim) - Vim syntax file for tmux configuration files
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [andreypopp/vim-colors-plain](https://github.com/andreypopp/vim-colors-plain) - Minimal colorscheme for vim
 - [semanser/vim-outdated-plugins](https://github.com/semanser/vim-outdated-plugins) - 🔄   Async Vim/Neovim plugin for showing the number of your outdated plugins
 - [kristijanhusak/vim-js-file-import](https://github.com/kristijanhusak/vim-js-file-import) - Import/require files in javascript and typescript with single button!
@@ -6964,7 +6743,6 @@
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 - [szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter) - Edit your Jupyter notebooks in Vim/Neovim
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
-- [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 - [zefei/vim-wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager for Vim
 - [thenewvu/vim-colors-sketching](https://github.com/thenewvu/vim-colors-sketching) - A minimal light colorscheme for Vim/Neovim
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
@@ -6994,8 +6772,6 @@
 - [jodosha/vim-godebug](https://github.com/jodosha/vim-godebug) - Go debugging for Vim
 - [hauleth/blame.vim](https://github.com/hauleth/blame.vim) - &lt; = &gt; Colorscheme
 - [srstevenson/vim-picker](https://github.com/srstevenson/vim-picker) - A Vim plugin for fuzzy selection of files, buffers, tags, and more
-- [mkarpoff/vim8-pack](https://github.com/mkarpoff/vim8-pack) - Some simple tools to maintain and update git based packages for vim 8
-- [nicodebo/vim-pck](https://github.com/nicodebo/vim-pck) - vim package manager
 - [preservim/vim-litecorrect](https://github.com/preservim/vim-litecorrect) - Lightweight auto-correction for Vim
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
 - [cassidoo/vim-up](https://github.com/cassidoo/vim-up) - A bunch of vim shortcuts, colors, and bundles to make your life easier
@@ -7041,7 +6817,6 @@
 - [bagrat/vim-buffet](https://github.com/bagrat/vim-buffet) - IDE-like Vim tabline
 - [jparise/vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.
 - [blueyed/vim-qf_resize](https://github.com/blueyed/vim-qf_resize) - Resize location/quickfix windows in (Neo)Vim
-- [AndrewRadev/vimrunner](https://github.com/AndrewRadev/vimrunner) - Control a vim instance through ruby code
 - [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 - [dunckr/js_alternate.vim](https://github.com/dunckr/js_alternate.vim) - A vim JavaScript plugin to easily navigate between alternate files (source and test)
 - [bimlas/vim-high](https://github.com/bimlas/vim-high) - Vim plugin: All-in-one highlighter, highlight custom pattern like indentation, inactive window, word under the cursor
@@ -7081,7 +6856,6 @@
 - [romainl/vim-qf](https://github.com/romainl/vim-qf) - Tame the quickfix window.
 - [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [wincent/ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
-- [maralla/completor.vim](https://github.com/maralla/completor.vim) - Async completion framework made ease.
 - [dbmrq/vim-chalk](https://github.com/dbmrq/vim-chalk) - :pencil2: Better fold markers
 - [dbmrq/vim-dialect](https://github.com/dbmrq/vim-dialect) - :speech_balloon: Project specific spellfiles
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
@@ -7093,7 +6867,6 @@
 - [keith/xcconfig.vim](https://github.com/keith/xcconfig.vim) - Vim runtime files for xcconfigs
 - [tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
 - [raimon49/requirements.txt.vim](https://github.com/raimon49/requirements.txt.vim) - the Requirements File Format syntax support for Vim
-- [Vimjas/vim-testbed](https://github.com/Vimjas/vim-testbed) - Docker image for testing Vim plugins
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
 - [preservim/vim-wordy](https://github.com/preservim/vim-wordy) - Uncover usage problems in your writing
@@ -7109,7 +6882,6 @@
 - [jeaye/color_coded](https://github.com/jeaye/color_coded) - A vim plugin for libclang-based highlighting of C, C++, ObjC
 - [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
 - [vim-test/vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
-- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [joukevandermaas/vim-ember-hbs](https://github.com/joukevandermaas/vim-ember-hbs) - Ember Handlebars/HTMLBars plugin for Vim with indentation support
 - [jez/vim-github-hub](https://github.com/jez/vim-github-hub) - A Vim filetype plugin for github/hub :zap:
 - [prabirshrestha/async.vim](https://github.com/prabirshrestha/async.vim) - normalize async job control api for vim and neovim
@@ -7276,7 +7048,6 @@
 - [rstacruz/webpack-tricks](https://github.com/rstacruz/webpack-tricks) - Tips and tricks in using Webpack
 - [jaredpalmer/backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
-- [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 - [amireh/happypack](https://github.com/amireh/happypack) - Happiness in the form of faster webpack build times.
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 
@@ -7326,7 +7097,6 @@
 ## wordpress 
 
 - [Automattic/google-docs-add-on](https://github.com/Automattic/google-docs-add-on) - Publish to WordPress from Google Docs
-- [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.1, Composer, WP-CLI and more
 - [Automattic/ad-code-manager](https://github.com/Automattic/ad-code-manager) - Easily manage the ad codes that need to appear in your templates
 - [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
@@ -7347,7 +7117,7 @@
 ## xml 
 
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [Valloric/MatchTagAlways](https://github.com/Valloric/MatchTagAlways) - A Vim plugin that always highlights the enclosing html/xml tags
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
 - [posthtml/posthtml](https://github.com/posthtml/posthtml) - PostHTML is a tool to transform HTML/XML with JS plugins
