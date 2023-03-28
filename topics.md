@@ -2779,6 +2779,7 @@
 
 ## lua 
 
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [projekt0n/circles.nvim](https://github.com/projekt0n/circles.nvim) - uniform icons for neovim
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) - A neovim plugin to add notes or comments to any buffer
@@ -2824,7 +2825,7 @@
 - [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
-- [systemmalt/nvim-nyctovim](https://github.com/systemmalt/nvim-nyctovim) - :waning_crescent_moon: A set of nyctophiliac colorschemes for Neovim written in Lua
+- [systemmalt/nvim-nyctovim](https://github.com/systemmalt/nvim-nyctovim) - A set of nyctophiliac colorschemes for Neovim written in Lua
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
@@ -2880,7 +2881,7 @@
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - Populate the quickfix with json entries
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
-- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
+- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - improve neovim lsp experience
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
@@ -3170,6 +3171,7 @@
 
 ## neovim 
 
+- [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
@@ -3235,7 +3237,7 @@
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
-- [systemmalt/nvim-nyctovim](https://github.com/systemmalt/nvim-nyctovim) - :waning_crescent_moon: A set of nyctophiliac colorschemes for Neovim written in Lua
+- [systemmalt/nvim-nyctovim](https://github.com/systemmalt/nvim-nyctovim) - A set of nyctophiliac colorschemes for Neovim written in Lua
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) - Prettier plugin for Neovim's built-in LSP client.
@@ -3335,7 +3337,7 @@
 - [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
-- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
+- [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - improve neovim lsp experience
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
@@ -3808,6 +3810,8 @@
 
 ## others 
 
+- [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) - Displays test coverage data in the sign column
+- [stefanjudis/awesome-command-palette](https://github.com/stefanjudis/awesome-command-palette) - A list of awesome command palette implementations.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [amzn/eslint-plugin-no-date-parsing](https://github.com/amzn/eslint-plugin-no-date-parsing) - Disallow string parsing with new Date and Date.parse.
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
@@ -4177,7 +4181,7 @@
 - [mg979/vim-xtabline](https://github.com/mg979/vim-xtabline) - Tabline customization with buffer filtering
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 - [liyanchang/yubikey-setup](https://github.com/liyanchang/yubikey-setup) - How to set up your yubikey
-- [arzg/vim-substrata](https://github.com/arzg/vim-substrata) - A cold, dark colourscheme for Vim
+- [lunacookies/vim-substrata](https://github.com/lunacookies/vim-substrata) - A cold, dark colourscheme for Vim
 - [ciplogic/fheroes2enh](https://github.com/ciplogic/fheroes2enh) - Free Heroes 2 - Enhanced
 - [mjec/khefin](https://github.com/mjec/khefin) - A simple way to generate password-proteceted secrets from a FIDO2 authenticator with the hmac-secret extension
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
