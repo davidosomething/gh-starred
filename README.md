@@ -223,6 +223,7 @@
 
 ## CSS 
 
+- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
@@ -1595,6 +1596,8 @@
 
 ## Lua 
 
+- [simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) - almost not wip
+- [SDGLBL/nvim-sync.nvim](https://github.com/SDGLBL/nvim-sync.nvim) - Automatic sync/async SFTP,FTP,... for buffers in Neovim.
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) - Displays test coverage data in the sign column
 - [projekt0n/circles.nvim](https://github.com/projekt0n/circles.nvim) - uniform icons for neovim
@@ -2202,6 +2205,7 @@
 
 ## Python 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [homelabapi/homelabapi](https://github.com/homelabapi/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
 - [PolicyEngine/policyengine-us](https://github.com/PolicyEngine/policyengine-us) - A model of federal and State taxes and benefits.
