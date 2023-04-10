@@ -882,7 +882,7 @@
 - [nearform/react-browser-hooks](https://github.com/nearform/react-browser-hooks) - React Browser Hooks
 - [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
-- [artemave/vjs](https://github.com/artemave/vjs) - Missing javascript refactoring tools for vim
+- [artemave/vjs](https://github.com/artemave/vjs) - Missing javascript refactoring tools for nvim
 - [ebradyjobory/finance.js](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [markusenglund/react-switch](https://github.com/markusenglund/react-switch) - A draggable toggle-switch component for React. Check out the demo at:
@@ -2036,7 +2036,7 @@
 - [vincelwt/harmony](https://github.com/vincelwt/harmony) - :musical_note: Sleek music player for Spotify, SoundCloud, Google Play Music and your local files
 - [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
-- [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 科技、编程、设计、Vlog、音乐、访谈、博客...
+- [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 科讯、编程、设计、Vlog、音乐、访谈、博客...
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
