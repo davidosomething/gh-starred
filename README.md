@@ -1595,6 +1595,7 @@
 
 ## Lua 
 
+- [Kasama/nvim-custom-diagnostic-highlight](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Simple plugin to add Highlights based on diagnostics
 - [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) - Nvim material icon
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [rebelot/terminal.nvim](https://github.com/rebelot/terminal.nvim) - Terminal Manager for Neovim
@@ -1704,7 +1705,7 @@
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
-- [whiskoder/nvim-whisky](https://github.com/whiskoder/nvim-whisky) - :tumbler_glass: A set of malty colorschemes for Neovim written in Lua
+- [charkuils/nvim-whisky](https://github.com/charkuils/nvim-whisky) - :tumbler_glass: A set of malty colorschemes for Neovim written in Lua
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
@@ -3227,6 +3228,7 @@
 
 ## Vim Script 
 
+- [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim) - 🪨 A collection of contrast-based Vim/Neovim colorschemes
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [peterhoeg/vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
 - [cespare/vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
