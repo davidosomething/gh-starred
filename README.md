@@ -1595,6 +1595,8 @@
 
 ## Lua 
 
+- [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
+- [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) - Neovim plugin to stabilize window open/close events.
 - [Kasama/nvim-custom-diagnostic-highlight](https://github.com/Kasama/nvim-custom-diagnostic-highlight) - Simple plugin to add Highlights based on diagnostics
 - [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) - Nvim material icon
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
