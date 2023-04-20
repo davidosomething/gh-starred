@@ -1041,7 +1041,7 @@
 - [skidding/dragdealer](https://github.com/skidding/dragdealer) - Drag-based vanilla JS component
 - [gribnoysup/wunderbar](https://github.com/gribnoysup/wunderbar) - Simple horizontal bar chart printer for your terminal
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [11ways/janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
+- [elevenways/janeway](https://github.com/elevenways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [bahmutov/bottle-service](https://github.com/bahmutov/bottle-service) - Instant web applications restored from ServiceWorker cache
 - [stuyam/pressure](https://github.com/stuyam/pressure) - :point_down::boom:  JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure.
@@ -1059,7 +1059,7 @@
 - [not-an-aardvark/eslint-plugin-rulesdir](https://github.com/not-an-aardvark/eslint-plugin-rulesdir) - An ESLint plugin to load project-specific ESLint rules
 - [developit/jsdom-worker](https://github.com/developit/jsdom-worker) - 👷‍♀️ Use Web Workers in Jest / JSDOM 🌈
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [11ways/json-dry](https://github.com/11ways/json-dry) - 🌞 JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...
+- [elevenways/json-dry](https://github.com/elevenways/json-dry) - 🌞 JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...
 - [FormidableLabs/whackage](https://github.com/FormidableLabs/whackage) - Multi-repo development tooling for React Native
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [developit/unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
@@ -2788,6 +2788,10 @@
 
 ## TypeScript 
 
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
+- [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
+- [DiiiaZoTe/next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer) - 
+- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [ts-stack/openapi-spec](https://github.com/ts-stack/openapi-spec) - OpenAPI Specification v3.1 writen in TypeScript.
 - [bvaughn/react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer) - Standalone version of the AutoSizer component from react-virtualized
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
@@ -3161,7 +3165,7 @@
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [jiayihu/pretty-algorithms](https://github.com/jiayihu/pretty-algorithms) - 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [toomuchdesign/re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
 - [pd4d10/octohint](https://github.com/pd4d10/octohint) - The missing IntelliSense hint for GitHub and GitLab
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
