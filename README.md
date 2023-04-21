@@ -1041,7 +1041,7 @@
 - [skidding/dragdealer](https://github.com/skidding/dragdealer) - Drag-based vanilla JS component
 - [gribnoysup/wunderbar](https://github.com/gribnoysup/wunderbar) - Simple horizontal bar chart printer for your terminal
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-- [elevenways/janeway](https://github.com/elevenways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
+- [11ways/janeway](https://github.com/11ways/janeway) - 🌌 A Node.js console REPL with object inspection and many other features
 - [terkelg/prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts
 - [bahmutov/bottle-service](https://github.com/bahmutov/bottle-service) - Instant web applications restored from ServiceWorker cache
 - [stuyam/pressure](https://github.com/stuyam/pressure) - :point_down::boom:  JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure.
@@ -1059,7 +1059,7 @@
 - [not-an-aardvark/eslint-plugin-rulesdir](https://github.com/not-an-aardvark/eslint-plugin-rulesdir) - An ESLint plugin to load project-specific ESLint rules
 - [developit/jsdom-worker](https://github.com/developit/jsdom-worker) - 👷‍♀️ Use Web Workers in Jest / JSDOM 🌈
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-- [elevenways/json-dry](https://github.com/elevenways/json-dry) - 🌞 JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...
+- [11ways/json-dry](https://github.com/11ways/json-dry) - 🌞 JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...
 - [FormidableLabs/whackage](https://github.com/FormidableLabs/whackage) - Multi-repo development tooling for React Native
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [developit/unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
