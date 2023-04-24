@@ -763,7 +763,7 @@
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [kwent/syno](https://github.com/kwent/syno) - Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -2859,7 +2859,7 @@
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [charkuils/nvim-whisky](https://github.com/charkuils/nvim-whisky) - A set of malty colorschemes for Neovim written in Lua
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
-- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
+- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant lsp progress status for Neovim.
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Neovim plugin that offers context when cycling buffers in the form of a customizable notification window.
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers.
@@ -3287,7 +3287,7 @@
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) - Prettier plugin for Neovim's built-in LSP client.
-- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - Another lsp progress status for Neovim.
+- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant lsp progress status for Neovim.
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Neovim plugin that offers context when cycling buffers in the form of a customizable notification window.
 - [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
@@ -6081,7 +6081,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [BRA1L0R/hopper-rs](https://github.com/BRA1L0R/hopper-rs) - Hopper - Fast, configurable, lightweight Reverse Proxy for Minecraft
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [matze/iridium](https://github.com/matze/iridium) - Standard Notes client written in Rust and GTK
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
