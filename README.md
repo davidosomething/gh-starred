@@ -91,7 +91,7 @@
 
 ## C 
 
-- [bitair-org/linker.js](https://github.com/bitair-org/linker.js) - Access C, C++, Rust, Go & Python libraries from Node.js
+- [bitair-org/linker.js](https://github.com/bitair-org/linker.js) - Access Python & C-shared libraries from Node.js
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
@@ -189,7 +189,7 @@
 - [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [xoseperez/espurna](https://github.com/xoseperez/espurna) - Home automation firmware for ESP8266-based devices
 - [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [ciplogic/fheroes2enh](https://github.com/ciplogic/fheroes2enh) - Free Heroes 2 - Enhanced
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
@@ -1602,6 +1602,7 @@
 
 ## Lua 
 
+- [ja-he/heat.nvim](https://github.com/ja-he/heat.nvim) - highlights hotness. in nvim
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
 - [yioneko/nvim-vtsls](https://github.com/yioneko/nvim-vtsls) - 
 - [Cassin01/wf.nvim](https://github.com/Cassin01/wf.nvim) - A modern which-key for neovim
@@ -2940,7 +2941,7 @@
 - [pmndrs/detect-gpu](https://github.com/pmndrs/detect-gpu) - Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [benrbray/noteworthy](https://github.com/benrbray/noteworthy) - Markdown editor with bidirectional links and excellent math support, powered by ProseMirror.  (In Development!)
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Get OAuth tokens for APIs - fast & secure.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - The open-source unified API
 - [pmndrs/react-nil](https://github.com/pmndrs/react-nil) - ⃝ A react null renderer
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [balazsbotond/urlcat](https://github.com/balazsbotond/urlcat) - A URL builder library for JavaScript.
