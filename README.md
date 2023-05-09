@@ -239,7 +239,7 @@
 - [shamin/greenboard](https://github.com/shamin/greenboard) - 📖    Gatsby theme for api documentation
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 - [haokaiyang/Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) - QuickLook plugins and packages
-- [surajmandalcell/elementary-x](https://github.com/surajmandalcell/elementary-x) - Elementary OS system theme with custom OS X window controls. (light/dark)
+- [surajmandalcell/elementary-x](https://github.com/surajmandalcell/elementary-x) - Transform your Linux system with an elegant Elementary OS theme and sleek macOS window controls, available in both light and dark mode.
 - [shipshapecode/react-shepherd](https://github.com/shipshapecode/react-shepherd) - A React wrapper for the site tour library Shepherd
 - [addy-dclxvi/gtk-theme-collections](https://github.com/addy-dclxvi/gtk-theme-collections) - Some GTK themes for a companion to my Xfwm, Openbox, and Fluxbox themes
 - [projectwallace/css-analyzer](https://github.com/projectwallace/css-analyzer) - Analytics for CSS
@@ -357,7 +357,7 @@
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
 - [zombiezen/tailscale-lb](https://github.com/zombiezen/tailscale-lb) - Basic load-balancer for forwarding Tailscale TCP traffic
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple CI/CD framework with repeatable builds that you write once and run anywhere – laptop, remote, or any CI
+- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
 - [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -1447,7 +1447,7 @@
 - [remarkjs/remark-github](https://github.com/remarkjs/remark-github) - remark plugin to link references to commits, issues, pull-requests, and users, like on GitHub
 - [tschaub/gh-pages](https://github.com/tschaub/gh-pages) - General purpose task for publishing files to a gh-pages branch on GitHub
 - [shakyShane/html-injector](https://github.com/shakyShane/html-injector) - BrowserSync html injector
-- [Yatser/prettypullrequests](https://github.com/Yatser/prettypullrequests) - A chrome extension to make reviewing pull requests in Github a little easier.
+- [brentyates/prettypullrequests](https://github.com/brentyates/prettypullrequests) - A chrome extension to make reviewing pull requests in Github a little easier.
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
@@ -1602,6 +1602,7 @@
 
 ## Lua 
 
+- [topaxi/gh-actions.nvim](https://github.com/topaxi/gh-actions.nvim) - See status of workflows and dispatch runs directly in neovim
 - [ja-he/heat.nvim](https://github.com/ja-he/heat.nvim) - highlights hotness. in nvim
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
 - [yioneko/nvim-vtsls](https://github.com/yioneko/nvim-vtsls) - 
@@ -2229,6 +2230,7 @@
 
 ## Python 
 
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 12 像素中文字体
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
@@ -2454,6 +2456,7 @@
 
 ## Rust 
 
+- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browsless tool to help you quickly view markdown files in the blink of an eye.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
