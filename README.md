@@ -91,7 +91,7 @@
 
 ## C 
 
-- [bitair-org/linker.js](https://github.com/bitair-org/linker.js) - Access Python & C-shared libraries from Node.js
+- [bitair-org/linker.js](https://github.com/bitair-org/linker.js) - Access Python & C-shared libraries(C, C++, Go, Rust, ...) from Node.js
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
@@ -340,6 +340,7 @@
 
 ## Go 
 
+- [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
@@ -2456,7 +2457,7 @@
 
 ## Rust 
 
-- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browsless tool to help you quickly view markdown files in the blink of an eye.
+- [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -2806,6 +2807,9 @@
 
 ## TypeScript 
 
+- [nfriend/ts-key-enum](https://github.com/nfriend/ts-key-enum) - A TypeScript string enum for compile-time safety when working with event.key
+- [haltcase/tablemark](https://github.com/haltcase/tablemark) - Generate markdown tables from JSON data.
+- [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript.
 - [hattipjs/hattip](https://github.com/hattipjs/hattip) - Like Express, but for the future
 - [bvaughn/use-context-menu](https://github.com/bvaughn/use-context-menu) - React components for displaying configurable context menus
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
