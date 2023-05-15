@@ -2822,6 +2822,7 @@
 
 ## lua 
 
+- [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
 - [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) - Neovim plugin to stabilize window open/close events.
@@ -3229,6 +3230,8 @@
 
 ## neovim 
 
+- [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
+- [loctvl842/breadcrumb.nvim](https://github.com/loctvl842/breadcrumb.nvim) - breadcrumb for neovim
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim
 - [ja-he/heat.nvim](https://github.com/ja-he/heat.nvim) - highlights hotness. in nvim
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
@@ -3887,6 +3890,7 @@
 
 ## others 
 
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [deasmi/unraid-tailscale](https://github.com/deasmi/unraid-tailscale) - Docker build files for tailscale on unpaid
 - [ollbx/nvim-utility-lib.nvim](https://github.com/ollbx/nvim-utility-lib.nvim) - Lua helper functions for building and diagnostics
 - [delphinus/homebrew-sfmono-square](https://github.com/delphinus/homebrew-sfmono-square) - SFMono Square - patched font: SFMono + Migu 1M + Nerd Fonts
@@ -4193,7 +4197,7 @@
 - [callbag/callbag](https://github.com/callbag/callbag) - 👜 A standard for JS callbacks that enables lightweight observables and iterables
 - [jeetsukumaran/vim-pythonsense](https://github.com/jeetsukumaran/vim-pythonsense) - A Vim plugin that provides text objects and motions for Python classes, methods, functions, and doc strings.
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
-- [heapslip/vimage.nvim](https://github.com/heapslip/vimage.nvim) - 
+- [3rd/vimage.nvim](https://github.com/3rd/vimage.nvim) - 
 - [alexwforsythe/code-blocks](https://github.com/alexwforsythe/code-blocks) - Syntax highlighting for Google Docs
 - [dvehrs/podget](https://github.com/dvehrs/podget) - Podcast aggregator optimized for running as a scheduled job (i.e. cron) on Linux
 - [microsoft/node-fast-plist](https://github.com/microsoft/node-fast-plist) - A fast PLIST parser
