@@ -169,7 +169,7 @@
 
 ## C# # 
 
-- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag & experimentation management platform
+- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag tool written in C# .NET
 - [assetgrid/assetgridapp](https://github.com/assetgrid/assetgridapp) - 📊 A selfhosted data-driven personal finance manager 💸
 - [ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows and Linux
 - [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
@@ -178,6 +178,7 @@
 
 ## C++ 
 
+- [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [KDE/sddm-kcm](https://github.com/KDE/sddm-kcm) - Configuration module for SDDM
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -340,6 +341,7 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts.
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
@@ -524,7 +526,6 @@
 - [upnextinc/upnext](https://github.com/upnextinc/upnext) - 📆 See/join meetings from the menu bar
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
-- [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [romainl/vim-dichromatic](https://github.com/romainl/vim-dichromatic) - A dark Vim colorscheme for color blind vimmers. But not only.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [reg-viz/reg-puppeteer-demo](https://github.com/reg-viz/reg-puppeteer-demo) - :performing_arts: Demonstration reg-suit using puppeteer screenshot
@@ -2002,7 +2003,7 @@
 
 ## Odin 
 
-- [colrdavidson/spall](https://github.com/colrdavidson/spall) - Simple, Fast, Portable Profiling
+- [colrdavidson/spall-web](https://github.com/colrdavidson/spall-web) - Simple, Fast, Portable Profiling
 
 ## Others 
 
@@ -2238,6 +2239,7 @@
 
 ## Python 
 
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 - [delphinus/homebrew-sfmono-square](https://github.com/delphinus/homebrew-sfmono-square) - SFMono Square - patched font: SFMono + Migu 1M + Nerd Fonts
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 12 像素中文字体
@@ -2587,6 +2589,7 @@
 
 ## Shell 
 
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [deasmi/unraid-tailscale](https://github.com/deasmi/unraid-tailscale) - Docker build files for tailscale on unpaid
 - [davidosomething/apcaccess-command-output](https://github.com/davidosomething/apcaccess-command-output) - Script to output APC UPS short status using apcaccess command
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
@@ -2815,6 +2818,7 @@
 
 ## TypeScript 
 
+- [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js
 - [nfriend/ts-key-enum](https://github.com/nfriend/ts-key-enum) - A TypeScript string enum for compile-time safety when working with event.key
 - [haltcase/tablemark](https://github.com/haltcase/tablemark) - Generate markdown tables from JSON data.
 - [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript.
@@ -2839,7 +2843,7 @@
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
-- [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 1000's of insurances/hospitals/clinics
+- [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff compares two arrays or objects and return a complete diff of their differences in a readable format.
 - [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
@@ -2883,7 +2887,7 @@
 - [crimx/observable-hooks](https://github.com/crimx/observable-hooks) - ⚛️☯️💪 React hooks for RxJS Observables. Concurrent mode safe.
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
-- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework for enterprise applications.
+- [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework) - A new full-featured and high-performance TypeScript framework
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [bevry/caterpillar](https://github.com/bevry/caterpillar) - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including colo
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -3024,6 +3028,7 @@
 - [zthxxx/zsh-history-enquirer](https://github.com/zthxxx/zsh-history-enquirer) - plugin for zsh history search, enhance interaction
 - [kactus-io/kactus](https://github.com/kactus-io/kactus) - :cactus: A true version control tool for designers
 - [fuzzitdev/jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage guided fuzz testing for javascript
+- [aeagle/react-spaces](https://github.com/aeagle/react-spaces) - React components that allow you to divide a page or container into nestable anchored, scrollable and resizable spaces.
 - [fernandopasik/react-children-utilities](https://github.com/fernandopasik/react-children-utilities) - Extended utils for ⚛️  React.Children data structure that adds recursive filter, map and more methods to iterate nested children.
 - [birkir/react-three-gui](https://github.com/birkir/react-three-gui) - GUI tools for react-three-fiber and react-spring
 - [bitjourney/react-from-html](https://github.com/bitjourney/react-from-html) - A safe replacement of React's dangerouslySetInnerHTML
@@ -3709,7 +3714,6 @@
 - [chrisbra/DynamicSigns](https://github.com/chrisbra/DynamicSigns) - Using Signs for displaying various things
 - [chrisbra/unicode.vim](https://github.com/chrisbra/unicode.vim) - A Vim plugin that provides a completion function for Unicode glyphs
 - [tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
-- [raimon49/requirements.txt.vim](https://github.com/raimon49/requirements.txt.vim) - the Requirements File Format syntax support for Vim
 - [octol/vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight) - Additional Vim syntax highlighting for C++ (including C++11/14/17)
 - [cocopon/colorswatch.vim](https://github.com/cocopon/colorswatch.vim) - :rainbow: Beautiful color swatch from the current buffer
 - [AlessandroYorba/Despacio](https://github.com/AlessandroYorba/Despacio) - A Vim colorscheme
