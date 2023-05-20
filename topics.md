@@ -299,6 +299,7 @@
 
 ## ansible 
 
+- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [pearofducks/ansible-vim](https://github.com/pearofducks/ansible-vim) - A vim plugin for syntax highlighting Ansible's common filetypes
 - [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved
@@ -2629,7 +2630,6 @@
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
-- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [redgeoff/mson](https://github.com/redgeoff/mson) - 🏗️MSON Lang: Generate an app from JSON
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [jamiebuilds/json-peek](https://github.com/jamiebuilds/json-peek) - Stringify JSON *just enough* to see what it is
@@ -3721,7 +3721,6 @@
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
-- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [standard/snazzy](https://github.com/standard/snazzy) - Format JavaScript Standard Style as Stylish (i.e. snazzy) output
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -3901,6 +3900,8 @@
 
 ## others 
 
+- [charliermarsh/ruff-lsp](https://github.com/charliermarsh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
+- [miklu612/margin.nvim](https://github.com/miklu612/margin.nvim) - A simple dynamic margin extension for nvim
 - [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [deasmi/unraid-tailscale](https://github.com/deasmi/unraid-tailscale) - Docker build files for tailscale on unpaid
@@ -7152,6 +7153,7 @@
 
 ## web-components 
 
+- [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
 - [github/details-dialog-element](https://github.com/github/details-dialog-element) - A modal dialog that's opened with &lt;details&gt;.
 - [rstacruz/remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements
