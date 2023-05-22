@@ -340,6 +340,7 @@
 
 ## Go 
 
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -2242,7 +2243,7 @@
 
 ## Python 
 
-- [charliermarsh/ruff-lsp](https://github.com/charliermarsh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
+- [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 - [delphinus/homebrew-sfmono-square](https://github.com/delphinus/homebrew-sfmono-square) - SFMono Square - patched font: SFMono + Migu 1M + Nerd Fonts
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -2471,6 +2472,7 @@
 
 ## Rust 
 
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
