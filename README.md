@@ -166,6 +166,7 @@
 
 ## C++ 
 
+- [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [Martchus/syncthingtray](https://github.com/Martchus/syncthingtray) - Tray application and Dolphin/Plasma integration for Syncthing
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [KDE/sddm-kcm](https://github.com/KDE/sddm-kcm) - Configuration module for SDDM
@@ -318,6 +319,7 @@
 
 ## Go 
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) - 
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -872,7 +874,6 @@
 - [nearform/react-browser-hooks](https://github.com/nearform/react-browser-hooks) - React Browser Hooks
 - [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
-- [artemave/vjs](https://github.com/artemave/vjs) - Missing javascript refactoring tools for nvim
 - [ebradyjobory/finance.js](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [markusenglund/react-switch](https://github.com/markusenglund/react-switch) - A draggable toggle-switch component for React. Check out the demo at:
@@ -2795,6 +2796,7 @@
 
 ## TypeScript 
 
+- [dugaldmorrow/handle-rate-limiting-js](https://github.com/dugaldmorrow/handle-rate-limiting-js) - 
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
 - [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js
 - [nfriend/ts-key-enum](https://github.com/nfriend/ts-key-enum) - A TypeScript string enum for compile-time safety when working with event.key
@@ -3416,6 +3418,7 @@
 - [ddrscott/vim-side-search](https://github.com/ddrscott/vim-side-search) - Search context in Vim in a sidebar using `rg` output
 - [mhinz/vim-tree](https://github.com/mhinz/vim-tree) - 🌲 Use tree(1) for quick navigation.
 - [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
+- [artemave/vjs](https://github.com/artemave/vjs) - Missing javascript refactoring tools for nvim
 - [tmsvg/pear-tree](https://github.com/tmsvg/pear-tree) - A Vim auto-pair plugin that supports multi-character pairs, intelligent matching, and more
 - [thinca/vim-template](https://github.com/thinca/vim-template) - Simple and flexible template engine.
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
