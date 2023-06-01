@@ -1820,7 +1820,7 @@
 - [delphinus/mappy.nvim](https://github.com/delphinus/mappy.nvim) - A tiny utility to call any *map commands.
 - [sunjon/Shade.nvim](https://github.com/sunjon/Shade.nvim) - An Nvim lua plugin that dims your inactive windows
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars and signs.
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
@@ -2447,6 +2447,7 @@
 
 ## Rust 
 
+- [willothy/luahint](https://github.com/willothy/luahint) - LSP inline hints for Lua, intended for use with Neovim.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
