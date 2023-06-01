@@ -3398,7 +3398,7 @@
 - [nanotee/zoxide.vim](https://github.com/nanotee/zoxide.vim) - A small (Neo)Vim wrapper for zoxide
 - [delphinus/mappy.nvim](https://github.com/delphinus/mappy.nvim) - A tiny utility to call any *map commands.
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
-- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars.
+- [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - 📜📶 A Neovim plugin that displays interactive vertical scrollbars and signs.
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) - 🌚  Neovim package manager
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
@@ -3891,6 +3891,7 @@
 
 ## others 
 
+- [willothy/luahint](https://github.com/willothy/luahint) - LSP inline hints for Lua, intended for use with Neovim.
 - [mafik/gatekeeper](https://github.com/mafik/gatekeeper) - DHCP & DNS server for your home gateway. Gives you visibility into what's happening inside your network.
 - [dugaldmorrow/handle-rate-limiting-js](https://github.com/dugaldmorrow/handle-rate-limiting-js) - 
 - [adamirr/ha_addons](https://github.com/adamirr/ha_addons) - Collection of custom HomeAssistant addons
@@ -6687,6 +6688,7 @@
 - [tvler/prop-sets](https://github.com/tvler/prop-sets) - Generate and test every possible instance of a component in React
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [blend/promise-utils](https://github.com/blend/promise-utils) - Lodash-like, dependency-free utilities for native ES6 promises.
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~1.5KB routing for React and Preact. Nothing else but HOOKS.
 - [formstate/formstate](https://github.com/formstate/formstate) - ❤️ Form state so simple that you will fall in love 🌹
 - [energizer91/smart-request-balancer](https://github.com/energizer91/smart-request-balancer) - Smart request queue with fine tuning of rate and limit of requests
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
