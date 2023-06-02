@@ -411,7 +411,7 @@
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
-- [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [solo-io/squash](https://github.com/solo-io/squash) - The debugger for microservices
 - [grailbio/grit](https://github.com/grailbio/grit) - Grit is a tool to mirror monorepo subtrees to Github
@@ -1575,6 +1575,7 @@
 
 ## Lua 
 
+- [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
 - [AmeerTaweel/todo.nvim](https://github.com/AmeerTaweel/todo.nvim) - Highlight, list and search TODO comments in Neovim projects
 - [OscarCreator/rsync.nvim](https://github.com/OscarCreator/rsync.nvim) - neovim plugin which synchronises project with rsync on save.
@@ -1706,7 +1707,7 @@
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
-- [charkuils/nvim-nyctophilia](https://github.com/charkuils/nvim-nyctophilia) - A set of Neovim colorschemes for nightlovers
+- [javiorfo/nvim-nyctophilia](https://github.com/javiorfo/nvim-nyctophilia) - A set of Neovim colorschemes for nightlovers
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
@@ -2801,6 +2802,8 @@
 
 ## TypeScript 
 
+- [iway1/trpc-panel](https://github.com/iway1/trpc-panel) - 
+- [codex-team/codex.docs](https://github.com/codex-team/codex.docs) - Free Docs app powered by Editor.js ecosystem
 - [xnimorz/use-debounce](https://github.com/xnimorz/use-debounce) - A debounce hook for react
 - [dugaldmorrow/handle-rate-limiting-js](https://github.com/dugaldmorrow/handle-rate-limiting-js) - 
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
