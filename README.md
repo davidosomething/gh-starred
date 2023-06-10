@@ -1986,6 +1986,7 @@
 ## Others 
 
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
+- [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [stefanjudis/awesome-command-palette](https://github.com/stefanjudis/awesome-command-palette) - A list of awesome command palette implementations.
 - [theleagueof/league-mono](https://github.com/theleagueof/league-mono) - A monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier.
@@ -2406,7 +2407,6 @@
 
 ## Roff 
 
-- [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [porridge/bambam](https://github.com/porridge/bambam) - keyboard mashing and doodling game for babies and toddlers
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
@@ -3510,7 +3510,7 @@
 - [haya14busa/vim-edgemotion](https://github.com/haya14busa/vim-edgemotion) - Move to the edge!
 - [pbrisbin/vim-colors-off](https://github.com/pbrisbin/vim-colors-off) - A no-color scheme for vim
 - [dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
-- [kadekillary/skull-vim](https://github.com/kadekillary/skull-vim) - ☠️ Minimal/elegant theme for vim
+- [kxzk/skull-vim](https://github.com/kxzk/skull-vim) - ☠️ Minimal/elegant theme for vim
 - [owickstrom/vim-colors-paramount](https://github.com/owickstrom/vim-colors-paramount) - A minimal colorscheme for Vim that only puts emphasis on the paramount.
 - [KabbAmine/yowish.vim](https://github.com/KabbAmine/yowish.vim) - A dark & yellowish vim colorscheme
 - [haya14busa/is.vim](https://github.com/haya14busa/is.vim) - incremental search improved - successor of incsearch.vim
