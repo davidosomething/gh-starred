@@ -6957,7 +6957,7 @@
 - [kana/vim-vspec](https://github.com/kana/vim-vspec) - Vim plugin: Testing framework for Vim script
 - [syngan/vim-bluemoon](https://github.com/syngan/vim-bluemoon) - highlight {expr}
 - [cocopon/pgmnt.vim](https://github.com/cocopon/pgmnt.vim) - :art: Template engine for Vim color schemes, in pure Vim script
-- [kadekillary/skull-vim](https://github.com/kadekillary/skull-vim) - ☠️ Minimal/elegant theme for vim
+- [kxzk/skull-vim](https://github.com/kxzk/skull-vim) - ☠️ Minimal/elegant theme for vim
 - [yuttie/hydrangea-vim](https://github.com/yuttie/hydrangea-vim) - Hydrangea theme for Vim.
 - [KabbAmine/yowish.vim](https://github.com/KabbAmine/yowish.vim) - A dark & yellowish vim colorscheme
 - [haya14busa/is.vim](https://github.com/haya14busa/is.vim) - incremental search improved - successor of incsearch.vim
