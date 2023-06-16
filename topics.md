@@ -1455,7 +1455,7 @@
 
 - [negset/Firple](https://github.com/negset/Firple) - A monospaced Japanese font containing ligatures.
 - [tomonic-x/Illusion](https://github.com/tomonic-x/Illusion) - Programming font for JIS X 0208 with Unicode.
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体，中英文宽度完美2:1
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源像素字体。支持 8、10 和 12 像素。
 - [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
@@ -1696,6 +1696,7 @@
 
 ## go 
 
+- [savannahostrowski/gruyere](https://github.com/savannahostrowski/gruyere) - ✨ A tiny (and pretty) program for viewing + killing listening ports
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -1756,6 +1757,7 @@
 
 ## golang 
 
+- [savannahostrowski/gruyere](https://github.com/savannahostrowski/gruyere) - ✨ A tiny (and pretty) program for viewing + killing listening ports
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - General purpose request (reverse) proxy and forwarding tool for low power devices. Now written in Go!
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go, PocketBase and nmap
@@ -2862,6 +2864,7 @@
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [projekt0n/circles.nvim](https://github.com/projekt0n/circles.nvim) - uniform icons for neovim
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
+- [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) - Implementation of gx without the need of netrw
 - [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) - A neovim plugin to add notes or comments to any buffer
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
@@ -3294,6 +3297,7 @@
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
+- [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) - Implementation of gx without the need of netrw
 - [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) - A neovim plugin to add notes or comments to any buffer
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - :stew: Carl Weathers #1 Neovim Plugin.
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
@@ -3936,6 +3940,9 @@
 
 ## others 
 
+- [jessetane/queue](https://github.com/jessetane/queue) - Asynchronous function queue with adjustable concurrency
+- [HampusHauffman/block.nvim](https://github.com/HampusHauffman/block.nvim) - 
+- [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [acxz/pokescript](https://github.com/acxz/pokescript) - A lean shell program to show pokemon sprites in the terminal.
 - [OrJDev/trpc-limiter](https://github.com/OrJDev/trpc-limiter) - Open Source Rate Limiter Middleware For tRPC. Supporting Upstash, Memory Store And Much More
 - [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
@@ -3992,7 +3999,6 @@
 - [JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim) - bionic-like reading inside Neovim
 - [sam4llis/nvim-tundra](https://github.com/sam4llis/nvim-tundra) - A theme for Neovim with support for LSP, Treesitter, Telescope, and more.
 - [davidosomething/apcaccess-command-output](https://github.com/davidosomething/apcaccess-command-output) - Script to output APC UPS short status using apcaccess command
-- [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) - Implementation of gx without the need of netrw
 - [itsFrank/nvim-swell](https://github.com/itsFrank/nvim-swell) - A neovim plugin for making windows swole
 - [sQVe/dotfiles](https://github.com/sQVe/dotfiles) - sQVe dotfiles
 - [theleagueof/league-mono](https://github.com/theleagueof/league-mono) - A monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier.
@@ -5592,6 +5598,7 @@
 
 ## pwa 
 
+- [linka-app/linka](https://github.com/linka-app/linka) - Self-hosted & AI powered bookmark management app for linkding, an alternative to linkding front-end, with special optimization for search and quick open functions. Free and open source. Provide web ap
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
@@ -5713,6 +5720,7 @@
 
 ## react 
 
+- [linka-app/linka](https://github.com/linka-app/linka) - Self-hosted & AI powered bookmark management app for linkding, an alternative to linkding front-end, with special optimization for search and quick open functions. Free and open source. Provide web ap
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
