@@ -585,6 +585,7 @@
 
 ## bash 
 
+- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts.
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
@@ -3159,7 +3160,6 @@
 - [Thinkmill/react-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in &lt;Components/&gt;, &lt;Components/&gt; in **Markdown**
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [linuxenko/lessmd](https://github.com/linuxenko/lessmd) - A small markdown viewer/converter for unix terminal.
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [rhysd/vim-gfm-syntax](https://github.com/rhysd/vim-gfm-syntax) - GitHub Flavored Markdown syntax highlight extension for Vim
 - [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
@@ -3952,6 +3952,8 @@
 
 ## others 
 
+- [xrutayisire/react-js-cron](https://github.com/xrutayisire/react-js-cron) - A React cron editor built with antd
+- [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [kibertoad/toad-scheduler](https://github.com/kibertoad/toad-scheduler) - In-memory Node.js and browser job scheduler
 - [jeansaad/chalet](https://github.com/jeansaad/chalet) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) - Caddy module: dns.providers.cloudflare
