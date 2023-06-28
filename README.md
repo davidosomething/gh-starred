@@ -2225,6 +2225,7 @@
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
+- [porridge/bambam](https://github.com/porridge/bambam) - keyboard mashing and doodling game for babies and toddlers
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
@@ -2377,7 +2378,6 @@
 
 ## Roff 
 
-- [porridge/bambam](https://github.com/porridge/bambam) - keyboard mashing and doodling game for babies and toddlers
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
@@ -2783,6 +2783,8 @@
 
 ## TypeScript 
 
+- [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
+- [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports) - An opinionated but flexible prettier plugin to sort import statements
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [albingroen/react-cmdk](https://github.com/albingroen/react-cmdk) - A fast, accessible, and pretty command palette for React
