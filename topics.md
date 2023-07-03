@@ -965,7 +965,7 @@
 
 ## csharp 
 
-- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag tool written in C# .NET
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config + experimentation management tool written in C# .NET - scalable & fast
 
 ## css 
 
@@ -1260,7 +1260,7 @@
 
 ## dotnet 
 
-- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag tool written in C# .NET
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config + experimentation management tool written in C# .NET - scalable & fast
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
 
 ## education 
@@ -2504,7 +2504,7 @@
 - [brentlintner/synt](https://github.com/brentlintner/synt) - Find similar functions and classes in your JavaScript/TypeScript code
 - [pinterest/bonsai](https://github.com/pinterest/bonsai) - Understand the tree of dependencies inside your webpack bundles, and trim away the excess.
 - [EvanBacon/Expo-Crossy-Road](https://github.com/EvanBacon/Expo-Crossy-Road) - 🐥🚙 Crossy Road game clone made in Expo (iOS, Android, web), THREE.js, Tween, React Native. 🐔
-- [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
+- [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
 - [Quramy/vim-js-pretty-template](https://github.com/Quramy/vim-js-pretty-template) - highlights JavaScript's Template Strings in other FileType syntax rule
 - [clauderic/react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list✌️
 - [mburakerman/hrjs](https://github.com/mburakerman/hrjs) - 🔄 Tiny JavaScript plugin for highlighting and replacing text in the DOM
@@ -2561,7 +2561,6 @@
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
-- [helpers/handlebars-helpers](https://github.com/helpers/handlebars-helpers) - 188 handlebars helpers in ~20 categories. Can be used with Assemble, Ghost, YUI, express.js etc.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
 - [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
@@ -2849,6 +2848,7 @@
 
 ## lua 
 
+- [Equilibris/nx.nvim](https://github.com/Equilibris/nx.nvim) - A simple tool providing the same features as the NX console does for vs-code
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - Neovim plugin for displaying references and difinition infos upon functions like JB's IDEA.
 - [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) - Highlight changed text after Undo / Redo operations
 - [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
@@ -2912,7 +2912,7 @@
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [caosystema/nvim-nyctophilia](https://github.com/caosystema/nvim-nyctophilia) - A set of Neovim colorschemes for nightlovers
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
-- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant lsp progress status for Neovim.
+- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant LSP progress status for Neovim.
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Neovim plugin that offers context when cycling buffers in the form of a customizable notification window.
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers.
@@ -3265,6 +3265,7 @@
 
 ## neovim 
 
+- [Equilibris/nx.nvim](https://github.com/Equilibris/nx.nvim) - A simple tool providing the same features as the NX console does for vs-code
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) - Neovim plugin for displaying references and difinition infos upon functions like JB's IDEA.
 - [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) - Highlight changed text after Undo / Redo operations
 - [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) - Neovim plugin for dimming the highlights of unused functions, variables, parameters, and more
@@ -3360,7 +3361,7 @@
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) - Prettier plugin for Neovim's built-in LSP client.
-- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant lsp progress status for Neovim.
+- [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant LSP progress status for Neovim.
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Neovim plugin that offers context when cycling buffers in the form of a customizable notification window.
 - [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
@@ -3830,7 +3831,6 @@
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
-- [helpers/handlebars-helpers](https://github.com/helpers/handlebars-helpers) - 188 handlebars helpers in ~20 categories. Can be used with Assemble, Ghost, YUI, express.js etc.
 - [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [lukeed/taskr](https://github.com/lukeed/taskr) - A fast, concurrency-focused task automation tool.
@@ -3930,6 +3930,7 @@
 
 ## others 
 
+- [yutkat/osc52.nvim](https://github.com/yutkat/osc52.nvim) - Copy text to local clipboard in ssh using OSC52
 - [shikasta-net/walla-pocket](https://github.com/shikasta-net/walla-pocket) - Wallabag to Pocket sync for Kobo convenience
 - [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports) - An opinionated but flexible prettier plugin to sort import statements
 - [clach04/fake-shaarli-server](https://github.com/clach04/fake-shaarli-server) - Python implementation of _some_ of the Shaarli REST API
@@ -4447,7 +4448,6 @@
 - [treycucco/vim-monotonic](https://github.com/treycucco/vim-monotonic) - A low-key vim color scheme
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [lambdalisue/qfloc.vim](https://github.com/lambdalisue/qfloc.vim) - 
-- [jsoma/tabletop](https://github.com/jsoma/tabletop) - Tabletop.js gives spreadsheets legs
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [cocopon/inspecthi.vim](https://github.com/cocopon/inspecthi.vim) - :mag: Small tool for inspecting highlighting link structure
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -4790,7 +4790,7 @@
 - [junegunn/vim-after-object](https://github.com/junegunn/vim-after-object) - :point_right: Target text *after* the designated characters
 - [terryma/vim-expand-region](https://github.com/terryma/vim-expand-region) - Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.
 - [korzhyk/base16-terminal-app](https://github.com/korzhyk/base16-terminal-app) - Base16 color scheme for OSX Terminal.app
-- [neovim/lua-client](https://github.com/neovim/lua-client) - Nvim Lua client
+- [neovim/lua-client](https://github.com/neovim/lua-client) - DEPRECATED
 - [dbakker/vim-projectroot](https://github.com/dbakker/vim-projectroot) - Find out which project a file belongs to, easy to use in scripts/mappings
 - [zendesk/cross-storage](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions
 - [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
@@ -5426,7 +5426,6 @@
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 - [thoughtbot/laptop](https://github.com/thoughtbot/laptop) - A shell script to set up a macOS laptop for web and mobile development.
-- [devinsays/options-framework-plugin](https://github.com/devinsays/options-framework-plugin) - An Options Panel Framework to help speed theme development.
 - [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 - [h5bp/server-configs](https://github.com/h5bp/server-configs) - Boilerplate configurations for various web servers.
 
@@ -5581,7 +5580,7 @@
 
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
-- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag tool written in C# .NET
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config + experimentation management tool written in C# .NET - scalable & fast
 - [PolicyEngine/policyengine-us](https://github.com/PolicyEngine/policyengine-us) - A model of federal and State taxes and benefits.
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
@@ -5803,7 +5802,6 @@
 - [tajo/react-range](https://github.com/tajo/react-range) - 🎚️Range input with a slider. Accessible. Bring your own styles and markup.
 - [idw111/use-google-spreadsheet](https://github.com/idw111/use-google-spreadsheet) - react hook for using google spreadsheet as a data table (API endpoint)
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-- [khw1031/withUtterances](https://github.com/khw1031/withUtterances) - React HOC with 🔮Utterances Comment Widget Supported
 - [simoneb/axios-hooks](https://github.com/simoneb/axios-hooks) - 🦆 React hooks for axios
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [craig1123/react-recipes](https://github.com/craig1123/react-recipes) - 👩‍🍳 A list of React Hooks utility library containing popular customized hooks
@@ -5863,7 +5861,6 @@
 - [clauderic/react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - ✨ Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [redgeoff/mson](https://github.com/redgeoff/mson) - 🏗️MSON Lang: Generate an app from JSON
-- [carloslfu/use-machine](https://github.com/carloslfu/use-machine) - React Hook for using Statecharts powered by XState. use-machine.
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [react-container-query/react-container-query](https://github.com/react-container-query/react-container-query) - :package: Modular responsive component
 - [FezVrasta/react-element-queries](https://github.com/FezVrasta/react-element-queries) - 🐣🐷 Conditionally render pieces of UI based on element queries.
@@ -5894,7 +5891,6 @@
 - [ctrlplusb/react-async-component](https://github.com/ctrlplusb/react-async-component) - Resolve components asynchronously, with support for code splitting and advanced server side rendering use cases.
 - [kriasoft/universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [diegohaz/constate](https://github.com/diegohaz/constate) - React Context + State
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
 - [gedhean/react-no-content](https://github.com/gedhean/react-no-content) - A SVG react component to display when there's no content.
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
@@ -5987,7 +5983,7 @@
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [EvanBacon/Expo-Crossy-Road](https://github.com/EvanBacon/Expo-Crossy-Road) - 🐥🚙 Crossy Road game clone made in Expo (iOS, Android, web), THREE.js, Tween, React Native. 🐔
-- [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
+- [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive Database for JavaScript Applications https://rxdb.info/
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [EvanBacon/Expo-Voxel](https://github.com/EvanBacon/Expo-Voxel) - 🎮🌳 Voxel Terrain made in React Native. ∛
@@ -6041,8 +6037,7 @@
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [itsdouges/element-motion](https://github.com/itsdouges/element-motion) - Tween between view states with declarative zero configuration element motions for React
 - [kriasoft/universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
-- [diegohaz/constate](https://github.com/diegohaz/constate) - React Context + State
-- [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - A goal, task & habit tracker + personal dashboard to focus on what matters
+- [onejgordon/flow-dashboard](https://github.com/onejgordon/flow-dashboard) - [UNMAINTAINED] A goal, task & habit tracker + personal dashboard to focus on what matters
 - [reactjs/react-docgen](https://github.com/reactjs/react-docgen) - A CLI and library to extract information from React component files for documentation generation purposes.
 - [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [hql287/Manta](https://github.com/hql287/Manta) - 🎉 Flexible invoicing desktop app with beautiful & customizable templates.
@@ -6238,7 +6233,7 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag tool written in C# .NET
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config + experimentation management tool written in C# .NET - scalable & fast
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -6641,7 +6636,7 @@
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
-- [featbit/featbit](https://github.com/featbit/featbit) - A scalable, fast and 100% open-source feature flag tool written in C# .NET
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config + experimentation management tool written in C# .NET - scalable & fast
 - [devbookhq/splitter](https://github.com/devbookhq/splitter) - React component for building split views like in VS Code
 - [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) - Nvim lua plugin which adds support for twoslash queries into typescript projects
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
@@ -7250,7 +7245,6 @@
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
 - [samccone/bundle-buddy](https://github.com/samccone/bundle-buddy) - A tool to understand your bundle size and why files are in your bundle
-- [perf-rocks/perf.rocks](https://github.com/perf-rocks/perf.rocks) - Curated resources that help you build lightning fast websites
 
 ## windows 
 
