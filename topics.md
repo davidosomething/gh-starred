@@ -3935,6 +3935,7 @@
 
 ## others 
 
+- [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) - LSP diagnostics in virtual text at the top right of your screen
 - [ccorcos/tuple-database](https://github.com/ccorcos/tuple-database) - 
 - [ota-meshi/eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regex mistakes and style guide violations.
 - [yutkat/osc52.nvim](https://github.com/yutkat/osc52.nvim) - Copy text to local clipboard in ssh using OSC52
