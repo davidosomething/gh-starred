@@ -588,6 +588,7 @@
 
 ## JavaScript 
 
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter and code transformer with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods in a simpl
 - [jonaslu/sider](https://github.com/jonaslu/sider) - As git for your database(s) - commit, f*ckup, restore
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [jeansaad/chalet](https://github.com/jeansaad/chalet) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
@@ -2786,6 +2787,7 @@
 
 ## TypeScript 
 
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
 - [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 - [melink14/rikaikun](https://github.com/melink14/rikaikun) - rikaikun is a Chrome extension that helps you to read Japanese web pages by showing the reading and English definition of Japanese words when you hover over them.
@@ -2878,7 +2880,7 @@
 - [open-draft/until](https://github.com/open-draft/until) - Gracefully handle Promises using async/await without try/catch.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
-- [naver/billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js
+- [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
@@ -3000,7 +3002,7 @@
 - [ip-num/ip-num](https://github.com/ip-num/ip-num) - A TypeScript/JavaScript library for working with ASN, IPv4, and IPv6 numbers. It provides representations of these internet protocol numbers with the ability to perform various IP related operations l
 - [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (153 bytes) event emitter library for JavaScript
 - [luciopaiva/heapify](https://github.com/luciopaiva/heapify) - The fastest JavaScript priority queue out there. Zero dependencies.
-- [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React (1.5 KB) 🍔
+- [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React.js weighs only 1.5 KB.
 - [truework/gretchen](https://github.com/truework/gretchen) - Making fetch happen in TypeScript.
 - [jakearchibald/idb](https://github.com/jakearchibald/idb) - IndexedDB, but with promises
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
