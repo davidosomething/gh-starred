@@ -90,7 +90,7 @@
 ## C 
 
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [bitair-org/linker.js](https://github.com/bitair-org/linker.js) - Access Python & C-shared libraries(C, C++, Go, Rust, ...) from Node.js
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
@@ -320,6 +320,7 @@
 
 ## Go 
 
+- [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [LordEidi/wombag](https://github.com/LordEidi/wombag) - Wombag is the alternative, lightweight backend for your Wallabag apps. Wombag supports the Wallabag API.
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) - Caddy module: dns.providers.cloudflare
@@ -2140,7 +2141,7 @@
 
 ## PHP 
 
-- [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee) - 
+- [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee) - BudgetBee is a finance self hosted app
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -2194,6 +2195,7 @@
 
 ## Python 
 
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [shikasta-net/walla-pocket](https://github.com/shikasta-net/walla-pocket) - Wallabag to Pocket sync for Kobo convenience
 - [clach04/fake-shaarli-server](https://github.com/clach04/fake-shaarli-server) - Python implementation of _some_ of the Shaarli REST API
 - [negset/Firple](https://github.com/negset/Firple) - A monospaced Japanese font containing ligatures.
@@ -2255,6 +2257,7 @@
 - [casperdcl/git-fame](https://github.com/casperdcl/git-fame) - Pretty-print `git` repository collaborators sorted by contributions.
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [kamranahmedse/itomate](https://github.com/kamranahmedse/itomate) - Automate your iTerm layouts and session setup
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [babybuddy/babybuddy](https://github.com/babybuddy/babybuddy) - A :baby: buddy to help caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby's needs without (as much) guess work.
@@ -2430,6 +2433,7 @@
 
 ## Rust 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
 - [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, deduplicated backups powered by Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -2794,6 +2798,8 @@
 
 ## TypeScript 
 
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list and grid component for React.
+- [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
 - [kubb-project/kubb](https://github.com/kubb-project/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js and Axios.
 - [rileytomasek/zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
@@ -2821,7 +2827,7 @@
 - [linka-app/linka](https://github.com/linka-app/linka) - Self-host & AI powered bookmark management app for linkding, an alternative to linkding front-end, with special optimization for search and quick open functions. Free and open source. Provide web app 
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
-- [jlalmes/trpc-openapi](https://github.com/jlalmes/trpc-openapi) - OpenAPI support for tRPC 🧩
+- [prosepilot/trpc-openapi](https://github.com/prosepilot/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [OrJDev/trpc-limiter](https://github.com/OrJDev/trpc-limiter) - Open Source Rate Limiter Middleware For tRPC. Supporting Upstash, Memory Store And Much More
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
@@ -2861,7 +2867,7 @@
 - [chay-xu/load-balancers](https://github.com/chay-xu/load-balancers) - Load balancing algorithms using Node.js
 - [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff compares two arrays or objects and return a complete diff of their differences in a readable format.
@@ -3022,7 +3028,6 @@
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [jeffijoe/typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 - [react-figma/react-figma](https://github.com/react-figma/react-figma) - ⚛️ A React renderer for Figma
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 - [tajo/react-range](https://github.com/tajo/react-range) - 🎚️Range input with a slider. Accessible. Bring your own styles and markup.
 - [thoughtbot/fishery](https://github.com/thoughtbot/fishery) - A library for setting up JavaScript objects as test data
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
