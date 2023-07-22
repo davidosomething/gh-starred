@@ -758,7 +758,7 @@
 
 ## cli 
 
-- [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
@@ -1035,7 +1035,7 @@
 
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
-- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [data-client/rest-hooks](https://github.com/data-client/rest-hooks) - Normalized state management for async data. Safe. Fast. Reusable.
@@ -1808,6 +1808,7 @@
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [akiyosi/goneovim](https://github.com/akiyosi/goneovim) - A GUI frontend for neovim.
 - [kentaro-m/md2confl](https://github.com/kentaro-m/md2confl) - 🛠 md2confl is a CLI tool to convert the markdown text to confluence wiki format.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
@@ -2327,7 +2328,7 @@
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to work against complex domain names, subdomains and URIs.
 - [alesgenova/post-me](https://github.com/alesgenova/post-me) - 📩 Use web Workers and other Windows through a simple Promise API
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
-- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [morellodev/react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
@@ -2576,6 +2577,7 @@
 - [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
 - [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+- [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
 - [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
@@ -3949,6 +3951,8 @@
 
 ## others 
 
+- [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
+- [mvaldes14/terraform.nvim](https://github.com/mvaldes14/terraform.nvim) - Plan and Explore your terraform resources from nvim
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee) - BudgetBee is a finance self hosted app
@@ -4414,7 +4418,7 @@
 - [rbtnn/vim-mru](https://github.com/rbtnn/vim-mru) - Most Recently Used using +popupwin feature
 - [habamax/vim-colors-lessthan](https://github.com/habamax/vim-colors-lessthan) - Vim less than colorscheme
 - [dilshan/usb2-power-hub](https://github.com/dilshan/usb2-power-hub) - 4-Port High Power USB 2.0 Hub
-- [replit/upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
+- [replit/upm](https://github.com/replit/upm) - ⠕ Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.
 - [rebootuser/LinEnum](https://github.com/rebootuser/LinEnum) - Scripted Local Linux Enumeration & Privilege Escalation Checks
 - [tsuyoshicho/action-vimhelp-html-generate](https://github.com/tsuyoshicho/action-vimhelp-html-generate) - Generate html from Vim help (/doc)
 - [bmatcuk/stylelint-lsp](https://github.com/bmatcuk/stylelint-lsp) - A stylelint Language Server
@@ -5794,7 +5798,7 @@
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 - [react-financial/react-financial-charts](https://github.com/react-financial/react-financial-charts) - Charts dedicated to finance.
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
-- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [everweij/react-laag](https://github.com/everweij/react-laag) - Hooks to build things like tooltips, dropdown menu's and popovers in React
@@ -6044,7 +6048,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [vimond/replay](https://github.com/vimond/replay) - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
-- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
@@ -6139,7 +6143,7 @@
 
 ## rust 
 
-- [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, deduplicated backups powered by Rust
 - [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
@@ -6517,7 +6521,7 @@
 
 ## terminal 
 
-- [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
 - [jonaslu/sider](https://github.com/jonaslu/sider) - As git for your database(s) - commit, f*ckup, restore
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
@@ -6635,6 +6639,7 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [vim-test/vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
 - [vfaronov/httpolice](https://github.com/vfaronov/httpolice) - Validator for HTTP
+- [codeceptjs/CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
 
 ## twitter 
 
@@ -6715,7 +6720,7 @@
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to work against complex domain names, subdomains and URIs.
 - [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 - [alesgenova/post-me](https://github.com/alesgenova/post-me) - 📩 Use web Workers and other Windows through a simple Promise API
-- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
+- [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [morellodev/react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [meriyah/meriyah](https://github.com/meriyah/meriyah) - A 100% compliant, self-hosted javascript parser  - https://meriyah.github.io/meriyah
