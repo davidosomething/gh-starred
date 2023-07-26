@@ -159,7 +159,7 @@
 ## C# # 
 
 - [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
-- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags + remote config service written in C# .NET - scalable & fast
+- [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
 - [assetgrid/assetgridapp](https://github.com/assetgrid/assetgridapp) - 📊 A selfhosted data-driven personal finance manager 💸
 - [ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows and Linux
 - [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
@@ -2673,7 +2673,7 @@
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
-- [syndbg/goenv](https://github.com/syndbg/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
+- [go-nv/goenv](https://github.com/go-nv/goenv) - :blue_car: Like pyenv and rbenv, but for Go.
 - [sunaku/dasht](https://github.com/sunaku/dasht) - 💁 Search API docs offline, in terminal or browser
 - [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - zsh syntax highlighting with dircolors in realtime
