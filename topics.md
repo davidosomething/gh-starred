@@ -3283,6 +3283,7 @@
 
 ## neovim 
 
+- [mrshmllow/open-handlers.nvim](https://github.com/mrshmllow/open-handlers.nvim) - A very simple plugin that allows multiple custom vim.ui.open handlers to co-exist
 - [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with the builtin nvim-lsp
 - [creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of different linter and formatter configurations for diagnostic-languageserver used for built-in nvim-lsp
 - [Equilibris/nx.nvim](https://github.com/Equilibris/nx.nvim) - A simple tool providing the same features as the NX console does for vs-code
@@ -4624,7 +4625,7 @@
 - [Starcounter-Jack/JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). Update JSON documents using delta patches.
 - [cujojs/jiff](https://github.com/cujojs/jiff) - JSON Patch and diff based on rfc6902
 - [jordwalke/VimBox](https://github.com/jordwalke/VimBox) - Simple, Modern MacVim Configuration
-- [strategydynamics/commandant](https://github.com/strategydynamics/commandant) - An undo/redo manager for JavaScript using the Command Pattern.
+- [c-spencer/commandant](https://github.com/c-spencer/commandant) - An undo/redo manager for JavaScript using the Command Pattern.
 - [mobxjs/serializr](https://github.com/mobxjs/serializr) - Serialize and deserialize complex object graphs to and from JSON and Javascript classes
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [s-yadav/react-number-format](https://github.com/s-yadav/react-number-format) - React component to format numbers in an input or as a text.
