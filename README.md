@@ -221,7 +221,6 @@
 
 ## CSS 
 
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - General purpose request (reverse) proxy and forwarding tool for low power devices. Now written in Go!
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
@@ -941,7 +940,7 @@
 - [steelbreeze/state](https://github.com/steelbreeze/state) - Hierarchical finite state machine for TypeScript and JavaScript
 - [Starcounter-Jack/JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). Update JSON documents using delta patches.
 - [cujojs/jiff](https://github.com/cujojs/jiff) - JSON Patch and diff based on rfc6902
-- [strategydynamics/commandant](https://github.com/strategydynamics/commandant) - An undo/redo manager for JavaScript using the Command Pattern.
+- [c-spencer/commandant](https://github.com/c-spencer/commandant) - An undo/redo manager for JavaScript using the Command Pattern.
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [rstacruz/remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements
 - [bluegill/katana](https://github.com/bluegill/katana) - 🚀 a powerful, open-source screenshot utility for macOS
@@ -1546,6 +1545,7 @@
 
 ## Lua 
 
+- [mrshmllow/open-handlers.nvim](https://github.com/mrshmllow/open-handlers.nvim) - A very simple plugin that allows multiple custom vim.ui.open handlers to co-exist
 - [mvaldes14/terraform.nvim](https://github.com/mvaldes14/terraform.nvim) - Plan and Explore your terraform resources from nvim
 - [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim
 - [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with the builtin nvim-lsp
@@ -2201,6 +2201,7 @@
 - [shikasta-net/walla-pocket](https://github.com/shikasta-net/walla-pocket) - Wallabag to Pocket sync for Kobo convenience
 - [clach04/fake-shaarli-server](https://github.com/clach04/fake-shaarli-server) - Python implementation of _some_ of the Shaarli REST API
 - [negset/Firple](https://github.com/negset/Firple) - A monospaced Japanese font containing ligatures.
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles -- Read-only Mirror of https://git.sainnhe.dev/sainnhe/icursive-nerd-font
 - [adamirr/ha_addons](https://github.com/adamirr/ha_addons) - Collection of custom HomeAssistant addons
