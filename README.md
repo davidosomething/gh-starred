@@ -636,7 +636,7 @@
 - [ehmicky/safe-json-value](https://github.com/ehmicky/safe-json-value) - ⛑️ JSON serialization should never fail
 - [theninthsky/client-side-rendering](https://github.com/theninthsky/client-side-rendering) - A case study of CSR.
 - [juks/iso-8583-socket-queue](https://github.com/juks/iso-8583-socket-queue) - ISO 8583 gateway
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [eslint-community/eslint-plugin-promise](https://github.com/eslint-community/eslint-plugin-promise) - Enforce best practices for JavaScript promises
@@ -1797,7 +1797,7 @@
 - [camspiers/snap](https://github.com/camspiers/snap) - A fast finder system for neovim.
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
-- [Pocco81/high-str.nvim](https://github.com/Pocco81/high-str.nvim) - 🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!
+- [pocco81/high-str.nvim](https://github.com/pocco81/high-str.nvim) - 🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
@@ -2435,6 +2435,7 @@
 
 ## Rust 
 
+- [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library to build rich terminal user interfaces (TUIs) and dashboards
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, deduplicated backups powered by Rust
