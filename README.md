@@ -762,7 +762,7 @@
 - [feross/queue-microtask](https://github.com/feross/queue-microtask) - fast, tiny `queueMicrotask` shim for modern engines
 - [hashicorp/babel-plugin-jsx-path-prop](https://github.com/hashicorp/babel-plugin-jsx-path-prop) - A babel plugin that resolves a prop with a filename to its contents
 - [ctrlplusb/react-sizeme](https://github.com/ctrlplusb/react-sizeme) - Make your React Components aware of their width and height!
-- [JosephSmith127/react-avatar-generator](https://github.com/JosephSmith127/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
+- [jsmmth/react-avatar-generator](https://github.com/jsmmth/react-avatar-generator) - Generate fun kaleidoscope for user avatars.
 - [ambassify/react-avatar](https://github.com/ambassify/react-avatar) - Universal avatar makes it possible to fetch/generate an avatar based on the information you have about that user.
 - [jhawthorn/fzy.js](https://github.com/jhawthorn/fzy.js) - A javascript port of fzy's scoring algorithm. As seen on GitHub.com!
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -1546,6 +1546,8 @@
 
 ## Lua 
 
+- [santigo-zero/right-corner-diagnostics.nvim](https://github.com/santigo-zero/right-corner-diagnostics.nvim) - Show diagnostics at the right corner of the buffer
+- [cdecompilador/rcd.nvim](https://github.com/cdecompilador/rcd.nvim) - helix-like right corner diagnostics in neovim
 - [mrshmllow/open-handlers.nvim](https://github.com/mrshmllow/open-handlers.nvim) - A very simple plugin that allows multiple custom vim.ui.open handlers to co-exist
 - [mvaldes14/terraform.nvim](https://github.com/mvaldes14/terraform.nvim) - Plan and Explore your terraform resources from nvim
 - [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim
@@ -2450,7 +2452,7 @@
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, deduplicated backups powered by Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [dprint/dprint-plugin-dockerfile](https://github.com/dprint/dprint-plugin-dockerfile) - Dockerfile code formatting plugin for dprint.
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
+- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf 2.0)
 - [iotaledger/stronghold.rs](https://github.com/iotaledger/stronghold.rs) - Stronghold is a secret management engine written in rust.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 - [willothy/luahint](https://github.com/willothy/luahint) - LSP inline hints for Lua, intended for use with Neovim.
