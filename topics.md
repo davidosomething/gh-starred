@@ -1048,7 +1048,7 @@
 - [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [data-client/rest-hooks](https://github.com/data-client/rest-hooks) - Normalized state management for async data. Safe. Fast. Reusable.
+- [data-client/rest-hooks](https://github.com/data-client/rest-hooks) - Async State Management without the Management
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
 
@@ -2278,7 +2278,7 @@
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [cqfn/jpeek](https://github.com/cqfn/jpeek) - Hosted and command-line calculator of cohesion metrics for Java code
-- [eclipse/eclipse.jdt.ls](https://github.com/eclipse/eclipse.jdt.ls) - Java language server
+- [eclipse-jdtls/eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 - [mopemope/meghanada-server](https://github.com/mopemope/meghanada-server) - A Java IDE Server for your editor. Java IDE-like features to your favourite text editor.
 - [mcxiaoke/awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin) - A curated list of awesome Kotlin frameworks, libraries, documents and other resources
 
@@ -3966,6 +3966,7 @@
 
 ## others 
 
+- [MaximilianLloyd/tw-values.nvim](https://github.com/MaximilianLloyd/tw-values.nvim) - View all applied tailwindcss values on an element
 - [santigo-zero/right-corner-diagnostics.nvim](https://github.com/santigo-zero/right-corner-diagnostics.nvim) - Show diagnostics at the right corner of the buffer
 - [cdecompilador/rcd.nvim](https://github.com/cdecompilador/rcd.nvim) - helix-like right corner diagnostics in neovim
 - [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on M1 Macs. Useful to embed in various scripts.
@@ -5870,7 +5871,7 @@
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - :memo: HTML to React parser.
 - [Metroxe/react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders.
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
-- [data-client/rest-hooks](https://github.com/data-client/rest-hooks) - Normalized state management for async data. Safe. Fast. Reusable.
+- [data-client/rest-hooks](https://github.com/data-client/rest-hooks) - Async State Management without the Management
 - [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - A multi-tab layout manager
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [tvler/prop-sets](https://github.com/tvler/prop-sets) - Generate and test every possible instance of a component in React
@@ -6027,7 +6028,7 @@
 - [pveyes/htmr](https://github.com/pveyes/htmr) - Simple and lightweight (&lt; 2kB) HTML string to React element conversion library
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
-- [data-client/rest-hooks](https://github.com/data-client/rest-hooks) - Normalized state management for async data. Safe. Fast. Reusable.
+- [data-client/rest-hooks](https://github.com/data-client/rest-hooks) - Async State Management without the Management
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
 - [maicki/why-did-you-update](https://github.com/maicki/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
 - [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) - A list of UI Kits available for React and React Native.
@@ -6775,7 +6776,7 @@
 - [TimboKZ/Chonky](https://github.com/TimboKZ/Chonky) - 😸 A File Browser component for React.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [Metroxe/react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders.
-- [data-client/rest-hooks](https://github.com/data-client/rest-hooks) - Normalized state management for async data. Safe. Fast. Reusable.
+- [data-client/rest-hooks](https://github.com/data-client/rest-hooks) - Async State Management without the Management
 - [tvler/prop-sets](https://github.com/tvler/prop-sets) - Generate and test every possible instance of a component in React
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [blend/promise-utils](https://github.com/blend/promise-utils) - Lodash-like, dependency-free utilities for native ES6 promises.
