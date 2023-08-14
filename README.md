@@ -322,6 +322,7 @@
 
 ## Go 
 
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
@@ -372,7 +373,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [felicianotech/tailscale-appindicator](https://github.com/felicianotech/tailscale-appindicator) - An Ubuntu AppIndicator for the Tailscale network service.
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [TimothyYe/godns](https://github.com/TimothyYe/godns) - A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
@@ -1549,6 +1550,8 @@
 
 ## Lua 
 
+- [SUSTech-data/wildfire.nvim](https://github.com/SUSTech-data/wildfire.nvim) - wildfire burns treesitter
+- [fmbarina/multicolumn.nvim](https://github.com/fmbarina/multicolumn.nvim) - A Neovim plugin providing a highly configurable colorcolumn.
 - [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) - 
 - [MaximilianLloyd/tw-values.nvim](https://github.com/MaximilianLloyd/tw-values.nvim) - View all applied tailwindcss values on an element
 - [santigo-zero/right-corner-diagnostics.nvim](https://github.com/santigo-zero/right-corner-diagnostics.nvim) - Show diagnostics at the right corner of the buffer
@@ -1763,7 +1766,7 @@
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) - Improved Yank and Put functionalities for Neovim
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
-- [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim) - Neovim plugin to preview LSP code action
+- [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF
 - [David-Kunz/markid](https://github.com/David-Kunz/markid) - A Neovim extension to highlight same-name identifiers with the same color.
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
@@ -2526,7 +2529,7 @@
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
-- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
+- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for 15+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
@@ -2746,7 +2749,7 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
-- [sickill/git-dude](https://github.com/sickill/git-dude) - Git commit notifier
+- [ku1ik/git-dude](https://github.com/ku1ik/git-dude) - Git commit notifier
 - [davidosomething/git-ink](https://github.com/davidosomething/git-ink) - Annotate your git branches
 - [davidosomething/vopen](https://github.com/davidosomething/vopen) - Open files in a single vim/gvim server
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
@@ -3462,7 +3465,7 @@
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
 - [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
-- [sickill/vim-pasta](https://github.com/sickill/vim-pasta) - Pasting in Vim with indentation adjusted to destination context
+- [ku1ik/vim-pasta](https://github.com/ku1ik/vim-pasta) - Pasting in Vim with indentation adjusted to destination context
 - [segeljakt/vim-isotope](https://github.com/segeljakt/vim-isotope) - Insert and attach special characters with ease
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
@@ -3903,7 +3906,6 @@
 - [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim) - An extensible & universal comment vim-plugin that also handles embedded filetypes
 - [nishigori/increment-activator](https://github.com/nishigori/increment-activator) - Vim Plugin for enhance to increment candidates U have defined.
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
-- [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
 - [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
 - [kana/vim-operator-user](https://github.com/kana/vim-operator-user) - Vim plugin: Define your own operator easily
 - [wesQ3/vim-windowswap](https://github.com/wesQ3/vim-windowswap) - Swap your windows without ruining your layout
