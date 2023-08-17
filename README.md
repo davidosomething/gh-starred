@@ -1549,6 +1549,7 @@
 
 ## Lua 
 
+- [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) - Neovim fugitive style git blame plugin
 - [SUSTech-data/wildfire.nvim](https://github.com/SUSTech-data/wildfire.nvim) - wildfire burns treesitter
 - [fmbarina/multicolumn.nvim](https://github.com/fmbarina/multicolumn.nvim) - A Neovim plugin providing a highly configurable colorcolumn.
@@ -1559,7 +1560,7 @@
 - [mrshmllow/open-handlers.nvim](https://github.com/mrshmllow/open-handlers.nvim) - A very simple plugin that allows multiple custom vim.ui.open handlers to co-exist
 - [mvaldes14/terraform.nvim](https://github.com/mvaldes14/terraform.nvim) - Plan and Explore your terraform resources from nvim
 - [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim
-- [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver to work with the builtin nvim-lsp
+- [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver for neovim.
 - [niuiic/format.nvim](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
 - [creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of different linter and formatter configurations for diagnostic-languageserver used for built-in nvim-lsp
 - [willothy/hollywood.nvim](https://github.com/willothy/hollywood.nvim) - 📸 Action! A flexible, elegant and featureful code action menu (WIP)
@@ -1809,7 +1810,6 @@
 - [yuki-yano/zero.nvim](https://github.com/yuki-yano/zero.nvim) - 
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) - Visual git plugin for Neovim
 - [pocco81/high-str.nvim](https://github.com/pocco81/high-str.nvim) - 🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!
-- [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) - Virtual text context for neovim treesitter
