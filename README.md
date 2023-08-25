@@ -95,6 +95,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [bitair-org/linker.js](https://github.com/bitair-org/linker.js) - Access Python & C-shared libraries(C, C++, Go, Rust, ...) from Node.js
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty
+- [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [IndianBoy42/tree-sitter-just](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for Justfiles (casey/just)
@@ -170,6 +171,7 @@
 
 ## C++ 
 
+- [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) - A GUI to monitor and manage Tailscale on your Linux desktop.
 - [mafik/gatekeeper](https://github.com/mafik/gatekeeper) - DHCP & DNS server for your home gateway. Gives you visibility into what's happening inside your network.
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
@@ -323,6 +325,8 @@
 
 ## Go 
 
+- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
@@ -618,7 +622,6 @@
 - [ruyadorno/snapstub](https://github.com/ruyadorno/snapstub) - Copy API endpoints to your fs and run a local server using them
 - [inovua/reactdatagrid](https://github.com/inovua/reactdatagrid) - Empower Your Data with the best React Data Grid there is
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
-- [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [nicolasbrugneaux/react-memory-stats](https://github.com/nicolasbrugneaux/react-memory-stats) - React Component that shows your app memory activity.
 - [developit/unfetch](https://github.com/developit/unfetch) - 🐕 Bare minimum 500b fetch polyfill.
@@ -1225,7 +1228,7 @@
 - [brianleroux/tiny-json-http](https://github.com/brianleroux/tiny-json-http) - :anchor: Minimalist HTTP client for JSON payloads.
 - [muan/github-dashboard](https://github.com/muan/github-dashboard) - [Web extension] Filter events on github.com activity dashboard.
 - [felixrieseberg/React-Dropzone-Component](https://github.com/felixrieseberg/React-Dropzone-Component) - :camera: ReactJS Dropzone for File Uploads (using Dropzone.js)
-- [fckt/react-layer-stack](https://github.com/fckt/react-layer-stack) - Layering system for React. Useful for popover/modals/tooltip/dnd application
+- [lexfro/react-layer-stack](https://github.com/lexfro/react-layer-stack) - Layering system for React. Useful for popover/modals/tooltip/dnd application
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [segmentio/niffy](https://github.com/segmentio/niffy) - Perceptual diffing suite built on Nightmare
 - [lexich/redux-api](https://github.com/lexich/redux-api) - Flux REST API for redux infrastructure
@@ -1815,7 +1818,7 @@
 - [pocco81/high-str.nvim](https://github.com/pocco81/high-str.nvim) - 🦎 A NeoVim plugin for highlighting visual selections like in a normal document editor!
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
-- [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) - Virtual text context for neovim treesitter
+- [andersevenrud/nvim_context_vt](https://github.com/andersevenrud/nvim_context_vt) - Virtual text context for neovim treesitter
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
 - [delphinus/mappy.nvim](https://github.com/delphinus/mappy.nvim) - A tiny utility to call any *map commands.
 - [sunjon/Shade.nvim](https://github.com/sunjon/Shade.nvim) - An Nvim lua plugin that dims your inactive windows
@@ -2222,6 +2225,7 @@
 
 ## Python 
 
+- [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
 - [shikasta-net/walla-pocket](https://github.com/shikasta-net/walla-pocket) - Wallabag to Pocket sync for Kobo convenience
@@ -2784,6 +2788,7 @@
 
 ## Svelte 
 
+- [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
@@ -2828,7 +2833,7 @@
 
 ## TypeScript 
 
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [standardnotes/plugins](https://github.com/standardnotes/plugins) - Community plugins for Standard Notes — Experimental 🧪
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
 - [pingdotgg/zact](https://github.com/pingdotgg/zact) - Nothing to see here
 - [Effect-TS/schema](https://github.com/Effect-TS/schema) - Modeling the schema of data structures as first-class values
@@ -3218,7 +3223,7 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [Unibeautify/unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
-- [cam-inc/viron](https://github.com/cam-inc/viron) - OAS-driven Frondend-NoCode Administration Console
+- [cam-inc/viron](https://github.com/cam-inc/viron) - OAS-driven Frontend-NoCode Administration Console
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
@@ -3707,7 +3712,7 @@
 - [kamwitsta/flatwhite-vim](https://github.com/kamwitsta/flatwhite-vim) - A Vim port of biletskyy’s flatwhite-syntax for Atom.
 - [fxn/vim-monochrome](https://github.com/fxn/vim-monochrome) - Monochrome color scheme for Vim
 - [mattboehm/vim-unstack](https://github.com/mattboehm/vim-unstack) - Vim plugin for parsing stack traces and opening the files
-- [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position in Vim.
+- [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - A vim / nvim plugin that intelligently reopens files at your last edit position.
 - [henrik/vim-indexed-search](https://github.com/henrik/vim-indexed-search) - Show "Match 123 of 456  /search term/" in Vim searches. By Yakov Lerner.
 - [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
 - [sgur/vim-textobj-parameter](https://github.com/sgur/vim-textobj-parameter) - A fork of textobj-parameter 0.1.0
