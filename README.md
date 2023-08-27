@@ -479,7 +479,7 @@
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [b4b4r07/gomi](https://github.com/b4b4r07/gomi) - 🗑️ Replacement for UNIX rm command!
+- [babarot/gomi](https://github.com/babarot/gomi) - 🗑️ Replacement for UNIX rm command!
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
 - [tigrawap/slit](https://github.com/tigrawap/slit) - slit - a modern PAGER for viewing logs, get more than most in less time
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
@@ -525,7 +525,6 @@
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [ameyrupji/thunderbolt-macpro-5-1](https://github.com/ameyrupji/thunderbolt-macpro-5-1) - My story to add thunderbolt support to my Mac Pro Early 2009 (5,1)
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [upnextinc/upnext](https://github.com/upnextinc/upnext) - 📆 See/join meetings from the menu bar
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -1626,7 +1625,7 @@
 - [itsFrank/nvim-swell](https://github.com/itsFrank/nvim-swell) - A neovim plugin for making windows swole
 - [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) - A neovim plugin to add notes or comments to any buffer
 - [sQVe/dotfiles](https://github.com/sQVe/dotfiles) - sQVe dotfiles
-- [b4b4r07/cursor-x.nvim](https://github.com/b4b4r07/cursor-x.nvim) - 
+- [babarot/cursor-x.nvim](https://github.com/babarot/cursor-x.nvim) - 
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
 - [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) - Decorate scrollbar for Neovim
 - [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Color picker and highlighter plugin for Neovim.
@@ -2468,6 +2467,7 @@
 
 ## Rust 
 
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [Borwe/wasm_nvim](https://github.com/Borwe/wasm_nvim) - Wasm platform for nvim.
 - [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
@@ -2725,7 +2725,7 @@
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [ytet5uy4/fzf-widgets](https://github.com/ytet5uy4/fzf-widgets) - ZLE widgets of fzf
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
-- [b4b4r07/zsh-vimode-visual](https://github.com/b4b4r07/zsh-vimode-visual) - Implement the vim-like visual mode to vi-mode of zsh
+- [babarot/zsh-vimode-visual](https://github.com/babarot/zsh-vimode-visual) - Implement the vim-like visual mode to vi-mode of zsh
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
@@ -2768,7 +2768,7 @@
 - [davidosomething/git-ink](https://github.com/davidosomething/git-ink) - Annotate your git branches
 - [davidosomething/vopen](https://github.com/davidosomething/vopen) - Open files in a single vim/gvim server
 - [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) - A heads up display for git
-- [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
+- [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [anyenv/anyenv](https://github.com/anyenv/anyenv) - All in one for **env
 - [paulirish/github-email](https://github.com/paulirish/github-email) - Get a GitHub user's email. :sunglasses: Use this responsibly.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -3033,6 +3033,7 @@
 - [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
 - [MTG/essentia.js](https://github.com/MTG/essentia.js) - JavaScript library for music/audio analysis and processing powered by Essentia WebAssembly
 - [pmndrs/detect-gpu](https://github.com/pmndrs/detect-gpu) - Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [benrbray/noteworthy](https://github.com/benrbray/noteworthy) - Markdown editor with bidirectional links and excellent math support, powered by ProseMirror.  (In Development!)
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
 - [pmndrs/react-nil](https://github.com/pmndrs/react-nil) - ⃝ A react null renderer
