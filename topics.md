@@ -2898,6 +2898,7 @@
 
 ## lua 
 
+- [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
 - [CppCXY/EmmyLuaCodeStyle](https://github.com/CppCXY/EmmyLuaCodeStyle) - fast, powerful, and feature-rich Lua formatting and checking tool.
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
 - [fmbarina/multicolumn.nvim](https://github.com/fmbarina/multicolumn.nvim) - A Neovim plugin providing a highly configurable colorcolumn.
@@ -3324,6 +3325,7 @@
 
 ## neovim 
 
+- [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
 - [fmbarina/multicolumn.nvim](https://github.com/fmbarina/multicolumn.nvim) - A Neovim plugin providing a highly configurable colorcolumn.
@@ -4052,7 +4054,7 @@
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [acxz/pokescript](https://github.com/acxz/pokescript) - A lean shell program to show pokemon sprites in the terminal.
 - [OrJDev/trpc-limiter](https://github.com/OrJDev/trpc-limiter) - Open Source Rate Limiter Middleware For tRPC. Supporting Upstash, Memory Store And Much More
-- [jdxcode/rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
 - [JoshuaKGoldberg/prettier-plugin-curly](https://github.com/JoshuaKGoldberg/prettier-plugin-curly) - Prettier plugin to enforce consistent brace style for all control statements.
 - [garybernhardt/static-path](https://github.com/garybernhardt/static-path) - 
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) - A GUI to monitor and manage Tailscale on your Linux desktop.
@@ -5002,7 +5004,7 @@
 - [tigrawap/slit](https://github.com/tigrawap/slit) - slit - a modern PAGER for viewing logs, get more than most in less time
 - [sjl/vitality.vim](https://github.com/sjl/vitality.vim) - Make Vim play nicely with iTerm 2 and tmux.
 - [michaelwayman/node-sass-chokidar](https://github.com/michaelwayman/node-sass-chokidar) - A thin wrapper around node-sass to replicate the --watch using chokidar instead of Gaze
-- [discourse/onebox](https://github.com/discourse/onebox) - A gem for turning URLs into website previews
+- [discourse/onebox](https://github.com/discourse/onebox) - (DEPRECATED) A gem for turning URLs into website previews
 - [pomle/megamanjs](https://github.com/pomle/megamanjs) - An attempt to remake Megaman 2 in JavaScript with the end goal being a reusable platform engine.
 - [cazala/synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
 - [brianleroux/tiny-json-http](https://github.com/brianleroux/tiny-json-http) - :anchor: Minimalist HTTP client for JSON payloads.
