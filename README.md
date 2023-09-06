@@ -91,6 +91,8 @@
 
 ## C 
 
+- [neunenak/sshfs](https://github.com/neunenak/sshfs) - A network filesystem client to connect to SSH servers
+- [deadbeefsociety/sshfs](https://github.com/deadbeefsociety/sshfs) - A network filesystem client to connect to SSH servers
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [bitair-org/linker.js](https://github.com/bitair-org/linker.js) - Access Python & C-shared libraries(C, C++, Go, Rust, ...) from Node.js
@@ -1301,7 +1303,7 @@
 - [vorpaljs/bash-parser](https://github.com/vorpaljs/bash-parser) - Parses bash into an AST
 - [hyperform/hyperform](https://github.com/hyperform/hyperform) - Capture form validation back from the browser
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
-- [rehypejs/rehype-react](https://github.com/rehypejs/rehype-react) - plugin to transform to React
+- [rehypejs/rehype-react](https://github.com/rehypejs/rehype-react) - plugin to transform to preact, react, vue, etc
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [hcodes/yaspeller](https://github.com/hcodes/yaspeller) - 🔍 Search tool typos in the text, files and websites
 - [sindresorhus/to-fast-properties](https://github.com/sindresorhus/to-fast-properties) - Force V8 to use fast properties for an object
@@ -1558,6 +1560,7 @@
 
 ## Lua 
 
+- [RaafatTurki/corn.nvim](https://github.com/RaafatTurki/corn.nvim) - LSP diagnostics at your corner
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [Verf/deepwhite.nvim](https://github.com/Verf/deepwhite.nvim) - DeepWhite colorscheme for Neovim.
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
@@ -1577,7 +1580,7 @@
 - [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim
 - [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver for neovim.
 - [niuiic/format.nvim](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
-- [creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of different linter and formatter configurations for diagnostic-languageserver used for built-in nvim-lsp
+- [creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver for neovim.
 - [willothy/hollywood.nvim](https://github.com/willothy/hollywood.nvim) - 📸 Action! A flexible, elegant and featureful code action menu (WIP)
 - [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) - LSP diagnostics in virtual text at the top right of your screen
 - [Equilibris/nx.nvim](https://github.com/Equilibris/nx.nvim) - A simple tool providing the same features as the NX console does for vs-code
@@ -2232,6 +2235,7 @@
 
 ## Python 
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
@@ -2667,7 +2671,7 @@
 - [git-duet/git-duet](https://github.com/git-duet/git-duet) - Support for pairing with git
 - [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [karli-sjoberg/gswitch](https://github.com/karli-sjoberg/gswitch) - 
-- [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes installable under $HOME, without the root privileges
+- [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes without the root privileges
 - [dylanaraps/pfetch](https://github.com/dylanaraps/pfetch) - 🐧 A pretty system information tool written in POSIX sh.
 - [haideralipunjabi/polybar-kdeconnect](https://github.com/haideralipunjabi/polybar-kdeconnect) - KDEConnect module for Polybar
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
@@ -2889,7 +2893,7 @@
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React. Maintained by @goodcodeus.
 - [anttiviljami/openapi-client-axios](https://github.com/anttiviljami/openapi-client-axios) - JavaScript client library for consuming OpenAPI-enabled APIs with axios
-- [JoshuaKGoldberg/prettier-plugin-curly](https://github.com/JoshuaKGoldberg/prettier-plugin-curly) - Prettier plugin to enforce consistent brace style for all control statements.
+- [JoshuaKGoldberg/prettier-plugin-curly](https://github.com/JoshuaKGoldberg/prettier-plugin-curly) - Prettier plugin to enforce consistent brace style for all control statements. 🧹
 - [garybernhardt/static-path](https://github.com/garybernhardt/static-path) - 
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
@@ -2974,7 +2978,7 @@
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [bevry/caterpillar](https://github.com/bevry/caterpillar) - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including colo
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [expo/use-unmount-signal](https://github.com/expo/use-unmount-signal) - A React Hook to cancel promises when a component is unmounted
@@ -3009,7 +3013,7 @@
 - [pmndrs/leva](https://github.com/pmndrs/leva) - 🌋 React-first components GUI
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [LeetCode-OpenSource/rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks) - React hooks for RxJS
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
 - [rsms/estrella](https://github.com/rsms/estrella) - Lightweight and versatile build tool based on the esbuild compiler
 - [react-financial/react-financial-charts](https://github.com/react-financial/react-financial-charts) - Charts dedicated to finance.
