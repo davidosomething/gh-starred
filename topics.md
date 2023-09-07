@@ -1444,7 +1444,7 @@
 
 ## finance 
 
-- [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - Personal finance should be personal. Self-hosted and open source alternative to Mint and YNAB, using Laravel PHP + Vue 3 + InertiaJS + Redis + Meilisearch + TailwindCSS
+- [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [tomasz-oponowicz/markets](https://github.com/tomasz-oponowicz/markets) - A stock, currency and cryptocurrency tracker
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [euforic/banking.js](https://github.com/euforic/banking.js) - The Missing API for Banks - Get all of your transactions and balances using node
@@ -2775,7 +2775,7 @@
 ## laravel 
 
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
-- [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - Personal finance should be personal. Self-hosted and open source alternative to Mint and YNAB, using Laravel PHP + Vue 3 + InertiaJS + Redis + Meilisearch + TailwindCSS
+- [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
@@ -5082,7 +5082,7 @@
 - [Slgoetz/lemniscate](https://github.com/Slgoetz/lemniscate) - Infinite Loop
 - [filamentgroup/criticalCSS](https://github.com/filamentgroup/criticalCSS) - Finds the Above the Fold CSS for your page, and outputs it into a file
 - [zefei/vim-colortuner](https://github.com/zefei/vim-colortuner) - Adjust your vim colors using sliders
-- [WPO-Foundation/visualmetrics](https://github.com/WPO-Foundation/visualmetrics) - Calculate visual performance metrics from a video (Speed Index, Visual Complete, Incremental progress, etc)
+- [catchpoint/WebPageTest.visual-metrics](https://github.com/catchpoint/WebPageTest.visual-metrics) - Calculate visual performance metrics from a video (Speed Index, Visual Complete, Incremental progress, etc)
 - [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPageTest
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [jaredhanson/electrolyte](https://github.com/jaredhanson/electrolyte) - Elegant dependency injection for Node.js.
@@ -5138,7 +5138,6 @@
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [FormidableLabs/publish-diff](https://github.com/FormidableLabs/publish-diff) - Preview npm publish changes.
 - [adolenc/cl-neovim](https://github.com/adolenc/cl-neovim) - Common lisp client for neovim
-- [junegunn/vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
 - [reimertz/brand-colors](https://github.com/reimertz/brand-colors) - 🎨 A color collection available in sass, less, stylus and css
 - [tjmehta/101](https://github.com/tjmehta/101) - A modern JS utility library
@@ -7313,7 +7312,7 @@
 ## vuejs 
 
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-- [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - Personal finance should be personal. Self-hosted and open source alternative to Mint and YNAB, using Laravel PHP + Vue 3 + InertiaJS + Redis + Meilisearch + TailwindCSS
+- [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
