@@ -1140,7 +1140,6 @@
 - [zendesk/cross-storage](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions
 - [binci/binci](https://github.com/binci/binci) - :whale: Containerize your development workflow.
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
-- [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [muicss/sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [eBay/ebay-font](https://github.com/eBay/ebay-font) - A small utility to efficiently load custom web fonts
 - [nitin42/Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer) - Tutorial on how to make a custom React renderer
@@ -2364,7 +2363,7 @@
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [jarun/imgp](https://github.com/jarun/imgp) - :camera_flash: Fast batch image resizer and rotator
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [WPO-Foundation/visualmetrics](https://github.com/WPO-Foundation/visualmetrics) - Calculate visual performance metrics from a video (Speed Index, Visual Complete, Incremental progress, etc)
+- [catchpoint/WebPageTest.visual-metrics](https://github.com/catchpoint/WebPageTest.visual-metrics) - Calculate visual performance metrics from a video (Speed Index, Visual Complete, Incremental progress, etc)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [xolox/vim-tools](https://github.com/xolox/vim-tools) - Python scripts that make it easier (for me) to publish Vim plug-ins
 - [asottile/git-code-debt](https://github.com/asottile/git-code-debt) - A dashboard for monitoring code debt in a git repository.
@@ -3265,6 +3264,7 @@
 - [clauderic/react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [mWater/minimongo](https://github.com/mWater/minimongo) - Client-side in-memory mongodb backed by localstorage with server sync over http
+- [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) - WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -3768,7 +3768,6 @@
 - [dbmrq/vim-ditto](https://github.com/dbmrq/vim-ditto) - :speak_no_evil: Stop repeating yourself
 - [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [lifepillar/vim-mucomplete](https://github.com/lifepillar/vim-mucomplete) - Chained completion that works the way you want!
-- [junegunn/vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
 - [petrbroz/vim-glsl](https://github.com/petrbroz/vim-glsl) - 
 - [itchyny/vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
@@ -3950,7 +3949,7 @@
 
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [zwave-js/zwave-js-ui](https://github.com/zwave-js/zwave-js-ui) - Full featured Z-Wave Control Panel UI and MQTT gateway. Built using Nodejs, and Vue/Vuetify
-- [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - Personal finance should be personal. Self-hosted and open source alternative to Mint and YNAB, using Laravel PHP + Vue 3 + InertiaJS + Redis + Meilisearch + TailwindCSS
+- [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
