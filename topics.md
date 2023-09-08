@@ -1053,7 +1053,7 @@
 - [quicktype/glide-data-grid](https://github.com/quicktype/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [data-client/data-client](https://github.com/data-client/data-client) - Async State Management without the Management
+- [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
 
@@ -2036,6 +2036,7 @@
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
+- [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [miukimiu/react-kawaii](https://github.com/miukimiu/react-kawaii) - Cute SVG React Components
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -3602,7 +3603,6 @@
 - [burner/vim-svelte](https://github.com/burner/vim-svelte) - 
 - [m-pilia/vim-yggdrasil](https://github.com/m-pilia/vim-yggdrasil) - Vim library to generate tree-like views
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-- [rbong/vim-crystalline](https://github.com/rbong/vim-crystalline) - Build your own fancy statusline/tabline in Vim/Neovim
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [iamcco/diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) - diagnostic language server integrate with linters
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
@@ -4479,7 +4479,6 @@
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 - [MarianArlt/kde-plasmoid-betterinlineclock](https://github.com/MarianArlt/kde-plasmoid-betterinlineclock) - Your usual clock widget, just way better and on a single line!
 - [js-joda/js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript
-- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [yasuhiroki/github-actions-yaml.vim](https://github.com/yasuhiroki/github-actions-yaml.vim) - Vim plugin for GitHub Actions (yaml file)
 - [mikeal/bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await
 - [karli-sjoberg/gswitch](https://github.com/karli-sjoberg/gswitch) - 
@@ -5083,7 +5082,7 @@
 - [filamentgroup/criticalCSS](https://github.com/filamentgroup/criticalCSS) - Finds the Above the Fold CSS for your page, and outputs it into a file
 - [zefei/vim-colortuner](https://github.com/zefei/vim-colortuner) - Adjust your vim colors using sliders
 - [catchpoint/WebPageTest.visual-metrics](https://github.com/catchpoint/WebPageTest.visual-metrics) - Calculate visual performance metrics from a video (Speed Index, Visual Complete, Incremental progress, etc)
-- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPageTest
+- [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [jaredhanson/electrolyte](https://github.com/jaredhanson/electrolyte) - Elegant dependency injection for Node.js.
 - [Pyroh/Fluor](https://github.com/Pyroh/Fluor) - A handy tool for macOS allowing you to switch Fn keys' mode based on active application.
@@ -5945,7 +5944,7 @@
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - :memo: HTML to React parser.
 - [Metroxe/react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders.
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
-- [data-client/data-client](https://github.com/data-client/data-client) - Async State Management without the Management
+- [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management
 - [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - A multi-tab layout manager
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️Fusuma makes slides with Markdown easily.
 - [tvler/prop-sets](https://github.com/tvler/prop-sets) - Generate and test every possible instance of a component in React
@@ -6102,7 +6101,7 @@
 - [pveyes/htmr](https://github.com/pveyes/htmr) - Simple and lightweight (&lt; 2kB) HTML string to React element conversion library
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
-- [data-client/data-client](https://github.com/data-client/data-client) - Async State Management without the Management
+- [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
 - [maicki/why-did-you-update](https://github.com/maicki/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
 - [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) - A list of UI Kits available for React and React Native.
@@ -6338,6 +6337,7 @@
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [steffenfritz/pacaudit](https://github.com/steffenfritz/pacaudit) - pacaudit audits installed packages against known vulnerabilities listed on https://security.archlinux.org
+- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [gicmo/bolt](https://github.com/gicmo/bolt) - ⚡🐧 - Thunderbolt 3 device manager | This is a MIRROR of bolt from fd.o
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
@@ -6860,7 +6860,7 @@
 - [TimboKZ/Chonky](https://github.com/TimboKZ/Chonky) - 😸 A File Browser component for React.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [Metroxe/react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders.
-- [data-client/data-client](https://github.com/data-client/data-client) - Async State Management without the Management
+- [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management
 - [tvler/prop-sets](https://github.com/tvler/prop-sets) - Generate and test every possible instance of a component in React
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [blend/promise-utils](https://github.com/blend/promise-utils) - Lodash-like, dependency-free utilities for native ES6 promises.
@@ -7051,7 +7051,6 @@
 - [wincent/docvim](https://github.com/wincent/docvim) - Documentation generator for Vim plug-ins
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [rbong/vim-flog](https://github.com/rbong/vim-flog) - A fast, beautiful, and powerful git branch viewer for vim.
-- [rbong/vim-crystalline](https://github.com/rbong/vim-crystalline) - Build your own fancy statusline/tabline in Vim/Neovim
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [davidosomething/vim-colors-meh](https://github.com/davidosomething/vim-colors-meh) - My perpetually WIP colorscheme
 - [iamcco/diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) - diagnostic language server integrate with linters
