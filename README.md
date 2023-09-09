@@ -55,7 +55,6 @@
 - [QML](#qml)
 - [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -2000,6 +1999,7 @@
 
 ## Others 
 
+- [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents of FeedMe
 - [vaughantype/wumpus-mono](https://github.com/vaughantype/wumpus-mono) - A modern and functional monospaced typeface with a focus on legibility.
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
@@ -2429,10 +2429,6 @@
 ## Rich Text Format 
 
 - [huangyz0918/Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - Open source tutorial & information collector for hackintosh installation.
-
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
