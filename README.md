@@ -605,7 +605,7 @@
 ## JavaScript 
 
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee) - BudgetBee is a finance self hosted app
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface focused on creating a better reading experience.
@@ -3639,7 +3639,6 @@
 - [sirjofri/vim-glissues](https://github.com/sirjofri/vim-glissues) - vim gitlab issues plugin
 - [neoclide/vim-jsx-improve](https://github.com/neoclide/vim-jsx-improve) - Syntax and indent plugin for React jsx.
 - [troydm/zoomwintab.vim](https://github.com/troydm/zoomwintab.vim) - zoomwintab vim plugin
-- [dhruvasagar/vim-zoom](https://github.com/dhruvasagar/vim-zoom) - Toggle zoom in / out individual windows (splits)
 - [mattn/vim-fz](https://github.com/mattn/vim-fz) - Ultra Fast Fuzzy Finder for Vim8
 - [thaerkh/vim-indentguides](https://github.com/thaerkh/vim-indentguides) - 📐  Simple indentation guides for your buffers
 - [smerrill/vcl-vim-plugin](https://github.com/smerrill/vcl-vim-plugin) - A VCL highlighting plugin for vim.
