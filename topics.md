@@ -3339,6 +3339,7 @@
 
 ## neovim 
 
+- [cljoly/minimal-format.nvim](https://github.com/cljoly/minimal-format.nvim) - Smart formatting for neovim
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
@@ -4083,7 +4084,7 @@
 - [iway1/trpc-panel](https://github.com/iway1/trpc-panel) - 
 - [codex-team/codex.docs](https://github.com/codex-team/codex.docs) - Free Docs app powered by Editor.js ecosystem
 - [willothy/luahint](https://github.com/willothy/luahint) - LSP inline hints for Lua, intended for use with Neovim.
-- [mafik/gatekeeper](https://github.com/mafik/gatekeeper) - DHCP & DNS server for your home gateway. Gives you visibility into what's happening inside your network.
+- [mafik/gatekeeper](https://github.com/mafik/gatekeeper) - DHCP & DNS server optimized for home gateways.
 - [dugaldmorrow/handle-rate-limiting-js](https://github.com/dugaldmorrow/handle-rate-limiting-js) - 
 - [adamirr/ha_addons](https://github.com/adamirr/ha_addons) - Collection of custom HomeAssistant addons
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
