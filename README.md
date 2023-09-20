@@ -1559,6 +1559,8 @@
 
 ## Lua 
 
+- [neovim-stuff/null-ls.nvim](https://github.com/neovim-stuff/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+- [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
 - [yorickpeterse/nvim-pqf](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows for NeoVim
 - [projekt0n/caret.nvim](https://github.com/projekt0n/caret.nvim) - [WIP] The timeless colorscheme for neovim text editor.
@@ -3045,7 +3047,7 @@
 - [pmndrs/detect-gpu](https://github.com/pmndrs/detect-gpu) - Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [benrbray/noteworthy](https://github.com/benrbray/noteworthy) - Markdown editor with bidirectional links and excellent math support, powered by ProseMirror.  (In Development!)
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - Open-source product integrations: Easily integrate you app with any external API
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [pmndrs/react-nil](https://github.com/pmndrs/react-nil) - ⃝ A react null renderer
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [balazsbotond/urlcat](https://github.com/balazsbotond/urlcat) - A URL builder library for JavaScript.
