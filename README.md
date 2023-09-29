@@ -606,7 +606,7 @@
 ## JavaScript 
 
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [standardnotes/plugins](https://github.com/standardnotes/plugins) - Community plugins for Standard Notes — Experimental 🧪
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee) - BudgetBee is a finance self hosted app
@@ -1559,6 +1559,10 @@
 
 ## Lua 
 
+- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding
+- [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers.
+- [natecraddock/telescope-zf-native.nvim](https://github.com/natecraddock/telescope-zf-native.nvim) - native telescope bindings to zf for sorting results
+- [roobert/palette.nvim](https://github.com/roobert/palette.nvim) - 🎨 Palette - A beautiful, versatile, systematic, Neovim theme system
 - [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword) - A concise, precise, and high-performance cursor word highlighting plugin for Neovim, implemented in Lua.
 - [neovim-stuff/null-ls.nvim](https://github.com/neovim-stuff/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -1958,6 +1962,7 @@
 
 ## Nix 
 
+- [tailscale-dev/docker-mod](https://github.com/tailscale-dev/docker-mod) - The home for our universal Docker mod
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
@@ -2006,6 +2011,8 @@
 
 ## Others 
 
+- [lxgw/yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
+- [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
 - [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents of FeedMe
 - [vaughantype/wumpus-mono](https://github.com/vaughantype/wumpus-mono) - A modern and functional monospaced typeface with a focus on legibility.
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
@@ -2615,6 +2622,7 @@
 
 ## Shell 
 
+- [dkaser/unraid-tailscale](https://github.com/dkaser/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [acxz/pokescript](https://github.com/acxz/pokescript) - A lean shell program to show pokemon sprites in the terminal.
@@ -2805,7 +2813,7 @@
 
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 - [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
@@ -2848,6 +2856,7 @@
 
 ## TypeScript 
 
+- [measuredco/puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 - [frolicorg/frolic-react](https://github.com/frolicorg/frolic-react) - React Component Library to Build Analytics Dashboard 10x Faster
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
