@@ -564,7 +564,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [bgrins/devtools-snippets](https://github.com/bgrins/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
-- [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
+- [chuanxshi/javascript-patterns](https://github.com/chuanxshi/javascript-patterns) - JavaScript Design Patterns
 - [seanpowell/Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
 
 ## Haskell 
@@ -1180,7 +1180,6 @@
 - [zcreativelabs/react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Beautiful React SVG maps with d3-geo and topojson using a declarative api.
 - [snipsco/react-inview-monitor](https://github.com/snipsco/react-inview-monitor) - Declarative in-view scroll monitor for React JS
 - [sindresorhus/lock-cli](https://github.com/sindresorhus/lock-cli) - Lock your system from the command-line
-- [trevordmiller/nova-vim](https://github.com/trevordmiller/nova-vim) - Nova color scheme plugin for Vim
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [gitsummore/nile.js](https://github.com/gitsummore/nile.js) - Scalable peer to peer live video streaming built on torrents and webRTC
@@ -1939,7 +1938,7 @@
 
 ## M 
 
-- [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on M1 Macs. Useful to embed in various scripts.
+- [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on Apple Silicon Macs. Useful to embed in various scripts.
 
 ## M4 
 
@@ -3699,7 +3698,6 @@
 - [AndrewRadev/deleft.vim](https://github.com/AndrewRadev/deleft.vim) - Delete a wrapping if-clause, try-catch block, etc. and shift left.
 - [machakann/vim-Verdin](https://github.com/machakann/vim-Verdin) - An omni completion function for Vim script
 - [bogado/file-line](https://github.com/bogado/file-line) - Plugin for vim to enabling opening a file in a given line
-- [Quramy/vim-js-pretty-template](https://github.com/Quramy/vim-js-pretty-template) - highlights JavaScript's Template Strings in other FileType syntax rule
 - [osyo-manga/vim-precious](https://github.com/osyo-manga/vim-precious) - Vim context filetype
 - [Shougo/neco-vim](https://github.com/Shougo/neco-vim) - The Vim Script completion source for neocomplete/deoplete/ddc
 - [natebosch/vim-lsc](https://github.com/natebosch/vim-lsc) - A vim plugin for communicating with a language server
