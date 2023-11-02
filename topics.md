@@ -2423,6 +2423,7 @@
 - [lmammino/financial](https://github.com/lmammino/financial) - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
 - [ganapativs/react-spectrum](https://github.com/ganapativs/react-spectrum) - Generate colorful text placeholders 🎨
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
 - [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 - [luciopaiva/heapify](https://github.com/luciopaiva/heapify) - The fastest JavaScript priority queue out there. Zero dependencies.
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
@@ -3658,7 +3659,6 @@
 - [wsdjeg/vim-fuzzy](https://github.com/wsdjeg/vim-fuzzy) - Fuzzy find plugin for SpaceVim
 - [gillyb/stable-windows](https://github.com/gillyb/stable-windows) - Keeps vim windows stable on layout changes
 - [ripxorip/aerojump.nvim](https://github.com/ripxorip/aerojump.nvim) - Aerojump is a fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for nearly 20 languages 📚 Generate proper code documentation with a single keypress. ⚡️🔥
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
@@ -4819,7 +4819,7 @@
 - [swyxio/awesome-dev-podcasts](https://github.com/swyxio/awesome-dev-podcasts) - a curated list of awesome dev podcasts and why they are awesome
 - [scottwhudson/Lunette](https://github.com/scottwhudson/Lunette) - Zero-Config Spectacle Keybindings for Hammerspoon
 - [sindresorhus/p-reflect](https://github.com/sindresorhus/p-reflect) - Make a promise always fulfill with its actual fulfillment value or rejection reason
-- [sindresorhus/p-settle](https://github.com/sindresorhus/p-settle) - Settle promises concurrently and get their fulfillment value or rejection reason
+- [sindresorhus/p-settle](https://github.com/sindresorhus/p-settle) - Settle promises concurrently and get their fulfillment value or rejection reason with optional limited concurrency
 - [testdouble/theredoc](https://github.com/testdouble/theredoc) - Makes your multi-line JavaScript strings look good
 - [cpiger/NeoDebug](https://github.com/cpiger/NeoDebug) - NeoDebug - Vim plugin for interface to gdb from Vim
 - [Rich-Harris/devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't
@@ -5992,7 +5992,7 @@
 - [gokcan/react-shimmer](https://github.com/gokcan/react-shimmer) - 🌠 Async loading, performant Image component for React.js
 - [egoist/mordred](https://github.com/egoist/mordred) - [Experimental] Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
 - [beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine) - 📠 React custom hook for persist state management
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
 - [localjo/react-tater](https://github.com/localjo/react-tater) - A React component to add annotations to any element on a page 🥔
 - [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React.js weighs only 1.5 KB.
 - [alewin/useWorker](https://github.com/alewin/useWorker) - ⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks
@@ -6356,6 +6356,7 @@
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
@@ -6650,6 +6651,7 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
 - [burner/vim-svelte](https://github.com/burner/vim-svelte) - 
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 
@@ -6921,7 +6923,7 @@
 - [lmammino/financial](https://github.com/lmammino/financial) - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
 - [wellyshen/use-web-animations](https://github.com/wellyshen/use-web-animations) - 😎 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
 - [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [truework/gretchen](https://github.com/truework/gretchen) - Making fetch happen in TypeScript.
@@ -7108,7 +7110,7 @@
 - [wsdjeg/vim-fuzzy](https://github.com/wsdjeg/vim-fuzzy) - Fuzzy find plugin for SpaceVim
 - [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
 - [gillyb/stable-windows](https://github.com/gillyb/stable-windows) - Keeps vim windows stable on layout changes
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
 - [romainl/vim-dichromatic](https://github.com/romainl/vim-dichromatic) - A dark Vim colorscheme for color blind vimmers. But not only.
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator for nearly 20 languages 📚 Generate proper code documentation with a single keypress. ⚡️🔥
 - [sassanh/qnvim](https://github.com/sassanh/qnvim) - Neovim backend for Qt Creator
