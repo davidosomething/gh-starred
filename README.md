@@ -1106,7 +1106,7 @@
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [nzambello/ellipsed](https://github.com/nzambello/ellipsed) - A JavaScript library for multilined ellipsis
 - [appium/node-teen_process](https://github.com/appium/node-teen_process) - A slightly more grown-up version of Node's child_process
-- [sindresorhus/pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json
+- [sindresorhus/package-config](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json
 - [timoxley/linklocal](https://github.com/timoxley/linklocal) - Install local dependencies as symlinks.
 - [paulirish/commitlintbot](https://github.com/paulirish/commitlintbot) - 
 - [wooorm/refractor](https://github.com/wooorm/refractor) - Lightweight, robust, elegant virtual syntax highlighting using Prism
