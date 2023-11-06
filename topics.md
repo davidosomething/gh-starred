@@ -2020,7 +2020,6 @@
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-- [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [porridge/bambam](https://github.com/porridge/bambam) - keyboard mashing and doodling game for babies and toddlers
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -2041,7 +2040,6 @@
 - [stsewd/fzf-checkout.vim](https://github.com/stsewd/fzf-checkout.vim) - Manage branches and tags with fzf
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [ukrbublik/react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - User-friendly query builder for React
-- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
@@ -4919,7 +4917,7 @@
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [appium/node-teen_process](https://github.com/appium/node-teen_process) - A slightly more grown-up version of Node's child_process
-- [sindresorhus/pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json
+- [sindresorhus/package-config](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json
 - [timoxley/linklocal](https://github.com/timoxley/linklocal) - Install local dependencies as symlinks.
 - [paulirish/commitlintbot](https://github.com/paulirish/commitlintbot) - 
 - [sindresorhus/import-modules](https://github.com/sindresorhus/import-modules) - Import all modules in a directory
