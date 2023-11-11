@@ -4083,7 +4083,7 @@
 
 ## others 
 
-- [kubero-dev/ladder](https://github.com/kubero-dev/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io Bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io Bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [ronisbr/nano-theme.nvim](https://github.com/ronisbr/nano-theme.nvim) - Neovim N Λ N O Theme
 - [anatine/zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod
 - [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
