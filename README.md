@@ -330,7 +330,7 @@
 
 ## Go 
 
-- [kubero-dev/ladder](https://github.com/kubero-dev/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io Bypass paywalls with a proxy ladder and remove CORS headers from any URL
+- [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io Bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [reviewdog/errorformat](https://github.com/reviewdog/errorformat) - Vim's quickfix errorformat implementation in Go
 - [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
