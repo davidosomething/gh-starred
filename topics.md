@@ -4443,7 +4443,7 @@
 - [lukeed/nestie](https://github.com/lukeed/nestie) - A tiny (215B) and fast utility to expand a flattened object
 - [popey/sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
-- [johndbritton/teleport](https://github.com/johndbritton/teleport) - Virtual KVM for OS X
+- [johndbritton/teleport](https://github.com/johndbritton/teleport) - Virtual KVM for macOS
 - [trentm/node-dashdash](https://github.com/trentm/node-dashdash) - A light, featureful and explicit option parsing library for node.js.
 - [ntfstool/ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
 - [kentonv/dvorak-qwerty](https://github.com/kentonv/dvorak-qwerty) - "Dvorak-Qwerty ⌘" (DQ) keyboard layout for Windows and Unix/Linux/X
