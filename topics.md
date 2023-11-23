@@ -5515,7 +5515,7 @@
 - [haya14busa/underscore.vim](https://github.com/haya14busa/underscore.vim) - Vim script utility library :heartbeat: The sky is the limit!
 - [bramstein/fontfaceobserver](https://github.com/bramstein/fontfaceobserver) - Webfont loading. Simple, small, and efficient.
 - [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
-- [maxogden/menubar](https://github.com/maxogden/menubar) - ➖ high level way to create menubar desktop applications with electron
+- [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [styledown/styledown](https://github.com/styledown/styledown) - Markdown-based styleguide generator
 - [mattbrictson/airbrussh](https://github.com/mattbrictson/airbrussh) - Airbrussh pretties up your SSHKit and Capistrano output
 - [wilsonpage/fastdom](https://github.com/wilsonpage/fastdom) - Eliminates layout thrashing by batching DOM measurement and mutation tasks
@@ -5594,7 +5594,7 @@
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 - [Automattic/advanced-post-cache](https://github.com/Automattic/advanced-post-cache) - All up in your WP_Query, caching the things.
 - [at-import/breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass
-- [maxogden/cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
+- [max-mapper/cool-ascii-faces](https://github.com/max-mapper/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
 - [brandonsavage/Upload](https://github.com/brandonsavage/Upload) - File uploads with validation and storage strategies
 - [lalitkapoor/github-changes](https://github.com/lalitkapoor/github-changes) - Generate a changelog based on merged pull requests or commit messages
 - [NickRaven/seaforium](https://github.com/NickRaven/seaforium) - YayHooray!!! clone
