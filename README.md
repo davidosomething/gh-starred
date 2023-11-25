@@ -35,7 +35,6 @@
 - [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
-- [M](#m)
 - [M4](#m4)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -1936,10 +1935,6 @@
 - [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 - [sandalle/minecraft_bigreactor_control](https://github.com/sandalle/minecraft_bigreactor_control) - Minecraft BigReactor Computercraft Control Program
 
-## M 
-
-- [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on Apple Silicon Macs. Useful to embed in various scripts.
-
 ## M4 
 
 - [matejak/argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
@@ -1986,6 +1981,7 @@
 
 ## Objective-C 
 
+- [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on Apple Silicon Macs. Useful to embed in various scripts.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [johndbritton/teleport](https://github.com/johndbritton/teleport) - Virtual KVM for macOS
 - [pallotron/yubiswitch](https://github.com/pallotron/yubiswitch) - OSX status bar application to enable/disable Yubikey Nano
@@ -2264,7 +2260,6 @@
 - [negset/Firple](https://github.com/negset/Firple) - A monospaced Japanese font containing ligatures.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
-- [sainnhe/icursive-nerd-font](https://github.com/sainnhe/icursive-nerd-font) - Nerd Fonts with Cursive Italic Styles -- Read-only Mirror of https://git.sainnhe.dev/sainnhe/icursive-nerd-font
 - [adamirr/ha_addons](https://github.com/adamirr/ha_addons) - Collection of custom HomeAssistant addons
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
@@ -2505,7 +2500,7 @@
 - [dprint/dprint-plugin-dockerfile](https://github.com/dprint/dprint-plugin-dockerfile) - Dockerfile code formatting plugin for dprint.
 - [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
 - [iotaledger/stronghold.rs](https://github.com/iotaledger/stronghold.rs) - Stronghold is a secret management engine written in rust.
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [willothy/luahint](https://github.com/willothy/luahint) - LSP inline hints for Lua, intended for use with Neovim.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
@@ -3109,7 +3104,7 @@
 - [maxchehab/phelia](https://github.com/maxchehab/phelia) - ⚡ A reactive Slack application framework.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [ip-num/ip-num](https://github.com/ip-num/ip-num) - A TypeScript/JavaScript library for working with ASN, IPv4, and IPv6 numbers. It provides representations of these internet protocol numbers with the ability to perform various IP related operations l
-- [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (153 bytes) event emitter library for JavaScript
+- [ai/nanoevents](https://github.com/ai/nanoevents) - Simple and tiny (107 bytes) event emitter library for JavaScript
 - [luciopaiva/heapify](https://github.com/luciopaiva/heapify) - The fastest JavaScript priority queue out there. Zero dependencies.
 - [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React.js weighs only 1.5 KB.
 - [truework/gretchen](https://github.com/truework/gretchen) - Making fetch happen in TypeScript.
