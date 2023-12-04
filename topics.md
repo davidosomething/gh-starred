@@ -7552,7 +7552,7 @@
 - [Automattic/ad-code-manager](https://github.com/Automattic/ad-code-manager) - Easily manage the ad codes that need to appear in your templates
 - [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [xwp/stream](https://github.com/xwp/stream) - 🗄️  Stream plugin for WordPress
-- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The Developer Tools Panel for WordPress
+- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 
 ## xcode 
