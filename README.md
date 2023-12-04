@@ -2226,7 +2226,7 @@
 - [panique/huge](https://github.com/panique/huge) - Simple user-authentication solution, embedded into a small framework.
 - [brandonsavage/Upload](https://github.com/brandonsavage/Upload) - File uploads with validation and storage strategies
 - [NickRaven/seaforium](https://github.com/NickRaven/seaforium) - YayHooray!!! clone
-- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The Developer Tools Panel for WordPress
+- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [markjaquith/WordPress-Skeleton](https://github.com/markjaquith/WordPress-Skeleton) - Basic layout of a WordPress Git repository. I use this as a base when creating a new repo.
