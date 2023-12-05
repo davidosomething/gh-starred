@@ -4304,7 +4304,7 @@
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres
 - [KDE/sddm-kcm](https://github.com/KDE/sddm-kcm) - Configuration module for SDDM
 - [juks/iso-8583-socket-queue](https://github.com/juks/iso-8583-socket-queue) - ISO 8583 gateway
-- [dev47apps/droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux client for DroidCam
+- [dev47apps/droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux/nix client for DroidCam
 - [levouh/tint.nvim](https://github.com/levouh/tint.nvim) - Dim inactive windows in Neovim using window-local highlight namespaces.
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim) - Nvim Plugin
