@@ -3493,7 +3493,7 @@
 - [AndrewRadev/quickpeek.vim](https://github.com/AndrewRadev/quickpeek.vim) - Show a preview popup on quickfix entries
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
 - [jonasjacek/colorcli](https://github.com/jonasjacek/colorcli) - Collection of harmonized, light command-line interface (CLI) color themes for tmux, cmus, newsboat, mcabber, Vim, Vifm, and Mutt.
-- [arp242/gopher.vim](https://github.com/arp242/gopher.vim) - A Vim plugin for the Go programming language
+- [arp242/gopher.vim](https://github.com/arp242/gopher.vim) - Plugin for the Go programming language
 - [osyo-manga/vim-jplus](https://github.com/osyo-manga/vim-jplus) - Smart line joint vim plugin.
 - [januswel/fencja.vim](https://github.com/januswel/fencja.vim) - Sets to appropriate fileencoding value for files that have Japanese characters automatically
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
