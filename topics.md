@@ -742,6 +742,7 @@
 ## chatgpt 
 
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
 ## chrome 
@@ -1562,7 +1563,7 @@
 - [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim) - A comprehensive Vim utility functions for Vim plugins
 - [dyo/dyo](https://github.com/dyo/dyo) - Dyo is a JavaScript library for building user interfaces.
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
@@ -2594,7 +2595,7 @@
 - [samccone/bundle-buddy](https://github.com/samccone/bundle-buddy) - A tool to understand your bundle size and why files are in your bundle
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [atom/etch](https://github.com/atom/etch) - Builds components using a simple and explicit API around virtual-dom
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - 💻 JavaScript implementations of computer science algorithms
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
@@ -3487,7 +3488,7 @@
 - [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim) - 💾 Simple session management for Neovim with git branching, autoloading and Telescope support
 - [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) - 📌 the no-nonsense session manager
 - [danymat/neogen](https://github.com/danymat/neogen) - A better annotation generator. Supports multiple languages and annotation conventions.
-- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of two dozen new text objects for Neovim.
+- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of more than 30 new text objects for Neovim.
 - [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - You can attach a terminal-buffer for each buffer.
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar for Neovim
 - [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
@@ -3773,7 +3774,7 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [theninthsky/client-side-rendering](https://github.com/theninthsky/client-side-rendering) - A case study of CSR.
@@ -3807,7 +3808,6 @@
 - [Jaid/action-sync-node-meta](https://github.com/Jaid/action-sync-node-meta) - GitHub Action that syncs package.json with the repository metadata.
 - [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -3829,9 +3829,9 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [foldmap/getopts](https://github.com/foldmap/getopts) - Node.js CLI options parser
+- [joxji/getopts](https://github.com/joxji/getopts) - Node.js CLI options parser
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [foldmap/classcat](https://github.com/foldmap/classcat) - Build a class attribute string quickly
+- [joxji/classcat](https://github.com/joxji/classcat) - Build a class attribute string quickly
 - [rhysd/promised-neovim-client](https://github.com/rhysd/promised-neovim-client) - node.js neovim client for modern JavaScript programmers
 - [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, taro, bulma, browser-sync, documentation.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
@@ -4093,8 +4093,9 @@
 
 ## others 
 
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
-- [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) - Bmessages.nvim better :messages buffer.
+- [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) - Bmessages.nvim better :messages using an auto-updating buffer.
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
 - [Zren/plasma-applet-eventcalendar](https://github.com/Zren/plasma-applet-eventcalendar) - 
 - [OlegGulevskyy/better-ts-errors.nvim](https://github.com/OlegGulevskyy/better-ts-errors.nvim) - 
@@ -5949,7 +5950,7 @@
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [inovua/reactdatagrid](https://github.com/inovua/reactdatagrid) - Empower Your Data with the best React Data Grid there is
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) - 
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
@@ -7436,6 +7437,7 @@
 - [simonwep/selection](https://github.com/simonwep/selection) - ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks!
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
@@ -7474,7 +7476,7 @@
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
-- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [google/tamperchrome](https://github.com/google/tamperchrome) - Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Works across all operating systems (including Chrome OS).
 - [wavesoft/dot-dom](https://github.com/wavesoft/dot-dom) - .dom is a tiny (512 byte) template engine that uses virtual DOM and some of react principles
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
