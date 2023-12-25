@@ -1128,12 +1128,12 @@
 - [jefflau/jest-fetch-mock](https://github.com/jefflau/jest-fetch-mock) - Jest mock for fetch
 - [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) - A CLI dashboard for webpack dev server
 - [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
-- [joxji/getopts](https://github.com/joxji/getopts) - Node.js CLI options parser
+- [jorgebucaran/getopts](https://github.com/jorgebucaran/getopts) - Node.js CLI options parser
 - [gdborton/webpack-parallel-uglify-plugin](https://github.com/gdborton/webpack-parallel-uglify-plugin) - A faster uglifyjs plugin.
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [atlassian/lerna-semantic-release](https://github.com/atlassian/lerna-semantic-release) - 📦:🛠✨💥 – fully automated package publishing
 - [tomas/needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support.
-- [joxji/classcat](https://github.com/joxji/classcat) - Build a class attribute string quickly
+- [jorgebucaran/classcat](https://github.com/jorgebucaran/classcat) - Build a class attribute string quickly
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
 - [webpack/enhanced-resolve](https://github.com/webpack/enhanced-resolve) - Offers an async require.resolve function. It's highly configurable.
@@ -1198,7 +1198,7 @@
 - [csstools/mdcss](https://github.com/csstools/mdcss) - Easily create and maintain style guides using CSS comments
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
-- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
 - [atom/etch](https://github.com/atom/etch) - Builds components using a simple and explicit API around virtual-dom
 - [Bishop92/JavaScript-Data-Structures](https://github.com/Bishop92/JavaScript-Data-Structures) - A library for data structure in JavaScript
@@ -1989,7 +1989,7 @@
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [johndbritton/teleport](https://github.com/johndbritton/teleport) - Virtual KVM for macOS
 - [pallotron/yubiswitch](https://github.com/pallotron/yubiswitch) - OSX status bar application to enable/disable Yubikey Nano
-- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [timonus/Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and links.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [billziss-gh/EnergyBar](https://github.com/billziss-gh/EnergyBar) - Supercharge your Mac's Touch Bar.
@@ -2503,7 +2503,7 @@
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [dprint/dprint-plugin-dockerfile](https://github.com/dprint/dprint-plugin-dockerfile) - Dockerfile code formatting plugin for dprint.
-- [jdx/rtx](https://github.com/jdx/rtx) - Runtime Executor (asdf-plugin compatible)
+- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
 - [iotaledger/stronghold.rs](https://github.com/iotaledger/stronghold.rs) - Stronghold is a secret management engine written in rust.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [willothy/luahint](https://github.com/willothy/luahint) - LSP inline hints for Lua, intended for use with Neovim.
