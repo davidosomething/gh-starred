@@ -828,7 +828,6 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [sqmk/huejay](https://github.com/sqmk/huejay) - Philips Hue client for Node.js
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
-- [maicki/why-did-you-update](https://github.com/maicki/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
 - [kentcdodds/stop-runaway-react-effects](https://github.com/kentcdodds/stop-runaway-react-effects) - 🏃 Catches situations when a react use(Layout)Effect runs repeatedly in rapid succession
 - [victorvoid/dinoql](https://github.com/victorvoid/dinoql) - A customizable GraphQL style query language for interacting with JavaScript objects.
 - [lukeed/dequal](https://github.com/lukeed/dequal) - A tiny (304B to 489B) utility to check for deep equality
@@ -1655,7 +1654,7 @@
 - [sam4llis/nvim-tundra](https://github.com/sam4llis/nvim-tundra) - A theme for Neovim with support for LSP, Treesitter, Telescope, and more.
 - [sidebar-nvim/sidebar.nvim](https://github.com/sidebar-nvim/sidebar.nvim) - A generic and modular lua sidebar for Neovim
 - [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) - Implementation of gx without the need of netrw
-- [itsFrank/nvim-swell](https://github.com/itsFrank/nvim-swell) - A neovim plugin for making windows swole
+- [itsfrank/nvim-swell](https://github.com/itsfrank/nvim-swell) - A neovim plugin for making windows swole
 - [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) - A neovim plugin to add notes or comments to any buffer
 - [sQVe/dotfiles](https://github.com/sQVe/dotfiles) - sQVe dotfiles
 - [babarot/cursor-x.nvim](https://github.com/babarot/cursor-x.nvim) - 
@@ -2504,7 +2503,7 @@
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [dprint/dprint-plugin-dockerfile](https://github.com/dprint/dprint-plugin-dockerfile) - Dockerfile code formatting plugin for dprint.
-- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [iotaledger/stronghold.rs](https://github.com/iotaledger/stronghold.rs) - Stronghold is a secret management engine written in rust.
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [willothy/luahint](https://github.com/willothy/luahint) - LSP inline hints for Lua, intended for use with Neovim.
@@ -3249,7 +3248,7 @@
 - [rcjsuen/dockerfile-language-service](https://github.com/rcjsuen/dockerfile-language-service) - Dockerfile language service for providing an API to create feature-rich Dockerfile editors in JavaScript.
 - [argos-ci/jest-puppeteer](https://github.com/argos-ci/jest-puppeteer) - Run tests using Jest & Puppeteer 🎪✨
 - [vv-vim/vv](https://github.com/vv-vim/vv) - Neovim client for macOS
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
