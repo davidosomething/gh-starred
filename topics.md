@@ -742,7 +742,7 @@
 ## chatgpt 
 
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
 ## chrome 
@@ -1100,7 +1100,7 @@
 ## data-structures 
 
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [luciopaiva/heapify](https://github.com/luciopaiva/heapify) - The fastest JavaScript priority queue out there. Zero dependencies.
 - [amejiarosario/dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -1158,7 +1158,7 @@
 ## deno 
 
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
-- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [bevry/caterpillar](https://github.com/bevry/caterpillar) - Caterpillar is the ultimate logging system for Deno, Node.js, and Web Browsers. Log levels are implemented to the RFC standard. Log entries can be filtered and piped to various streams, including colo
 - [lmammino/financial](https://github.com/lmammino/financial) - A Zero-dependency TypeScript/JavaScript financial library (based on numpy-financial) for Node.js, Deno and the browser
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
@@ -1326,7 +1326,7 @@
 
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -2101,7 +2101,7 @@
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [char0n/ramda-adjunct](https://github.com/char0n/ramda-adjunct) - Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals) - Easily exclude node modules in Webpack
 - [jMavarez/Tana](https://github.com/jMavarez/Tana) - Bringing the Picture-in-Picture experience to the desktop.
@@ -2341,6 +2341,7 @@
 
 ## java 
 
+- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
@@ -2399,7 +2400,7 @@
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [TheodoreChu/append-editor](https://github.com/TheodoreChu/append-editor) - Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco | https://appendeditor.com
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -2464,7 +2465,6 @@
 - [tvler/prop-sets](https://github.com/tvler/prop-sets) - Generate and test every possible instance of a component in React
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [sqmk/huejay](https://github.com/sqmk/huejay) - Philips Hue client for Node.js
-- [maicki/why-did-you-update](https://github.com/maicki/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
 - [blend/promise-utils](https://github.com/blend/promise-utils) - Lodash-like, dependency-free utilities for native ES6 promises.
 - [mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas](https://github.com/mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas) - React application built with HTML5 Canvas. ES6, React, JSX, Redux. Features cute Harvest Moon sprites! :cow:
@@ -2516,7 +2516,7 @@
 - [staltz/xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
 - [taylorhakes/fecha](https://github.com/taylorhakes/fecha) - Lightweight and simple JS date formatting and parsing
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
@@ -3258,7 +3258,7 @@
 - [haltcase/tablemark](https://github.com/haltcase/tablemark) - Generate markdown tables from JSON data.
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) - Automatic list continuation and formatting for neovim, powered by lua
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [Philip-Scott/Notes-up](https://github.com/Philip-Scott/Notes-up) - Markdown notes editor & manager
@@ -3411,7 +3411,7 @@
 - [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword) - A concise, precise, and high-performance cursor word highlighting plugin for Neovim, implemented in Lua.
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between NeoVim windows.
 - [yorickpeterse/nvim-pqf](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows for NeoVim
-- [cljoly/minimal-format.nvim](https://github.com/cljoly/minimal-format.nvim) - Smart formatting for neovim
+- [cljoly/minimal-format.nvim](https://github.com/cljoly/minimal-format.nvim) - Minimal, smart formatting using native neovim capabilities.
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) - Plugin that adds a 'cut' operation separate from 'delete'
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
@@ -3807,11 +3807,11 @@
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [Jaid/action-sync-node-meta](https://github.com/Jaid/action-sync-node-meta) - GitHub Action that syncs package.json with the repository metadata.
 - [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
-- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [breejs/bree](https://github.com/breejs/bree) - Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.
 - [kwent/syno](https://github.com/kwent/syno) - Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x.
 - [pmndrs/react-nil](https://github.com/pmndrs/react-nil) - ⃝ A react null renderer
@@ -4093,6 +4093,7 @@
 
 ## others 
 
+- [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) - Bmessages.nvim better :messages using an auto-updating buffer.
@@ -4144,6 +4145,7 @@
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) - LSP diagnostics in virtual text at the top right of your screen
 - [ccorcos/tuple-database](https://github.com/ccorcos/tuple-database) - 
+- [ota-meshi/eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regex mistakes and style guide violations.
 - [yutkat/osc52.nvim](https://github.com/yutkat/osc52.nvim) - Copy text to local clipboard in ssh using OSC52
 - [shikasta-net/walla-pocket](https://github.com/shikasta-net/walla-pocket) - Wallabag to Pocket sync for Kobo convenience
 - [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports) - An opinionated but flexible prettier plugin to sort import statements
@@ -4166,7 +4168,7 @@
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
 - [acxz/pokescript](https://github.com/acxz/pokescript) - A lean shell program to show pokemon sprites in the terminal.
 - [OrJDev/trpc-limiter](https://github.com/OrJDev/trpc-limiter) - Open Source Rate Limiter Middleware For tRPC. Supporting Upstash, Memory Store And Much More
-- [jdx/rtx](https://github.com/jdx/rtx) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [JoshuaKGoldberg/prettier-plugin-curly](https://github.com/JoshuaKGoldberg/prettier-plugin-curly) - Prettier plugin to enforce consistent brace style for all control statements. 🥌
 - [garybernhardt/static-path](https://github.com/garybernhardt/static-path) - 
 - [f-koehler/KTailctl](https://github.com/f-koehler/KTailctl) - A GUI to monitor and manage Tailscale on your Linux desktop.
@@ -4220,7 +4222,7 @@
 - [JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim) - bionic-like reading inside Neovim
 - [sam4llis/nvim-tundra](https://github.com/sam4llis/nvim-tundra) - A theme for Neovim with support for LSP, Treesitter, Telescope, and more.
 - [davidosomething/apcaccess-command-output](https://github.com/davidosomething/apcaccess-command-output) - Script to output APC UPS short status using apcaccess command
-- [itsFrank/nvim-swell](https://github.com/itsFrank/nvim-swell) - A neovim plugin for making windows swole
+- [itsfrank/nvim-swell](https://github.com/itsfrank/nvim-swell) - A neovim plugin for making windows swole
 - [sQVe/dotfiles](https://github.com/sQVe/dotfiles) - sQVe dotfiles
 - [theleagueof/league-mono](https://github.com/theleagueof/league-mono) - A monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier.
 - [babarot/cursor-x.nvim](https://github.com/babarot/cursor-x.nvim) - 
@@ -4723,7 +4725,7 @@
 - [alexreardon/use-memo-one](https://github.com/alexreardon/use-memo-one) - useMemo and useCallback but with a stable cache
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
-- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (228B) utility for constructing `className` strings conditionally.
+- [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare) - fastest deep equal comparison for React
 - [TehShrike/deepmerge](https://github.com/TehShrike/deepmerge) - A library for deep (recursive) merging of Javascript objects
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
@@ -6063,7 +6065,6 @@
 - [yandex/reshadow](https://github.com/yandex/reshadow) - Markup and styles that feel right
 - [glauberfc/awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) - A curated list about React Hooks
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
-- [maicki/why-did-you-update](https://github.com/maicki/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [kentcdodds/stop-runaway-react-effects](https://github.com/kentcdodds/stop-runaway-react-effects) - 🏃 Catches situations when a react use(Layout)Effect runs repeatedly in rapid succession
 - [lordgiotto/react-metatags-hook](https://github.com/lordgiotto/react-metatags-hook) - React Hook to manage html meta tags
@@ -6210,7 +6211,6 @@
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)
-- [maicki/why-did-you-update](https://github.com/maicki/why-did-you-update) - :boom: Puts your console on blast when React is making unnecessary updates.
 - [lucianomlima/react-ui-kits](https://github.com/lucianomlima/react-ui-kits) - A list of UI Kits available for React and React Native.
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript
@@ -6480,6 +6480,7 @@
 
 ## self-hosted 
 
+- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
@@ -6949,7 +6950,7 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
-- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [TheodoreChu/append-editor](https://github.com/TheodoreChu/append-editor) - Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco | https://appendeditor.com
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -7018,7 +7019,7 @@
 - [steelbreeze/state](https://github.com/steelbreeze/state) - Hierarchical finite state machine for TypeScript and JavaScript
 - [cdata/vim-tagged-template](https://github.com/cdata/vim-tagged-template) - Highlights JavaScript/TypeScript tagged Template Strings with custom syntaxes
 - [staltz/xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript
-- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
@@ -7419,7 +7420,7 @@
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [zwave-js/zwave-js-ui](https://github.com/zwave-js/zwave-js-ui) - Full featured Z-Wave Control Panel UI and MQTT gateway. Built using Nodejs, and Vue/Vuetify
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [yaegassy/coc-html-css-support](https://github.com/yaegassy/coc-html-css-support) - HTML id and class attribute "completion" for coc.nvim.
