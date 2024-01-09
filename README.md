@@ -27,7 +27,6 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -531,6 +530,7 @@
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [ameyrupji/thunderbolt-macpro-5-1](https://github.com/ameyrupji/thunderbolt-macpro-5-1) - My story to add thunderbolt support to my Mac Pro Early 2009 (5,1)
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [upnextinc/upnext](https://github.com/upnextinc/upnext) - 📆 See/join meetings from the menu bar
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -579,12 +579,9 @@
 - [awgn/cgrep](https://github.com/awgn/cgrep) - Cgrep: a context-aware grep for source codes
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
-## Janet 
-
-- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
-
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -674,7 +671,7 @@
 - [tomsouthall/turnstone](https://github.com/tomsouthall/turnstone) - React customisable autocomplete component with typeahead and grouped results from multiple APIs.
 - [TheodoreChu/append-editor](https://github.com/TheodoreChu/append-editor) - Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco | https://appendeditor.com
 - [flavioschneider/graphire](https://github.com/flavioschneider/graphire) - An unopinionated react graph visualization library.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a lightweight HTML5 game engine with many features and no depenencies. 🚂 Choo-Choo!
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Schepp/dom-treemap-devtools-extension](https://github.com/Schepp/dom-treemap-devtools-extension) - A Chrome Devtools extension that helps you explore the distribution of DOM nodes in the document tree.
@@ -1482,7 +1479,7 @@
 - [bramstein/fontfaceobserver](https://github.com/bramstein/fontfaceobserver) - Webfont loading. Simple, small, and efficient.
 - [hound-search/hound](https://github.com/hound-search/hound) - Lightning fast code searching made easy
 - [styledown/styledown](https://github.com/styledown/styledown) - Markdown-based styleguide generator
-- [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [wilsonpage/fastdom](https://github.com/wilsonpage/fastdom) - Eliminates layout thrashing by batching DOM measurement and mutation tasks
 - [caiogondim/logdown.js](https://github.com/caiogondim/logdown.js) - :pencil2: Debug utility with markdown support that runs on browser and server
 - [Documented-Style-Sheets/Parser](https://github.com/Documented-Style-Sheets/Parser) - :page_facing_up: Documented Style Sheets Parser
@@ -1892,6 +1889,7 @@
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [LoricAndre/fzterm.nvim](https://github.com/LoricAndre/fzterm.nvim) - Fuzzy finder plugin for neovim, written in lua
 - [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) - A dark neovim colorscheme written in lua
+- [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [numToStr/BufOnly.nvim](https://github.com/numToStr/BufOnly.nvim) - Lua/Neovim port of BufOnly.vim with some changes
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) - Better defaults for nvim-lsp actions
@@ -2632,6 +2630,7 @@
 
 ## Shell 
 
+- [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn) - NordVpn Docker Client
 - [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) - 🔧 My dotfiles on  macOS for Neovim, Zsh, kitty, lf, etc
 - [dkaser/unraid-tailscale](https://github.com/dkaser/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
@@ -3081,7 +3080,6 @@
 - [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
 - [MTG/essentia.js](https://github.com/MTG/essentia.js) - JavaScript library for music/audio analysis and processing powered by Essentia WebAssembly
 - [pmndrs/detect-gpu](https://github.com/pmndrs/detect-gpu) - Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [benrbray/noteworthy](https://github.com/benrbray/noteworthy) - Markdown editor with bidirectional links and excellent math support, powered by ProseMirror.  (In Development!)
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
 - [pmndrs/react-nil](https://github.com/pmndrs/react-nil) - ⃝ A react null renderer
