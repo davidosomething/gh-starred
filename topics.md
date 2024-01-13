@@ -377,6 +377,7 @@
 
 ## automation 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1969,7 +1970,6 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
 - [SUSTech-data/wildfire.nvim](https://github.com/SUSTech-data/wildfire.nvim) - wildfire burns treesitter
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
@@ -2362,6 +2362,7 @@
 
 ## javascript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods
@@ -3406,6 +3407,7 @@
 
 ## neovim 
 
+- [tim-harding/neophyte](https://github.com/tim-harding/neophyte) - A WebGPU rendered Neovim GUI
 - [MunifTanjim/nougat.nvim](https://github.com/MunifTanjim/nougat.nvim) - 🍫 Hyperextensible Statusline / Tabline / Winbar for Neovim 🚀
 - [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) - 🔧 My dotfiles on  macOS for Neovim, Zsh, kitty, lf, etc
 - [FabianWirth/search.nvim](https://github.com/FabianWirth/search.nvim) - nvim plugin that adds tabs for telescope search
@@ -5810,7 +5812,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
-- [PolicyEngine/policyengine-us](https://github.com/PolicyEngine/policyengine-us) - A model of federal and State taxes and benefits.
+- [PolicyEngine/policyengine-us](https://github.com/PolicyEngine/policyengine-us) - The PolicyEngine US Python package contains a rules engine of the US tax-benefit system, and microdata generation for microsimulation analysis.
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq) - BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
@@ -6352,6 +6354,7 @@
 
 ## rust 
 
+- [tim-harding/neophyte](https://github.com/tim-harding/neophyte) - A WebGPU rendered Neovim GUI
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
@@ -6854,6 +6857,7 @@
 
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing.
 - [americanexpress/jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot) - ✨ Jest matcher for image comparisons. Most commonly used for visual regression testing.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
