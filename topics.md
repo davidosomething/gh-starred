@@ -231,6 +231,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -3421,6 +3422,7 @@
 
 ## neovim 
 
+- [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (~ 120loc) that hightlights ranges you have entered in commandline.
 - [rasulomaroff/reactive.nvim](https://github.com/rasulomaroff/reactive.nvim) - Add a bit of reactivity to your Neovim experience. Apply highlights in different modes and operators, active and inactive windows.
 - [ntk148v/komau.vim](https://github.com/ntk148v/komau.vim) - Yet another minimal colorscheme for Vim/Neovim
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance ✅💙💛🤍💚
@@ -4117,6 +4119,7 @@
 
 ## others 
 
+- [FelipeLema/cmp-async-path](https://github.com/FelipeLema/cmp-async-path) - nvim-cmp source for path (async version)
 - [paytonward6/nvim-wezlime](https://github.com/paytonward6/nvim-wezlime) - 
 - [Brandawg93/PeaNUT](https://github.com/Brandawg93/PeaNUT) - A tiny dashboard for Network UPS Tools
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
@@ -7532,6 +7535,10 @@
 - [rstacruz/remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements
 - [ktsn/birdseye](https://github.com/ktsn/birdseye) - Next generation component catalog
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
+
+## web-development 
+
+- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 
 ## webapp 
 
