@@ -4119,6 +4119,7 @@
 
 ## others 
 
+- [CrispyBaccoon/evergarden](https://github.com/CrispyBaccoon/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding.
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
 - [FelipeLema/cmp-async-path](https://github.com/FelipeLema/cmp-async-path) - nvim-cmp source for path (async version)
 - [paytonward6/nvim-wezlime](https://github.com/paytonward6/nvim-wezlime) - 
