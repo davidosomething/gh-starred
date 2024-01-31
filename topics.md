@@ -5152,7 +5152,6 @@
 - [chr4/nginx.vim](https://github.com/chr4/nginx.vim) - Improved nginx vim plugin (incl. syntax highlighting)
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [mxw/vim-jsx](https://github.com/mxw/vim-jsx) - React JSX syntax highlighting and indenting for vim.
-- [felixrieseberg/React-Dropzone-Component](https://github.com/felixrieseberg/React-Dropzone-Component) - :camera: ReactJS Dropzone for File Uploads (using Dropzone.js)
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [segmentio/niffy](https://github.com/segmentio/niffy) - Perceptual diffing suite built on Nightmare
 - [codrops/GridLoadingAnimations](https://github.com/codrops/GridLoadingAnimations) - Some inspiration for loading effects on grid items.
@@ -5641,7 +5640,6 @@
 - [Automattic/advanced-post-cache](https://github.com/Automattic/advanced-post-cache) - All up in your WP_Query, caching the things.
 - [at-import/breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass
 - [max-mapper/cool-ascii-faces](https://github.com/max-mapper/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
-- [brandonsavage/Upload](https://github.com/brandonsavage/Upload) - File uploads with validation and storage strategies
 - [lalitkapoor/github-changes](https://github.com/lalitkapoor/github-changes) - Generate a changelog based on merged pull requests or commit messages
 - [NickRaven/seaforium](https://github.com/NickRaven/seaforium) - YayHooray!!! clone
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
