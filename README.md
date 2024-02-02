@@ -957,7 +957,7 @@
 - [GoogleChromeLabs/size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [mafintosh/turbo-json-parse](https://github.com/mafintosh/turbo-json-parse) - Turbocharged JSON.parse for type stable JSON data
 - [souporserious/react-measure](https://github.com/souporserious/react-measure) - 📏 Compute measurements of a React component.
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [drcmda/mauerwerk](https://github.com/drcmda/mauerwerk) - ⚒  A react-spring driven masonry-like grid with enter/exit and shared element transitions
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [steelbreeze/state](https://github.com/steelbreeze/state) - Hierarchical finite state machine for TypeScript and JavaScript
@@ -1574,6 +1574,7 @@
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
 - [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) - Bmessages.nvim better :messages using an auto-updating buffer.
 - [MunifTanjim/nougat.nvim](https://github.com/MunifTanjim/nougat.nvim) - 🍫 Hyperextensible Statusline / Tabline / Winbar for Neovim 🚀
+- [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) - 🔧 My dotfiles on  macOS for Neovim, Zsh, kitty, lf, etc
 - [OlegGulevskyy/better-ts-errors.nvim](https://github.com/OlegGulevskyy/better-ts-errors.nvim) - 
 - [FabianWirth/search.nvim](https://github.com/FabianWirth/search.nvim) - nvim plugin that adds tabs for telescope search
 - [ronisbr/nano-theme.nvim](https://github.com/ronisbr/nano-theme.nvim) - Neovim N Λ N O Theme
@@ -2503,6 +2504,7 @@
 
 ## Rust 
 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [tim-harding/neophyte](https://github.com/tim-harding/neophyte) - A WebGPU rendered Neovim GUI
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
@@ -2645,7 +2647,6 @@
 ## Shell 
 
 - [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn) - NordVpn Docker Client
-- [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) - 🔧 My dotfiles on  macOS for Neovim, Zsh, kitty, lf, etc
 - [dkaser/unraid-tailscale](https://github.com/dkaser/unraid-tailscale) - Installs Tailscale as an unRAID plugin. This allows connection via Tailscale even if the array is stopped.
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
