@@ -592,7 +592,7 @@
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Ultra Easy to Set Up and Maintain.
 - [TrashboxBobylev/Summoning-Pixel-Dungeon](https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon) - The expansion for Shattered Pixel Dungeon
 - [stathissideris/ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
 - [Mini-Weav/SchoolQuest](https://github.com/Mini-Weav/SchoolQuest) - School-sim RPG with integrated tile map engine.
@@ -766,7 +766,7 @@
 - [mikeal/bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await
 - [Ovilia/Polyvia](https://github.com/Ovilia/Polyvia) - Low-Poly Image and Video Processing
 - [egoist/testen](https://github.com/egoist/testen) - :heavy_check_mark: Run tests for multiple versions of Node.js in local env.
-- [little-core-labs/secret-local-storage](https://github.com/little-core-labs/secret-local-storage) - A wrapper around 'localStorage/sessionStorage' to provide storage encryption with libsodium
+- [socketsupply/secret-local-storage](https://github.com/socketsupply/secret-local-storage) - A wrapper around 'localStorage/sessionStorage' to provide storage encryption with libsodium
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [adobe/leonardo](https://github.com/adobe/leonardo) - Generate colors based on a desired contrast ratio
 - [simoneb/axios-hooks](https://github.com/simoneb/axios-hooks) - 🦆 React hooks for axios
