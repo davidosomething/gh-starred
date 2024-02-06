@@ -4130,7 +4130,6 @@
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
-- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) - Bmessages.nvim better :messages using an auto-updating buffer.
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
 - [Zren/plasma-applet-eventcalendar](https://github.com/Zren/plasma-applet-eventcalendar) - 
@@ -4333,7 +4332,7 @@
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [assetgrid/assetgridapp](https://github.com/assetgrid/assetgridapp) - 📊 A selfhosted data-driven personal finance manager 💸
 - [ibhagwan/smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim) - 
-- [kurtbuilds/checkexec](https://github.com/kurtbuilds/checkexec) - A CLI tool to conditionally execute commands only when files in a dependency list have been updated. Like `make`, but standalone.
+- [kurtbuilds/checkexec](https://github.com/kurtbuilds/checkexec) - CLI tool to conditionally execute commands only when files in a dependency list have been updated. Like `make`, but standalone.
 - [phelipetls/jsonpath.nvim](https://github.com/phelipetls/jsonpath.nvim) - A Neovim plugin to help you access JSON values, powered by treesitter
 - [Prayag2/kde_controlcentre](https://github.com/Prayag2/kde_controlcentre) - A beautiful control centre widget for KDE Plasma directly inspired by the MacOS control centre.
 - [phaazon/notisys.nvim](https://github.com/phaazon/notisys.nvim) - System-wide notifications for Neovim
@@ -6519,6 +6518,7 @@
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
@@ -6931,6 +6931,7 @@
 ## typescript 
 
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react) - Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [lukasbach/react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop
