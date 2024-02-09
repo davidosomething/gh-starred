@@ -503,7 +503,7 @@
 - [haya14busa/gtrans](https://github.com/haya14busa/gtrans) - Command-line translator using Google Translate
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure
 - [labstack/armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
@@ -1561,6 +1561,7 @@
 
 ## Lua 
 
+- [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 - [CrispyBaccoon/evergarden](https://github.com/CrispyBaccoon/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding.
 - [fcancelinha/northern.nvim](https://github.com/fcancelinha/northern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
