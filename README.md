@@ -1561,6 +1561,7 @@
 
 ## Lua 
 
+- [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line
 - [js-everts/cmp-tailwind-colors](https://github.com/js-everts/cmp-tailwind-colors) - Adds tailwindcss color hints to nvim-cmp completion results
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
 - [CrispyBaccoon/evergarden](https://github.com/CrispyBaccoon/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding.
