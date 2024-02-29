@@ -14,6 +14,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [aspnet](#aspnet)
@@ -316,7 +317,6 @@
 - [krakenjs/zoid](https://github.com/krakenjs/zoid) - Cross domain components
 - [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
 
@@ -354,6 +354,14 @@
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [pksunkara/octonode](https://github.com/pksunkara/octonode) - github api v3 in nodejs
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+
+## archlinux 
+
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: hyprland/sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
+- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+- [steffenfritz/pacaudit](https://github.com/steffenfritz/pacaudit) - pacaudit audits installed packages against known vulnerabilities listed on https://security.archlinux.org
 
 ## arduino 
 
@@ -1039,7 +1047,6 @@
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 - [LukyVj/family.scss](https://github.com/LukyVj/family.scss) - Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
@@ -1260,7 +1267,6 @@
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
-- [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -1950,7 +1956,6 @@
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [jparise/vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
 ## hackathon 
@@ -2254,7 +2259,6 @@
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [choojs/hyperx](https://github.com/choojs/hyperx) - 🏷 - tagged template string virtual dom builder
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [posthtml/posthtml](https://github.com/posthtml/posthtml) - PostHTML is a tool to transform HTML/XML with JS plugins
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [bevacqua/insane](https://github.com/bevacqua/insane) - :pouting_cat: Lean and configurable whitelist-oriented HTML sanitizer
@@ -2630,7 +2634,6 @@
 - [vb/lazyframe](https://github.com/vb/lazyframe) - 🛀🏽 Dependency-free library for lazyloading iframes
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [dyo/dyo](https://github.com/dyo/dyo) - Dyo is a JavaScript library for building user interfaces.
@@ -2769,7 +2772,6 @@
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [fiatjaf/jiq](https://github.com/fiatjaf/jiq) - jid on jq - interactive JSON query tool using jq expressions
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
 
@@ -2780,7 +2782,6 @@
 ## jupyter-notebook 
 
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter) - Edit your Jupyter notebooks in Vim/Neovim
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 
 ## koa 
@@ -3141,7 +3142,7 @@
 
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [hmarr/vitals](https://github.com/hmarr/vitals) - 📊 A tiny macOS process monitor
 - [huangyz0918/Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - Open source tutorial & information collector for hackintosh installation.
 - [timonus/Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and links.
@@ -3180,7 +3181,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
@@ -3282,7 +3283,6 @@
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) - Automatic list continuation and formatting for neovim, powered by lua
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
 - [benrbray/noteworthy](https://github.com/benrbray/noteworthy) - Markdown editor with bidirectional links and excellent math support, powered by ProseMirror.  (In Development!)
@@ -3293,21 +3293,16 @@
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [lukakerr/Pine](https://github.com/lukakerr/Pine) - A modern, native macOS markdown editor
-- [tyru/markdown-codehl-onthefly.vim](https://github.com/tyru/markdown-codehl-onthefly.vim) - Realtime code highlight (```) in Markdown buffer with no configuration
 - [kentaro-m/md2confl](https://github.com/kentaro-m/md2confl) - 🛠 md2confl is a CLI tool to convert the markdown text to confluence wiki format.
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter) - Edit your Jupyter notebooks in Vim/Neovim
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [Thinkmill/react-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in &lt;Components/&gt;, &lt;Components/&gt; in **Markdown**
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
-- [rhysd/vim-gfm-syntax](https://github.com/rhysd/vim-gfm-syntax) - GitHub Flavored Markdown syntax highlight extension for Vim
 - [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
 - [bevacqua/insane](https://github.com/bevacqua/insane) - :pouting_cat: Lean and configurable whitelist-oriented HTML sanitizer
-- [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
 - [rhysd/Shiba](https://github.com/rhysd/Shiba) - Rich markdown live preview app with linter
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
@@ -3729,7 +3724,6 @@
 - [semanser/vim-outdated-plugins](https://github.com/semanser/vim-outdated-plugins) - 🔄   Async Vim/Neovim plugin for showing the number of your outdated plugins
 - [kristijanhusak/vim-js-file-import](https://github.com/kristijanhusak/vim-js-file-import) - Import/require files in javascript and typescript with single button!
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
-- [szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter) - Edit your Jupyter notebooks in Vim/Neovim
 - [thenewvu/vim-colors-sketching](https://github.com/thenewvu/vim-colors-sketching) - A minimal light colorscheme for Vim/Neovim
 - [lambdalisue/session.vim](https://github.com/lambdalisue/session.vim) - Yet another simple session management plugin for Vim/Neovim
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
@@ -4129,7 +4123,7 @@
 - [paralleldrive/riteway](https://github.com/paralleldrive/riteway) - Simple, readable, helpful unit tests.
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line
 - [yuru7/moralerspace](https://github.com/yuru7/moralerspace) - Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP を合成したプログラミング向けフォントです。
-- [CrispyBaccoon/evergarden](https://github.com/CrispyBaccoon/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding.
+- [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding.
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
 - [FelipeLema/cmp-async-path](https://github.com/FelipeLema/cmp-async-path) - nvim-cmp source for path (async version)
 - [paytonward6/nvim-wezlime](https://github.com/paytonward6/nvim-wezlime) - 
@@ -4423,7 +4417,6 @@
 - [thinca/ciw](https://github.com/thinca/ciw) - A wrapper to install cli binary from language associated package manager.
 - [romkatv/zsh-bin](https://github.com/romkatv/zsh-bin) - Statically-linked, hermetic, relocatable Zsh
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
-- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [img-paste-devs/img-paste.vim](https://github.com/img-paste-devs/img-paste.vim) - paste image to markdown
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [LancerComet/synoter](https://github.com/LancerComet/synoter) - A node library to get data from Synology NoteStation.
@@ -4433,7 +4426,7 @@
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) - Lua Development for Neovim
 - [euclidianAce/BetterLua.vim](https://github.com/euclidianAce/BetterLua.vim) - Better Lua syntax highlighting in Vim/NeoVim
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
-- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy is a highly customizable binary Window Decoration and Application Style plugin for recent versions of the KDE Plasma desktop. It provides the Klassy, Kite, Oxygen/Breeze, and Redmond icon style
+- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy is a highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [shamansir/noodle](https://github.com/shamansir/noodle) - Visual programming UI and framework driven by pure functional language and data streams
@@ -4602,7 +4595,6 @@
 - [forbesmyester/esqlate](https://github.com/forbesmyester/esqlate) - Build minimum viable admin panels quickly with just SQL
 - [conweller/findr.vim](https://github.com/conweller/findr.vim) - An incremental narrowing engine for (neo)vim inspired by emacs helm/ivy/ido
 - [romgrk/winteract.vim](https://github.com/romgrk/winteract.vim) - Interactive window mode
-- [fannheyward/coc-markdownlint](https://github.com/fannheyward/coc-markdownlint) - markdownlint extension for coc.nvim
 - [mg979/vim-xtabline](https://github.com/mg979/vim-xtabline) - Tabline customization with buffer filtering
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 - [liyanchang/yubikey-setup](https://github.com/liyanchang/yubikey-setup) - How to set up your yubikey
@@ -4790,7 +4782,6 @@
 - [markusenglund/react-switch](https://github.com/markusenglund/react-switch) - A draggable toggle-switch component for React. Check out the demo at:
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [matvp91/indigo-player](https://github.com/matvp91/indigo-player) - Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
-- [sparkartgroup/quality-docs](https://github.com/sparkartgroup/quality-docs) - A CLI tool to evaluate the quality of writing in your project's markdown files.
 - [yyx990803/build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) - Build your own personal finance analytics using Plaid, Google Sheets and CircleCI.
 - [thinca/vim-template](https://github.com/thinca/vim-template) - Simple and flexible template engine.
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
@@ -5562,7 +5553,6 @@
 - [mattbrictson/airbrussh](https://github.com/mattbrictson/airbrussh) - Airbrussh pretties up your SSHKit and Capistrano output
 - [wilsonpage/fastdom](https://github.com/wilsonpage/fastdom) - Eliminates layout thrashing by batching DOM measurement and mutation tasks
 - [horst3180/vertex-theme](https://github.com/horst3180/vertex-theme) - Vertex is a theme for GTK 3, GTK 2, Gnome-Shell and Cinnamon
-- [amiorin/vim-fenced-code-blocks](https://github.com/amiorin/vim-fenced-code-blocks) - Edit fenced code blocks inside a GitHub Flavor Markdown in a better way.
 - [gabrielelana/vim-markdown](https://github.com/gabrielelana/vim-markdown) - Markdown for Vim: a complete environment to create Markdown files with a syntax highlight that doesn't suck!
 - [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar) - vinegar.vim: Combine with netrw to create a delicious salad dressing
 - [jeetsukumaran/vim-filebeagle](https://github.com/jeetsukumaran/vim-filebeagle) - A VINE-spired (Vim Is Not Emacs) file system explorer.
@@ -5874,7 +5864,6 @@
 - [pyupio/safety](https://github.com/pyupio/safety) - Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter) - Edit your Jupyter notebooks in Vim/Neovim
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
@@ -7083,7 +7072,6 @@
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [brentlintner/synt](https://github.com/brentlintner/synt) - Find similar functions and classes in your JavaScript/TypeScript code
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [SitePen/remap-istanbul](https://github.com/SitePen/remap-istanbul) - A tool for remapping Istanbul coverage via Source Maps
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -7253,7 +7241,6 @@
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [neoclide/coc-neco](https://github.com/neoclide/coc-neco) - viml completion source for coc.nvim
 - [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
-- [tyru/markdown-codehl-onthefly.vim](https://github.com/tyru/markdown-codehl-onthefly.vim) - Realtime code highlight (```) in Markdown buffer with no configuration
 - [bfrg/vim-cpp-modern](https://github.com/bfrg/vim-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11/14/17/20/23)
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
 - [nerdypepper/chestnut.vim](https://github.com/nerdypepper/chestnut.vim) - Minimal syntax highlighting for 16-color terminals.
@@ -7274,7 +7261,6 @@
 - [kristijanhusak/vim-js-file-import](https://github.com/kristijanhusak/vim-js-file-import) - Import/require files in javascript and typescript with single button!
 - [sodapopcan/vim-twiggy](https://github.com/sodapopcan/vim-twiggy) - Git branch management for Vim
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
-- [szymonmaszke/vimpyter](https://github.com/szymonmaszke/vimpyter) - Edit your Jupyter notebooks in Vim/Neovim
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [dhruvasagar/vim-buffer-history](https://github.com/dhruvasagar/vim-buffer-history) - A vim plugin to maintain a buffer jump history per window
 - [zefei/vim-wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager for Vim
@@ -7398,7 +7384,6 @@
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim) - Vim plugin to control splits with visual selections or text objects
 - [zoubin/vim-gotofile](https://github.com/zoubin/vim-gotofile) - Enhance the native `gf` command to act like node-resolve
-- [rhysd/vim-gfm-syntax](https://github.com/rhysd/vim-gfm-syntax) - GitHub Flavored Markdown syntax highlight extension for Vim
 - [wellle/tmux-complete.vim](https://github.com/wellle/tmux-complete.vim) - Vim plugin for insert mode completion of words in adjacent tmux panes
 - [timakro/vim-searchant](https://github.com/timakro/vim-searchant) - searchant.vim is obsoleted by vim-searchhi
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
@@ -7488,7 +7473,6 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [akxcv/vuera](https://github.com/akxcv/vuera) - :eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [rehypejs/rehype-react](https://github.com/rehypejs/rehype-react) - plugin to transform to preact, react, vue, etc
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
