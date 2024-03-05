@@ -53,7 +53,6 @@
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
-- [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -1553,6 +1552,7 @@
 
 ## Lua 
 
+- [archibate/genius.nvim](https://github.com/archibate/genius.nvim) - Blazing fast 🚀 code completion in NeoVim powered by 🤖 GPT-3.5-Turbo
 - [dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim) - 
 - [szymonkaliski/hhann](https://github.com/szymonkaliski/hhann) - screen annotating tool for Hammerspoon
 - [Zeioth/heirline-components.nvim](https://github.com/Zeioth/heirline-components.nvim) - Distro agnostic components for your Neovim heirline config
@@ -1986,6 +1986,7 @@
 ## OCaml 
 
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [fastpack/fastpack](https://github.com/fastpack/fastpack) - Pack JS code fast & easy
 
@@ -2451,10 +2452,6 @@
 - [Zren/plasma-applet-commandoutput](https://github.com/Zren/plasma-applet-commandoutput) - 
 - [pmarki/plasmoid-button](https://github.com/pmarki/plasmoid-button) - Configurable button plasmoid - start commands and monitor services
 - [MarianArlt/kde-plasmoid-betterinlineclock](https://github.com/MarianArlt/kde-plasmoid-betterinlineclock) - Your usual clock widget, just way better and on a single line!
-
-## Reason 
-
-- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 
 ## Rich Text Format 
 
