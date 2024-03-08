@@ -1552,6 +1552,7 @@
 
 ## Lua 
 
+- [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
 - [archibate/genius.nvim](https://github.com/archibate/genius.nvim) - Blazing fast 🚀 code completion in NeoVim powered by 🤖 GPT-3.5-Turbo
 - [dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim) - 
 - [szymonkaliski/hhann](https://github.com/szymonkaliski/hhann) - screen annotating tool for Hammerspoon
@@ -2446,6 +2447,7 @@
 
 ## QML 
 
+- [varlesh/org.kde.plasma.compact-shutdown](https://github.com/varlesh/org.kde.plasma.compact-shutdown) - Compact Shutdown Widget for Plasma
 - [Zren/plasma-applet-eventcalendar](https://github.com/Zren/plasma-applet-eventcalendar) - 
 - [Prayag2/kde_controlcentre](https://github.com/Prayag2/kde_controlcentre) - A beautiful control centre widget for KDE Plasma directly inspired by the MacOS control centre.
 - [lipido/kargos](https://github.com/lipido/kargos) - KDE Plasma port of GNOME Argos and OSX BitBar
@@ -3608,7 +3610,6 @@
 - [thiagoalessio/rainbow_levels.vim](https://github.com/thiagoalessio/rainbow_levels.vim) - A different approach to code highlighting.
 - [dbmrq/vim-redacted](https://github.com/dbmrq/vim-redacted) - :no_mouth: The best way to ████ the ████
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
-- [ToruIwashita/git-switcher.vim](https://github.com/ToruIwashita/git-switcher.vim) - Automatically save and load vim session based on switching of git branch
 - [lifepillar/vim-colortemplate](https://github.com/lifepillar/vim-colortemplate) - The Toolkit for Vim Color Scheme Designers!
 - [pocke/yaml-path.vim](https://github.com/pocke/yaml-path.vim) - Display the path of YAML on cursor.
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
