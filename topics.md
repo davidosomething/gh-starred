@@ -7370,7 +7370,7 @@
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - A vim / nvim plugin that intelligently reopens files at your last edit position.
 - [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
-- [fsharp/vim-fsharp](https://github.com/fsharp/vim-fsharp) - F# bindings for vim
+- [fsharp/zarchive-vim-fsharp](https://github.com/fsharp/zarchive-vim-fsharp) - F# bindings for vim
 - [wsdjeg/vim-fetch](https://github.com/wsdjeg/vim-fetch) - Make Vim handle line and column numbers in file names with a minimum of fuss
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim
 - [LucHermitte/lh-tags](https://github.com/LucHermitte/lh-tags) - ctags base updating, and browsing from vim
