@@ -2305,6 +2305,7 @@
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- [Zren/plasma-applet-commandoutput](https://github.com/Zren/plasma-applet-commandoutput) - 
 - [NX211/homer-icons](https://github.com/NX211/homer-icons) - 
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps) - The largest Awesome Curated list of CLI/TUI applications with source data organized into CSV files
@@ -2451,7 +2452,6 @@
 - [Zren/plasma-applet-eventcalendar](https://github.com/Zren/plasma-applet-eventcalendar) - 
 - [Prayag2/kde_controlcentre](https://github.com/Prayag2/kde_controlcentre) - A beautiful control centre widget for KDE Plasma directly inspired by the MacOS control centre.
 - [lipido/kargos](https://github.com/lipido/kargos) - KDE Plasma port of GNOME Argos and OSX BitBar
-- [Zren/plasma-applet-commandoutput](https://github.com/Zren/plasma-applet-commandoutput) - 
 - [pmarki/plasmoid-button](https://github.com/pmarki/plasmoid-button) - Configurable button plasmoid - start commands and monitor services
 
 ## Rich Text Format 
@@ -3784,7 +3784,7 @@
 - [sgur/vim-textobj-parameter](https://github.com/sgur/vim-textobj-parameter) - A fork of textobj-parameter 0.1.0
 - [t9md/vim-textmanip](https://github.com/t9md/vim-textmanip) - easy text manupilation for vim
 - [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
-- [fsharp/vim-fsharp](https://github.com/fsharp/vim-fsharp) - F# bindings for vim
+- [fsharp/zarchive-vim-fsharp](https://github.com/fsharp/zarchive-vim-fsharp) - F# bindings for vim
 - [Soares/base16.nvim](https://github.com/Soares/base16.nvim) - Base16 colors for neovim
 - [haya14busa/vim-textobj-function-syntax](https://github.com/haya14busa/vim-textobj-function-syntax) - heuristic syntax-based text-object for function
 - [ggVGc/vim-fuzzysearch](https://github.com/ggVGc/vim-fuzzysearch) - Fuzzy pattern building, in any buffer
