@@ -1549,6 +1549,7 @@
 
 ## Lua 
 
+- [Zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM
 - [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) - Fast and Simple Note Taking in Neovim! 📃🚀
 - [icholy/lsplinks.nvim](https://github.com/icholy/lsplinks.nvim) - LSP textDocument/documentLink support for neovim
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
@@ -2881,6 +2882,9 @@
 
 ## TypeScript 
 
+- [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
+- [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
+- [Tailframes/react-components](https://github.com/Tailframes/react-components) - Open-source React components styled with Tailwind CSS.
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
