@@ -4145,6 +4145,7 @@
 
 ## others 
 
+- [boraerciyas/kde_controlcentre](https://github.com/boraerciyas/kde_controlcentre) - A beautiful control centre widget for KDE Plasma directly inspired by the MacOS control centre.
 - [mollerhoj/telescope-recent-files.nvim](https://github.com/mollerhoj/telescope-recent-files.nvim) - 
 - [Zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM
 - [acristoffers/kwin-rectangle](https://github.com/acristoffers/kwin-rectangle) - Shortcuts to move windows around.
