@@ -2451,6 +2451,7 @@
 
 ## QML 
 
+- [boraerciyas/kde_controlcentre](https://github.com/boraerciyas/kde_controlcentre) - A beautiful control centre widget for KDE Plasma directly inspired by the MacOS control centre.
 - [aricaldeira/plasma-applet-commandoutput](https://github.com/aricaldeira/plasma-applet-commandoutput) - 
 - [varlesh/org.kde.plasma.compact-shutdown](https://github.com/varlesh/org.kde.plasma.compact-shutdown) - Compact Shutdown Widget for Plasma
 - [Zren/plasma-applet-eventcalendar](https://github.com/Zren/plasma-applet-eventcalendar) - 
