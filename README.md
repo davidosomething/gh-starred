@@ -2891,6 +2891,7 @@
 
 ## TypeScript 
 
+- [dnnsjsk/glaze](https://github.com/dnnsjsk/glaze) - The utility-based animation framework for the web.
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [teableio/teable](https://github.com/teableio/teable) - ✨ A Super fast, Real-time, Professional, Developer friendly, No code database
 - [Tailframes/react-components](https://github.com/Tailframes/react-components) - Open-source React components styled with Tailwind CSS.
@@ -3041,7 +3042,6 @@
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres
-- [theninthsky/client-side-rendering](https://github.com/theninthsky/client-side-rendering) - A case study of CSR.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [bvaughn/react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
