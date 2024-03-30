@@ -129,7 +129,6 @@
 - [kuravih/gllock](https://github.com/kuravih/gllock) - not so simple opengl based X display locker utility
 - [danakj/openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
-- [LuaLanes/lanes](https://github.com/LuaLanes/lanes) - Lanes is a lightweight, native, lazy evaluating multithreading library for Lua 5.1 to 5.4.
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [acidanthera/Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS
 - [sorah/envchain](https://github.com/sorah/envchain) - Environment variables meet macOS Keychain and gnome-keyring &lt;3
@@ -202,6 +201,7 @@
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
 - [livegrep/livegrep](https://github.com/livegrep/livegrep) - Interactively grep source code. Source for http://livegrep.com/
 - [360Controller/360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
+- [LuaLanes/lanes](https://github.com/LuaLanes/lanes) - Lanes is a lightweight, native, lazy evaluating multithreading library for Lua 5.1 to 5.4.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
