@@ -1262,7 +1262,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [davidosomething/caddy-docker-proxy-google-domains](https://github.com/davidosomething/caddy-docker-proxy-google-domains) - caddy-docker-proxy-google-domains
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
@@ -4221,7 +4221,7 @@
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) - Neovim fugitive style git blame plugin
 - [Effect-TS/schema](https://github.com/Effect-TS/schema) - Modeling the schema of data structures as first-class values
 - [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) - 
-- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
+- [supabase-community/postgres_lsp](https://github.com/supabase-community/postgres_lsp) - A Language Server for Postgres
 - [Code-Forge-Net/Remix-Dev-Tools](https://github.com/Code-Forge-Net/Remix-Dev-Tools) - Own your Remix.run apps with these development tools.
 - [MaximilianLloyd/tw-values.nvim](https://github.com/MaximilianLloyd/tw-values.nvim) - View all applied tailwindcss values on an element
 - [santiagogonzalez-dev/right-corner-diagnostics.nvim](https://github.com/santiagogonzalez-dev/right-corner-diagnostics.nvim) - Show diagnostics at the right corner of the buffer
@@ -6578,7 +6578,7 @@
 - [LordEidi/wombag](https://github.com/LordEidi/wombag) - Wombag is the alternative, lightweight backend for your Wallabag apps. Wombag supports the Wallabag API.
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
