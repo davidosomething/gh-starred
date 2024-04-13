@@ -1447,7 +1447,8 @@
 
 ## eslint 
 
-- [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
+- [vitonsky/eslint-plugin-paths](https://github.com/vitonsky/eslint-plugin-paths) - A plugin for ESLint, to force use paths aliases from tsconfig
+- [eslint-community/eslint-stylistic](https://github.com/eslint-community/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 - [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods
 - [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter for delightful readability
 - [chdsbd/eslint-plugin-better-dates](https://github.com/chdsbd/eslint-plugin-better-dates) - ⏱ An ESlint plugin to encourage better `Date` usage and prevent `Date`-related bugs.
@@ -7000,6 +7001,7 @@
 
 ## typescript 
 
+- [vitonsky/eslint-plugin-paths](https://github.com/vitonsky/eslint-plugin-paths) - A plugin for ESLint, to force use paths aliases from tsconfig
 - [zheksoon/dioma](https://github.com/zheksoon/dioma) - Elegant dependency injection container for vanilla JavaScript and TypeScript
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
