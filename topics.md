@@ -3462,7 +3462,7 @@
 - [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding.
 - [fcancelinha/northern.nvim](https://github.com/fcancelinha/northern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (~ 120loc) that hightlights ranges you have entered in commandline.
-- [rasulomaroff/reactive.nvim](https://github.com/rasulomaroff/reactive.nvim) - Add a bit of reactivity to your Neovim experience. Apply highlights in different modes and operators, active and inactive windows.
+- [rasulomaroff/reactive.nvim](https://github.com/rasulomaroff/reactive.nvim) - Reactivity. Right in your neovim.
 - [ntk148v/komau.vim](https://github.com/ntk148v/komau.vim) - Yet another minimal colorscheme for Vim/Neovim
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - Status Line for Neovim focused on beauty and performance ✅💙💛🤍💚
 - [tim-harding/neophyte](https://github.com/tim-harding/neophyte) - A WebGPU rendered Neovim GUI
@@ -6024,7 +6024,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue and Solid.
-- [kubb-project/kubb](https://github.com/kubb-project/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
 - [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
@@ -6805,7 +6805,7 @@
 ## svelte 
 
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
-- [kubb-project/kubb](https://github.com/kubb-project/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
@@ -7019,7 +7019,7 @@
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
-- [kubb-project/kubb](https://github.com/kubb-project/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
 - [rileytomasek/zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
@@ -7533,7 +7533,7 @@
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue and Solid.
-- [kubb-project/kubb](https://github.com/kubb-project/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
