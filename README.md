@@ -493,7 +493,7 @@
 - [babarot/gomi](https://github.com/babarot/gomi) - 🗑️ Replacement for UNIX rm command!
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
 - [tigrawap/slit](https://github.com/tigrawap/slit) - slit - a modern PAGER for viewing logs, get more than most in less time
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [d6o/TinderOnline](https://github.com/d6o/TinderOnline) - Find out which of your friends are online on Tinder
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
@@ -1551,6 +1551,7 @@
 
 ## Lua 
 
+- [James-Kni/fzf-nx.nvim](https://github.com/James-Kni/fzf-nx.nvim) - 
 - [Mr-LLLLL/cool-chunk.nvim](https://github.com/Mr-LLLLL/cool-chunk.nvim) - forked from hlchunk.nvim and removed indent. only chunk and context, simple and faster.
 - [felpafel/inlay-hint.nvim](https://github.com/felpafel/inlay-hint.nvim) - Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints.
 - [haolian9/buds.nvim](https://github.com/haolian9/buds.nvim) - 
@@ -2892,6 +2893,7 @@
 
 ## TypeScript 
 
+- [antfu/eslint-plugin-command](https://github.com/antfu/eslint-plugin-command) - Comment-as-command for one-off codemod with ESLint.
 - [unadlib/use-travel](https://github.com/unadlib/use-travel) - A React hook for state time travel with undo, redo, reset and archive functionalities.
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.
 - [vitonsky/eslint-plugin-paths](https://github.com/vitonsky/eslint-plugin-paths) - A plugin for ESLint, to force use paths aliases from tsconfig
@@ -3101,7 +3103,7 @@
 - [rsms/estrella](https://github.com/rsms/estrella) - Lightweight and versatile build tool based on the esbuild compiler
 - [react-financial/react-financial-charts](https://github.com/react-financial/react-financial-charts) - Charts dedicated to finance.
 - [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
