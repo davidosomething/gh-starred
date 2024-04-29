@@ -2279,7 +2279,7 @@
 - [shikasta-net/walla-pocket](https://github.com/shikasta-net/walla-pocket) - Wallabag to Pocket sync for Kobo convenience
 - [clach04/fake-shaarli-server](https://github.com/clach04/fake-shaarli-server) - Python implementation of _some_ of the Shaarli REST API
 - [negset/Firple](https://github.com/negset/Firple) - A monospaced Japanese font containing ligatures.
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [testing variable font] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [testing V7] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [adamirr/ha_addons](https://github.com/adamirr/ha_addons) - Collection of custom HomeAssistant addons
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
