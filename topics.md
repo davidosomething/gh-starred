@@ -419,6 +419,7 @@
 
 ## awesome 
 
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -1142,6 +1143,7 @@
 
 ## database 
 
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [jonaslu/sider](https://github.com/jonaslu/sider) - As git for your database(s) - commit, f*ckup, restore
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
@@ -3459,6 +3461,7 @@
 
 ## neovim 
 
+- [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
 - [b0o/nvim-tree-preview.lua](https://github.com/b0o/nvim-tree-preview.lua) - Floating preview windows for nvim-tree
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
@@ -4213,7 +4216,7 @@
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
-- [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) - Bmessages.nvim better :messages using an auto-updating buffer.
+- [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) - Bmessages.nvim better :messages window using an auto-updating buffer.
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
 - [Zren/plasma-applet-eventcalendar](https://github.com/Zren/plasma-applet-eventcalendar) - 
 - [OlegGulevskyy/better-ts-errors.nvim](https://github.com/OlegGulevskyy/better-ts-errors.nvim) - 
