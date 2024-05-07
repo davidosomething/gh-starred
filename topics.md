@@ -3465,7 +3465,7 @@
 - [b0o/nvim-tree-preview.lua](https://github.com/b0o/nvim-tree-preview.lua) - Floating preview windows for nvim-tree
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
-- [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) - Fast and Simple Note Taking in Neovim! 📃🚀
+- [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) - Fast & Simple Notes in Neovim 📃🚀
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
 - [js-everts/cmp-tailwind-colors](https://github.com/js-everts/cmp-tailwind-colors) - Adds tailwindcss color hints to nvim-cmp completion results
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
@@ -4816,7 +4816,7 @@
 - [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda
 - [shepherd-pro/react-shepherd](https://github.com/shepherd-pro/react-shepherd) - A React wrapper for the site tour library Shepherd
 - [rstacruz/react-meta-elements](https://github.com/rstacruz/react-meta-elements) - Sets document title and meta tags using React elements or hooks
-- [futil-js/futil-js](https://github.com/futil-js/futil-js) - F(unctional) util(ities). Resistance is futile.
+- [smartprocure/futil-js](https://github.com/smartprocure/futil-js) - F(unctional) util(ities). Resistance is futile.
 - [fraserxu/react-chartist](https://github.com/fraserxu/react-chartist) - ⚛ React component for Chartist.js
 - [nathco/Office-Code-Pro](https://github.com/nathco/Office-Code-Pro) - Customized version of Source Code Pro
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
