@@ -333,6 +333,7 @@
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -845,7 +846,7 @@
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas](https://github.com/mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas) - React application built with HTML5 Canvas. ES6, React, JSX, Redux. Features cute Harvest Moon sprites! :cow:
 - [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda
-- [futil-js/futil-js](https://github.com/futil-js/futil-js) - F(unctional) util(ities). Resistance is futile.
+- [smartprocure/futil-js](https://github.com/smartprocure/futil-js) - F(unctional) util(ities). Resistance is futile.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -1561,7 +1562,7 @@
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
 - [mollerhoj/telescope-recent-files.nvim](https://github.com/mollerhoj/telescope-recent-files.nvim) - 
 - [Zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM
-- [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) - Fast and Simple Note Taking in Neovim! 📃🚀
+- [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) - Fast & Simple Notes in Neovim 📃🚀
 - [icholy/lsplinks.nvim](https://github.com/icholy/lsplinks.nvim) - LSP textDocument/documentLink support for neovim
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
 - [archibate/genius.nvim](https://github.com/archibate/genius.nvim) - Blazing fast 🚀 code completion in NeoVim powered by 🤖 GPT-3.5-Turbo
@@ -2912,7 +2913,6 @@
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - jump to local IDE code directly from browser React component by just a simple click
 - [Doist/reactist](https://github.com/Doist/reactist) - Open source React components made with ❤️ by Doist
