@@ -333,7 +333,6 @@
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -1126,7 +1125,6 @@
 - [jorgebucaran/classcat](https://github.com/jorgebucaran/classcat) - Build a class attribute string quickly
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [yargs/yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
-- [webpack/enhanced-resolve](https://github.com/webpack/enhanced-resolve) - Offers an async require.resolve function. It's highly configurable.
 - [SelectTransform/st.js](https://github.com/SelectTransform/st.js) - JSON template over JSON
 - [goto-bus-stop/minify-stream](https://github.com/goto-bus-stop/minify-stream) - minify javascript in a stream using uglify-js (ES5) or terser (ES6+)
 - [ai/size-limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
@@ -2220,7 +2218,7 @@
 
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-- [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
+- [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -2419,7 +2417,7 @@
 - [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [lambdalisue/lista.nvim](https://github.com/lambdalisue/lista.nvim) - Neovim/Vim buffer filtering plugin
+- [lambdalisue/nvim-lista](https://github.com/lambdalisue/nvim-lista) - Neovim/Vim buffer filtering plugin
 - [kootenpv/sky](https://github.com/kootenpv/sky) - :sunrise: next generation web crawling using machine intelligence
 - [wizzat/distribution](https://github.com/wizzat/distribution) - Short, simple, direct scripts for creating ASCII graphical histograms in the terminal.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
@@ -2913,6 +2911,7 @@
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - jump to local IDE code directly from browser React component by just a simple click
 - [Doist/reactist](https://github.com/Doist/reactist) - Open source React components made with ❤️ by Doist
@@ -2958,7 +2957,7 @@
 - [melink14/rikaikun](https://github.com/melink14/rikaikun) - rikaikun is a Chrome extension that helps you to read Japanese web pages by showing the reading and English definition of Japanese words when you hover over them.
 - [ccorcos/tuple-database](https://github.com/ccorcos/tuple-database) - 
 - [ota-meshi/eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regex mistakes and style guide violations.
-- [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
+- [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports) - An opinionated but flexible prettier plugin to sort import statements
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
@@ -3088,7 +3087,7 @@
 - [software-mansion/react-freeze](https://github.com/software-mansion/react-freeze) - Prevent React component subtrees from rendering.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
-- [lambdalisue/guise.vim](https://github.com/lambdalisue/guise.vim) - 🎭  Guise is a Vim/Neovim plugin that opens a new tab page rather than invokes a new nested instance when a user tried to open a new Vim/Neovim through a job or terminal on the instance.
+- [lambdalisue/vim-guise](https://github.com/lambdalisue/vim-guise) - 🎭  Guise is a Vim/Neovim plugin that opens a new tab page rather than invokes a new nested instance when a user tried to open a new Vim/Neovim through a job or terminal on the instance.
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [rikukissa/typehole](https://github.com/rikukissa/typehole) - TypeScript development tool for Visual Studio Code that helps you automate creating the initial static typing for runtime values
@@ -3466,7 +3465,7 @@
 - [wadackel/nvim-syntax-info](https://github.com/wadackel/nvim-syntax-info) - nvim-syntax-info is a plugin that displays syntax information (highlight-groups) with nvim_buf_set_virtual_text.
 - [kkga/vim-envy](https://github.com/kkga/vim-envy) - Light color scheme for Vim with comfortable contrast.
 - [embark-theme/vim](https://github.com/embark-theme/vim) - An ambitious theme for vim
-- [lambdalisue/fin.vim](https://github.com/lambdalisue/fin.vim) - 🐟  Filter the buffer content in-place without modification
+- [lambdalisue/vim-fin](https://github.com/lambdalisue/vim-fin) - 🐟  Filter the buffer content in-place without modification
 - [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [obcat/vim-hitspop](https://github.com/obcat/vim-hitspop) - 💬  Popup the number of search results
 - [obcat/vim-sclow](https://github.com/obcat/vim-sclow) - :space_invader: Text-based scrollbar for Vim
@@ -3478,8 +3477,8 @@
 - [habamax/vim-select](https://github.com/habamax/vim-select) - Vim fuzzy file/buffer/mru selector plugin
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [bignimbus/you-are-here.vim](https://github.com/bignimbus/you-are-here.vim) - 📌 See the filenames of your vim splits in easy-to-read popups, switch seamlessly
-- [lambdalisue/glyph-palette.vim](https://github.com/lambdalisue/glyph-palette.vim) - 🎨 An universal palette for Nerd Fonts
-- [lambdalisue/nerdfont.vim](https://github.com/lambdalisue/nerdfont.vim) - 👓  Fundemental plugin to handle Nerd Fonts in Vim
+- [lambdalisue/vim-glyph-palette](https://github.com/lambdalisue/vim-glyph-palette) - 🎨 An universal palette for Nerd Fonts
+- [lambdalisue/vim-nerdfont](https://github.com/lambdalisue/vim-nerdfont) - 👓  Fundemental plugin to handle Nerd Fonts in Vim
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [stsewd/gx-extended.vim](https://github.com/stsewd/gx-extended.vim) - Extend gx to use it beyond just URLs!
 - [stsewd/fzf-checkout.vim](https://github.com/stsewd/fzf-checkout.vim) - Manage branches and tags with fzf
@@ -3488,12 +3487,12 @@
 - [ojroques/vim-scrollstatus](https://github.com/ojroques/vim-scrollstatus) - A Vim plugin to display a scrollbar in the statusline
 - [jeetsukumaran/vim-pythonsense](https://github.com/jeetsukumaran/vim-pythonsense) - A Vim plugin that provides text objects and motions for Python classes, methods, functions, and doc strings.
 - [SidOfc/mkdx](https://github.com/SidOfc/mkdx) - A vim plugin that adds some nice extra's for working with markdown documents
-- [lambdalisue/fern-renderer-nerdfont.vim](https://github.com/lambdalisue/fern-renderer-nerdfont.vim) - 🌿 fern.vim plugin which add file type icon through nerdfont.vim
+- [lambdalisue/vim-fern-renderer-nerdfont](https://github.com/lambdalisue/vim-fern-renderer-nerdfont) - 🌿 fern.vim plugin which add file type icon through nerdfont.vim
 - [mhinz/vim-halo](https://github.com/mhinz/vim-halo) - :innocent: Visual highlight for your cursor.
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
 - [coreyja/fzf.devicon.vim](https://github.com/coreyja/fzf.devicon.vim) - fzf :purple_heart: devicon :heart: vim
 - [mogelbrod/vim-jsonpath](https://github.com/mogelbrod/vim-jsonpath) - Vim plugin that lets you navigate JSON documents using dot.notation.paths
-- [lambdalisue/readablefold.vim](https://github.com/lambdalisue/readablefold.vim) - A Vim plugin to improve foldtext for better looks
+- [lambdalisue/vim-readablefold](https://github.com/lambdalisue/vim-readablefold) - A Vim plugin to improve foldtext for better looks
 - [n0v1c3/vira](https://github.com/n0v1c3/vira) - Create and update your Jira issues while inside Vim!
 - [dbakker/vim-paragraph-motion](https://github.com/dbakker/vim-paragraph-motion) - Vim replacement mappings for { and }
 - [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
@@ -3517,7 +3516,7 @@
 - [camspiers/lens.vim](https://github.com/camspiers/lens.vim) - A Vim Automatic Window Resizing Plugin
 - [tyru/forget-me-not.vim](https://github.com/tyru/forget-me-not.vim) - EXPERIMENTAL: Session management plugin
 - [brglng/vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
-- [lambdalisue/edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
+- [lambdalisue/vim-edita](https://github.com/lambdalisue/vim-edita) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
 - [nicwest/vim-camelsnek](https://github.com/nicwest/vim-camelsnek) - Convert between camel and snek case (and kebab case)
 - [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [jxnblk/vim-mdx-js](https://github.com/jxnblk/vim-mdx-js) - 
@@ -3565,7 +3564,7 @@
 - [LuRsT/austere.vim](https://github.com/LuRsT/austere.vim) - An austere colorscheme for vim
 - [xdefrag/vim-beelzebub](https://github.com/xdefrag/vim-beelzebub) - Almost monochrome colorscheme with no syntax highlighting at all.
 - [huyvohcmc/atlas.vim](https://github.com/huyvohcmc/atlas.vim) - Colorful theme for colorful souls
-- [lambdalisue/qfloc.vim](https://github.com/lambdalisue/qfloc.vim) - 
+- [lambdalisue/vim-qfloc](https://github.com/lambdalisue/vim-qfloc) - 
 - [cocopon/inspecthi.vim](https://github.com/cocopon/inspecthi.vim) - :mag: Small tool for inspecting highlighting link structure
 - [burner/vim-svelte](https://github.com/burner/vim-svelte) - 
 - [m-pilia/vim-ccls](https://github.com/m-pilia/vim-ccls) - Vim plugin for the ccls language server
@@ -3599,7 +3598,7 @@
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [neoclide/coc-neco](https://github.com/neoclide/coc-neco) - viml completion source for coc.nvim
 - [tyru/tapi-reg.vim](https://github.com/tyru/tapi-reg.vim) - Seamless vim register manipulation in :terminal buffer via terminal-api
-- [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
+- [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [bfrg/vim-cpp-modern](https://github.com/bfrg/vim-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11/14/17/20/23)
 - [stephpy/vim-yaml](https://github.com/stephpy/vim-yaml) - Override vim syntax for yaml files
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
@@ -3637,7 +3636,7 @@
 - [roxma/vim-encode](https://github.com/roxma/vim-encode) - Provides simple stirng encode/escape functionality inside vim
 - [hotoo/jsgf.vim](https://github.com/hotoo/jsgf.vim) - Improved `gf` for JavaScript, TypeScript and package.json.
 - [paradigm/SkyBison](https://github.com/paradigm/SkyBison) - Vim plugin to expedite use of cmdline commands
-- [lambdalisue/session.vim](https://github.com/lambdalisue/session.vim) - Yet another simple session management plugin for Vim/Neovim
+- [lambdalisue/vim-session](https://github.com/lambdalisue/vim-session) - Yet another simple session management plugin for Vim/Neovim
 - [rainglow/vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
 - [joereynolds/SQHell.vim](https://github.com/joereynolds/SQHell.vim) - An SQL wrapper for vim
 - [thiagoalessio/rainbow_levels.vim](https://github.com/thiagoalessio/rainbow_levels.vim) - A different approach to code highlighting.
@@ -3647,7 +3646,7 @@
 - [pocke/yaml-path.vim](https://github.com/pocke/yaml-path.vim) - Display the path of YAML on cursor.
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
 - [metalelf0/base16-black-metal-scheme](https://github.com/metalelf0/base16-black-metal-scheme) - A collection of Black Metal inspired base16 schemes.
-- [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
+- [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [othree/csscomplete.vim](https://github.com/othree/csscomplete.vim) - Update the bult-in CSS complete function to latest CSS standard.
 - [rlue/vim-barbaric](https://github.com/rlue/vim-barbaric) - Automatic input method switching for vim
 - [vala-lang/vala.vim](https://github.com/vala-lang/vala.vim) - Vala syntax highlighting, indentation, snippets and more for Vim
@@ -3791,7 +3790,7 @@
 - [cocopon/vaffle.vim](https://github.com/cocopon/vaffle.vim) - :file_folder: Lightweight, window-based file manager for Vim
 - [zefei/vim-colortuner](https://github.com/zefei/vim-colortuner) - Adjust your vim colors using sliders
 - [mhinz/vim-lookup](https://github.com/mhinz/vim-lookup) - Jump to the definition of variables or functions in VimL code.
-- [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
+- [lambdalisue/vim-gina](https://github.com/lambdalisue/vim-gina) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [AndrewRadev/linediff.vim](https://github.com/AndrewRadev/linediff.vim) - A vim plugin to perform diffs on blocks of code
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
