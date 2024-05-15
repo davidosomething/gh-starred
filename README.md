@@ -329,6 +329,7 @@
 
 ## Go 
 
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
@@ -1552,6 +1553,8 @@
 
 ## Lua 
 
+- [jellydn/spinner.nvim](https://github.com/jellydn/spinner.nvim) - spinner.nvim is a single file, no-dependency plugin for Neovim
+- [ObserverOfTime/notifications.nvim](https://github.com/ObserverOfTime/notifications.nvim) - Neovim plugin for desktop notifications.
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
 - [b0o/nvim-tree-preview.lua](https://github.com/b0o/nvim-tree-preview.lua) - Floating preview windows for nvim-tree
 - [James-Kni/fzf-nx.nvim](https://github.com/James-Kni/fzf-nx.nvim) - 
@@ -2949,7 +2952,7 @@
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue and Solid.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
 - [rileytomasek/zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.
