@@ -1145,6 +1145,7 @@
 
 ## database 
 
+- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [jonaslu/sider](https://github.com/jonaslu/sider) - As git for your database(s) - commit, f*ckup, restore
@@ -2031,6 +2032,7 @@
 
 ## hacktoberfest 
 
+- [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -2421,6 +2423,7 @@
 
 ## javascript 
 
+- [MatthewWid/better-sse](https://github.com/MatthewWid/better-sse) - ⬆ Dead simple, dependency-less, spec-compliant server-sent events implementation for Node, written in TypeScript.
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [zheksoon/dioma](https://github.com/zheksoon/dioma) - Elegant dependency injection container for vanilla JavaScript and TypeScript
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
@@ -3496,6 +3499,7 @@
 
 ## neovim 
 
+- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [jellydn/spinner.nvim](https://github.com/jellydn/spinner.nvim) - spinner.nvim is a single file, no-dependency plugin for Neovim
 - [ObserverOfTime/notifications.nvim](https://github.com/ObserverOfTime/notifications.nvim) - Neovim plugin for desktop notifications.
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
@@ -3973,6 +3977,8 @@
 
 ## nodejs 
 
+- [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
+- [MatthewWid/better-sse](https://github.com/MatthewWid/better-sse) - ⬆ Dead simple, dependency-less, spec-compliant server-sent events implementation for Node, written in TypeScript.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A task runner and repo management tool for the web ecosystem, written in Rust.
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
@@ -4297,7 +4303,7 @@
 - [supabase-community/postgres_lsp](https://github.com/supabase-community/postgres_lsp) - A Language Server for Postgres
 - [forge42dev/Remix-Dev-Tools](https://github.com/forge42dev/Remix-Dev-Tools) - Own your Remix.run apps with these development tools.
 - [MaximilianLloyd/tw-values.nvim](https://github.com/MaximilianLloyd/tw-values.nvim) - View all applied tailwindcss values on an element
-- [santiagogonzalez-dev/right-corner-diagnostics.nvim](https://github.com/santiagogonzalez-dev/right-corner-diagnostics.nvim) - Show diagnostics at the right corner of the buffer
+- [santi-webdev/right-corner-diagnostics.nvim](https://github.com/santi-webdev/right-corner-diagnostics.nvim) - Show diagnostics at the right corner of the buffer
 - [cdecompilador/rcd.nvim](https://github.com/cdecompilador/rcd.nvim) - helix-like right corner diagnostics in neovim
 - [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on Apple Silicon Macs. Useful to embed in various scripts.
 - [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
@@ -6813,6 +6819,7 @@
 
 ## sql 
 
+- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [ukrbublik/react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - User-friendly query builder for React
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -6829,6 +6836,7 @@
 
 ## sqlite 
 
+- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
@@ -6857,6 +6865,7 @@
 
 ## sublime-text 
 
+- [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [raphamorim/lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm
 
@@ -7064,6 +7073,7 @@
 
 ## typescript 
 
+- [MatthewWid/better-sse](https://github.com/MatthewWid/better-sse) - ⬆ Dead simple, dependency-less, spec-compliant server-sent events implementation for Node, written in TypeScript.
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [vitonsky/eslint-plugin-paths](https://github.com/vitonsky/eslint-plugin-paths) - A plugin for ESLint, to force use paths aliases from tsconfig
 - [zheksoon/dioma](https://github.com/zheksoon/dioma) - Elegant dependency injection container for vanilla JavaScript and TypeScript
