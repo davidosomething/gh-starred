@@ -2423,6 +2423,7 @@
 
 ## javascript 
 
+- [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [MatthewWid/better-sse](https://github.com/MatthewWid/better-sse) - ⬆ Dead simple, dependency-less, spec-compliant server-sent events implementation for Node, written in TypeScript.
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [zheksoon/dioma](https://github.com/zheksoon/dioma) - Elegant dependency injection container for vanilla JavaScript and TypeScript
@@ -3054,6 +3055,7 @@
 
 ## lua 
 
+- [samsze0/jumplist.nvim](https://github.com/samsze0/jumplist.nvim) - A neovim plugin that provides window-local jumplists
 - [jellydn/spinner.nvim](https://github.com/jellydn/spinner.nvim) - spinner.nvim is a single file, no-dependency plugin for Neovim
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
@@ -3499,6 +3501,9 @@
 
 ## neovim 
 
+- [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
+- [samsze0/jumplist.nvim](https://github.com/samsze0/jumplist.nvim) - A neovim plugin that provides window-local jumplists
+- [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [jellydn/spinner.nvim](https://github.com/jellydn/spinner.nvim) - spinner.nvim is a single file, no-dependency plugin for Neovim
 - [ObserverOfTime/notifications.nvim](https://github.com/ObserverOfTime/notifications.nvim) - Neovim plugin for desktop notifications.
@@ -7254,6 +7259,7 @@
 
 ## vim 
 
+- [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [fcancelinha/northern.nvim](https://github.com/fcancelinha/northern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
 - [ntk148v/komau.vim](https://github.com/ntk148v/komau.vim) - Yet another minimal colorscheme for Vim/Neovim
 - [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) - 🔧 My dotfiles on  macOS for Neovim, Zsh, kitty, lf, etc
