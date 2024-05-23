@@ -168,6 +168,7 @@
 
 ## C++ 
 
+- [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [emcrisostomo/fswatch](https://github.com/emcrisostomo/fswatch) - A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based b
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -1558,6 +1559,7 @@
 
 ## Lua 
 
+- [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) - Snippet support using native neovim snippets
 - [samsze0/jumplist.nvim](https://github.com/samsze0/jumplist.nvim) - A neovim plugin that provides window-local jumplists
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim's native comments
 - [yutkat/term-gf.nvim](https://github.com/yutkat/term-gf.nvim) - 
