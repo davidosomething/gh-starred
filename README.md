@@ -1849,7 +1849,7 @@
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
 - [Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim) - Nvim Plugin
 - [numToStr/prettierrc.nvim](https://github.com/numToStr/prettierrc.nvim) - Apply editor settings from prettier config
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [mrshmllow/document-color.nvim](https://github.com/mrshmllow/document-color.nvim) - 🌈 LSP-based colorizer for neovim
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu + Neovim
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim.
@@ -3064,7 +3064,7 @@
 - [CRED-CLUB/neopop-web](https://github.com/CRED-CLUB/neopop-web) - NeoPOP components library based on CRED's design system
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
 - [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue) - JavaScript library that translates Cron expressions into human readable descriptions
-- [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [open-draft/until](https://github.com/open-draft/until) - Gracefully handle Promises using async/await without try/catch.
@@ -3921,7 +3921,6 @@
 - [joukevandermaas/vim-ember-hbs](https://github.com/joukevandermaas/vim-ember-hbs) - Ember Handlebars/HTMLBars plugin for Vim with indentation support
 - [ciaranm/securemodelines](https://github.com/ciaranm/securemodelines) - A secure alternative to Vim modelines
 - [python-mode/python-mode](https://github.com/python-mode/python-mode) - Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
-- [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) - :flashlight: [Vim script] JSX and TSX syntax pretty highlighting for vim.
 - [blueyed/vim-diminactive](https://github.com/blueyed/vim-diminactive) - Vim plugin to dim inactive windows
 - [jez/vim-github-hub](https://github.com/jez/vim-github-hub) - A Vim filetype plugin for github/hub :zap:
 - [inside/vim-search-pulse](https://github.com/inside/vim-search-pulse) - Easily locate the cursor after a search
