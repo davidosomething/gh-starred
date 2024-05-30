@@ -1662,6 +1662,7 @@
 
 ## game-development 
 
+- [yantra-core/Labyrinthos.js](https://github.com/yantra-core/Labyrinthos.js) - A JavaScript procedural generator for Mazes, Terrains, and Biomes. Designed for game developers and professional hobbyists, Labyrinthos.js offers a very simple-to-use API for crafting complex, customi
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [EvanBacon/Expo-Voxel](https://github.com/EvanBacon/Expo-Voxel) - 🎮🌳 Voxel Terrain made in React Native. ∛
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
@@ -1675,6 +1676,7 @@
 
 ## gamedev 
 
+- [verekia/manapotion](https://github.com/verekia/manapotion) - 🧪 Mana Potion – Toolkit for JavaScript game development and interactive experiences (React, Vue, Svelte, vanilla)
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [colrdavidson/spall-web](https://github.com/colrdavidson/spall-web) - Simple, Fast, Portable Profiling
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
@@ -2427,6 +2429,7 @@
 
 ## javascript 
 
+- [yantra-core/Labyrinthos.js](https://github.com/yantra-core/Labyrinthos.js) - A JavaScript procedural generator for Mazes, Terrains, and Biomes. Designed for game developers and professional hobbyists, Labyrinthos.js offers a very simple-to-use API for crafting complex, customi
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [MatthewWid/better-sse](https://github.com/MatthewWid/better-sse) - ⬆ Dead simple, dependency-less, spec-compliant server-sent events implementation for Node, written in TypeScript.
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
@@ -2689,7 +2692,6 @@
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
 - [lexich/redux-api](https://github.com/lexich/redux-api) - Flux REST API for redux infrastructure
-- [eapache/starscope](https://github.com/eapache/starscope) - Smart code search for Ruby, Go, and JavaScript
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [jaredpalmer/backpack](https://github.com/jaredpalmer/backpack) - 🎒 Backpack is a minimalistic build system for Node.js projects.
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
@@ -4462,7 +4464,7 @@
 - [tailwindlabs/prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
-- [chrisgrieser/nvim-genghis](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations for neovim, written in lua.
+- [chrisgrieser/nvim-genghis](https://github.com/chrisgrieser/nvim-genghis) - Lightweight and quick file operations without being a full-blown file manager.
 - [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
 - [27justin/virtuality.nvim](https://github.com/27justin/virtuality.nvim) - Virtual type annotation in neovim
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
@@ -6081,6 +6083,7 @@
 
 ## react 
 
+- [verekia/manapotion](https://github.com/verekia/manapotion) - 🧪 Mana Potion – Toolkit for JavaScript game development and interactive experiences (React, Vue, Svelte, vanilla)
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [glennreyes/react-countup](https://github.com/glennreyes/react-countup) - 💫 A configurable React component wrapper around CountUp.js
 - [rhinobase/raftyui](https://github.com/rhinobase/raftyui) - React + TailwindCSS  Component Library
@@ -6510,7 +6513,6 @@
 - [neovim/neovim-ruby](https://github.com/neovim/neovim-ruby) - Ruby support for Neovim
 - [troessner/reek](https://github.com/troessner/reek) - Code smell detector for Ruby
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
-- [eapache/starscope](https://github.com/eapache/starscope) - Smart code search for Ruby, Go, and JavaScript
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [hyiltiz/vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize (n)vim startup time
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.
@@ -6891,6 +6893,7 @@
 
 ## svelte 
 
+- [verekia/manapotion](https://github.com/verekia/manapotion) - 🧪 Mana Potion – Toolkit for JavaScript game development and interactive experiences (React, Vue, Svelte, vanilla)
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - OpenAPI to TypeScript, React-Query, Zod, Zodios, Faker.js, MSW and Axios.
@@ -7621,6 +7624,7 @@
 
 ## vue 
 
+- [verekia/manapotion](https://github.com/verekia/manapotion) - 🧪 Mana Potion – Toolkit for JavaScript game development and interactive experiences (React, Vue, Svelte, vanilla)
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
@@ -7657,6 +7661,7 @@
 
 ## vuejs 
 
+- [verekia/manapotion](https://github.com/verekia/manapotion) - 🧪 Mana Potion – Toolkit for JavaScript game development and interactive experiences (React, Vue, Svelte, vanilla)
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
