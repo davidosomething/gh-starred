@@ -420,7 +420,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [anishathalye/periscope](https://github.com/anishathalye/periscope) - Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭
-- [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go
+- [gonnya/f-license](https://github.com/gonnya/f-license) - Open Source License Key Generation and Verification Tool written in Go
 - [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [high-moctane/nextword](https://github.com/high-moctane/nextword) - Predict next English words.
