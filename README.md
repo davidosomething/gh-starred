@@ -420,7 +420,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [anishathalye/periscope](https://github.com/anishathalye/periscope) - Periscope gives you "duplicate vision" to help you organize and de-duplicate your files without losing data 🔭
-- [gonnya/f-license](https://github.com/gonnya/f-license) - Open Source License Key Generation and Verification Tool written in Go
+- [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go
 - [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [high-moctane/nextword](https://github.com/high-moctane/nextword) - Predict next English words.
@@ -1565,6 +1565,7 @@
 
 ## Lua 
 
+- [diegofigs/npackages.nvim](https://github.com/diegofigs/npackages.nvim) - neovim plugin for managing node's package.json
 - [aattoa/nvim-everysig](https://github.com/aattoa/nvim-everysig) - An alternate signature help request handler for neovim.
 - [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful mostly grayscale colorscheme thats soft on the eyes, and supports heaps of neovim plugins
 - [lewis6991/whatthejump.nvim](https://github.com/lewis6991/whatthejump.nvim) - Show jumplist in a floating window.
@@ -1579,7 +1580,7 @@
 - [jellydn/spinner.nvim](https://github.com/jellydn/spinner.nvim) - spinner.nvim is a single file, no-dependency plugin for Neovim
 - [ObserverOfTime/notifications.nvim](https://github.com/ObserverOfTime/notifications.nvim) - Neovim plugin for desktop notifications.
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
-- [b0o/nvim-tree-preview.lua](https://github.com/b0o/nvim-tree-preview.lua) - Floating preview windows for nvim-tree
+- [b0o/nvim-tree-preview.lua](https://github.com/b0o/nvim-tree-preview.lua) - 🍃 Floating preview windows for nvim-tree
 - [James-Kni/fzf-nx.nvim](https://github.com/James-Kni/fzf-nx.nvim) - 
 - [Mr-LLLLL/cool-chunk.nvim](https://github.com/Mr-LLLLL/cool-chunk.nvim) - forked from hlchunk.nvim and removed indent. only chunk and context, simple and faster.
 - [felpafel/inlay-hint.nvim](https://github.com/felpafel/inlay-hint.nvim) - Neovim Lua plugin that overrides vim.lsp.inlay_hint just to fill my desire to edit inlay hints.
