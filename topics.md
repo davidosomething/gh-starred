@@ -243,7 +243,6 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
-- [wordplate](#wordplate)
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -850,7 +849,7 @@
 - [cacjs/cac](https://github.com/cacjs/cac) - Simple yet powerful framework for building command-line apps.
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-- [gonnya/f-license](https://github.com/gonnya/f-license) - Open Source License Key Generation and Verification Tool written in Go
+- [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [ehmicky/unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1851,7 +1850,7 @@
 - [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [gonnya/f-license](https://github.com/gonnya/f-license) - Open Source License Key Generation and Verification Tool written in Go
+- [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go
 - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters
 - [git-duet/git-duet](https://github.com/git-duet/git-duet) - Support for pairing with git
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
@@ -1939,7 +1938,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [gonnya/f-license](https://github.com/gonnya/f-license) - Open Source License Key Generation and Verification Tool written in Go
+- [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go
 - [keys-pub/keys](https://github.com/keys-pub/keys) - Key management is hard
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al.
@@ -3514,6 +3513,7 @@
 
 ## neovim 
 
+- [diegofigs/npackages.nvim](https://github.com/diegofigs/npackages.nvim) - neovim plugin for managing node's package.json
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [deathbeam/lspecho.nvim](https://github.com/deathbeam/lspecho.nvim) - Just echo the LSP progress, its that simple
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
@@ -3523,7 +3523,7 @@
 - [jellydn/spinner.nvim](https://github.com/jellydn/spinner.nvim) - spinner.nvim is a single file, no-dependency plugin for Neovim
 - [ObserverOfTime/notifications.nvim](https://github.com/ObserverOfTime/notifications.nvim) - Neovim plugin for desktop notifications.
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
-- [b0o/nvim-tree-preview.lua](https://github.com/b0o/nvim-tree-preview.lua) - Floating preview windows for nvim-tree
+- [b0o/nvim-tree-preview.lua](https://github.com/b0o/nvim-tree-preview.lua) - 🍃 Floating preview windows for nvim-tree
 - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) - A feature-rich and highly customizable library for creating user interfaces in Neovim.
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - Neovim plugin management inspired by Cargo, powered by luarocks
 - [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) - Fast & Simple Notes in Neovim 📃🚀
@@ -3950,6 +3950,7 @@
 
 ## node 
 
+- [diegofigs/npackages.nvim](https://github.com/diegofigs/npackages.nvim) - neovim plugin for managing node's package.json
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [Jaid/action-sync-node-meta](https://github.com/Jaid/action-sync-node-meta) - GitHub Action that syncs package.json with the repository metadata.
 - [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
@@ -5888,7 +5889,6 @@
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [adoy/vim-php-refactoring-toolbox](https://github.com/adoy/vim-php-refactoring-toolbox) - VIM Php Refactoring Toolbox
 - [phpenv/phpenv](https://github.com/phpenv/phpenv) - Simple PHP version management
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [zordius/lightncandy](https://github.com/zordius/lightncandy) - An extremely fast PHP implementation of handlebars ( http://handlebarsjs.com/ ) and mustache ( http://mustache.github.io/ ),
 - [xwp/stream](https://github.com/xwp/stream) - 🗄️  Stream plugin for WordPress
 - [panique/huge](https://github.com/panique/huge) - Simple user-authentication solution, embedded into a small framework.
@@ -6377,7 +6377,7 @@
 - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
-- [lexfro/react-layer-stack](https://github.com/lexfro/react-layer-stack) - Layering system for React. Useful for popover/modals/tooltip/dnd application
+- [lexfrl/react-layer-stack](https://github.com/lexfrl/react-layer-stack) - Layering system for React. Useful for popover/modals/tooltip/dnd application
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
 - [lexich/redux-api](https://github.com/lexich/redux-api) - Flux REST API for redux infrastructure
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -7807,16 +7807,11 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [mhinz/vim-sayonara](https://github.com/mhinz/vim-sayonara) - :japanese_goblin: Sane buffer/window deletion.
 
-## wordplate 
-
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
-
 ## wordpress 
 
 - [Automattic/google-docs-add-on](https://github.com/Automattic/google-docs-add-on) - Publish to WordPress from Google Docs
 - [roots/trellis](https://github.com/roots/trellis) - WordPress LEMP stack with PHP 8.2, Composer, WP-CLI and more
 - [Automattic/ad-code-manager](https://github.com/Automattic/ad-code-manager) - Easily manage the ad codes that need to appear in your templates
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [xwp/stream](https://github.com/xwp/stream) - 🗄️  Stream plugin for WordPress
 - [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
