@@ -1243,7 +1243,7 @@
 - [cazala/synaptic](https://github.com/cazala/synaptic) - architecture-free neural network library for node.js and the browser
 - [brianleroux/tiny-json-http](https://github.com/brianleroux/tiny-json-http) - :anchor: Minimalist HTTP client for JSON payloads.
 - [muan/github-dashboard](https://github.com/muan/github-dashboard) - [Web extension] Filter events on github.com activity dashboard.
-- [lexfro/react-layer-stack](https://github.com/lexfro/react-layer-stack) - Layering system for React. Useful for popover/modals/tooltip/dnd application
+- [lexfrl/react-layer-stack](https://github.com/lexfrl/react-layer-stack) - Layering system for React. Useful for popover/modals/tooltip/dnd application
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [segmentio/niffy](https://github.com/segmentio/niffy) - Perceptual diffing suite built on Nightmare
 - [lexich/redux-api](https://github.com/lexich/redux-api) - Flux REST API for redux infrastructure
@@ -2268,7 +2268,6 @@
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 - [Automattic/ad-code-manager](https://github.com/Automattic/ad-code-manager) - Easily manage the ad codes that need to appear in your templates
-- [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate for WordPress, built with Composer and designed with sensible defaults.
 - [zordius/lightncandy](https://github.com/zordius/lightncandy) - An extremely fast PHP implementation of handlebars ( http://handlebarsjs.com/ ) and mustache ( http://mustache.github.io/ ),
 - [xwp/stream](https://github.com/xwp/stream) - 🗄️  Stream plugin for WordPress
 - [jdel/sspks](https://github.com/jdel/sspks) - A very simple Synology Package Server, reverse engineered from the official Synology package repository and SynoCommunity.
