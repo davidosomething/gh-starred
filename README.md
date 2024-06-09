@@ -1639,7 +1639,7 @@
 - [fmbarina/multicolumn.nvim](https://github.com/fmbarina/multicolumn.nvim) - Neovim plugin providing a highly configurable colorcolumn.
 - [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) - 
 - [MaximilianLloyd/tw-values.nvim](https://github.com/MaximilianLloyd/tw-values.nvim) - View all applied tailwindcss values on an element
-- [santi-webdev/right-corner-diagnostics.nvim](https://github.com/santi-webdev/right-corner-diagnostics.nvim) - Show diagnostics at the right corner of the buffer
+- [santiago-webdev/right-corner-diagnostics.nvim](https://github.com/santiago-webdev/right-corner-diagnostics.nvim) - Show diagnostics at the right corner of the buffer
 - [cdecompilador/rcd.nvim](https://github.com/cdecompilador/rcd.nvim) - helix-like right corner diagnostics in neovim
 - [mrshmllow/open-handlers.nvim](https://github.com/mrshmllow/open-handlers.nvim) - A very simple plugin that allows multiple custom vim.ui.open handlers to co-exist
 - [mvaldes14/terraform.nvim](https://github.com/mvaldes14/terraform.nvim) - Plan and Explore your terraform resources from nvim
@@ -2924,6 +2924,7 @@
 
 ## TypeScript 
 
+- [redpangilinan/credenza](https://github.com/redpangilinan/credenza) - Ready-made responsive modal component for shadcn/ui.
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling
 - [verekia/manapotion](https://github.com/verekia/manapotion) - 🧪 Mana Potion – Toolkit for JavaScript game development and interactive experiences (React, Vue, Svelte, vanilla)
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
