@@ -846,7 +846,6 @@
 - [kentcdodds/stop-runaway-react-effects](https://github.com/kentcdodds/stop-runaway-react-effects) - 🏃 Catches situations when a react use(Layout)Effect runs repeatedly in rapid succession
 - [victorvoid/dinoql](https://github.com/victorvoid/dinoql) - A customizable GraphQL style query language for interacting with JavaScript objects.
 - [lukeed/dequal](https://github.com/lukeed/dequal) - A tiny (304B to 489B) utility to check for deep equality
-- [miukimiu/react-kawaii](https://github.com/miukimiu/react-kawaii) - Cute SVG React Components
 - [Qix-/color](https://github.com/Qix-/color) - :rainbow: Javascript color conversion and manipulation library
 - [eldimious/network-avatar-picker](https://github.com/eldimious/network-avatar-picker) - A npm module that returns user's social network avatar. Supported providers: facebook, instagram, twitter, tumblr, vimeo, github, youtube and gmail
 - [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
@@ -2220,6 +2219,7 @@
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [piperun/iploggerfilter](https://github.com/piperun/iploggerfilter) - This is a list for ublock Origin to filter any site who's only purpose is to log your IP
 - [SalGnt/cscs](https://github.com/SalGnt/cscs) - A curated list of Coding Style Conventions and Standards.
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [larzconwell/mplus-powerline-font](https://github.com/larzconwell/mplus-powerline-font) - M+ Font for Powerline
 - [danluu/debugging-stories](https://github.com/danluu/debugging-stories) - A collection of debugging stories. PRs welcome (sorry for the backlog) :-)
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
@@ -2465,7 +2465,6 @@
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 - [amoffat/snake](https://github.com/amoffat/snake) - Full Python Scripting in Vim
 - [idleberg/base16-pygments](https://github.com/idleberg/base16-pygments) - Pygments styles based on Chris Kempson's Base16 colour scheme
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which fi
@@ -3275,6 +3274,7 @@
 - [iamcco/diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) - diagnostic language server integrate with linters
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [repeaterjs/repeater](https://github.com/repeaterjs/repeater) - The missing constructor for creating safe async iterators
+- [miukimiu/react-kawaii](https://github.com/miukimiu/react-kawaii) - Cute SVG React Components
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
