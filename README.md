@@ -638,7 +638,6 @@
 - [arifszn/reactive-button](https://github.com/arifszn/reactive-button) - 3D animated react button component with progress bar.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
-- [standardnotes/plugins](https://github.com/standardnotes/plugins) - Community plugins for Standard Notes — Experimental 🧪
 - [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee) - BudgetBee is a finance self hosted app
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
 - [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx typescript, flow, markdown, yaml and json. Wr
@@ -1423,7 +1422,6 @@
 - [amireh/happypack](https://github.com/amireh/happypack) - Happiness in the form of faster webpack build times.
 - [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
 - [ustwo/ustwo.com-frontend](https://github.com/ustwo/ustwo.com-frontend) - The New & Improved ustwo Website
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
@@ -2977,6 +2975,7 @@
 - [frolicorg/frolic-react](https://github.com/frolicorg/frolic-react) - React Component Library to Build Analytics Dashboard 10x Faster
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
+- [standardnotes/plugins](https://github.com/standardnotes/plugins) - Community plugins for Standard Notes — Experimental 🧪
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
 - [pingdotgg/zact](https://github.com/pingdotgg/zact) - Nothing to see here
 - [Effect-TS/schema](https://github.com/Effect-TS/schema) - Modeling the schema of data structures as first-class values
@@ -3458,6 +3457,7 @@
 - [rhysd/Shiba](https://github.com/rhysd/Shiba) - Rich markdown live preview app with linter
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
@@ -3817,7 +3817,7 @@
 - [tjdevries/vim-inyoface](https://github.com/tjdevries/vim-inyoface) - Comments that are in your face!
 - [tjdevries/pastery.vim](https://github.com/tjdevries/pastery.vim) - 🎂 Making pasting into a tasty experience 🎂
 - [chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn) - A Narrow Region Plugin for vim (like Emacs Narrow Region)
-- [4Evergreen4/vim-hardy](https://github.com/4Evergreen4/vim-hardy) - Arduino IDE intregation for vim.
+- [EvergreenTheTree/vim-hardy](https://github.com/EvergreenTheTree/vim-hardy) - Arduino IDE intregation for vim.
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
 - [jalvesaq/vimcmdline](https://github.com/jalvesaq/vimcmdline) - Send code to command line interpreter
 - [tweekmonster/startuptime.vim](https://github.com/tweekmonster/startuptime.vim) - Breakdown Vim's --startuptime output
