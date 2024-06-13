@@ -5316,7 +5316,7 @@
 - [aleen42/badges](https://github.com/aleen42/badges) - :flower_playing_cards: Standard and acceptable badges list
 - [jpsim/SourceKitten](https://github.com/jpsim/SourceKitten) - An adorable little framework and command line tool for interacting with SourceKit.
 - [chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn) - A Narrow Region Plugin for vim (like Emacs Narrow Region)
-- [4Evergreen4/vim-hardy](https://github.com/4Evergreen4/vim-hardy) - Arduino IDE intregation for vim.
+- [EvergreenTheTree/vim-hardy](https://github.com/EvergreenTheTree/vim-hardy) - Arduino IDE intregation for vim.
 - [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency
 - [GrimoireGL/GrimoireJS](https://github.com/GrimoireGL/GrimoireJS) - A WebGL framework for Web development.
 - [freeman-lab/minidocs](https://github.com/freeman-lab/minidocs) - build a minimalist site for your documentation
