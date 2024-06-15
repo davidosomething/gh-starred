@@ -990,7 +990,7 @@
 - [taylorhakes/fecha](https://github.com/taylorhakes/fecha) - Lightweight and simple JS date formatting and parsing
 - [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb) - ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [googleapis/retry-request](https://github.com/googleapis/retry-request) - Retry a request with built-in exponential backoff.
+- [googleapis/retry-request](https://github.com/googleapis/retry-request) - **THIS REPOSITORY AND PACKAGE WILL BE DEPRECATED IN JULY 2024**  Retry a request with built-in exponential backoff.
 - [lquixada/cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.
 - [microstates/react](https://github.com/microstates/react) - @microstates/react - Microstates in React.js
 - [ml5js/ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web! 🤖
@@ -1564,7 +1564,7 @@
 - [cvigilv/patana.nvim](https://github.com/cvigilv/patana.nvim) - Neovim colorscheme inspired in Patana Trufillo from 31 Minutos
 - [diegofigs/npackages.nvim](https://github.com/diegofigs/npackages.nvim) - neovim plugin for managing node's package.json
 - [aattoa/nvim-everysig](https://github.com/aattoa/nvim-everysig) - An alternate signature help request handler for neovim
-- [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful mostly grayscale colorscheme thats soft on the eyes, and supports heaps of neovim plugins
+- [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.
 - [lewis6991/whatthejump.nvim](https://github.com/lewis6991/whatthejump.nvim) - Show jumplist in a floating window.
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) - Easily create and manage predefined window layouts, bringing a new edge to your workflow
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
@@ -1644,7 +1644,6 @@
 - [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver for neovim.
 - [niuiic/format.nvim](https://github.com/niuiic/format.nvim) - An asynchronous, multitasking, and highly configurable formatting plugin.
 - [creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim) - An unofficial collection of linters and formatters configured for diagnostic-languageserver for neovim.
-- [willothy/hollywood.nvim](https://github.com/willothy/hollywood.nvim) - 📸 Action! A flexible, elegant and featureful code action menu (WIP)
 - [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) - LSP diagnostics in virtual text at the top right of your screen
 - [Equilibris/nx.nvim](https://github.com/Equilibris/nx.nvim) - A simple tool providing the same features as the NX console does for vs-code
 - [yutkat/osc52.nvim](https://github.com/yutkat/osc52.nvim) - Copy text to local clipboard in ssh using OSC52
@@ -1663,7 +1662,6 @@
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [loctvl842/breadcrumb.nvim](https://github.com/loctvl842/breadcrumb.nvim) - breadcrumb for neovim
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim
-- [ollbx/nvim-utility-lib.nvim](https://github.com/ollbx/nvim-utility-lib.nvim) - Lua helper functions for building and diagnostics
 - [luozhiya/lsp-virtual-improved.nvim](https://github.com/luozhiya/lsp-virtual-improved.nvim) - lsp-virtual-improved.nvim
 - [topaxi/gh-actions.nvim](https://github.com/topaxi/gh-actions.nvim) - See status of workflows and dispatch runs directly in neovim
 - [ja-he/heat.nvim](https://github.com/ja-he/heat.nvim) - highlights hotness. in nvim
@@ -1684,7 +1682,6 @@
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files and command output from wezterm, kitty, and neovim terminals in your current neovim instance
 - [buschco/nvim-cmp-ts-tag-close](https://github.com/buschco/nvim-cmp-ts-tag-close) - nvim-cmp source for closing tags
 - [yutkat/git-rebase-auto-diff.nvim](https://github.com/yutkat/git-rebase-auto-diff.nvim) - Show diff automatically when git rebase
-- [simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) - almost not wip
 - [SDGLBL/nvim-sync.nvim](https://github.com/SDGLBL/nvim-sync.nvim) - Automatic sync/async SFTP,FTP,... for buffers in Neovim.
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) - Displays test coverage data in the sign column
@@ -1797,7 +1794,6 @@
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Neovim plugin that offers context when cycling buffers in the form of a customizable notification window.
 - [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) - Code analysis & navigation plugin for Neovim. Navigate codes like a breeze🎐  Exploring LSP and 🌲Treesitter symbols a piece of 🍰  Take control like a boss 🦍
-- [weilbith/nvim-code-action-menu](https://github.com/weilbith/nvim-code-action-menu) - Pop-up menu for code actions to show meta-information and diff preview
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - A simple plugin to easily manage Neovim buffers.
 - [toppair/reach.nvim](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage, colorscheme switcher for Neovim
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A neovim port of Assorted Biscuits. Ends up with more supported languages too.
@@ -3081,7 +3077,6 @@
 - [thecodrr/fdir](https://github.com/thecodrr/fdir) - ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in &lt; 1s
 - [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue) - JavaScript library that translates Cron expressions into human readable descriptions
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
-- [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - A Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
 - [open-draft/until](https://github.com/open-draft/until) - Gracefully handle Promises using async/await without try/catch.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -3553,7 +3548,6 @@
 - [axvr/zepl.vim](https://github.com/axvr/zepl.vim) - Simple and minimal REPL integration plugin for Vim and Neovim.
 - [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim) - 
 - [danishprakash/vim-yami](https://github.com/danishprakash/vim-yami) - Monochromatic dark(闇) theme for Vim
-- [antoinemadec/coc-fzf](https://github.com/antoinemadec/coc-fzf) - fzf :heart: coc.nvim
 - [camspiers/lens.vim](https://github.com/camspiers/lens.vim) - A Vim Automatic Window Resizing Plugin
 - [tyru/forget-me-not.vim](https://github.com/tyru/forget-me-not.vim) - EXPERIMENTAL: Session management plugin
 - [brglng/vim-sidebar-manager](https://github.com/brglng/vim-sidebar-manager) - The missing sidebar manager for Vim/Neovim
