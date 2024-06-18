@@ -1561,6 +1561,7 @@
 
 ## Lua 
 
+- [MysticalDevil/inlay-hints.nvim](https://github.com/MysticalDevil/inlay-hints.nvim) - A plugin to simplify enabling neovim inlay hints(neovim 0.10+).
 - [ChuufMaster/markdown-toc](https://github.com/ChuufMaster/markdown-toc) - Generate inteligent customisable markdown TOC with affordances for emojis and relative file paths.
 - [antosha417/nvim-lsp-file-operations](https://github.com/antosha417/nvim-lsp-file-operations) - Neovim plugin that adds support for file operations using built-in LSP
 - [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file manager
@@ -4036,7 +4037,6 @@
 - [jeetsukumaran/vim-filebeagle](https://github.com/jeetsukumaran/vim-filebeagle) - A VINE-spired (Vim Is Not Emacs) file system explorer.
 - [chrisbra/changesPlugin](https://github.com/chrisbra/changesPlugin) - A Vim Plugin for indicating changes as colored bars using signs.
 - [Julian/vim-textobj-variable-segment](https://github.com/Julian/vim-textobj-variable-segment) - A text object to turn foo_bar_baz into foo_baz *and* quuxSpamEggs into quuxEggs *and* shine your shoes
-- [ap/vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
 - [chrisbra/vim-diff-enhanced](https://github.com/chrisbra/vim-diff-enhanced) - Better Diff options for Vim
 - [osyo-manga/vim-marching](https://github.com/osyo-manga/vim-marching) - Async clang code completion.
 - [miyakogi/sidepanel.vim](https://github.com/miyakogi/sidepanel.vim) - A vim plugin to manage "sidebar type" plugins.
