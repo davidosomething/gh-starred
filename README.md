@@ -230,9 +230,9 @@
 ## CSS 
 
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
+- [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding.
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) - A pastebin for Tailscale users
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
-- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
@@ -538,6 +538,7 @@
 - [tomonic-x/Illusion](https://github.com/tomonic-x/Illusion) - Programming font for JIS X 0208 with Unicode.
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [Microwawe/mamba-ui](https://github.com/Microwawe/mamba-ui) - Mamba UI is a free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
+- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [christian-putzke/freshrss-pocket-button](https://github.com/christian-putzke/freshrss-pocket-button) - Add FreshRSS articles to Pocket with one simple button click or a keyboard shortcut.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
@@ -1561,6 +1562,8 @@
 
 ## Lua 
 
+- [ejrichards/mise.nvim](https://github.com/ejrichards/mise.nvim) - 3rd party Neovim plugin that compliments https://mise.jdx.dev/
+- [tadmccorkle/markdown.nvim](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for working with Markdown in Neovim.
 - [MysticalDevil/inlay-hints.nvim](https://github.com/MysticalDevil/inlay-hints.nvim) - A plugin to simplify enabling neovim inlay hints(neovim 0.10+).
 - [ChuufMaster/markdown-toc](https://github.com/ChuufMaster/markdown-toc) - Generate inteligent customisable markdown TOC with affordances for emojis and relative file paths.
 - [antosha417/nvim-lsp-file-operations](https://github.com/antosha417/nvim-lsp-file-operations) - Neovim plugin that adds support for file operations using built-in LSP
@@ -1600,7 +1603,6 @@
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line
 - [js-everts/cmp-tailwind-colors](https://github.com/js-everts/cmp-tailwind-colors) - Adds tailwindcss color hints to nvim-cmp completion results
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
-- [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding.
 - [fcancelinha/northern.nvim](https://github.com/fcancelinha/northern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) - A telescope plugin that runs tasks similar to VS Code's task implementation.
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (~ 120loc) that hightlights ranges you have entered in commandline.
@@ -1918,6 +1920,7 @@
 - [gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) - Populate the quickfix with json entries
 - [kristijanhusak/line-notes.nvim](https://github.com/kristijanhusak/line-notes.nvim) - 
 - [hadronized/hop.nvim](https://github.com/hadronized/hop.nvim) - Neovim motions on speed!
+- [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) - VSCode 💡 for neovim's built-in LSP.
 - [ojroques/nvim-bufdel](https://github.com/ojroques/nvim-bufdel) - A Neovim plugin to improve buffer deletion
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
@@ -2875,7 +2878,6 @@
 
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
-- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -2923,6 +2925,7 @@
 
 ## TypeScript 
 
+- [PaulieScanlon/nextjs-google-sheets-database](https://github.com/PaulieScanlon/nextjs-google-sheets-database) - Use Google Sheets as a Database
 - [redpangilinan/credenza](https://github.com/redpangilinan/credenza) - Ready-made responsive modal component for shadcn/ui.
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling
 - [verekia/manapotion](https://github.com/verekia/manapotion) - 🧪 Mana Potion – Toolkit for JavaScript game development and interactive experiences (React, Vue, Svelte, vanilla)
@@ -2956,7 +2959,7 @@
 - [Doist/reactist](https://github.com/Doist/reactist) - Open source React components made with ❤️ by Doist
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components.
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Finite state machines for building accessible design systems and UI components. Works with modern frameworks, and even just Vanilla JS
 - [Brandawg93/PeaNUT](https://github.com/Brandawg93/PeaNUT) - A tiny dashboard for Network UPS Tools
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
@@ -2972,6 +2975,7 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string.
 - [ota-meshi/eslint-plugin-jsonc](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON(C|5)? files
+- [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [frolicorg/frolic-react](https://github.com/frolicorg/frolic-react) - React Component Library to Build Analytics Dashboard 10x Faster
@@ -3119,7 +3123,7 @@
 - [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
-- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [johnwalley/allotment](https://github.com/johnwalley/allotment) - A React component for resizable split views
 - [naver/egjs-conveyer](https://github.com/naver/egjs-conveyer) - Conveyer adds Drag gestures to your Native Scroll.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
@@ -3508,7 +3512,6 @@
 - [kkga/vim-envy](https://github.com/kkga/vim-envy) - Light color scheme for Vim with comfortable contrast.
 - [embark-theme/vim](https://github.com/embark-theme/vim) - An ambitious theme for vim
 - [lambdalisue/vim-fin](https://github.com/lambdalisue/vim-fin) - 🐟  Filter the buffer content in-place without modification
-- [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [obcat/vim-hitspop](https://github.com/obcat/vim-hitspop) - 💬  Popup the number of search results
 - [obcat/vim-sclow](https://github.com/obcat/vim-sclow) - :space_invader: Text-based scrollbar for Vim
 - [beeender/Comrade](https://github.com/beeender/Comrade) - Brings JetBrains/IntelliJ IDEs magic to Neovim with minimal setup.
