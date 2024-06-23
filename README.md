@@ -540,7 +540,6 @@
 - [Microwawe/mamba-ui](https://github.com/Microwawe/mamba-ui) - Mamba UI is a free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [christian-putzke/freshrss-pocket-button](https://github.com/christian-putzke/freshrss-pocket-button) - Add FreshRSS articles to Pocket with one simple button click or a keyboard shortcut.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
@@ -608,7 +607,6 @@
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [TrashboxBobylev/Summoning-Pixel-Dungeon](https://github.com/TrashboxBobylev/Summoning-Pixel-Dungeon) - The expansion for Shattered Pixel Dungeon
 - [stathissideris/ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
-- [Mini-Weav/SchoolQuest](https://github.com/Mini-Weav/SchoolQuest) - School-sim RPG with integrated tile map engine.
 - [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
 - [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 - [jhipster/prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
@@ -2536,6 +2534,7 @@
 
 ## Rust 
 
+- [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - A modern environment variables cli tool backed by SQLite
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [nkoporec/checkmate-lsp](https://github.com/nkoporec/checkmate-lsp) - A LSP framework to inject a LSP diagnostics. The most common use case is to run linters (ESLint, Stylelint ...) and inject the errors/warnings into your editor.
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM - inspired by and compatible with Obsidian
@@ -2882,6 +2881,7 @@
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
