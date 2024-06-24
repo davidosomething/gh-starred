@@ -2012,7 +2012,7 @@
 
 ## Nix 
 
-- [pjones/plasma-manager](https://github.com/pjones/plasma-manager) - Manage KDE Plasma with Home Manager
+- [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager
 - [tailscale-dev/docker-mod](https://github.com/tailscale-dev/docker-mod) - The home for our universal Docker mod
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
@@ -2296,6 +2296,7 @@
 
 ## Python 
 
+- [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
 - [jziolkowski/tdm](https://github.com/jziolkowski/tdm) - GUI application to discover and monitor devices flashed with https://github.com/arendst/tasmota
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [yuru7/moralerspace](https://github.com/yuru7/moralerspace) - Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
@@ -2534,7 +2535,7 @@
 
 ## Rust 
 
-- [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - A modern environment variables cli tool backed by SQLite
+- [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [nkoporec/checkmate-lsp](https://github.com/nkoporec/checkmate-lsp) - A LSP framework to inject a LSP diagnostics. The most common use case is to run linters (ESLint, Stylelint ...) and inject the errors/warnings into your editor.
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Editor Agnostic PKM: you bring the text editor and we bring the PKM - inspired by and compatible with Obsidian
