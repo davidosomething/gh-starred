@@ -1582,7 +1582,7 @@
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
 - [negset/Firple](https://github.com/negset/Firple) - A monospaced Japanese font containing ligatures.
 - [tomonic-x/Illusion](https://github.com/tomonic-x/Illusion) - Programming font for JIS X 0208 with Unicode.
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [testing V7] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源像素字体。支持 8、10 和 12 像素。
 - [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
@@ -1667,14 +1667,14 @@
 ## game-development 
 
 - [yantra-core/Labyrinthos.js](https://github.com/yantra-core/Labyrinthos.js) - A JavaScript procedural generator for Mazes, Terrains, and Biomes. Designed for game developers and professional hobbyists, Labyrinthos.js offers a very simple-to-use API for crafting complex, customi
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [EvanBacon/Expo-Voxel](https://github.com/EvanBacon/Expo-Voxel) - 🎮🌳 Voxel Terrain made in React Native. ∛
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 
 ## game-engine 
 
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [EvanBacon/Expo-Voxel](https://github.com/EvanBacon/Expo-Voxel) - 🎮🌳 Voxel Terrain made in React Native. ∛
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 
@@ -1683,7 +1683,7 @@
 - [verekia/manapotion](https://github.com/verekia/manapotion) - 🧪 Mana Potion – Toolkit for JavaScript game development and interactive experiences (React, Vue, Svelte, vanilla)
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
 - [colrdavidson/spall-web](https://github.com/colrdavidson/spall-web) - Simple, Fast, Portable Profiling
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 
@@ -2489,7 +2489,7 @@
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [TheodoreChu/append-editor](https://github.com/TheodoreChu/append-editor) - Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco | https://appendeditor.com
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is a fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -3058,7 +3058,6 @@
 
 ## low-code 
 
-- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Web based real-time log viewer. Stream ANY content to a web UI with autogenerated filters. Parse any format with TypeScript.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
@@ -4262,6 +4261,7 @@
 
 ## others 
 
+- [dorklyorg/dorkly](https://github.com/dorklyorg/dorkly) - Contains source code for GitHub Action and docker bits for backend service
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - Experimental markdown preview for neovim
 - [PaulieScanlon/nextjs-google-sheets-database](https://github.com/PaulieScanlon/nextjs-google-sheets-database) - Use Google Sheets as a Database
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
