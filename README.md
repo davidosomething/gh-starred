@@ -66,7 +66,6 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [Zig](#zig)
 
 ## ActionScript 
 
@@ -143,6 +142,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [skeeto/enchive](https://github.com/skeeto/enchive) - Encrypted personal archives
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [tudurom/windowchef](https://github.com/tudurom/windowchef) - Window Chef is a stacking window manager that cooks windows with orders from the Waitron
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -257,7 +257,7 @@
 - [csstools/postcss-normalize](https://github.com/csstools/postcss-normalize) - Use the parts of normalize.css (or sanitize.css) you need from your browserslist
 - [jaicab/localFont](https://github.com/jaicab/localFont) - Implement localStorage web font caching in seconds
 - [HubSpot/offline](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
-- [vinceliuice/vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
+- [vinceliuice/Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
 - [fians/marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [szynszyliszys/repaintless](https://github.com/szynszyliszys/repaintless) - Library for fast CSS Animations
 - [mozilla/Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS
@@ -1572,6 +1572,7 @@
 
 ## Lua 
 
+- [luckasRanarison/lsp-extras.nvim](https://github.com/luckasRanarison/lsp-extras.nvim) - The missing Neovim LSP modules
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - Experimental markdown preview for neovim
 - [ejrichards/mise.nvim](https://github.com/ejrichards/mise.nvim) - 3rd party Neovim plugin that compliments https://mise.jdx.dev/
@@ -2872,7 +2873,7 @@
 - [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
-- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
+- [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [php-build/php-build](https://github.com/php-build/php-build) - Builds PHP so that multiple versions can be used side by side.
 - [Nitrux/luv-icon-theme](https://github.com/Nitrux/luv-icon-theme) - Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
@@ -2933,7 +2934,7 @@
 
 ## TypeScript 
 
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notions.
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notion.
 - [PaulieScanlon/nextjs-google-sheets-database](https://github.com/PaulieScanlon/nextjs-google-sheets-database) - Use Google Sheets as a Database
 - [redpangilinan/credenza](https://github.com/redpangilinan/credenza) - Ready-made responsive modal component for shadcn/ui.
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling
@@ -2991,7 +2992,7 @@
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [standardnotes/plugins](https://github.com/standardnotes/plugins) - Community plugins for Standard Notes — Experimental 🧪
-- [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, AJV, Joi, Superstruct, Vest, class-validator, io-ts, typanion, Ajv, TypeBox, Valibot and nope.
+- [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts and VineJS
 - [pingdotgg/zact](https://github.com/pingdotgg/zact) - Nothing to see here
 - [Effect-TS/schema](https://github.com/Effect-TS/schema) - Modeling the schema of data structures as first-class values
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
@@ -4084,10 +4085,6 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx) - ✨ Beautifully simple click-to-copy CSS effects
 - [zircleUI/zircleUI](https://github.com/zircleUI/zircleUI) - 🚀 zircle-ui is a frontend library to develop zoomable user interfaces.
-
-## Zig 
-
-- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
 ## License
