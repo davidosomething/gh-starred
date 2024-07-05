@@ -2049,7 +2049,7 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
@@ -3150,7 +3150,7 @@
 - [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
-- [chaosystema/nvim-nyctophilia](https://github.com/chaosystema/nvim-nyctophilia) - A set of Neovim colorschemes for nightlovers
+- [javiorfo/nvim-nyctophilia](https://github.com/javiorfo/nvim-nyctophilia) - A set of Neovim colorschemes for nightlovers
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant lsp progress status for Neovim.
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
@@ -3674,7 +3674,7 @@
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
-- [chaosystema/nvim-nyctophilia](https://github.com/chaosystema/nvim-nyctophilia) - A set of Neovim colorschemes for nightlovers
+- [javiorfo/nvim-nyctophilia](https://github.com/javiorfo/nvim-nyctophilia) - A set of Neovim colorschemes for nightlovers
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) - Prettier plugin for Neovim's built-in LSP client.
@@ -4265,6 +4265,8 @@
 
 ## others 
 
+- [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data
+- [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 - [dorklyorg/dorkly](https://github.com/dorklyorg/dorkly) - Contains source code for GitHub Action and docker bits for backend service
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - Experimental markdown preview for neovim
@@ -6987,7 +6989,7 @@
 ## terminal 
 
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
