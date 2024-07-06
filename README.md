@@ -2942,7 +2942,7 @@
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notion.
 - [PaulieScanlon/nextjs-google-sheets-database](https://github.com/PaulieScanlon/nextjs-google-sheets-database) - Use Google Sheets as a Database
 - [redpangilinan/credenza](https://github.com/redpangilinan/credenza) - Ready-made responsive modal component for shadcn/ui.
-- [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - KWin tiling script with scrolling
+- [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - KWin scrollable tiling script
 - [verekia/manapotion](https://github.com/verekia/manapotion) - 🧪 Mana Potion – Toolkit for JavaScript game development and interactive experiences (React, Vue, Svelte, vanilla)
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
@@ -3563,7 +3563,7 @@
 - [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, sessions, yank, ...
 - [eugen0329/vim-esearch](https://github.com/eugen0329/vim-esearch) - Perform search in files easily
 - [Jorengarenar/vim-darkness](https://github.com/Jorengarenar/vim-darkness) - Dark, monochromatic Vim colorscheme
-- [Lenovsky/nuake](https://github.com/Lenovsky/nuake) - A Quake-style terminal panel for Neovim and Vim
+- [L3N76/nuake](https://github.com/L3N76/nuake) - A Quake-style terminal panel for Neovim and Vim
 - [tyru/notify-changed.vim](https://github.com/tyru/notify-changed.vim) - Notify buffer changed lines using OS notification system (supported: macOS/Windows/WSL/Linux, Vim 8.1+/Neovim 0.5+)
 - [Konfekt/vim-compilers](https://github.com/Konfekt/vim-compilers) - a collection of compilers for ready use by Vim's built-in compiler feature (see :help :compiler)
 - [mcchrish/info-window.nvim](https://github.com/mcchrish/info-window.nvim) - See file information in a floating window
