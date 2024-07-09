@@ -95,7 +95,7 @@
 - [deadbeefsociety/sshfs](https://github.com/deadbeefsociety/sshfs) - A network filesystem client to connect to SSH servers
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
-- [bitair-org/linker.js](https://github.com/bitair-org/linker.js) - Access Python & C-shared libraries(C, C++, Go, Rust, ...) from Node.js
+- [BitairLabs/linker.js](https://github.com/BitairLabs/linker.js) - Access Python & C-shared libraries(C, C++, Go, Rust, ...) from Node.js
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
@@ -1530,7 +1530,6 @@
 - [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
 - [stefanocudini/leaflet-panel-layers](https://github.com/stefanocudini/leaflet-panel-layers) - Leaflet Control Layers extended with support groups and icons
-- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [max-mapper/cool-ascii-faces](https://github.com/max-mapper/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
 - [marmelab/gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
@@ -1580,7 +1579,7 @@
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 - [luckasRanarison/lsp-extras.nvim](https://github.com/luckasRanarison/lsp-extras.nvim) - The missing Neovim LSP modules
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin that display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - Experimental markdown preview for neovim
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer for Neovim
 - [ejrichards/mise.nvim](https://github.com/ejrichards/mise.nvim) - 3rd party Neovim plugin that compliments https://mise.jdx.dev/
 - [tadmccorkle/markdown.nvim](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for working with Markdown in Neovim.
 - [MysticalDevil/inlay-hints.nvim](https://github.com/MysticalDevil/inlay-hints.nvim) - A plugin to simplify enabling neovim inlay hints(neovim 0.10+).
@@ -3488,6 +3487,7 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
 
 ## Vala 
