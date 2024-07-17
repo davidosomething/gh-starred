@@ -2022,7 +2022,6 @@
 
 ## Mustache 
 
-- [kdrag0n/base16-kitty](https://github.com/kdrag0n/base16-kitty) - Base16 color scheme template for kitty
 - [vbwx/base16-terminal-app](https://github.com/vbwx/base16-terminal-app) - Base16 template for Terminal.app
 
 ## Nim 
