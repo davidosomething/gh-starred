@@ -1264,6 +1264,7 @@
 
 ## docker 
 
+- [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [YuukanOO/seelf](https://github.com/YuukanOO/seelf) - Lightweight self-hosted deployment platform written in Go
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
@@ -1570,6 +1571,7 @@
 
 ## flutter 
 
+- [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
@@ -1619,6 +1621,7 @@
 
 ## framework 
 
+- [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
 - [open-draft/event-contract](https://github.com/open-draft/event-contract) - Type-safe, implementation-agnostic event contract framework.
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
@@ -2047,6 +2050,8 @@
 
 ## hacktoberfest 
 
+- [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
+- [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C++ Terminal Emulator
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [jsonnull/electron-trpc](https://github.com/jsonnull/electron-trpc) - Build type-safe Electron inter-process communication using tRPC
@@ -2568,7 +2573,7 @@
 - [jaames/iro.js](https://github.com/jaames/iro.js) - 🎨  Modular color picker widget for JavaScript, with support for a bunch of color formats
 - [koala-interactive/frenchkiss.js](https://github.com/koala-interactive/frenchkiss.js) - The blazing fast lightweight internationalization (i18n) module for javascript
 - [linkedin/eyeglass](https://github.com/linkedin/eyeglass) - NPM Modules for Sass
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [artemave/vjs](https://github.com/artemave/vjs) - Missing javascript refactoring tools for nvim
@@ -2802,7 +2807,7 @@
 - [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 - [jonschlinkert/clone-deep](https://github.com/jonschlinkert/clone-deep) - Recursively (deep) clone JavaScript native types, like Object, Array, RegExp, Date as well as primitives. Used by superstruct, merge-deep, and many others!
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - The project has been migrated to @wolf-table/table https://github.com/wolf-table/table
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [simonwep/pickr](https://github.com/simonwep/pickr) - 🎨 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hs
 - [martinnov92/React-Splitters](https://github.com/martinnov92/React-Splitters) - React splitter component, written in TypeScript.
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
@@ -2839,7 +2844,7 @@
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
-- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
+- [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [redgeoff/mson](https://github.com/redgeoff/mson) - 🏗️MSON Lang: Generate an app from JSON
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [jamiebuilds/json-peek](https://github.com/jamiebuilds/json-peek) - Stringify JSON *just enough* to see what it is
@@ -2883,6 +2888,7 @@
 
 ## kubernetes 
 
+- [acouvreur/sablier](https://github.com/acouvreur/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
@@ -3559,7 +3565,7 @@
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) - Neovim plugin to auto install LSP servers
 - [Zeioth/heirline-components.nvim](https://github.com/Zeioth/heirline-components.nvim) - Distro agnostic components for your Neovim heirline config
 - [js-everts/cmp-tailwind-colors](https://github.com/js-everts/cmp-tailwind-colors) - Adds tailwindcss color hints to nvim-cmp completion results
-- [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for all projects files, not just the opened ones.
+- [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for _all_ projects files, not just opened ones.
 - [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding.
 - [fcancelinha/northern.nvim](https://github.com/fcancelinha/northern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (~ 120loc) that hightlights ranges you have entered in commandline.
@@ -3975,7 +3981,6 @@
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
 - [hliyan/jarvis](https://github.com/hliyan/jarvis) - J.A.R.V.I.S - Just Another Rudimentary Verbal Instruction Shell
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 
@@ -5121,6 +5126,7 @@
 - [planttheidea/hash-it](https://github.com/planttheidea/hash-it) - Hash any object type based on its values
 - [mafintosh/wifictl](https://github.com/mafintosh/wifictl) - Command line tool to configure wifi using wpa_supplicant
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [rainglow/vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
 - [rainglow/iterm](https://github.com/rainglow/iterm) - 320+ color themes for iTerm2.
@@ -7721,6 +7727,7 @@
 
 ## web 
 
+- [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
