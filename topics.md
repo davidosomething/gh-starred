@@ -4097,7 +4097,7 @@
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
-- [connor4312/cockatiel](https://github.com/connor4312/cockatiel) - 🐦 A resilience and transient-fault-handling library that allows developers to express policies such as Backoff, Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback. Inspired by .NET Poll
+- [connor4312/cockatiel](https://github.com/connor4312/cockatiel) - 🐦 A resilience and fault-handling library. Supports Backoffs, Retries, Circuit Breakers, Timeouts, Bulkhead Isolation, and Fallbacks.
 - [lirantal/lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint an npm or yarn lockfile to analyze and detect security issues
 - [ByronHsu/life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
@@ -7264,7 +7264,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
-- [connor4312/cockatiel](https://github.com/connor4312/cockatiel) - 🐦 A resilience and transient-fault-handling library that allows developers to express policies such as Backoff, Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback. Inspired by .NET Poll
+- [connor4312/cockatiel](https://github.com/connor4312/cockatiel) - 🐦 A resilience and fault-handling library. Supports Backoffs, Retries, Circuit Breakers, Timeouts, Bulkhead Isolation, and Fallbacks.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [trixnz/lua-fmt](https://github.com/trixnz/lua-fmt) - lua-fmt is pretty-printer for Lua code
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
