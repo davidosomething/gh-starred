@@ -163,7 +163,7 @@
 - [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 - [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
 - [assetgrid/assetgridapp](https://github.com/assetgrid/assetgridapp) - 📊 A selfhosted data-driven personal finance manager 💸
-- [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, and Linux
+- [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
 - [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 - [SapphireDb/SapphireDb](https://github.com/SapphireDb/SapphireDb) - SapphireDb Server, a self-hosted, easy to use realtime database for Asp.Net Core and EF Core
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -2560,7 +2560,7 @@
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [nkoporec/checkmate-lsp](https://github.com/nkoporec/checkmate-lsp) - A LSP framework to inject a LSP diagnostics. The most common use case is to run linters (ESLint, Stylelint ...) and inject the errors/warnings into your editor.
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Composable PKM: You bring the text-editor, we bring the PKM - inspired by and compatible with Obsidian
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Composable PKM: You bring the text-editor, we bring the PKM - inspired by and compatible with Obsidian
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -2947,6 +2947,7 @@
 
 ## TypeScript 
 
+- [ryanrosello-og/playwright-slack-report](https://github.com/ryanrosello-og/playwright-slack-report) - Publish your Playwright test results to your favourite Slack channel(s).
 - [meursyphus/flitter](https://github.com/meursyphus/flitter) - Flitter is a powerful framework inspired by Flutter, supporting both SVG and Canvas to create high-performance graphics and user interfaces. It is designed to easily implement complex data visualizati
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten) - 
