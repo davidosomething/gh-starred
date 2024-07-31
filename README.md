@@ -1582,6 +1582,8 @@
 
 ## Lua 
 
+- [psjay/blamer.nvim](https://github.com/psjay/blamer.nvim) - Neovim plugin for displaying Git blame information in vim-fugitive style with some enhancements.
+- [ktappdev/diagnostic-comments.nvim](https://github.com/ktappdev/diagnostic-comments.nvim) - A lightweight Neovim plugin that easy to share your code to llm for fixes, the errors are displayed as comments above the actual error
 - [HE7086/sudoedit.nvim](https://github.com/HE7086/sudoedit.nvim) - Let nvim detect filetype properly when used with sudoedit
 - [aktersnurra/no-clown-fiesta.nvim](https://github.com/aktersnurra/no-clown-fiesta.nvim) - A dark gray colorscheme
 - [sontungexpt/better-diagnostic-virtual-text](https://github.com/sontungexpt/better-diagnostic-virtual-text) - Enhances the display of virtual text for diagnostics in Neovim. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
@@ -2558,10 +2560,11 @@
 
 ## Rust 
 
+- [mbecker20/monitor](https://github.com/mbecker20/monitor) - 🦎 a tool to build and deploy software on many servers 🦎
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [nkoporec/checkmate-lsp](https://github.com/nkoporec/checkmate-lsp) - A LSP framework to inject a LSP diagnostics. The most common use case is to run linters (ESLint, Stylelint ...) and inject the errors/warnings into your editor.
-- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Composable PKM: You bring the text-editor, we bring the PKM - inspired by and compatible with Obsidian
+- [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - Robust, Minimalist, Unbundled PKM for use with your favorite text-editor
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [containers/podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -3291,7 +3294,7 @@
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [remarkablemark/html-react-parser](https://github.com/remarkablemark/html-react-parser) - 📝 HTML to React parser.
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
-- [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management
+- [reactive/data-client](https://github.com/reactive/data-client) - Async State Management without the Management. REST, GraphQL, SSE, Websockets
 - [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - Docking Layout Manager for React
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [steveukx/git-js](https://github.com/steveukx/git-js) - A light weight interface for running git commands in any node.js application.
