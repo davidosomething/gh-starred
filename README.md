@@ -236,7 +236,7 @@
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 - [IceWreck/Argon-Dokuwiki-Template](https://github.com/IceWreck/Argon-Dokuwiki-Template) - Dokuwiki Template based on the Argon Design System
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
