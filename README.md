@@ -2954,6 +2954,7 @@
 
 ## TypeScript 
 
+- [mylesmmurphy/prettify-ts](https://github.com/mylesmmurphy/prettify-ts) - Prettify TypeScript: Better Type Previews
 - [antonk52/cssmodules-language-server](https://github.com/antonk52/cssmodules-language-server) - autocompletion and go-to-defintion for cssmodules
 - [henrygd/queue](https://github.com/henrygd/queue) - Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
 - [ryanrosello-og/playwright-slack-report](https://github.com/ryanrosello-og/playwright-slack-report) - Publish your Playwright test results to your favourite Slack channel(s).
