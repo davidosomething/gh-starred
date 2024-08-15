@@ -947,6 +947,7 @@
 
 ## code-quality 
 
+- [vitonsky/eslint-plugin-paths](https://github.com/vitonsky/eslint-plugin-paths) - A plugin for ESLint, to force use paths aliases from tsconfig
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
@@ -3426,7 +3427,7 @@
 - [kentaro-m/md2confl](https://github.com/kentaro-m/md2confl) - 🛠 md2confl is a CLI tool to convert the markdown text to confluence wiki format.
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [Thinkmill/react-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in &lt;Components/&gt;, &lt;Components/&gt; in **Markdown**
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
@@ -3586,7 +3587,7 @@
 - [js-everts/cmp-tailwind-colors](https://github.com/js-everts/cmp-tailwind-colors) - Adds tailwindcss color hints to nvim-cmp completion results
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) - Populate diagnostics for _all_ projects files, not just opened ones.
 - [comfysage/evergarden](https://github.com/comfysage/evergarden) - :rose: a comfy neovim colorscheme for cozy morning coding.
-- [fcancelinha/northern.nvim](https://github.com/fcancelinha/northern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
+- [fcancelinha/nordern.nvim](https://github.com/fcancelinha/nordern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (~ 120loc) that hightlights ranges you have entered in commandline.
 - [rasulomaroff/reactive.nvim](https://github.com/rasulomaroff/reactive.nvim) - Reactivity. Right in your neovim.
 - [ntk148v/komau.vim](https://github.com/ntk148v/komau.vim) - Yet another minimal colorscheme for Vim/Neovim
@@ -4302,6 +4303,7 @@
 
 ## others 
 
+- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [antonk52/cssmodules-language-server](https://github.com/antonk52/cssmodules-language-server) - autocompletion and go-to-defintion for cssmodules
 - [mbecker20/monitor](https://github.com/mbecker20/monitor) - 🦎 a tool to build and deploy software on many servers 🦎
 - [ktappdev/diagnostic-comments.nvim](https://github.com/ktappdev/diagnostic-comments.nvim) - A lightweight Neovim plugin that easy to share your code to llm for fixes, the errors are displayed as comments above the actual error
@@ -5801,7 +5803,6 @@
 - [gorkunov/smartpairs.vim](https://github.com/gorkunov/smartpairs.vim) - Enchanted visual (selection) mode for Vim
 - [gotwarlost/istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use ca
 - [matthieua/WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
-- [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
 - [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
 - [bgrins/devtools-snippets](https://github.com/bgrins/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools
@@ -7354,7 +7355,7 @@
 ## vim 
 
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
-- [fcancelinha/northern.nvim](https://github.com/fcancelinha/northern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
+- [fcancelinha/nordern.nvim](https://github.com/fcancelinha/nordern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
 - [ntk148v/komau.vim](https://github.com/ntk148v/komau.vim) - Yet another minimal colorscheme for Vim/Neovim
 - [rockyzhang24/dotfiles](https://github.com/rockyzhang24/dotfiles) - 🔧 My dotfiles on  macOS for Neovim, Zsh, kitty, lf, etc
 - [yorickpeterse/nvim-pqf](https://github.com/yorickpeterse/nvim-pqf) - Prettier quickfix/location list windows for NeoVim
@@ -7523,7 +7524,7 @@
 - [kristijanhusak/vim-js-file-import](https://github.com/kristijanhusak/vim-js-file-import) - Import/require files in javascript and typescript with single button!
 - [sodapopcan/vim-twiggy](https://github.com/sodapopcan/vim-twiggy) - Git branch management for Vim
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [dhruvasagar/vim-buffer-history](https://github.com/dhruvasagar/vim-buffer-history) - A vim plugin to maintain a buffer jump history per window
 - [zefei/vim-wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager for Vim
 - [thenewvu/vim-colors-sketching](https://github.com/thenewvu/vim-colors-sketching) - A minimal light colorscheme for Vim/Neovim
