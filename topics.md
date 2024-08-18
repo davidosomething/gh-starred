@@ -116,6 +116,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -616,7 +617,7 @@
 
 ## babel 
 
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx typescript, flow, markdown, yaml and json. Wr
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
 - [kentcdodds/babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - 🎣 Allows you to build simple compile-time libraries
 - [babel/awesome-babel](https://github.com/babel/awesome-babel) - 😎A list of awesome Babel plugins, presets, etc.
 - [vzhou842/faster.js](https://github.com/vzhou842/faster.js) - faster.js is a Babel plugin that compiles idiomatic Javascript to faster, micro-optimized Javascript.
@@ -1501,7 +1502,7 @@
 
 - [vitonsky/eslint-plugin-paths](https://github.com/vitonsky/eslint-plugin-paths) - A plugin for ESLint, to force use paths aliases from tsconfig
 - [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx typescript, flow, markdown, yaml and json. Wr
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
 - [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter for delightful readability
 - [chdsbd/eslint-plugin-better-dates](https://github.com/chdsbd/eslint-plugin-better-dates) - ⏱ An ESlint plugin to encourage better `Date` usage and prevent `Date`-related bugs.
 - [github/eslint-plugin-github](https://github.com/github/eslint-plugin-github) - An opinionated collection of ESLint rules used by GitHub.
@@ -2072,7 +2073,7 @@
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts and VineJS
 - [SUSTech-data/wildfire.nvim](https://github.com/SUSTech-data/wildfire.nvim) - wildfire burns treesitter
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx typescript, flow, markdown, yaml and json. Wr
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
@@ -2380,6 +2381,12 @@
 - [vfaronov/httpolice](https://github.com/vfaronov/httpolice) - Validator for HTTP
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 
+## https 
+
+- [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [labstack/armor](https://github.com/labstack/armor) - Uncomplicated, modern HTTP server
+
 ## icon-font 
 
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
@@ -2464,7 +2471,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx typescript, flow, markdown, yaml and json. Wr
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
 - [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
@@ -4072,7 +4079,7 @@
 - [swarthy/redis-semaphore](https://github.com/swarthy/redis-semaphore) - Distributed mutex and semaphore based on Redis
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
 - [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx typescript, flow, markdown, yaml and json. Wr
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
 - [googleapis/google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client) - Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
@@ -4663,7 +4670,6 @@
 - [yairEO/knobs](https://github.com/yairEO/knobs) - UI knobs controllers for JS/CSS live manipulation of various parameters
 - [pwntester/codeql.nvim](https://github.com/pwntester/codeql.nvim) - CodeQL plugin for Neovim
 - [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configuration files
-- [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
 - [guancio/ChromeOsSubtitle](https://github.com/guancio/ChromeOsSubtitle) - ChromeOsSubtitle video player
 - [PepsRyuu/nollup](https://github.com/PepsRyuu/nollup) - Rollup compatible development bundler for fast rebuilds and HMR.
 - [birkenfeld/fddf](https://github.com/birkenfeld/fddf) - Fast data dupe finder
