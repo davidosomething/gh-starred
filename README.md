@@ -97,7 +97,7 @@
 - [neunenak/sshfs](https://github.com/neunenak/sshfs) - A network filesystem client to connect to SSH servers
 - [deadbeefsociety/sshfs](https://github.com/deadbeefsociety/sshfs) - A network filesystem client to connect to SSH servers
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [BitairLabs/linker.js](https://github.com/BitairLabs/linker.js) - Access Python & C-shared libraries(C, C++, Go, Rust, ...) from Node.js
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
@@ -238,7 +238,7 @@
 - [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
 - [IceWreck/Argon-Dokuwiki-Template](https://github.com/IceWreck/Argon-Dokuwiki-Template) - Dokuwiki Template based on the Argon Design System
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
@@ -352,6 +352,7 @@
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
+- [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [reviewdog/errorformat](https://github.com/reviewdog/errorformat) - Vim's quickfix errorformat implementation in Go
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
@@ -539,6 +540,7 @@
 
 ## HTML 
 
+- [diffusionstudio/core](https://github.com/diffusionstudio/core) - Build the next generation of video editing applications
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [weiweihuanghuang/fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
@@ -652,7 +654,6 @@
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [paralleldrive/riteway](https://github.com/paralleldrive/riteway) - Simple, readable, helpful unit tests.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
-- [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [arifszn/reactive-button](https://github.com/arifszn/reactive-button) - 3D animated react button component with progress bar.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
@@ -3765,7 +3766,7 @@
 - [jodosha/vim-godebug](https://github.com/jodosha/vim-godebug) - Go debugging for Vim
 - [hauleth/blame.vim](https://github.com/hauleth/blame.vim) - &lt; = &gt; Colorscheme
 - [dansomething/vim-eclim](https://github.com/dansomething/vim-eclim) - Mirror of the VIM files from https://github.com/ervandew/eclim to support installation via various plugin managers.
-- [srstevenson/vim-picker](https://github.com/srstevenson/vim-picker) - A Vim plugin for fuzzy selection of files, buffers, tags, and more
+- [srstevenson/vim-picker](https://github.com/srstevenson/vim-picker) - Fuzzy picker for file, buffer, and tag navigation in Vim and Neovim. Lightweight and Unix-philosophy compliant.
 - [machakann/vim-operator-jerk](https://github.com/machakann/vim-operator-jerk) - Indent inside lines.
 - [junegunn/gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
 - [preservim/vim-litecorrect](https://github.com/preservim/vim-litecorrect) - Lightweight auto-correction for Vim
@@ -4107,7 +4108,7 @@
 ## Vue 
 
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux..
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [zwave-js/zwave-js-ui](https://github.com/zwave-js/zwave-js-ui) - Full featured Z-Wave Control Panel UI and MQTT gateway. Built using Nodejs, and Vue/Vuetify
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
