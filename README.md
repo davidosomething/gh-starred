@@ -541,7 +541,6 @@
 
 ## HTML 
 
-- [diffusionstudio/core](https://github.com/diffusionstudio/core) - Build the next generation of video editing applications
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
 - [weiweihuanghuang/fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
@@ -1310,6 +1309,7 @@
 - [jaredhanson/electrolyte](https://github.com/jaredhanson/electrolyte) - Elegant dependency injection for Node.js.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [speedtracker/speedtracker](https://github.com/speedtracker/speedtracker) - 📉 Visualisation layer and data store for SpeedTracker
 - [tcorral/Design-Patterns-in-Javascript](https://github.com/tcorral/Design-Patterns-in-Javascript) - Design Patterns applied to Javascript code.
 - [GitbookIO/rousseau](https://github.com/GitbookIO/rousseau) - Lightweight proofreader in JS
@@ -2099,6 +2099,7 @@
 
 ## Others 
 
+- [diffusionstudio/core](https://github.com/diffusionstudio/core) - Build the next generation of video editing applications
 - [hevar/awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components) - 
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [lxgw/yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
@@ -2770,7 +2771,7 @@
 - [arzzen/git-quick-stats](https://github.com/arzzen/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [davidosomething/git-my](https://github.com/davidosomething/git-my) - Lists a user's remote branches and shows if it was merged and/or available locally
 - [osquery/osquery-toolchain](https://github.com/osquery/osquery-toolchain) - A LLVM-based toolchain for Linux designed to build a portable osquery
-- [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Local ad blocker. Like Pi-hole but local and using your operating system.
+- [tanrax/maza-ad-blocking](https://github.com/tanrax/maza-ad-blocking) - Simple, native and efficient local ad blocker. Only Bash.
 - [wertarbyte/autorandr](https://github.com/wertarbyte/autorandr) - Auto-detect the connect display hardware and load the appropiate X11 setup using xrandr or disper
 - [vinceliuice/McMojave-circle](https://github.com/vinceliuice/McMojave-circle) - McMojave-circle icon theme for linux desktops
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
@@ -3491,7 +3492,6 @@
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [nteract/nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
-- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [mariusandra/pigeon-maps](https://github.com/mariusandra/pigeon-maps) - ReactJS Maps without external dependencies
 - [styletron/styletron](https://github.com/styletron/styletron) - :zap: Toolkit for component-oriented styling
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -4029,7 +4029,6 @@
 - [rhysd/vim-textobj-anyblock](https://github.com/rhysd/vim-textobj-anyblock) - A text object for any of '', "", (), {}, [] and &lt;&gt;.
 - [kana/vim-submode](https://github.com/kana/vim-submode) - Vim plugin: Create your own submodes
 - [sgur/vim-gf-autoload](https://github.com/sgur/vim-gf-autoload) - Go to the autoload function definition in VimL.
-- [kana/vim-gf-user](https://github.com/kana/vim-gf-user) - Vim plugin: A framework to open a file by context
 - [idanarye/vim-dutyl](https://github.com/idanarye/vim-dutyl) - Coordinate D tools to work together for you
 - [thinca/vim-singleton](https://github.com/thinca/vim-singleton) - Uses Vim with singleton.
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
