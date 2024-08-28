@@ -350,6 +350,7 @@
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
@@ -2964,6 +2965,7 @@
 
 ## TypeScript 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [true-myth/true-myth](https://github.com/true-myth/true-myth) - A library for safer and smarter error- and "nothing"-handling in TypeScript.
 - [mylesmmurphy/prettify-ts](https://github.com/mylesmmurphy/prettify-ts) - Prettify TypeScript: Better Type Previews
 - [antonk52/cssmodules-language-server](https://github.com/antonk52/cssmodules-language-server) - autocompletion and go-to-defintion for cssmodules
@@ -3003,7 +3005,6 @@
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - jump to local IDE code directly from browser React component by just a simple click
 - [Doist/reactist](https://github.com/Doist/reactist) - Open source React components made with ❤️ by Doist
@@ -3043,7 +3044,7 @@
 - [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
 - [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
-- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - Kubb
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - OpenAPI to TypeScript, React-Query, Zod and Axios.
 - [rileytomasek/zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
@@ -3669,7 +3670,7 @@
 - [bootleq/ShowMarks](https://github.com/bootleq/ShowMarks) - Modified version of ShowMarks plugin.
 - [gruvbox-community/gruvbox](https://github.com/gruvbox-community/gruvbox) - Retro groove color scheme for Vim - community maintained edition
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
-- [rbong/vim-flog](https://github.com/rbong/vim-flog) - A fast, beautiful, and powerful git branch viewer for vim.
+- [rbong/vim-flog](https://github.com/rbong/vim-flog) - A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.
 - [davidosomething/vim-colors-meh](https://github.com/davidosomething/vim-colors-meh) - My perpetually WIP colorscheme
 - [voldikss/vim-translator](https://github.com/voldikss/vim-translator) - :closed_book: Translating plugin for Vim/Neovim
 - [gjunkie/vim-grid-user](https://github.com/gjunkie/vim-grid-user) - 
