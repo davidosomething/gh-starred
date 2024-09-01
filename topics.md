@@ -4357,7 +4357,7 @@
 
 - [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [antonk52/cssmodules-language-server](https://github.com/antonk52/cssmodules-language-server) - autocompletion and go-to-defintion for cssmodules
-- [mbecker20/monitor](https://github.com/mbecker20/monitor) - 🦎 a tool to build and deploy software on many servers 🦎
+- [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [ktappdev/diagnostic-comments.nvim](https://github.com/ktappdev/diagnostic-comments.nvim) - A lightweight Neovim plugin that easy to share your code to llm for fixes, the errors are displayed as comments above the actual error
 - [henrygd/queue](https://github.com/henrygd/queue) - Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
 - [aktersnurra/no-clown-fiesta.nvim](https://github.com/aktersnurra/no-clown-fiesta.nvim) - A dark gray colorscheme
@@ -5362,7 +5362,7 @@
 - [neo4j-graphql/neo4j-graphql-cli](https://github.com/neo4j-graphql/neo4j-graphql-cli) - Deploy a Neo4j backed GraphQL API based on your GraphQL schema
 - [dollarshaveclub/stickybits](https://github.com/dollarshaveclub/stickybits) - Stickybits is a lightweight alternative to `position: sticky` polyfills 🍬
 - [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume) - An exporter from a LinkedIn profile to JSON Résumé
-- [fuzz/remote](https://github.com/fuzz/remote) - The Internet's original list of remote tech companies -- v2 focuses on remote leaders
+- [fuzz/remote](https://github.com/fuzz/remote) - The original crowdsourced list of remote tech companies -- v2 focuses on remote leaders
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [lifepillar/vim-wwdc17-theme](https://github.com/lifepillar/vim-wwdc17-theme) - Colorful light color scheme for Vim inspired by Apple's WWDC17 page
 - [veltman/flubber](https://github.com/veltman/flubber) - Tools for smoother shape animations.
