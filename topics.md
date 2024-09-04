@@ -2470,7 +2470,7 @@
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
-- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
@@ -3047,7 +3047,7 @@
 - [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
-- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [muammar/mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices
@@ -3545,7 +3545,7 @@
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
-- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [rs/jplot](https://github.com/rs/jplot) - iTerm2 expvar/JSON monitoring tool
 - [midwayjs/pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
@@ -4464,7 +4464,7 @@
 - [mvaldes14/terraform.nvim](https://github.com/mvaldes14/terraform.nvim) - Plan and Explore your terraform resources from nvim
 - [budgetbee/budgetbee](https://github.com/budgetbee/budgetbee) - BudgetBee is a finance self hosted app
 - [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - async fast minimalist plugin make format easy in neovim
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) - LSP diagnostics in virtual text at the top right of your screen
 - [ccorcos/tuple-database](https://github.com/ccorcos/tuple-database) - 
 - [ota-meshi/eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) - ESLint plugin for finding regex mistakes and style guide violations.
@@ -6842,7 +6842,7 @@
 
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
@@ -6955,11 +6955,11 @@
 
 ## spring 
 
-- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 
 ## spring-boot 
 
-- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 
 ## sql 
 
@@ -7836,7 +7836,7 @@
 - [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal) - React components to add reveal animations using the Intersection Observer API and CSS Animations.
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [beefsack/webify](https://github.com/beefsack/webify) - Turn shell commands into web services
-- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard that enables you to monitor and track the status of your server.
 - [danklammer/bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
