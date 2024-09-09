@@ -163,6 +163,7 @@
 
 ## C# # 
 
+- [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 - [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 - [featbit/featbit](https://github.com/featbit/featbit) - A feature flags service written in .NET
 - [assetgrid/assetgridapp](https://github.com/assetgrid/assetgridapp) - 📊 A selfhosted data-driven personal finance manager 💸
@@ -2105,6 +2106,7 @@
 
 ## Others 
 
+- [avidseeker/awesome-syncthing](https://github.com/avidseeker/awesome-syncthing) - Awesome list of Syncthing integrations
 - [hevar/awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components) - 
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [lxgw/yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
