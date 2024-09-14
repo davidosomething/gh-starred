@@ -2007,7 +2007,6 @@
 - [trixnz/lua-fmt](https://github.com/trixnz/lua-fmt) - lua-fmt is pretty-printer for Lua code
 - [jason0x43/dotfiles](https://github.com/jason0x43/dotfiles) - My dotfiles
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
-- [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [hkupty/trex.nvim](https://github.com/hkupty/trex.nvim) - Terminal and Repl Extensions - for neovim
@@ -2430,6 +2429,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
+- [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
 - [svermeulen/nvim-marksman](https://github.com/svermeulen/nvim-marksman) - Quick and efficient file finder for neovim
 - [meain/vim-colorswitch](https://github.com/meain/vim-colorswitch) - Cycle between hex, rgb, hsl colors defined in current line
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
@@ -2889,7 +2889,7 @@
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [sos4nt/dynamic-colors](https://github.com/sos4nt/dynamic-colors) - Change terminal colors on the fly
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
@@ -3346,7 +3346,7 @@
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 - [aykutkardas/Json-Function](https://github.com/aykutkardas/Json-Function) - It allows you to use methods such as schema, innerJoin, where, limit, select, orderBy on JSON data.
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
-- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
+- [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [davidkpiano/flipping](https://github.com/davidkpiano/flipping) - Flipping awesome animations.
 - [frontarm/navi](https://github.com/frontarm/navi) - 🧭 Declarative, asynchronous routing for React.
 - [tam315/react-compare-image](https://github.com/tam315/react-compare-image) - React component to compare two images with a slider
@@ -3525,7 +3525,7 @@
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [max-mapper/menubar](https://github.com/max-mapper/menubar) - ➖ high level way to create menubar desktop applications with electron
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
@@ -3637,7 +3637,6 @@
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [PieterjanMontens/vim-pipenv](https://github.com/PieterjanMontens/vim-pipenv) - Vim plugin for detecting & interacting with Pipenv
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
-- [yuezk/vim-js](https://github.com/yuezk/vim-js) - 💯The most accurate syntax highlighting plugin for JavaScript and Flow.js
 - [rbtnn/vim-mru](https://github.com/rbtnn/vim-mru) - Most Recently Used using +popupwin feature
 - [habamax/vim-colors-lessthan](https://github.com/habamax/vim-colors-lessthan) - Vim less than colorscheme
 - [tsuyoshicho/action-vimhelp-html-generate](https://github.com/tsuyoshicho/action-vimhelp-html-generate) - Generate html from Vim help (/doc)
