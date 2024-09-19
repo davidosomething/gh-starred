@@ -1588,6 +1588,7 @@
 
 ## Lua 
 
+- [ray-x/yamlmatter.nvim](https://github.com/ray-x/yamlmatter.nvim) - Enhancing the display of YAML frontmatter in Markdown files
 - [mikew/nvim-drawer](https://github.com/mikew/nvim-drawer) - A Drawer plugin for Neovim. AKA "persistent split" / "persistent window".
 - [ptdewey/yankbank-nvim](https://github.com/ptdewey/yankbank-nvim) - Neovim plugin improving access to clipboard history
 - [adigitoleo/haunt.nvim](https://github.com/adigitoleo/haunt.nvim) - [MIRROR] Floating windows for terminals, man pages and help buffers
@@ -2256,7 +2257,7 @@
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - List of Continuous Integration services
+- [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - The list of continuous integration services and tools
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [piperun/iploggerfilter](https://github.com/piperun/iploggerfilter) - This is a list for ublock Origin to filter any site who's only purpose is to log your IP
@@ -2924,7 +2925,6 @@
 
 ## Svelte 
 
-- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -3023,6 +3023,7 @@
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [open-draft/event-contract](https://github.com/open-draft/event-contract) - Type-safe, implementation-agnostic event contract framework.
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react) - Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
