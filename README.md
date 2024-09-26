@@ -360,7 +360,7 @@
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [reviewdog/errorformat](https://github.com/reviewdog/errorformat) - Vim's quickfix errorformat implementation in Go
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
@@ -2350,7 +2350,6 @@
 - [ArthurMitchell42/nutcase](https://github.com/ArthurMitchell42/nutcase) - A NUT and APCd UPS data conversion bridge and graphic UI  to link to both Prometheus metrics and JSON format for HomePage/Uptime Kuma etc.
 - [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
@@ -2974,6 +2973,7 @@
 
 ## TypeScript 
 
+- [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -3043,6 +3043,7 @@
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [frolicorg/frolic-react](https://github.com/frolicorg/frolic-react) - React Component Library to Build Analytics Dashboard 10x Faster
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React.
 - [standardnotes/plugins](https://github.com/standardnotes/plugins) - Community plugins for Standard Notes — Experimental 🧪
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts and VineJS
@@ -3642,7 +3643,7 @@
 - [yasuhiroki/github-actions-yaml.vim](https://github.com/yasuhiroki/github-actions-yaml.vim) - Vim plugin for GitHub Actions (yaml file)
 - [relastle/bluewery.vim](https://github.com/relastle/bluewery.vim) - :small_blue_diamond: Blue-based vim colorscheme :beer:
 - [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
-- [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create Neovim leader key menu
+- [dpretet/vim-leader-mapper](https://github.com/dpretet/vim-leader-mapper) - Vim plugin to create visual leader key menu
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [PieterjanMontens/vim-pipenv](https://github.com/PieterjanMontens/vim-pipenv) - Vim plugin for detecting & interacting with Pipenv
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
