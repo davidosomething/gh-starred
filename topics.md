@@ -2886,6 +2886,7 @@
 
 ## json 
 
+- [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
 - [pamburus/hl](https://github.com/pamburus/hl) - A fast and powerful log viewer and processor that translates JSON or logfmt logs into a pretty human-readable format.
 - [ota-meshi/eslint-plugin-jsonc](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON(C|5)? files
 - [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
@@ -3156,6 +3157,7 @@
 
 ## lua 
 
+- [NvChad/volt](https://github.com/NvChad/volt) - Plugin for creating reactive UI  in neovim
 - [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) - Open file or project in GitHub for neovim written in lua
 - [ptdewey/yankbank-nvim](https://github.com/ptdewey/yankbank-nvim) - Neovim plugin improving access to clipboard history
 - [lewis6991/ts-install.nvim](https://github.com/lewis6991/ts-install.nvim) - Treesitter parser manager for Neovim
@@ -3625,6 +3627,8 @@
 
 ## neovim 
 
+- [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
+- [NvChad/volt](https://github.com/NvChad/volt) - Plugin for creating reactive UI  in neovim
 - [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) - Open file or project in GitHub for neovim written in lua
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
@@ -7483,6 +7487,8 @@
 
 ## vim 
 
+- [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
+- [NvChad/volt](https://github.com/NvChad/volt) - Plugin for creating reactive UI  in neovim
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
