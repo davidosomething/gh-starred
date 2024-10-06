@@ -4402,6 +4402,7 @@
 
 ## others 
 
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [denialofsandwich/sudo.nvim](https://github.com/denialofsandwich/sudo.nvim) - Read and Write files as root in neovim
 - [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim) - coc.nvim integration for telescope.nvim
 - [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui) - An (experimental) elegant TUI for configuring Tailscale.
@@ -4417,7 +4418,7 @@
 - [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 - [dorklyorg/dorkly](https://github.com/dorklyorg/dorkly) - Contains source code for GitHub Action and docker bits for backend service
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer for Neovim
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
 - [PaulieScanlon/nextjs-google-sheets-database](https://github.com/PaulieScanlon/nextjs-google-sheets-database) - Use Google Sheets as a Database
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [jziolkowski/tdm](https://github.com/jziolkowski/tdm) - GUI application to discover and monitor devices flashed with https://github.com/arendst/tasmota
@@ -4451,7 +4452,7 @@
 - [acristoffers/kwin-rectangle](https://github.com/acristoffers/kwin-rectangle) - Shortcuts to move windows around.
 - [2KAbhishek/tdo](https://github.com/2KAbhishek/tdo) - Fast & Simple Note Taking! 📃🚀
 - [icholy/lsplinks.nvim](https://github.com/icholy/lsplinks.nvim) - LSP textDocument/documentLink support for neovim
-- [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
+- [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [aricaldeira/plasma-applet-commandoutput](https://github.com/aricaldeira/plasma-applet-commandoutput) - 
 - [varlesh/org.kde.plasma.compact-shutdown](https://github.com/varlesh/org.kde.plasma.compact-shutdown) - Compact Shutdown Widget for Plasma
 - [archibate/genius.nvim](https://github.com/archibate/genius.nvim) - Blazing fast 🚀 code completion in NeoVim powered by 🤖 GPT-3.5-Turbo
