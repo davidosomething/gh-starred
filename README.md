@@ -1078,7 +1078,7 @@
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [deoxxa/npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
-- [not-an-aardvark/eslint-plugin-rulesdir](https://github.com/not-an-aardvark/eslint-plugin-rulesdir) - An ESLint plugin to load project-specific ESLint rules
+- [eslint-community/eslint-plugin-rulesdir](https://github.com/eslint-community/eslint-plugin-rulesdir) - An ESLint plugin to load project-specific ESLint rules
 - [developit/jsdom-worker](https://github.com/developit/jsdom-worker) - 👷‍♀️ Use Web Workers in Jest / JSDOM 🌈
 - [11ways/json-dry](https://github.com/11ways/json-dry) - 🌞 JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
