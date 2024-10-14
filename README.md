@@ -1859,7 +1859,7 @@
 - [xiyaowong/link-visitor.nvim](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links!
 - [echasnovski/mini.move](https://github.com/echasnovski/mini.move) - Neovim Lua plugin to move any selection in any direction. Part of 'mini.nvim' library.
 - [roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) - :rainbow: A Neovim plugin to add vscode-style TailwindCSS completion to nvim-cmp
-- [jesseleite/nvim-noirbuddy](https://github.com/jesseleite/nvim-noirbuddy) - 🖤 A highly customizable minimalist monochromatic colorscheme for Neovim
+- [jesseleite/nvim-noirbuddy](https://github.com/jesseleite/nvim-noirbuddy) - 🖤 A highly customizable minimalist theme building framework for Neovim
 - [andrewferrier/wrapping.nvim](https://github.com/andrewferrier/wrapping.nvim) - Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim
 - [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) - Status column plugin that provides a configurable 'statuscolumn' and click handlers.
 - [kevinhwang91/nvim-fundo](https://github.com/kevinhwang91/nvim-fundo) - Forever undo in Neovim
