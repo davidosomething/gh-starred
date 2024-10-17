@@ -354,7 +354,6 @@
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
-- [ublue-os/fleek](https://github.com/ublue-os/fleek) - [deprecated] Own your $HOME
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -559,7 +558,6 @@
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
-- [ameyrupji/thunderbolt-macpro-5-1](https://github.com/ameyrupji/thunderbolt-macpro-5-1) - My story to add thunderbolt support to my Mac Pro Early 2009 (5,1)
 - [upnextinc/upnext](https://github.com/upnextinc/upnext) - 📆 See/join meetings from the menu bar
 - [berzniz/github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -648,7 +646,6 @@
 ## JavaScript 
 
 - [vitalets/websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
-- [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
@@ -698,6 +695,7 @@
 - [davidosomething/eslint-config-davidosomething](https://github.com/davidosomething/eslint-config-davidosomething) - 
 - [gaearon/react-side-effect](https://github.com/gaearon/react-side-effect) - Create components whose nested prop changes map to a global side effect
 - [kirjs/react-highcharts](https://github.com/kirjs/react-highcharts) - React wrapper for Highcharts library
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [reactjs/react-tabs](https://github.com/reactjs/react-tabs) - An accessible and easy tab component for ReactJS.
 - [ticlo/rc-dock](https://github.com/ticlo/rc-dock) - Dock Layout for React Component
 - [xudafeng/autoresponsive-react](https://github.com/xudafeng/autoresponsive-react) - ⚛️ Auto Responsive Layout Library For React
@@ -859,7 +857,6 @@
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [robb0wen/tornis](https://github.com/robb0wen/tornis) - Tornis helps you watch and respond to changes in your browser's viewport 🌲
-- [kentcdodds/babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - 🎣 Allows you to build simple compile-time libraries
 - [yandex/reshadow](https://github.com/yandex/reshadow) - Markup and styles that feel right
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [euforic/banking.js](https://github.com/euforic/banking.js) - The Missing API for Banks - Get all of your transactions and balances using node
@@ -1339,7 +1336,7 @@
 - [robinparisi/tingle](https://github.com/robinparisi/tingle) - ⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use
 - [local-npm/local-npm](https://github.com/local-npm/local-npm) - Local and offline-first npm mirror
 - [Haroenv/holmes](https://github.com/Haroenv/holmes) - Fast and easy searching inside a page
-- [dailymotion/vast-client-js](https://github.com/dailymotion/vast-client-js) - VAST (up to 4) parsing library for JavaScript
+- [dailymotion/vast-client-js](https://github.com/dailymotion/vast-client-js) - VAST (up to 6) parsing library for JavaScript
 - [theonion/videojs-skip-ads](https://github.com/theonion/videojs-skip-ads) - Allows for an HTML5 overlay during preroll playback
 - [videojs/videojs-contrib-ads](https://github.com/videojs/videojs-contrib-ads) - A Tool for Building Video.js Ad Plugins
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
@@ -2083,16 +2080,12 @@
 - [johndbritton/teleport](https://github.com/johndbritton/teleport) - Virtual KVM for macOS
 - [pallotron/yubiswitch](https://github.com/pallotron/yubiswitch) - OSX status bar application to enable/disable Yubikey Nano
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
-- [timonus/Rhea](https://github.com/timonus/Rhea) - A Mac status bar app for quickly sharing files and links.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
-- [billziss-gh/EnergyBar](https://github.com/billziss-gh/EnergyBar) - Supercharge your Mac's Touch Bar.
 - [google/EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
-- [jeromelebel/MongoHub-Mac](https://github.com/jeromelebel/MongoHub-Mac) - Mac Native Mongodb Client
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 - [beardedspice/beardedspice](https://github.com/beardedspice/beardedspice) - Mac Media Keys for the Masses
 - [jridgewell/Unlock](https://github.com/jridgewell/Unlock) - Unlock multiple Core Storage encrypted volumes at boot.
-- [pkamb/PowerKey](https://github.com/pkamb/PowerKey) - Remap your Macbook's power key to Forward Delete
 - [MobileNativeFoundation/bluepill](https://github.com/MobileNativeFoundation/bluepill) - Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine
 - [tweekmonster/nmux](https://github.com/tweekmonster/nmux) - A multiplexer for Neovim processes
 - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript
@@ -2768,7 +2761,6 @@
 - [funtoo/keychain](https://github.com/funtoo/keychain) - keychain ssh-agent front-end
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
-- [mikebeaton/myboard](https://github.com/mikebeaton/myboard) - A macOS command line tool to lookup your system's board id or board name, and to forward or reverse lookup any Mac board id or board name.
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [HclX/WyzeHacks](https://github.com/HclX/WyzeHacks) - Hacks I discovered allowing Wyze camera owners to do customizations
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
@@ -2822,7 +2814,6 @@
 - [fsaintjacques/semver-tool](https://github.com/fsaintjacques/semver-tool) - semver bash implementation
 - [mhinz/spotlight-cli](https://github.com/mhinz/spotlight-cli) -  Command-line tool for Spotlight.
 - [massongit/pyenv-pip-update](https://github.com/massongit/pyenv-pip-update) - Update all libraries managed by pip or conda in all environments (pyenv plugin).
-- [mayankk2308/purge-wrangler](https://github.com/mayankk2308/purge-wrangler) - AMD & NVIDIA eGPUs for all Thunderbolt Macs.
 - [tsunesan3/awsome-jp-coding-fonts](https://github.com/tsunesan3/awsome-jp-coding-fonts) - Awsome Japanese Coding Fonts
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [zsh-hooks/zsh-hooks](https://github.com/zsh-hooks/zsh-hooks) - Add zsh's missing hooks, and support for user-defined hooks
@@ -2943,8 +2934,6 @@
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
-- [hmarr/vitals](https://github.com/hmarr/vitals) - 📊 A tiny macOS process monitor
-- [StarPlayrX/bigmac](https://github.com/StarPlayrX/bigmac) - Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs
 - [xcodereleases/xcinfo](https://github.com/xcodereleases/xcinfo) - Install as many Xcodes at once as you can
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
@@ -2953,7 +2942,6 @@
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
-- [ben-z/free-sidecar](https://github.com/ben-z/free-sidecar) - Enable Sidecar on Unsupported iPads and Macs running iPadOS 13 and macOS Catalina
 - [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS
 - [github/SoftU2F](https://github.com/github/SoftU2F) - Software U2F authenticator for macOS
 - [macmade/Console](https://github.com/macmade/Console) - OS X console application.
@@ -2967,7 +2955,6 @@
 - [zenangst/Gray](https://github.com/zenangst/Gray) - :first_quarter_moon: Tailor your macOS Mojave experience
 - [Mortennn/FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the MacOS context menu (CTRL+click) in Finder.
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
-- [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
 - [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 [My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
@@ -2983,6 +2970,7 @@
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+- [Hexagon/croner](https://github.com/Hexagon/croner) - Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [diffusionstudio/core](https://github.com/diffusionstudio/core) - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in-browser video processing.
 - [true-myth/true-myth](https://github.com/true-myth/true-myth) - A library for safer and smarter error- and "nothing"-handling in TypeScript.
@@ -3164,7 +3152,6 @@
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
@@ -3191,7 +3178,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [expo/use-unmount-signal](https://github.com/expo/use-unmount-signal) - A React Hook to cancel promises when a component is unmounted
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
+- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [folke/polydock](https://github.com/folke/polydock) - ✨ A shiny and hackable application dock
 - [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
@@ -3775,7 +3762,6 @@
 - [alampros/vim-styled-jsx](https://github.com/alampros/vim-styled-jsx) - Vim syntax for [styled-jsx](https://github.com/zeit/styled-jsx)
 - [syngan/vim-bluemoon](https://github.com/syngan/vim-bluemoon) - highlight {expr}
 - [MaxMEllon/vim-shiny](https://github.com/MaxMEllon/vim-shiny) - :flashlight: [Vim script]  A plugin goal is  user friendly highlight.
-- [rliang/macrosearch.vim](https://github.com/rliang/macrosearch.vim) - Automates macro recording between search matches. Experimental.
 - [rliang/buffertitle.vim](https://github.com/rliang/buffertitle.vim) - Shows a buffer list in the title.
 - [rafi/vim-sidemenu](https://github.com/rafi/vim-sidemenu) - A small side-menu useful for terminal users. Based-on junegunn/vim-peekaboo
 - [cocopon/pgmnt.vim](https://github.com/cocopon/pgmnt.vim) - :art: Template engine for Vim color schemes, in pure Vim script
