@@ -4480,7 +4480,7 @@
 - [antonk52/cssmodules-language-server](https://github.com/antonk52/cssmodules-language-server) - autocompletion and go-to-defintion for cssmodules
 - [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [ktappdev/diagnostic-comments.nvim](https://github.com/ktappdev/diagnostic-comments.nvim) - A lightweight Neovim plugin that easy to share your code to llm for fixes, the errors are displayed as comments above the actual error
-- [henrygd/queue](https://github.com/henrygd/queue) - Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
+- [henrygd/queue](https://github.com/henrygd/queue) - Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster.
 - [aktersnurra/no-clown-fiesta.nvim](https://github.com/aktersnurra/no-clown-fiesta.nvim) - A dark gray colorscheme
 - [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten) - 
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
