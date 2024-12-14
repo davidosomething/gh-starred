@@ -654,6 +654,7 @@
 
 ## JavaScript 
 
+- [Amer-Jabar/khoshnus](https://github.com/Amer-Jabar/khoshnus) - A library to bring life to your web writings!
 - [frappe/datatable](https://github.com/frappe/datatable) - The Missing Javascript Datatable for the Web
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [vitalets/websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets
@@ -1593,6 +1594,9 @@
 
 ## Lua 
 
+- [rawhat/config](https://github.com/rawhat/config) - don't call me mmm, call me dotty
+- [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for fast navigation around the abstract syntax tree
+- [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim) - The most comprehensive dotenv integration for neovim
 - [mcnangus/pr-comments.nvim](https://github.com/mcnangus/pr-comments.nvim) - Use lsp_lines to load pr comments into neovim using vim quickfix list and diagnostics
 - [harisb2012/tsnest.nvim](https://github.com/harisb2012/tsnest.nvim) - Lightning-fast TypeScript/React component restructuring for Neovim - seamlessly nest and unnest your components with a single command.
 - [nvzone/timerly](https://github.com/nvzone/timerly) - Beautiful countdown timer plugin for Neovim
@@ -1605,7 +1609,7 @@
 - [philippdrebes/jsonpath.nvim](https://github.com/philippdrebes/jsonpath.nvim) - A minimal Neovim plugin to show and copy JSON paths of elements under your cursor using jq-compatible syntax
 - [gcmt/glare.nvim](https://github.com/gcmt/glare.nvim) - Neovim markdown renderer
 - [svampkorg/moody.nvim](https://github.com/svampkorg/moody.nvim) - A plugin for neovim which changes the colour of CursorColumn depending on mode.
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim. Supports Anthropic, Copilot, Gemini, Ollama, OpenAI and xAI LLMs
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) - Generate and edit text in Neovim using OpenAI and GPT.
 - [jackMort/tide.nvim](https://github.com/jackMort/tide.nvim) - A Neovim plugin to manage and quickly switch between frequently used files, designed for streamlined developer workflows. Similar to Harpoon, with minimal setup and full customization.
 - [iguanacucumber/magazine.nvim](https://github.com/iguanacucumber/magazine.nvim) - nvim-cmp fork
@@ -2133,6 +2137,7 @@
 - [avidseeker/awesome-syncthing](https://github.com/avidseeker/awesome-syncthing) - Awesome list of Syncthing integrations
 - [dorklyorg/dorkly](https://github.com/dorklyorg/dorkly) - This project has been renamed from Dorkly to Brightly and has been moved: https://github.com/brightlyorg/brightly/wiki
 - [hevar/awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components) - 
+- [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [lxgw/yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
 - [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
@@ -2372,7 +2377,6 @@
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [yuru7/moralerspace](https://github.com/yuru7/moralerspace) - Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
 - [ArthurMitchell42/nutcase](https://github.com/ArthurMitchell42/nutcase) - A NUT and APCd UPS data conversion bridge and graphic UI  to link to both Prometheus metrics and JSON format for HomePage/Uptime Kuma etc.
-- [AnalogJ/lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized way.
 - [facundoolano/feedi](https://github.com/facundoolano/feedi) - RSS + Mastodon feed reader
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [Cvaniak/NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
@@ -3000,6 +3004,8 @@
 
 ## TypeScript 
 
+- [mcneja/7drl-2023](https://github.com/mcneja/7drl-2023) - Seven-day Roguelike Challenge 2023
+- [TomerAberbach/lfi](https://github.com/TomerAberbach/lfi) - 🦥 A lazy functional iteration library supporting sync, async, and concurrent iteration.
 - [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker) - A simple shadcn/ui TimePicker component
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, and Svelte.
 - [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
