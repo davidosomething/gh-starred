@@ -2195,7 +2195,6 @@
 - [insanelymacdiscord/Getting-Started-With-OpenCore](https://github.com/insanelymacdiscord/Getting-Started-With-OpenCore) - A guide For OpenCore
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [huytd/haskplex-font](https://github.com/huytd/haskplex-font) - 
-- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [adobe-fonts/source-han-mono](https://github.com/adobe-fonts/source-han-mono) - Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [dmleong/manager-resources](https://github.com/dmleong/manager-resources) - Engineering manager resources
@@ -2466,6 +2465,7 @@
 - [ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert) - A collection of scripts to flash Tuya IoT devices to alternative firmwares
 - [ripxorip/aerojump.nvim](https://github.com/ripxorip/aerojump.nvim) - Aerojump is a fuzzy-match searcher/jumper for Neovim with the goal of quick keyboard navigation
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [hemanta212/blogger-cli](https://github.com/hemanta212/blogger-cli) - A cli tool to convert and manage jupyter notebook blogs. Proudly host your notebooks even as a static site.
 - [treycucco/vim-monotonic](https://github.com/treycucco/vim-monotonic) - A low-key vim color scheme
 - [madjar/nox](https://github.com/madjar/nox) - Tools to make nix nicer to use
