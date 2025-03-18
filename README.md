@@ -347,6 +347,7 @@
 
 ## Go 
 
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [almeidapaulopt/tsdproxy](https://github.com/almeidapaulopt/tsdproxy) - Tailscale Docker Proxy
@@ -365,7 +366,6 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
@@ -897,7 +897,7 @@
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas](https://github.com/mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas) - React application built with HTML5 Canvas. ES6, React, JSX, Redux. Features cute Harvest Moon sprites! :cow:
-- [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Typescript focused alternative to Ramda
+- [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Typescript focused FP library similar to Remeda and Rambda
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [smartprocure/futil-js](https://github.com/smartprocure/futil-js) - F(unctional) util(ities). Resistance is futile.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
@@ -1596,6 +1596,7 @@
 
 ## Lua 
 
+- [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) - A library for asynchronous IO in Neovim
 - [datsfilipe/vesper.nvim](https://github.com/datsfilipe/vesper.nvim) - Porting Vesper theme from Visual Studio Code to Neovim.
 - [danitrap/version-lens.nvim](https://github.com/danitrap/version-lens.nvim) - A Neovim plugin that displays installed package versions as virtual text in package.json files.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
@@ -2149,11 +2150,9 @@
 - [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright
 - [lxgw/yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
 - [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
-- [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and  forum of FeedMe
 - [vaughantype/wumpus-mono](https://github.com/vaughantype/wumpus-mono) - A modern and functional monospaced typeface with a focus on legibility.
 - [evilmartians/mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
-- [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
@@ -2382,6 +2381,7 @@
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
 - [jziolkowski/tdm](https://github.com/jziolkowski/tdm) - GUI application to discover and monitor devices flashed with https://github.com/arendst/tasmota
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [yuru7/moralerspace](https://github.com/yuru7/moralerspace) - Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
 - [ArthurMitchell42/nutcase](https://github.com/ArthurMitchell42/nutcase) - A NUT and APCd UPS data conversion bridge and graphic UI  to link to both Prometheus metrics and JSON format for HomePage/Uptime Kuma etc.
@@ -2583,6 +2583,7 @@
 ## Ruby 
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
 - [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
 - [jonashellmann/everydocs-core](https://github.com/jonashellmann/everydocs-core) - A simple Document Management System for private use with basic functionality to organize your documents digitally
 - [axvr/photon.vim](https://github.com/axvr/photon.vim) - A pair of Vim colour schemes with minimal syntax highlighting.
