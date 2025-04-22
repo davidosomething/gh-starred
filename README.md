@@ -561,7 +561,7 @@
 ## HTML 
 
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO.
-- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Mihon/Tachiyomi app.
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [weiweihuanghuang/fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
 - [yutkat/my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) - My personal list of Neovim plugins
@@ -772,7 +772,7 @@
 - [spotify/reactochart](https://github.com/spotify/reactochart) - :chart_with_upwards_trend: React chart component library :chart_with_downwards_trend:
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [xpl/crx-hotreload](https://github.com/xpl/crx-hotreload) - Chrome Extension Hot Reloader
-- [dosyago/sirdb](https://github.com/dosyago/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
+- [DO-SAY-GO/sirdb](https://github.com/DO-SAY-GO/sirdb) - :man: a simple, git diffable JSON database on yer filesystem. By the power of NodeJS
 - [maximilianschmitt/cypress-routines](https://github.com/maximilianschmitt/cypress-routines) - Easily write scalable Node.js setup code for Cypress
 - [lukeed/nestie](https://github.com/lukeed/nestie) - A tiny (215B) and fast utility to expand a flattened object
 - [jcubic/sysend](https://github.com/jcubic/sysend) - Web application synchronization between different tabs
@@ -948,7 +948,7 @@
 - [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [ebradyjobory/finance.js](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
 - [markusenglund/react-switch](https://github.com/markusenglund/react-switch) - A draggable toggle-switch component for React. Check out the demo at:
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
@@ -1190,13 +1190,12 @@
 - [binci/binci](https://github.com/binci/binci) - :whale: Containerize your development workflow.
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [kubetail-org/sentineljs](https://github.com/kubetail-org/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
+- [amorey/sentineljs](https://github.com/amorey/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [eBay/ebay-font](https://github.com/eBay/ebay-font) - A small utility to efficiently load custom web fonts
 - [nitin42/Making-a-custom-React-renderer](https://github.com/nitin42/Making-a-custom-React-renderer) - Tutorial on how to make a custom React renderer
 - [Thinkmill/jest-expect-contain-deep](https://github.com/Thinkmill/jest-expect-contain-deep) - Assert deeply nested values in Jest
 - [KyleAMathews/react-headroom](https://github.com/KyleAMathews/react-headroom) - Hide your header until you need it
 - [nytimes/react-tracking](https://github.com/nytimes/react-tracking) - 🎯 Declarative tracking for React apps.
-- [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow_right: prettier :arrow_right: eslint --fix :arrow_right: Formatted Code :sparkles:
 - [wellguimaraes/stateware](https://github.com/wellguimaraes/stateware) - Smart state container with easy copy and auto memoized getters
 - [achojs/acho](https://github.com/achojs/acho) - The Hackable Log
 - [junosuarez/awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
@@ -1585,7 +1584,7 @@
 
 ## Kotlin 
 
-- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions for Tachiyomi/Mihon and variants.
+- [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
 - [fibelatti/pinboard-kotlin](https://github.com/fibelatti/pinboard-kotlin) - Unofficial Android client for Pinboard and Linkding
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
@@ -1610,7 +1609,7 @@
 - [echasnovski/mini.icons](https://github.com/echasnovski/mini.icons) - Icon provider. Part of 'mini.nvim' library.
 - [rawhat/config](https://github.com/rawhat/config) - don't call me mmm, call me dotty
 - [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for moving around your code in a syntax tree aware manner
-- [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
+- [t3ntxcl3s/ecolog.nvim](https://github.com/t3ntxcl3s/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
 - [mcnangus/pr-comments.nvim](https://github.com/mcnangus/pr-comments.nvim) - Use lsp_lines to load pr comments into neovim using vim quickfix list and diagnostics
 - [harisb2012/tsnest.nvim](https://github.com/harisb2012/tsnest.nvim) - Lightning-fast TypeScript/React component restructuring for Neovim - seamlessly nest and unnest your components with a single command.
 - [nvzone/timerly](https://github.com/nvzone/timerly) - Beautiful countdown timer plugin for Neovim
@@ -2409,7 +2408,6 @@
 - [Textualize/trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 - [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
 - [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 - [delphinus/homebrew-sfmono-square](https://github.com/delphinus/homebrew-sfmono-square) - SFMono Square - patched font: SFMono + Migu 1M + Nerd Fonts
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素
@@ -3120,7 +3118,7 @@
 - [lukasbach/react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop
 - [anatine/zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod
 - [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [ota-meshi/eslint-plugin-jsonc](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON(C|5)? files
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
@@ -3177,13 +3175,14 @@
 - [JoshuaKGoldberg/prettier-plugin-curly](https://github.com/JoshuaKGoldberg/prettier-plugin-curly) - Prettier plugin to enforce consistent brace style for all control statements. 🥌
 - [garybernhardt/static-path](https://github.com/garybernhardt/static-path) - 
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [iway1/trpc-panel](https://github.com/iway1/trpc-panel) - 
 - [codex-team/codex.docs](https://github.com/codex-team/codex.docs) - Free Docs app powered by Editor.js ecosystem
 - [xnimorz/use-debounce](https://github.com/xnimorz/use-debounce) - A debounce hook for react
 - [dugaldmorrow/handle-rate-limiting-js](https://github.com/dugaldmorrow/handle-rate-limiting-js) - 
 - [dmnd/dedent](https://github.com/dmnd/dedent) - ⬅️ ES6 string tag that strips indentation from multi-line strings.
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [unjs/nypm](https://github.com/unjs/nypm) - 🌈 Unified Package Manager for Node.js (npm, pnpm, yarn), Bun and Deno
 - [nfriend/ts-key-enum](https://github.com/nfriend/ts-key-enum) - A TypeScript string enum for compile-time safety when working with event.key
 - [haltcase/tablemark](https://github.com/haltcase/tablemark) - Generate markdown tables from JSON data.
@@ -3554,6 +3553,7 @@
 - [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics"
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
+- [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow_right: `prettier` :arrow_right: `eslint --fix` :arrow_right: Formatted Code :sparkles:
 - [vercel/react-keyframes](https://github.com/vercel/react-keyframes) - Create frame-based animations in React
 - [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
