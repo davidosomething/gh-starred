@@ -171,7 +171,7 @@
 
 - [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
-- [betwixt-labs/bebop](https://github.com/betwixt-labs/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
+- [6over3/bebop](https://github.com/6over3/bebop) - 🎷No ceremony, just code. Blazing fast, typesafe binary serialization.
 - [featbit/featbit](https://github.com/featbit/featbit) - Enterprise-grade feature flag platform that you can self-host. Get started - free.
 - [assetgrid/assetgridapp](https://github.com/assetgrid/assetgridapp) - 📊 A selfhosted data-driven personal finance manager 💸
 - [timschneeb/GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
@@ -472,7 +472,7 @@
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
@@ -559,6 +559,7 @@
 
 ## HTML 
 
+- [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font.
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [weiweihuanghuang/fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font
@@ -896,7 +897,6 @@
 - [dylang/changelog](https://github.com/dylang/changelog) - Finally see what's changed when you do npm update.  Changelog generates a changelog for npm modules and github repos.
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
-- [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas](https://github.com/mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas) - React application built with HTML5 Canvas. ES6, React, JSX, Redux. Features cute Harvest Moon sprites! :cow:
 - [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Typescript focused FP library similar to Remeda and Rambda
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
@@ -946,7 +946,7 @@
 - [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [ebradyjobory/finance.js](https://github.com/ebradyjobory/finance.js) - A JavaScript library for common financial calculations
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [markusenglund/react-switch](https://github.com/markusenglund/react-switch) - A draggable toggle-switch component for React. Check out the demo at:
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
@@ -1598,6 +1598,7 @@
 
 ## Lua 
 
+- [Saghen/blink.nvim](https://github.com/Saghen/blink.nvim) - Set of simple, performant neovim plugins
 - [Sebastian-Nielsen/better-type-hover](https://github.com/Sebastian-Nielsen/better-type-hover) - Neovim plugin for an improved version of the type hover in typescript (i.e. vim.lsp.buf.hover())
 - [yorickpeterse/nvim-grey](https://github.com/yorickpeterse/nvim-grey) - A light theme for NeoVim, with a light grey background
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison's Neovim configuration!
@@ -1955,13 +1956,13 @@
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
+- [mason-org/mason-lspconfig.nvim](https://github.com/mason-org/mason-lspconfig.nvim) - Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [mrbjarksen/neo-tree-diagnostics.nvim](https://github.com/mrbjarksen/neo-tree-diagnostics.nvim) - A diagnostics source for neo-tree.nvim
 - [ldelossa/buffertag](https://github.com/ldelossa/buffertag) - 
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim, winbar alternative
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - Improved fzf.vim written in lua
-- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) - Enter ex-commands in a nice floating input.
@@ -2388,7 +2389,6 @@
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
 - [jziolkowski/tdm](https://github.com/jziolkowski/tdm) - GUI application to discover and monitor devices flashed with https://github.com/arendst/tasmota
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [yuru7/moralerspace](https://github.com/yuru7/moralerspace) - Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
 - [ArthurMitchell42/nutcase](https://github.com/ArthurMitchell42/nutcase) - A NUT and APCd UPS data conversion bridge and graphic UI  to link to both Prometheus metrics and JSON format for HomePage/Uptime Kuma etc.
@@ -2624,6 +2624,8 @@
 
 ## Rust 
 
+- [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) - Dead Simple Pinyin Language Server
+- [walles/riff](https://github.com/walles/riff) - A diff filter highlighting which line parts have changed
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Streaming server for Moonlight clients, written in Rust.
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
@@ -2718,7 +2720,6 @@
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) - Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 - [jmaargh/fzyr](https://github.com/jmaargh/fzyr) - A fuzzy(er) finder in Rust 🔎
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [mookid/diffr](https://github.com/mookid/diffr) - Yet another diff highlighting tool
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
@@ -3100,6 +3101,7 @@
 - [Tailframes/react-components](https://github.com/Tailframes/react-components) - Open-source React components styled with Tailwind CSS.
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - jump to local IDE code directly from browser React component by just a simple click
@@ -3161,7 +3163,7 @@
 - [xrutayisire/react-js-cron](https://github.com/xrutayisire/react-js-cron) - A React cron editor built with antd
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [kibertoad/toad-scheduler](https://github.com/kibertoad/toad-scheduler) - In-memory Node.js and browser job scheduler
-- [betwixt-labs/tempo](https://github.com/betwixt-labs/tempo) - 🥁 Don't miss a beat. Real-time, end-to-end typesafe APIs.
+- [6over3/tempo](https://github.com/6over3/tempo) - 🥁 Don't miss a beat. Real-time, end-to-end typesafe APIs.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for TypeScript
 - [linka-app/linka](https://github.com/linka-app/linka) - Cross-platform, Self-hosted & AI powered bookmark management app for linkding, an alternative to linkding front-end, with special optimization for search and quick open functions. Free and open source
@@ -3439,6 +3441,7 @@
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [blend/promise-utils](https://github.com/blend/promise-utils) - Lodash-like, dependency-free utilities for native ES6 promises.
+- [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [rstacruz/react-meta-elements](https://github.com/rstacruz/react-meta-elements) - Sets document title and meta tags using React elements or hooks
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
