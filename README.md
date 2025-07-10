@@ -2632,6 +2632,7 @@
 
 ## Rust 
 
+- [primait/localauth0](https://github.com/primait/localauth0) - Mock auth0 service for local development
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
 - [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux.
 - [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) - Dead Simple Pinyin Language Server
