@@ -1466,7 +1466,7 @@
 - [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: WezTerm; Desktop: Hyprland, walker, dunst; OS: NixOS, ArchLinux (Ubuntu/Fedora/CentOS)
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [camspiers/dotfiles](https://github.com/camspiers/dotfiles) - Dotfiles (macOS, stow, brew, yabai, nvim, kitty, tmux)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 - [Tanath/dotfiles](https://github.com/Tanath/dotfiles) - Tanath's dotfiles and misc reference docs.
 - [megalithic/dotfiles](https://github.com/megalithic/dotfiles) - 🗿  dotfilery, configuration, environment settings, automation, etc. 🛖
@@ -2202,7 +2202,6 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
-- [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma!
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
@@ -4230,7 +4229,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [Brandawg93/PeaNUT](https://github.com/Brandawg93/PeaNUT) - A tiny dashboard for Network UPS Tools
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -4596,7 +4595,7 @@
 - [afonsofrancof/OSC11.nvim](https://github.com/afonsofrancof/OSC11.nvim) - A tiny Neovim plugin for automatic terminal theme synchronization via OSC 11.
 - [thelastbackspace/traceperf](https://github.com/thelastbackspace/traceperf) - TracePerf: Advanced console logging & performance tracking for Node.js. Visualize execution flows with ASCII art, detect bottlenecks, and get optimization suggestions. Features structured logs, condit
 - [webhooked/kanso.nvim](https://github.com/webhooked/kanso.nvim) - 
-- [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux.
+- [theopfr/somo](https://github.com/theopfr/somo) - A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 - [angelinuxx/npm-lens.nvim](https://github.com/angelinuxx/npm-lens.nvim) - 💡 A Neovim plugin that visualizes outdated npm dependencies in package.json using npm outdated.
 - [MeanderingProgrammer/treesitter-modules.nvim](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Common modules to bridge nvim-treesitter & Neovim treesitter
 - [IDmedia/hass-unraid](https://github.com/IDmedia/hass-unraid) - This Docker container parses and forwards all WebSocket messages from your Unraid server to Home Assistant using the MQTT protocol
@@ -6797,7 +6796,7 @@
 ## react-native 
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [pveyes/htmr](https://github.com/pveyes/htmr) - Simple and lightweight (&lt; 2kB) HTML string to React element conversion library
@@ -7126,7 +7125,7 @@
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
@@ -7649,7 +7648,7 @@
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react) - Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [lukasbach/react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 - [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers) - 📋 Validation resolvers: Yup, Zod, Superstruct, Joi, Vest, Class Validator, io-ts, Nope, computed-types, typanion, Ajv, TypeBox, ArkType, Valibot, effect-ts, VineJS and Standard Schema
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
