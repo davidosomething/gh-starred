@@ -1617,7 +1617,7 @@
 - [echasnovski/mini.icons](https://github.com/echasnovski/mini.icons) - Icon provider. Part of 'mini.nvim' library.
 - [rawhat/config](https://github.com/rawhat/config) - don't call me mmm, call me dotty
 - [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for moving around your code in a syntax tree aware manner
-- [ssstba/ecolog.nvim](https://github.com/ssstba/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
+- [ph1losof/ecolog.nvim](https://github.com/ph1losof/ecolog.nvim) - The most sophisticated all-in-one toolkit to work with .env files and environment variables in NeoVim
 - [mcnangus/pr-comments.nvim](https://github.com/mcnangus/pr-comments.nvim) - Use lsp_lines to load pr comments into neovim using vim quickfix list and diagnostics
 - [harisb2012/tsnest.nvim](https://github.com/harisb2012/tsnest.nvim) - Lightning-fast TypeScript/React component restructuring for Neovim - seamlessly nest and unnest your components with a single command.
 - [nvzone/timerly](https://github.com/nvzone/timerly) - Beautiful countdown timer plugin for Neovim
@@ -1630,7 +1630,7 @@
 - [philippdrebes/jsonpath.nvim](https://github.com/philippdrebes/jsonpath.nvim) - A minimal Neovim plugin to show and copy JSON paths of elements under your cursor using jq-compatible syntax
 - [gcmt/glare.nvim](https://github.com/gcmt/glare.nvim) - Neovim markdown renderer
 - [svampkorg/moody.nvim](https://github.com/svampkorg/moody.nvim) - A plugin for neovim which changes the colour of CursorColumn depending on mode.
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) - Generate and edit text in Neovim using OpenAI and GPT.
 - [jackMort/tide.nvim](https://github.com/jackMort/tide.nvim) - A Neovim plugin to manage and quickly switch between frequently used files, designed for streamlined developer workflows. Similar to Harpoon, with minimal setup and full customization.
 - [iguanacucumber/magazine.nvim](https://github.com/iguanacucumber/magazine.nvim) - nvim-cmp fork
