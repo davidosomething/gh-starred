@@ -345,6 +345,7 @@
 
 ## Go 
 
+- [docker/docker-language-server](https://github.com/docker/docker-language-server) - Language server for Dockerfiles, Compose files, and Bake files
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
@@ -2391,6 +2392,7 @@
 
 ## Python 
 
+- [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [IDmedia/hass-unraid](https://github.com/IDmedia/hass-unraid) - This Docker container parses and forwards all WebSocket messages from your Unraid server to Home Assistant using the MQTT protocol
 - [domalab/ha-unraid](https://github.com/domalab/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
