@@ -4666,7 +4666,7 @@
 
 - [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable dis
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
-- [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor
+- [kagehq/port-kill](https://github.com/kagehq/port-kill) - Port Kill helps you find and free ports blocking your dev work.
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Prettify typescript errors, add inline-comments to ignore rules, and lookup rule documentation online.
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [croquet/croquet](https://github.com/croquet/croquet) - Client-side (!) Multiplayer for JavaScript
@@ -5222,7 +5222,7 @@
 - [egoist/testen](https://github.com/egoist/testen) - :heavy_check_mark: Run tests for multiple versions of Node.js in local env.
 - [socketsupply/secret-local-storage](https://github.com/socketsupply/secret-local-storage) - A wrapper around 'localStorage/sessionStorage' to provide storage encryption with libsodium
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
-- [webpod/red](https://github.com/webpod/red) - Security log analysis tools for server monitoring
+- [maml-dev/maml](https://github.com/maml-dev/maml) - Security log analysis tools for server monitoring
 - [adobe/leonardo](https://github.com/adobe/leonardo) - Generate colors based on a desired contrast ratio
 - [PieterjanMontens/vim-pipenv](https://github.com/PieterjanMontens/vim-pipenv) - Vim plugin for detecting & interacting with Pipenv
 - [developit/greenlet](https://github.com/developit/greenlet) - 🦎 Move an async function into its own thread.
@@ -7793,7 +7793,7 @@
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [t0gre/react-datepicker](https://github.com/t0gre/react-datepicker) - An easily internationalizable, accessible, mobile-friendly datepicker library for the web, build with styled-components.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
-- [open-draft/until](https://github.com/open-draft/until) - Gracefully handle Promises using async/await without try/catch.
+- [kettanaito/until-async](https://github.com/kettanaito/until-async) - Gracefully handle Promises using async/await without try/catch.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
