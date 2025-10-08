@@ -1957,7 +1957,7 @@
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [lunarmodules/busted](https://github.com/lunarmodules/busted) - Elegant Lua unit testing.
 - [levouh/tint.nvim](https://github.com/levouh/tint.nvim) - Dim inactive windows in Neovim using window-local highlight namespaces.
-- [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
+- [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - VS Code–style pictograms for Neovim completion items
 - [Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim) - Nvim Plugin
 - [numToStr/prettierrc.nvim](https://github.com/numToStr/prettierrc.nvim) - Apply editor settings from prettier config
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
@@ -2532,7 +2532,7 @@
 - [jarun/imgp](https://github.com/jarun/imgp) - :camera_flash: Fast batch image resizer and rotator
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [catchpoint/WebPageTest.visual-metrics](https://github.com/catchpoint/WebPageTest.visual-metrics) - Calculate visual performance metrics from a video (Speed Index, Visual Complete, Incremental progress, etc)
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [xolox/vim-tools](https://github.com/xolox/vim-tools) - Python scripts that make it easier (for me) to publish Vim plug-ins
 - [asottile/git-code-debt](https://github.com/asottile/git-code-debt) - A dashboard for monitoring code debt in a git repository.
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
@@ -2633,7 +2633,7 @@
 
 ## Rust 
 
-- [kagehq/port-kill](https://github.com/kagehq/port-kill) - Port Kill helps you find and free ports blocking your dev work.
+- [kagehq/port-kill](https://github.com/kagehq/port-kill) - Port Kill helps you find and free ports and caches blocking your dev work.
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [primait/localauth0](https://github.com/primait/localauth0) - Mock auth0 service for local development
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
