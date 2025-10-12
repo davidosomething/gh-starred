@@ -498,6 +498,7 @@
 - [Songmu/crontabparser](https://github.com/Songmu/crontabparser) - utility to validate crontab and to create your own crond
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -1601,6 +1602,7 @@
 
 ## Lua 
 
+- [jim-at-jibba/nvim-redraft](https://github.com/jim-at-jibba/nvim-redraft) - Fast inline AI edits
 - [aikawa9376/buffer-position.nvim](https://github.com/aikawa9376/buffer-position.nvim) - 
 - [ahkohd/buffer-sticks.nvim](https://github.com/ahkohd/buffer-sticks.nvim) - a cosmetic buffers indicator & picker
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
@@ -1610,7 +1612,7 @@
 - [webhooked/kanso.nvim](https://github.com/webhooked/kanso.nvim) - 
 - [angelinuxx/npm-lens.nvim](https://github.com/angelinuxx/npm-lens.nvim) - 💡 A Neovim plugin that visualizes outdated npm dependencies in package.json using npm outdated.
 - [bngarren/checkmate.nvim](https://github.com/bngarren/checkmate.nvim) - A full-featured, Markdown-based Neovim todo plugin
-- [MeanderingProgrammer/treesitter-modules.nvim](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Common modules to bridge nvim-treesitter & Neovim treesitter
+- [MeanderingProgrammer/treesitter-modules.nvim](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Original modules from nvim-treesitter master branch
 - [Saghen/blink.nvim](https://github.com/Saghen/blink.nvim) - Set of simple, performant neovim plugins
 - [Sebastian-Nielsen/better-type-hover](https://github.com/Sebastian-Nielsen/better-type-hover) - Neovim plugin for an improved version of the type hover in typescript (i.e. vim.lsp.buf.hover())
 - [yorickpeterse/nvim-grey](https://github.com/yorickpeterse/nvim-grey) - A light theme for NeoVim, with a light grey background
@@ -1628,7 +1630,6 @@
 - [harisb2012/tsnest.nvim](https://github.com/harisb2012/tsnest.nvim) - Lightning-fast TypeScript/React component restructuring for Neovim - seamlessly nest and unnest your components with a single command.
 - [nvzone/timerly](https://github.com/nvzone/timerly) - Beautiful countdown timer plugin for Neovim
 - [saifulapm/commasemi.nvim](https://github.com/saifulapm/commasemi.nvim) - Toggle comma and semicolon in Neovim
-- [esmuellert/nvim-eslint](https://github.com/esmuellert/nvim-eslint) - An ESLint plugin for Neovim, using VSCode ESLint LSP and native nvim LSP client
 - [jbyuki/one-small-step-for-vimkind](https://github.com/jbyuki/one-small-step-for-vimkind) - Debug adapter for Neovim plugins
 - [ryoppippi/nvim-pnpm-catalog-lens](https://github.com/ryoppippi/nvim-pnpm-catalog-lens) - Neovim plugin to show versions as diagnostics for pnpm catalog: field.
 - [wnkz/monoglow.nvim](https://github.com/wnkz/monoglow.nvim) - A dark, mostly monochrome colorscheme with a touch of glowing.
@@ -2074,6 +2075,7 @@
 - [HugoNikanor/VimCC](https://github.com/HugoNikanor/VimCC) - A port of Vim to the Minecraft mod "ComputerCraft".
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [neovim/nvimdev.nvim](https://github.com/neovim/nvimdev.nvim) - Neovim plugin for working on Neovim
+- [jalvesaq/hlterm](https://github.com/jalvesaq/hlterm) - Send code to command line interpreter
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) - killring-alike plugin for neovim and vim 8 with no default mappings
 - [clojure-vim/acid.nvim](https://github.com/clojure-vim/acid.nvim) - Asynchronous Clojure Interactive Development
@@ -2393,11 +2395,13 @@
 
 ## Python 
 
+- [IDisposable/docker-wyze-bridge](https://github.com/IDisposable/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [IDmedia/hass-unraid](https://github.com/IDmedia/hass-unraid) - This Docker container parses and forwards all WebSocket messages from your Unraid server to Home Assistant using the MQTT protocol
 - [domalab/ha-unraid](https://github.com/domalab/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma!
+- [esmuellert/nvim-eslint](https://github.com/esmuellert/nvim-eslint) - An ESLint plugin for Neovim, using VSCode ESLint LSP and native nvim LSP client
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [soyersoyer/cameractrls](https://github.com/soyersoyer/cameractrls) - Camera controls for Linux
 - [jziolkowski/tdm](https://github.com/jziolkowski/tdm) - GUI application to discover and monitor devices flashed with https://github.com/arendst/tasmota
@@ -2496,7 +2500,6 @@
 - [RobSis/zsh-completion-generator](https://github.com/RobSis/zsh-completion-generator) - Plugin that generates completion functions automatically from getopt-style help texts
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [mooz/xkeysnail](https://github.com/mooz/xkeysnail) - Yet another keyboard remapping tool for X environment
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [mechatroner/rainbow_csv](https://github.com/mechatroner/rainbow_csv) - 🌈Rainbow CSV - Vim plugin: Highlight columns in CSV and TSV files and run queries in SQL-like language
@@ -2795,6 +2798,7 @@
 
 ## Shell 
 
+- [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
 - [psprint/zsh-sweep](https://github.com/psprint/zsh-sweep) - Linter for Zshell scripting language
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
 - [dangra/mkinitcpio-tailscale](https://github.com/dangra/mkinitcpio-tailscale) - Archlinux's mkinitcpio hook to run Tailscale daemon during early userspace (aka initramfs)
@@ -3079,7 +3083,7 @@
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [bokub/gradient-string](https://github.com/bokub/gradient-string) - :rainbow:  Beautiful color gradients in terminal output
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
 - [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid) - World's most performant DOM-based web table. Try it! fast-grid.vercel.app/
 - [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
@@ -4007,7 +4011,6 @@
 - [chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn) - A Narrow Region Plugin for vim (like Emacs Narrow Region)
 - [EvergreenTheTree/vim-hardy](https://github.com/EvergreenTheTree/vim-hardy) - Arduino IDE intregation for vim.
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
-- [jalvesaq/vimcmdline](https://github.com/jalvesaq/vimcmdline) - Send code to command line interpreter
 - [tweekmonster/startuptime.vim](https://github.com/tweekmonster/startuptime.vim) - Breakdown Vim's --startuptime output
 - [zaki/zazen](https://github.com/zaki/zazen) - zazen vim color scheme (a personalized version of zenesque)
 - [ryanpcmcquen/true-monochrome_vim](https://github.com/ryanpcmcquen/true-monochrome_vim) - A true black/grey/white theme for vim.
