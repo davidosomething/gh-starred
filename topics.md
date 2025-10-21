@@ -288,6 +288,7 @@
 
 ## ai 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [cloudflare/partykit](https://github.com/cloudflare/partykit) - PartyKit, for Workers
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) - Generate and edit text in Neovim using OpenAI and GPT.
@@ -2277,9 +2278,9 @@
 
 ## hacktoberfest 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [Suwayomi/Suwayomi-Server-docker](https://github.com/Suwayomi/Suwayomi-Server-docker) - Run Suwayomi-Server in a docker container
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.1.x or 3.0.x specification
-- [ihhub/fheroes2](https://github.com/ihhub/fheroes2) - fheroes2 is a recreation of Heroes of Might and Magic II game engine.
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [Steam-Headless/docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
@@ -4695,6 +4696,9 @@
 
 ## others 
 
+- [yuzono/tachiyomi-extensions](https://github.com/yuzono/tachiyomi-extensions) - Source code of extensions for Komikku / Mihon & forks.
+- [AdamAugustinsky/claude-inline.nvim](https://github.com/AdamAugustinsky/claude-inline.nvim) - Neovim Inline AI Edit Plugin with Claude Code.
+- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [Suwayomi/tachiyomi-extension](https://github.com/Suwayomi/tachiyomi-extension) - Suwayomi Extension for Tachiyomi and variants
 - [jim-at-jibba/nvim-redraft](https://github.com/jim-at-jibba/nvim-redraft) - Fast inline AI edits
 - [IDisposable/docker-wyze-bridge](https://github.com/IDisposable/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
@@ -5335,7 +5339,7 @@
 - [jvilk/mitmproxy-node](https://github.com/jvilk/mitmproxy-node) - A bridge between Python's mitmproxy and Node.JS programs. Rewrite network requests using Node.JS!
 - [atom/fuzzaldrin](https://github.com/atom/fuzzaldrin) - Fuzzy filtering and string scoring
 - [robb0wen/tornis](https://github.com/robb0wen/tornis) - Tornis helps you watch and respond to changes in your browser's viewport 🌲
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [kuravih/gllock](https://github.com/kuravih/gllock) - not so simple opengl based X display locker utility
 - [surajmandalcell/elementary-x](https://github.com/surajmandalcell/elementary-x) - Transform your Linux system with an elegant Elementary OS theme and sleek macOS window controls, available in both light and dark mode.
