@@ -922,7 +922,7 @@
 - [d4nyll/mermal](https://github.com/d4nyll/mermal) - Merge YAML files together
 - [alexreardon/use-memo-one](https://github.com/alexreardon/use-memo-one) - useMemo and useCallback but with a stable cache
 - [LingDong-/rrpl](https://github.com/LingDong-/rrpl) - Describing Chinese Characters with Recursive Radical Packing Language (RRPL)
-- [webpack-contrib/thread-loader](https://github.com/webpack-contrib/thread-loader) - Runs the following loaders in a worker pool
+- [webpack/thread-loader](https://github.com/webpack/thread-loader) - Runs the following loaders in a worker pool
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
 - [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare) - fastest deep equal comparison for React
@@ -1091,7 +1091,7 @@
 - [swapagarwal/swag-for-dev](https://github.com/swapagarwal/swag-for-dev) - 😎 swag opportunities for developers
 - [busterc/nvx](https://github.com/busterc/nvx) - :trident: Run commands on any specified Node version, or as defined in .travis.yml or circle.yml.
 - [aredridel/node-bin-gen](https://github.com/aredridel/node-bin-gen) - 
-- [webpack-contrib/stylelint-webpack-plugin](https://github.com/webpack-contrib/stylelint-webpack-plugin) - A Stylelint plugin for webpack
+- [webpack/stylelint-webpack-plugin](https://github.com/webpack/stylelint-webpack-plugin) - A Stylelint plugin for webpack
 - [tomasAlabes/stylefmt-loader](https://github.com/tomasAlabes/stylefmt-loader) - Webpack-loader. Fixes stylelint issues automatically while bundling with Webpack.
 - [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
@@ -2468,7 +2468,7 @@
 - [tsroten/zhon](https://github.com/tsroten/zhon) - Constants used in Chinese text processing
 - [popey/sosumi-snap](https://github.com/popey/sosumi-snap) - 
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
-- [shoumikchow/bbox-visualizer](https://github.com/shoumikchow/bbox-visualizer) - Make drawing and labeling bounding boxes easy as cake
+- [shoumikchow/bbox-visualizer](https://github.com/shoumikchow/bbox-visualizer) - Make drawing and labeling bounding boxes a piece of cake
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
 - [grahampugh/macadmin-scripts](https://github.com/grahampugh/macadmin-scripts) - Scripts of possible interest to macOS admins
 - [munki/macadmin-scripts](https://github.com/munki/macadmin-scripts) - Scripts of possible interest to macOS admins
@@ -3053,6 +3053,7 @@
 
 ## TypeScript 
 
+- [Suwayomi/Suwayomi-WebUI](https://github.com/Suwayomi/Suwayomi-WebUI) - 
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
 - [Obra-Studio/obra-icons-mr](https://github.com/Obra-Studio/obra-icons-mr) - Obra Icons monorepo
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
