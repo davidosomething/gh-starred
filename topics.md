@@ -885,6 +885,7 @@
 
 ## cli 
 
+- [1weiho/next-lens](https://github.com/1weiho/next-lens) - A CLI tool for Next.js App Router developers that scans API routes and provides quick insights from the terminal.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [yannjor/krabby](https://github.com/yannjor/krabby) - Print pokemon sprites in your terminal
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -3885,7 +3886,7 @@
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) - Generate and edit text in Neovim using OpenAI and GPT.
 - [jackMort/tide.nvim](https://github.com/jackMort/tide.nvim) - A Neovim plugin to manage and quickly switch between frequently used files, designed for streamlined developer workflows. Similar to Harpoon, with minimal setup and full customization.
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) - Open file or project in GitHub for neovim written in lua
@@ -4321,6 +4322,7 @@
 
 ## nextjs 
 
+- [1weiho/next-lens](https://github.com/1weiho/next-lens) - A CLI tool for Next.js App Router developers that scans API routes and provides quick insights from the terminal.
 - [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker) - A simple shadcn/ui TimePicker component
 - [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -4735,7 +4737,7 @@
 - [IDmedia/hass-unraid](https://github.com/IDmedia/hass-unraid) - This Docker container parses and forwards all WebSocket messages from your Unraid server to Home Assistant using the MQTT protocol
 - [iamcco/ds-pinyin-lsp](https://github.com/iamcco/ds-pinyin-lsp) - Dead Simple Pinyin Language Server
 - [walles/riff](https://github.com/walles/riff) - A syntax highter for diffs, clarifying which parts of lines have changed
-- [Saghen/blink.nvim](https://github.com/Saghen/blink.nvim) - Set of simple, performant neovim plugins
+- [saghen/blink.nvim](https://github.com/saghen/blink.nvim) - Set of simple, performant neovim plugins
 - [Sebastian-Nielsen/better-type-hover](https://github.com/Sebastian-Nielsen/better-type-hover) - Neovim plugin for an improved version of the type hover in typescript (i.e. vim.lsp.buf.hover())
 - [kcrawford/dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items
 - [wojtekmaj/merge-refs](https://github.com/wojtekmaj/merge-refs) - A function that merges React refs into one.
