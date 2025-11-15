@@ -521,7 +521,6 @@
 - [nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) - Awesome list of Draft.js resources
 - [junosuarez/awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
 - [Zheaoli/awesome-coins](https://github.com/Zheaoli/awesome-coins) - ₿ A guide (for humans!) to cryto-currencies and their algos.
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
@@ -1102,7 +1101,6 @@
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 
 ## continuous-integration 
@@ -2297,7 +2295,6 @@
 
 - [Suwayomi/Suwayomi-WebUI](https://github.com/Suwayomi/Suwayomi-WebUI) - 
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [Suwayomi/Suwayomi-Server-docker](https://github.com/Suwayomi/Suwayomi-Server-docker) - Run Suwayomi-Server in a docker container
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.1.x or 3.0.x specification
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
@@ -6933,7 +6930,6 @@
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [Thinkmill/react-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in &lt;Components/&gt;, &lt;Components/&gt; in **Markdown**
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [zenoamaro/react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
@@ -7203,6 +7199,7 @@
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Drakulix/fireplace](https://github.com/Drakulix/fireplace) - Modular wayland window manager written in rust
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Your second OS. SDK that has it all. Streaming, OS control with agents. Declarative. Synced.
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
