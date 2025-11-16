@@ -4723,6 +4723,7 @@
 
 ## others 
 
+- [mmkal/eslint-plugin-codegen](https://github.com/mmkal/eslint-plugin-codegen) - An eslint plugin for inline codegen. Auto-fixes out of sync code, with presets for barrels, jsdoc to markdown and more.
 - [mutativejs/zustand-travel](https://github.com/mutativejs/zustand-travel) - A powerful and high-performance undo/redo middleware for Zustand with Travels
 - [taybart/code-actions.nvim](https://github.com/taybart/code-actions.nvim) - 
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
