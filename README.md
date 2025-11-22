@@ -97,6 +97,7 @@
 
 ## C 
 
+- [stgiga/UnifontEX](https://github.com/stgiga/UnifontEX) - An extended fork of GNU Unifont with a focus on high compatibility.
 - [splitbrain/clipscreen](https://github.com/splitbrain/clipscreen) - Mirror a portion of your screen to a virtual monitor for easier screen sharing.
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -668,6 +669,8 @@
 
 ## JavaScript 
 
+- [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
+- [usmanyunusov/nano-staged](https://github.com/usmanyunusov/nano-staged) - Tiny tool to run commands for modified, staged, and committed files in a GIT repository.
 - [bee-queue/bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust job/task queue for Node.js, backed by Redis.
 - [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
 - [NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React useEffect hooks to make your code simpler, faster, and safer.
@@ -720,7 +723,6 @@
 - [developit/unfetch](https://github.com/developit/unfetch) - 🐕 Bare minimum 500b fetch polyfill.
 - [francoismassart/eslint-plugin-tailwindcss](https://github.com/francoismassart/eslint-plugin-tailwindcss) - ESLint plugin for Tailwind CSS usage
 - [github/eslint-plugin-github](https://github.com/github/eslint-plugin-github) - An opinionated collection of ESLint rules used by GitHub.
-- [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [mansona/lint-to-the-future](https://github.com/mansona/lint-to-the-future) - A modern way to progressively update your code to the best practices
 - [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list) - Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -956,8 +958,6 @@
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
 - [format-message/format-message](https://github.com/format-message/format-message) - Internationalization Made Easy
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
-- [wix-incubator/eslint-plugin-lodash](https://github.com/wix-incubator/eslint-plugin-lodash) - ESLint rules for lodash
-- [standard/snazzy](https://github.com/standard/snazzy) - Format JavaScript Standard Style as Stylish (i.e. snazzy) output
 - [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [clauderic/react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar) - ✨ Infinite scrolling date-picker built with React, with localization, range selection, themes, keyboard support, and more.
@@ -987,7 +987,6 @@
 - [facebookarchive/rebound-js](https://github.com/facebookarchive/rebound-js) - Spring dynamics in JavaScript.
 - [casesandberg/react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
-- [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [techfort/LokiJS](https://github.com/techfort/LokiJS) - javascript embeddable / in-memory database
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [async-library/react-webworker](https://github.com/async-library/react-webworker) - ⚙️ Communicate with a Web Worker from React
@@ -1008,7 +1007,7 @@
 - [GoogleChromeLabs/size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [mafintosh/turbo-json-parse](https://github.com/mafintosh/turbo-json-parse) - Turbocharged JSON.parse for type stable JSON data
 - [souporserious/react-measure](https://github.com/souporserious/react-measure) - 📏 Compute measurements of a React component.
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [steelbreeze/state](https://github.com/steelbreeze/state) - Hierarchical finite state machine for TypeScript and JavaScript
 - [Starcounter-Jack/JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). Update JSON documents using delta patches.
@@ -1147,7 +1146,6 @@
 - [Pau1fitz/react-spotify](https://github.com/Pau1fitz/react-spotify) - Spotify React / Redux   🎤🎺🎸🎷
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [nzambello/ellipsed](https://github.com/nzambello/ellipsed) - A JavaScript library for multilined ellipsis
-- [appium/node-teen_process](https://github.com/appium/node-teen_process) - A slightly more grown-up version of Node's child_process
 - [sindresorhus/package-config](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json
 - [timoxley/linklocal](https://github.com/timoxley/linklocal) - Install local dependencies as symlinks.
 - [paulirish/commitlintbot](https://github.com/paulirish/commitlintbot) - 
@@ -1162,7 +1160,6 @@
 - [a0viedo/glob-cli2](https://github.com/a0viedo/glob-cli2) - CLI tool to expand globs
 - [schnittstabil/globstar](https://github.com/schnittstabil/globstar) - Run programs with glob/globstar support, especially on Windows within npm scripts.
 - [dominictarr/rc](https://github.com/dominictarr/rc) - The non-configurable configuration loader for lazy people.
-- [pinterest/esprint](https://github.com/pinterest/esprint) - Fast eslint runner
 - [sindresorhus/boxen-cli](https://github.com/sindresorhus/boxen-cli) - Create boxes in the terminal
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [salesforce-ux/sass-deprecate](https://github.com/salesforce-ux/sass-deprecate) - Let Sass warn you about the pieces of your UI that are deprecated, providing a clear upgrade path for developers
@@ -1243,7 +1240,6 @@
 - [jondot/react-flight](https://github.com/jondot/react-flight) - The best way to build animation compositions for React.
 - [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - 💻 JavaScript implementations of computer science algorithms
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
-- [grab/front-end-guide](https://github.com/grab/front-end-guide) - 📚 Study guide and introduction to the modern front end stack.
 - [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js) - 💎  Convenient and dependency free wrapper for working with arrays and objects
 - [dntzhang/pasition](https://github.com/dntzhang/pasition) - Path Transition with little JS code, render to anywhere - 轻量级 Path 过渡库，渲染到任何地方
 - [join-monster/join-monster](https://github.com/join-monster/join-monster) - A GraphQL to SQL query execution layer for query planning and batch data fetching.
@@ -1457,7 +1453,6 @@
 - [amireh/happypack](https://github.com/amireh/happypack) - Happiness in the form of faster webpack build times.
 - [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
 - [ustwo/ustwo.com-frontend](https://github.com/ustwo/ustwo.com-frontend) - The New & Improved ustwo Website
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
@@ -3060,6 +3055,7 @@
 
 ## TypeScript 
 
+- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [mmkal/eslint-plugin-codegen](https://github.com/mmkal/eslint-plugin-codegen) - An eslint plugin for inline codegen. Auto-fixes out of sync code, with presets for barrels, jsdoc to markdown and more.
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
@@ -3561,7 +3557,7 @@
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React. Add date pickers, calendars, and date inputs to your web applications.
 - [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
 - [reach/reach-ui](https://github.com/reach/reach-ui) - The Accessible Foundation for React Apps and Design Systems
-- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
+- [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [ampproject/worker-dom](https://github.com/ampproject/worker-dom) - The same DOM API and Frameworks you know, but in a Web Worker.
@@ -3623,6 +3619,7 @@
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
+- [appium/node-teen_process](https://github.com/appium/node-teen_process) - A slightly more grown-up version of Node's child_process
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
@@ -3700,6 +3697,7 @@
 - [rhysd/Shiba](https://github.com/rhysd/Shiba) - Rich markdown live preview app with linter
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
