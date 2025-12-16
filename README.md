@@ -410,9 +410,9 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
+- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [DeedleFake/trayscale](https://github.com/DeedleFake/trayscale) - An unofficial GUI wrapper around the Tailscale CLI client.
 - [zombiezen/tailscale-lb](https://github.com/zombiezen/tailscale-lb) - Basic load-balancer for forwarding Tailscale TCP traffic
@@ -2551,7 +2551,7 @@
 - [asottile/git-code-debt](https://github.com/asottile/git-code-debt) - A dashboard for monitoring code debt in a git repository.
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 - [pypa/pipfile](https://github.com/pypa/pipfile) - 
-- [iogf/vy](https://github.com/iogf/vy) - A vim-like in Python.
+- [vyapp/vy](https://github.com/vyapp/vy) - A vim-like in Python.
 - [lambdalisue/neovim-prompt](https://github.com/lambdalisue/neovim-prompt) - A python library to produce a customizable Neovim/Vim prompt.
 - [python-rope/ropemode](https://github.com/python-rope/ropemode) - Common parts of ropemacs and ropevim.
 - [python-rope/ropevim](https://github.com/python-rope/ropevim) - vim mode that uses rope library to provide features like python refactorings and code-assists
@@ -2766,7 +2766,7 @@
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
-- [solanabull/Solana-Pumpfun-Sniper-Bot](https://github.com/solanabull/Solana-Pumpfun-Sniper-Bot) - Solana sniper bot for PumpFun & PumpSwap. Real-time monitoring, auto-selling, and lightning-fast execution. Solana PumpFun sniper bot Solana PumpFun  sniper bot Solana PumpFun  sniper bot Solana PumpF
+- [solanabull/Solana-Mev-Bot](https://github.com/solanabull/Solana-Mev-Bot) - Solana MEV bot automatically identifies and extracts profit by strategically. Solana Mev Bot | Solana Mev Bot | Solana Mev Bot | Solana Mev Bot | Solana Mev Bot | Solana Mev Bot | Solana Mev Bot | Sol
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
@@ -3064,6 +3064,7 @@
 
 ## TypeScript 
 
+- [databuddy-analytics/better-ratelimit](https://github.com/databuddy-analytics/better-ratelimit) - 
 - [Julien-R44/vite-plugin-validate-env](https://github.com/Julien-R44/vite-plugin-validate-env) - ✅ Vite plugin for validating your environment variables
 - [kazupon/pnpmc](https://github.com/kazupon/pnpmc) - pnpm catalogs tooling
 - [adobe/react-spectrum-charts](https://github.com/adobe/react-spectrum-charts) - Build compelling visualizations using declarative react components.
