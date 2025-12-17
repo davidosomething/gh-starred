@@ -2612,7 +2612,7 @@
 
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-- [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios which look like desktop operating systems
+- [syxanash/awesome-web-desktops](https://github.com/syxanash/awesome-web-desktops) - Websites, web apps, portfolios that look like desktop operating systems
 - [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
 - [jonashellmann/everydocs-core](https://github.com/jonashellmann/everydocs-core) - A simple Document Management System for private use with basic functionality to organize your documents digitally
 - [axvr/photon.vim](https://github.com/axvr/photon.vim) - A pair of Vim colour schemes with minimal syntax highlighting.
@@ -2766,7 +2766,7 @@
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
 - [rossmacarthur/sheldon](https://github.com/rossmacarthur/sheldon) - :bowtie: Fast, configurable, shell plugin manager
 - [vhakulinen/gnvim](https://github.com/vhakulinen/gnvim) - GUI for neovim, without any web bloat
-- [solanabull/Solana-Mev-Bot](https://github.com/solanabull/Solana-Mev-Bot) - Solana MEV bot automatically identifies and extracts profit by strategically. Solana Mev Bot | Solana Mev Bot | Solana Mev Bot | Solana Mev Bot | Solana Mev Bot | Solana Mev Bot | Solana Mev Bot | Sol
+- [solanabull/Solana-Mev-Bot](https://github.com/solanabull/Solana-Mev-Bot) - Solana MEV bot https://t.me/solanabull0 Solana MEV bot Solana MEV bot Solana MEV bot Solana MEV bot Solana MEV bot Solana MEV bot Solana MEV bot Solana MEV bot Solana MEV bot Solana MEV bot Solana MEV
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [I60R/page](https://github.com/I60R/page) - Use neovim as pager
