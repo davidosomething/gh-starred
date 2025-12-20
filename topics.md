@@ -165,6 +165,7 @@
 - [mastodon](#mastodon)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -1549,6 +1550,7 @@
 - [YuukanOO/seelf](https://github.com/YuukanOO/seelf) - Lightweight self-hosted deployment platform written in Go
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [bubuntux/nordvpn](https://github.com/bubuntux/nordvpn) - NordVpn Docker Client
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
@@ -1836,6 +1838,7 @@
 ## finance 
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [tomasz-oponowicz/markets](https://github.com/tomasz-oponowicz/markets) - A stock, currency and cryptocurrency tracker
@@ -2529,7 +2532,7 @@
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
@@ -3878,6 +3881,11 @@
 
 - [oracle/opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 
+## microservices 
+
+- [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
+
 ## minecraft 
 
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
@@ -4825,6 +4833,7 @@
 
 ## others 
 
+- [andromediano/pnpm-catalog-info.nvim](https://github.com/andromediano/pnpm-catalog-info.nvim) - 
 - [skanehira/version-lsp](https://github.com/skanehira/version-lsp) - A Language Server Protocol (LSP) implementation that provides version checking diagnostics for package dependency files.
 - [pnpm/plugin-types-fixer](https://github.com/pnpm/plugin-types-fixer) - A hook for fixing TypeScript issues
 - [databuddy-analytics/better-ratelimit](https://github.com/databuddy-analytics/better-ratelimit) - 
@@ -4980,7 +4989,6 @@
 - [FelipeLema/cmp-async-path](https://github.com/FelipeLema/cmp-async-path) - nvim-cmp source for path (async version)
 - [paytonward6/nvim-wezlime](https://github.com/paytonward6/nvim-wezlime) - 
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
-- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
 - [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) - Bmessages.nvim better :messages window using an auto-updating buffer.
@@ -6481,6 +6489,7 @@
 
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [christian-putzke/freshrss-pocket-button](https://github.com/christian-putzke/freshrss-pocket-button) - Add FreshRSS articles to Pocket with one simple button click or a keyboard shortcut.
@@ -6958,7 +6967,7 @@
 - [mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas](https://github.com/mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas) - React application built with HTML5 Canvas. ES6, React, JSX, Redux. Features cute Harvest Moon sprites! :cow:
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
-- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
 - [frontarm/navi](https://github.com/frontarm/navi) - 🧭 Declarative, asynchronous routing for React.
 - [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
@@ -7414,6 +7423,7 @@
 - [syncyomi/syncyomi](https://github.com/syncyomi/syncyomi) - SyncYomi is an open-source project crafted to provide a seamless synchronization experience for your TachiyomiSY/Mihon (Mihon client is not implemented but it works the same probably will never be imp
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer.
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -8119,7 +8129,7 @@
 - [slackapi/node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack Developer Kit for Node.js
 - [blend/promise-utils](https://github.com/blend/promise-utils) - Lodash-like, dependency-free utilities for native ES6 promises.
 - [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Typescript focused FP library similar to Remeda and Ramda
-- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
+- [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [energizer91/smart-request-balancer](https://github.com/energizer91/smart-request-balancer) - Smart request queue with fine tuning of rate and limit of requests
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
