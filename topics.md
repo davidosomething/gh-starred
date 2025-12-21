@@ -5362,6 +5362,7 @@
 - [davidosomething/git-relevant](https://github.com/davidosomething/git-relevant) - 
 - [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
+- [Jorenar/vim-darkness](https://github.com/Jorenar/vim-darkness) - 
 - [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) - Your color buddy for making cool neovim color schemes
 - [ip-num/ip-num](https://github.com/ip-num/ip-num) - A TypeScript/JavaScript library for working with ASN, IPv4, and IPv6 numbers. It provides representations of these internet protocol numbers with the ability to perform various IP related operations l
 - [tyru/notify-changed.vim](https://github.com/tyru/notify-changed.vim) - Notify buffer changed lines using OS notification system (supported: macOS/Windows/WSL/Linux, Vim 8.1+/Neovim 0.5+)
@@ -8325,7 +8326,6 @@
 - [iberianpig/tig-explorer.vim](https://github.com/iberianpig/tig-explorer.vim) - Vim plugin to use Tig as a git client. Seamless switching between vim and Tig with opening in the same buffer.
 - [rafi/vim-venom](https://github.com/rafi/vim-venom) - Select Python runtimes or activate virtual-environments while working in Neo/Vim.
 - [chimay/wheel](https://github.com/chimay/wheel) - Any line in any file is only a few keys away. Quick navigation for Vim and Neovim : file groups, buffers, find, grep/edit, mru, frecency, sessions, yank, ...
-- [Jorenar/vim-darkness](https://github.com/Jorenar/vim-darkness) - Dark, monochromatic Vim colorscheme
 - [lenowski/nuake](https://github.com/lenowski/nuake) - A Quake-style terminal panel for Neovim and Vim
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [LinArcX/mpi](https://github.com/LinArcX/mpi) - minimal (n)vim plugins - icons (Under 200 LOC)
