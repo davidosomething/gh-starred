@@ -4848,7 +4848,7 @@
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [Daydreamer-riri/catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) - Show inlay version and go-to-definition for PNPM/Yarn/Bun catalogs.
 - [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - Raveo is a warmer version of the Inter typeface.
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [mmkal/eslint-plugin-codegen](https://github.com/mmkal/eslint-plugin-codegen) - An eslint plugin for inline codegen. Auto-fixes out of sync code, with presets for barrels, jsdoc to markdown and more.
 - [mutativejs/zustand-travel](https://github.com/mutativejs/zustand-travel) - A powerful and high-performance undo/redo middleware for Zustand with Travels
