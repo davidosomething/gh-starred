@@ -501,7 +501,6 @@
 - [Songmu/crontabparser](https://github.com/Songmu/crontabparser) - utility to validate crontab and to create your own crond
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -645,6 +644,7 @@
 ## Java 
 
 - [gnmyt/MCDash](https://github.com/gnmyt/MCDash) - MCDash is a simple dashboard for your Minecraft server. It contains a http server that allows the dashboard to manage the server
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
@@ -1597,6 +1597,8 @@
 
 ## Lua 
 
+- [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
+- [mr-u0b0dy/crazy-coverage.nvim](https://github.com/mr-u0b0dy/crazy-coverage.nvim) - Neovim plugin for displaying code coverage
 - [andromediano/pnpm-catalog-info.nvim](https://github.com/andromediano/pnpm-catalog-info.nvim) - 
 - [amnn/lsp-echohint.nvim](https://github.com/amnn/lsp-echohint.nvim) - Plugin for displaying the inlay hints for the current line in the echo area.
 - [Daydreamer-riri/catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) - Show inlay version and go-to-definition for PNPM/Yarn/Bun catalogs.
@@ -2384,7 +2386,6 @@
 
 ## Perl 
 
-- [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [ovh/the-bastion](https://github.com/ovh/the-bastion) - Authentication, authorization, traceability and auditability for SSH accesses.
 - [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 - [SSNikolaevich/DejaVuSansCode](https://github.com/SSNikolaevich/DejaVuSansCode) - Monospaced font with programming ligatures based on DejaVu Sans Mono
@@ -2400,7 +2401,9 @@
 
 ## Python 
 
+- [eyeblech/cinecli](https://github.com/eyeblech/cinecli) - CineCLI is a cross-platform command-line movie browser built with Python.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
+- [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
@@ -2512,6 +2515,7 @@
 - [firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
 - [jwiegley/scripts](https://github.com/jwiegley/scripts) - Various and sundry shell scripts used on my system
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [mooz/xkeysnail](https://github.com/mooz/xkeysnail) - Yet another keyboard remapping tool for X environment
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [mechatroner/rainbow_csv](https://github.com/mechatroner/rainbow_csv) - 🌈Rainbow CSV - Vim plugin: Highlight columns in CSV and TSV files and run queries in SQL-like language
@@ -3202,7 +3206,6 @@
 - [Brandawg93/PeaNUT](https://github.com/Brandawg93/PeaNUT) - A tiny dashboard for Network UPS Tools
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [open-draft/event-contract](https://github.com/open-draft/event-contract) - Type-safe, implementation-agnostic event contract framework.
@@ -3897,7 +3900,7 @@
 - [neoclide/coc-neco](https://github.com/neoclide/coc-neco) - viml completion source for coc.nvim
 - [tyru/tapi-reg.vim](https://github.com/tyru/tapi-reg.vim) - Seamless vim register manipulation in :terminal buffer via terminal-api
 - [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
-- [bfrg/vim-c-cpp-modern](https://github.com/bfrg/vim-c-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11/14/17/20/23)
+- [bfrg/vim-c-cpp-modern](https://github.com/bfrg/vim-c-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11..26)
 - [stephpy/vim-yaml](https://github.com/stephpy/vim-yaml) - Override vim syntax for yaml files
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
 - [oppiliappan/chestnut.vim](https://github.com/oppiliappan/chestnut.vim) - Minimal syntax highlighting for 16-color terminals.
