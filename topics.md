@@ -1536,6 +1536,7 @@
 
 ## docker 
 
+- [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [docker/docker-language-server](https://github.com/docker/docker-language-server) - Language server for Dockerfiles, Compose files, and Bake files
@@ -3989,6 +3990,7 @@
 
 ## neovim 
 
+- [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
 - [ahkohd/buffer-sticks.nvim](https://github.com/ahkohd/buffer-sticks.nvim) - Elegant buffer indicator and picker
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
@@ -4839,6 +4841,8 @@
 
 ## others 
 
+- [awalland/nvim-file-watch](https://github.com/awalland/nvim-file-watch) - 
+- [rektide/nvim-auto-listen](https://github.com/rektide/nvim-auto-listen) - Automatically start listen server on .nvim.socket.
 - [mr-u0b0dy/crazy-coverage.nvim](https://github.com/mr-u0b0dy/crazy-coverage.nvim) - Neovim plugin for displaying code coverage
 - [andromediano/pnpm-catalog-info.nvim](https://github.com/andromediano/pnpm-catalog-info.nvim) - 
 - [skanehira/version-lsp](https://github.com/skanehira/version-lsp) - A Language Server Protocol (LSP) implementation that provides version checking diagnostics for package dependency files.
