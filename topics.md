@@ -354,6 +354,7 @@
 
 ## android 
 
+- [shmykelsa/AAAD](https://github.com/shmykelsa/AAAD) - The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
 - [fibelatti/pinboard-kotlin](https://github.com/fibelatti/pinboard-kotlin) - Unofficial Android client for Pinboard and Linkding
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
