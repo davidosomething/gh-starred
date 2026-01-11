@@ -7357,7 +7357,7 @@
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Drakulix/fireplace](https://github.com/Drakulix/fireplace) - Modular wayland window manager written in rust
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
