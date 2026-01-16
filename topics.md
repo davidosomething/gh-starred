@@ -1898,7 +1898,7 @@
 - [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
 - [vaughantype/wumpus-mono](https://github.com/vaughantype/wumpus-mono) - A modern and functional monospaced typeface with a focus on legibility.
-- [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
+- [cormullion/juliamono](https://github.com/cormullion/juliamono) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono) - Commit Mono is an anonymous and neutral programming typeface.
 - [negset/Firple](https://github.com/negset/Firple) - A monospaced Japanese font containing ligatures.
@@ -2679,6 +2679,7 @@
 
 ## html 
 
+- [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) - A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [Tailframes/react-components](https://github.com/Tailframes/react-components) - Open-source React components styled with Tailwind CSS.
 - [pveyes/htmr](https://github.com/pveyes/htmr) - Simple and lightweight (&lt; 2kB) HTML string to React element conversion library
@@ -3263,7 +3264,7 @@
 
 ## julia 
 
-- [cormullion/juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
+- [cormullion/juliamono](https://github.com/cormullion/juliamono) - JuliaMono is a monospaced font for scientific and technical users, with comprehensive Unicode support.
 
 ## jupyter-notebook 
 
@@ -3481,7 +3482,7 @@
 ## llm 
 
 - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
-- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
+- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
@@ -3510,6 +3511,7 @@
 
 ## lua 
 
+- [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) - A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
 - [nvim-mini/mini.icons](https://github.com/nvim-mini/mini.icons) - Icon provider. Part of 'mini.nvim' library.
@@ -3829,6 +3831,7 @@
 
 ## markdown 
 
+- [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) - A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
 - [JoshuaFurman/atlas.nvim](https://github.com/JoshuaFurman/atlas.nvim) - A lightweight Neovim plugin that displays a navigable Table of Contents for Markdown files in a floating window.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [bngarren/checkmate.nvim](https://github.com/bngarren/checkmate.nvim) - A full-featured, Markdown-based Neovim todo plugin
@@ -3895,7 +3898,7 @@
 
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
-- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
+- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -4004,6 +4007,7 @@
 
 ## neovim 
 
+- [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) - A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
 - [JoshuaFurman/atlas.nvim](https://github.com/JoshuaFurman/atlas.nvim) - A lightweight Neovim plugin that displays a navigable Table of Contents for Markdown files in a floating window.
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
@@ -8645,7 +8649,7 @@
 ## visualization 
 
 - [adobe/react-spectrum-charts](https://github.com/adobe/react-spectrum-charts) - Build compelling visualizations using declarative react components.
-- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
+- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
 - [sakthilkv/react-horizontal-heatmap](https://github.com/sakthilkv/react-horizontal-heatmap) - A lightweight React component for rendering a horizontal heatmap. Perfect for timelines, activity charts, or health status indicators. Fully customizable colors, box size, and spacing.
 - [VisActor/VTable](https://github.com/VisActor/VTable) - VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.
 - [flavioschneider/graphire](https://github.com/flavioschneider/graphire) - An unopinionated react graph visualization library.
