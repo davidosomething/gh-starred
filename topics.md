@@ -300,6 +300,7 @@
 ## agent 
 
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
@@ -4404,7 +4405,7 @@
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap: netrW =&gt; netrL
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client
-- [overcache/NeoSolarized](https://github.com/overcache/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
+- [Lanxox/NeoSolarized](https://github.com/Lanxox/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 - [cyansprite/Extract](https://github.com/cyansprite/Extract) - :ghost: Neovim yank ring plugin with completion for registers, ring, pinning, and replacing with register.
 - [Vimjas/covimerage](https://github.com/Vimjas/covimerage) - Generate coverage information for Vim scripts.
 - [rhysd/promised-neovim-client](https://github.com/rhysd/promised-neovim-client) - node.js neovim client for modern JavaScript programmers
@@ -4885,6 +4886,8 @@
 
 ## others 
 
+- [ph1losof/ecolog2.nvim](https://github.com/ph1losof/ecolog2.nvim) - Full rewrite ecolog.nvim. A modern LSP-powered Neovim plugin for seamless environment variable integration and management. Provides intelligent auto-completion, hover, go-to-definition, references, an
+- [ruicsh/tailwind-hover.nvim](https://github.com/ruicsh/tailwind-hover.nvim) - Shows consolidated Tailwind CSS styles applied to the element under the cursor.
 - [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) - A minimal calendar plugin for Neovim.
 - [glanceapp/community-widgets](https://github.com/glanceapp/community-widgets) - A collection of custom widgets for Glance made by the community
 - [enochchau/nvim-pretty-ts-errors](https://github.com/enochchau/nvim-pretty-ts-errors) - pretty ts errors in neovim
@@ -4998,7 +5001,7 @@
 - [dy/linefont](https://github.com/dy/linefont) - Font for rendering line chart data
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 - [dorklyorg/dorkly](https://github.com/dorklyorg/dorkly) - This project has been renamed from Dorkly to Brightly and has been moved: https://github.com/brightlyorg/brightly/wiki
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & YAML previewer for Neovim
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [PaulieScanlon/nextjs-google-sheets-database](https://github.com/PaulieScanlon/nextjs-google-sheets-database) - Use Google Sheets as a Database
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [jziolkowski/tdm](https://github.com/jziolkowski/tdm) - GUI application to discover and monitor devices flashed with https://github.com/arendst/tasmota
@@ -5226,7 +5229,7 @@
 - [kurtbuilds/checkexec](https://github.com/kurtbuilds/checkexec) - CLI tool to conditionally execute commands only when files in a dependency list have been updated. Like `make`, but standalone.
 - [phelipetls/jsonpath.nvim](https://github.com/phelipetls/jsonpath.nvim) - A Neovim plugin to help you access JSON values, powered by treesitter
 - [Prayag2/kde_controlcentre](https://github.com/Prayag2/kde_controlcentre) - A beautiful control centre widget for KDE Plasma directly inspired by the MacOS control centre.
-- [IndianBoy42/tree-sitter-just](https://github.com/IndianBoy42/tree-sitter-just) - Treesitter grammar for Justfiles (casey/just)
+- [casey/tree-sitter-just](https://github.com/casey/tree-sitter-just) - Treesitter grammar for Justfiles (casey/just)
 - [princejoogie/mason-formatter.nvim](https://github.com/princejoogie/mason-formatter.nvim) - bridge mason.nvim and formatter.nvim
 - [ckipp01/stylua-nvim](https://github.com/ckipp01/stylua-nvim) - Let's just use a formatter and never discuss formatting again.
 - [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
@@ -6455,7 +6458,7 @@
 - [max-mapper/cool-ascii-faces](https://github.com/max-mapper/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
 - [lalitkapoor/github-changes](https://github.com/lalitkapoor/github-changes) - Generate a changelog based on merged pull requests or commit messages
 - [NickRaven/seaforium](https://github.com/NickRaven/seaforium) - YayHooray!!! clone
-- [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+- [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types.
 - [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [svermeulen/vim-easyclip](https://github.com/svermeulen/vim-easyclip) - Simplified clipboard functionality for Vim
 - [mattn/excelview-vim](https://github.com/mattn/excelview-vim) - 
@@ -8527,7 +8530,7 @@
 - [vim-jp/syntax-vim-ex](https://github.com/vim-jp/syntax-vim-ex) - An excellent Vim's syntax highlighting file for Vim script
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
 - [itchyny/vim-parenmatch](https://github.com/itchyny/vim-parenmatch) - An efficient alternative to the standard matchparen plugin
-- [overcache/NeoSolarized](https://github.com/overcache/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
+- [Lanxox/NeoSolarized](https://github.com/Lanxox/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
 - [fcpg/vim-spotlightify](https://github.com/fcpg/vim-spotlightify) - Highlighted search results, improved
 - [fcpg/vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) - Dark, warm base16 Vim theme for 256-color terminals
