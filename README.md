@@ -1676,7 +1676,7 @@
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 - [luckasRanarison/lsp-extras.nvim](https://github.com/luckasRanarison/lsp-extras.nvim) - The missing Neovim LSP modules
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & YAML previewer for Neovim
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [ejrichards/mise.nvim](https://github.com/ejrichards/mise.nvim) - 3rd party Neovim plugin that compliments https://mise.jdx.dev/
 - [tadmccorkle/markdown.nvim](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for working with Markdown in Neovim.
 - [MysticalDevil/inlay-hints.nvim](https://github.com/MysticalDevil/inlay-hints.nvim) - A plugin to simplify enabling neovim inlay hints(neovim 0.10+).
@@ -4016,7 +4016,7 @@
 - [junegunn/vim-after-object](https://github.com/junegunn/vim-after-object) - :point_right: Target text *after* the designated characters
 - [itchyny/vim-parenmatch](https://github.com/itchyny/vim-parenmatch) - An efficient alternative to the standard matchparen plugin
 - [terryma/vim-expand-region](https://github.com/terryma/vim-expand-region) - Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.
-- [HiLanx/NeoSolarized](https://github.com/HiLanx/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
+- [Lanxox/NeoSolarized](https://github.com/Lanxox/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
 - [dbakker/vim-projectroot](https://github.com/dbakker/vim-projectroot) - Find out which project a file belongs to, easy to use in scripts/mappings
 - [fcpg/vim-spotlightify](https://github.com/fcpg/vim-spotlightify) - Highlighted search results, improved
