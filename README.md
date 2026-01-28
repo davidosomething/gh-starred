@@ -677,7 +677,7 @@
 - [usmanyunusov/nano-staged](https://github.com/usmanyunusov/nano-staged) - Tiny tool to run commands for modified, staged, and committed files in a GIT repository.
 - [bee-queue/bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust job/task queue for Node.js, backed by Redis.
 - [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
-- [NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects to make your code simpler, faster, and safer.
+- [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects to make your code simpler, faster, and safer.
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [croquet/croquet](https://github.com/croquet/croquet) - Client-side (!) Multiplayer for JavaScript
@@ -1596,6 +1596,7 @@
 
 ## Lua 
 
+- [wsdjeg/bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) - delete buffers without changing windows layout
 - [ph1losof/ecolog2.nvim](https://github.com/ph1losof/ecolog2.nvim) - Full rewrite ecolog.nvim. A modern LSP-powered Neovim plugin for seamless environment variable integration and management. Provides intelligent auto-completion, hover, go-to-definition, references, an
 - [ruicsh/tailwind-hover.nvim](https://github.com/ruicsh/tailwind-hover.nvim) - Shows consolidated Tailwind CSS styles applied to the element under the cursor.
 - [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) - A minimal calendar plugin for Neovim.
