@@ -4892,6 +4892,7 @@
 
 ## others 
 
+- [pruner-formatter/pruner](https://github.com/pruner-formatter/pruner) - A TreeSitter-powered formatter orchestrator
 - [wsdjeg/bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) - delete buffers without changing windows layout
 - [ph1losof/ecolog2.nvim](https://github.com/ph1losof/ecolog2.nvim) - Full rewrite ecolog.nvim. A modern LSP-powered Neovim plugin for seamless environment variable integration and management. Provides intelligent auto-completion, hover, go-to-definition, references, an
 - [ruicsh/tailwind-hover.nvim](https://github.com/ruicsh/tailwind-hover.nvim) - Shows consolidated Tailwind CSS styles applied to the element under the cursor.
