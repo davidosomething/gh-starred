@@ -427,7 +427,7 @@
 - [kwent/syno](https://github.com/kwent/syno) - Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x.
 - [mrusme/journalist](https://github.com/mrusme/journalist) - Journalist. An RSS aggregator.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations.
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - API access for agents & apps.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
@@ -2484,7 +2484,6 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
-- [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
