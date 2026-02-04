@@ -4015,6 +4015,7 @@
 
 ## neovim 
 
+- [oskarnurm/koda.nvim](https://github.com/oskarnurm/koda.nvim) - Code's quiet companion. A minimalist theme for Neovim, written in Lua.
 - [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) - A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
 - [JoshuaFurman/atlas.nvim](https://github.com/JoshuaFurman/atlas.nvim) - A lightweight Neovim plugin that displays a navigable Table of Contents for Markdown files in a floating window.
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
@@ -4413,7 +4414,7 @@
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap: netrW =&gt; netrL
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
 - [neovim/go-client](https://github.com/neovim/go-client) - Nvim Go client
-- [Lanxox/NeoSolarized](https://github.com/Lanxox/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
+- [lanx-x/NeoSolarized](https://github.com/lanx-x/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 - [cyansprite/Extract](https://github.com/cyansprite/Extract) - :ghost: Neovim yank ring plugin with completion for registers, ring, pinning, and replacing with register.
 - [Vimjas/covimerage](https://github.com/Vimjas/covimerage) - Generate coverage information for Vim scripts.
 - [rhysd/promised-neovim-client](https://github.com/rhysd/promised-neovim-client) - node.js neovim client for modern JavaScript programmers
@@ -4464,6 +4465,7 @@
 
 ## neovim-colorscheme 
 
+- [oskarnurm/koda.nvim](https://github.com/oskarnurm/koda.nvim) - Code's quiet companion. A minimalist theme for Neovim, written in Lua.
 - [datsfilipe/vesper.nvim](https://github.com/datsfilipe/vesper.nvim) - Port of Vesper theme from Visual Studio Code to Neovim.
 - [wnkz/monoglow.nvim](https://github.com/wnkz/monoglow.nvim) - 🎆 A dark, mostly monochrome colorscheme with a touch of glowing.
 - [thesimonho/kanagawa-paper.nvim](https://github.com/thesimonho/kanagawa-paper.nvim) - 🌊 Remixed Kanagawa colourschemes with muted colors. For Neovim.
@@ -8546,7 +8548,7 @@
 - [vim-jp/syntax-vim-ex](https://github.com/vim-jp/syntax-vim-ex) - An excellent Vim's syntax highlighting file for Vim script
 - [mhinz/dotfiles](https://github.com/mhinz/dotfiles) - :smiling_imp: Vim, git, zsh, tmux, and other goodies.
 - [itchyny/vim-parenmatch](https://github.com/itchyny/vim-parenmatch) - An efficient alternative to the standard matchparen plugin
-- [Lanxox/NeoSolarized](https://github.com/Lanxox/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
+- [lanx-x/NeoSolarized](https://github.com/lanx-x/NeoSolarized) - NeoSolarized: A fixed solarized colorscheme for better truecolor support.
 - [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
 - [fcpg/vim-spotlightify](https://github.com/fcpg/vim-spotlightify) - Highlighted search results, improved
 - [fcpg/vim-fahrenheit](https://github.com/fcpg/vim-fahrenheit) - Dark, warm base16 Vim theme for 256-color terminals
