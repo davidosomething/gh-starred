@@ -4897,6 +4897,7 @@
 
 ## others 
 
+- [komizoku/manga-repo](https://github.com/komizoku/manga-repo) - Extensions for Komikku / Mihon & forks.
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 - [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
 - [pruner-formatter/pruner](https://github.com/pruner-formatter/pruner) - A TreeSitter-powered formatter orchestrator
@@ -5359,7 +5360,7 @@
 - [jbyuki/contextmenu.nvim](https://github.com/jbyuki/contextmenu.nvim) - contextual menu for neovim plugins
 - [analgesicproductions/Anodyne-1-Repo](https://github.com/analgesicproductions/Anodyne-1-Repo) - Anodyne 1 Source Code
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
-- [xcodereleases/xcinfo](https://github.com/xcodereleases/xcinfo) - Install as many Xcodes at once as you can
+- [XcodeReleasesOrg/xcinfo](https://github.com/XcodeReleasesOrg/xcinfo) - Install as many Xcodes at once as you can
 - [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide) - Chrome Devtools Protocol rust API
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [tsroten/zhon](https://github.com/tsroten/zhon) - Constants used in Chinese text processing
