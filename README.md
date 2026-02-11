@@ -348,7 +348,7 @@
 
 ## Go 
 
-- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
+- [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [glanceapp/community-widgets](https://github.com/glanceapp/community-widgets) - A collection of custom widgets for Glance made by the community
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration.
@@ -508,7 +508,6 @@
 - [Songmu/crontabparser](https://github.com/Songmu/crontabparser) - utility to validate crontab and to create your own crond
 - [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [rhysd/go-github-selfupdate](https://github.com/rhysd/go-github-selfupdate) - Binary self-update mechanism for Go commands using GitHub
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
@@ -572,7 +571,7 @@
 
 - [komizoku/manga-repo](https://github.com/komizoku/manga-repo) - Extensions for Komikku / Mihon & forks.
 - [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font.
-- [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO.
+- [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django PWA web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [weiweihuanghuang/fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
@@ -717,7 +716,7 @@
 - [go-shiori/shiori-web-ext](https://github.com/go-shiori/shiori-web-ext) - Web extension for using Shiori in Firefox and Chrome
 - [jeansaad/chalet](https://github.com/jeansaad/chalet) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [jessetane/queue](https://github.com/jessetane/queue) - Asynchronous function queue with adjustable concurrency
-- [fengzilong/eslint-formatter-mo](https://github.com/fengzilong/eslint-formatter-mo) - Good-lookin' ESLint formatter for delightful readability
+- [nanokind/eslint-formatter-mo](https://github.com/nanokind/eslint-formatter-mo) - Good-lookin' ESLint formatter for delightful readability
 - [Jaid/action-sync-node-meta](https://github.com/Jaid/action-sync-node-meta) - GitHub Action that syncs package.json with the repository metadata.
 - [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
 - [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
@@ -2535,6 +2534,7 @@
 - [firstlookmedia/gpgsync](https://github.com/firstlookmedia/gpgsync) - :lock: GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
 - [jwiegley/scripts](https://github.com/jwiegley/scripts) - Various and sundry shell scripts used on my system
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [mooz/xkeysnail](https://github.com/mooz/xkeysnail) - Yet another keyboard remapping tool for X environment
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [mechatroner/rainbow_csv](https://github.com/mechatroner/rainbow_csv) - 🌈Rainbow CSV - Vim plugin: Highlight columns in CSV and TSV files and run queries in SQL-like language
@@ -3094,6 +3094,7 @@
 
 ## TypeScript 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [databuddy-analytics/better-ratelimit](https://github.com/databuddy-analytics/better-ratelimit) - 
