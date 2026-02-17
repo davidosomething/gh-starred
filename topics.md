@@ -2839,7 +2839,7 @@
 
 - [picardjs/picard](https://github.com/picardjs/picard) - 🖖 👩🏽‍🚀 Expanding the Frontier of Micro Frontends. ⭐️ Star to support our work!
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications.
-- [techwithmanuel/react-query-key-manager](https://github.com/techwithmanuel/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
+- [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [7PH/react-powerglitch](https://github.com/7PH/react-powerglitch) - Tiny React library to glitch anything on the web
@@ -3882,7 +3882,7 @@
 - [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
 - [bevacqua/insane](https://github.com/bevacqua/insane) - :pouting_cat: Lean and configurable whitelist-oriented HTML sanitizer
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
-- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Rich markdown live preview app with linter
+- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Simple, performant, and keyboard-centric markdown live preview app
 - [remarkjs/remark-github](https://github.com/remarkjs/remark-github) - remark plugin to link references to commits, issues, pull-requests, and users, like on GitHub
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -6866,7 +6866,7 @@
 - [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects to make your code simpler, faster, and safer.
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Collection of awesome react hooks
-- [techwithmanuel/react-query-key-manager](https://github.com/techwithmanuel/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
+- [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [lukasbach/headless-tree](https://github.com/lukasbach/headless-tree) - The definitive tree component for the Web
 - [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.
@@ -7211,7 +7211,7 @@
 - [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects to make your code simpler, faster, and safer.
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Collection of awesome react hooks
-- [techwithmanuel/react-query-key-manager](https://github.com/techwithmanuel/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
+- [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [7PH/react-powerglitch](https://github.com/7PH/react-powerglitch) - Tiny React library to glitch anything on the web
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
@@ -8082,7 +8082,7 @@
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Collection of awesome react hooks
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications.
-- [techwithmanuel/react-query-key-manager](https://github.com/techwithmanuel/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
+- [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
