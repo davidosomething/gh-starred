@@ -4902,7 +4902,7 @@
 
 ## others 
 
-- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
+- [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
 - [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Self-hosted platform for managing containers, stacks, security scanning, monitoring, reverse proxy, and multi-node deployments — all from a single, modern interface. A single Go binary with no runtime
 - [schelskedevco/ignidash](https://github.com/schelskedevco/ignidash) - An open-source, AI-powered alternative to ProjectionLab for planning your long-term personal finances.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
@@ -6854,6 +6854,8 @@
 
 ## react 
 
+- [suhaotian/use-next-tick](https://github.com/suhaotian/use-next-tick) - A React hook for Running callbacks after the DOM or native views have updated.
+- [suhaotian/broad-infinite-list](https://github.com/suhaotian/broad-infinite-list) - A high-performance, bidirectional infinite list for React/Vue/Expo. Use case: smoothly chat history, news feed updates, or stream logs in both directions without layout shifts. Best for large scroll l
 - [adobe/react-spectrum-charts](https://github.com/adobe/react-spectrum-charts) - Build compelling visualizations using declarative react components.
 - [toss/suspensive](https://github.com/toss/suspensive) - All in one for React Suspense
 - [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
@@ -7177,6 +7179,7 @@
 
 ## react-native 
 
+- [suhaotian/broad-infinite-list](https://github.com/suhaotian/broad-infinite-list) - A high-performance, bidirectional infinite list for React/Vue/Expo. Use case: smoothly chat history, news feed updates, or stream logs in both directions without layout shifts. Best for large scroll l
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
