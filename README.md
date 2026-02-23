@@ -3348,7 +3348,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
-- [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff provides a rich and readable diff for both arrays and objects. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer 
+- [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff provides a rich and readable diff for arrays, objects, texts and coordinates. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependenc
 - [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) - 
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
