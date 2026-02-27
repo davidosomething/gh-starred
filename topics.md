@@ -4926,7 +4926,7 @@
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [komizoku/manga-repo](https://github.com/komizoku/manga-repo) - Extensions for Komikku / Mihon & forks.
 - [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
-- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwm but wayland)
+- [DreamMaoMao/mangowc](https://github.com/DreamMaoMao/mangowc) - Practical and Powerful wayland compositor (dwm but wayland)
 - [pruner-formatter/pruner](https://github.com/pruner-formatter/pruner) - A TreeSitter-powered formatter orchestrator
 - [wsdjeg/bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) - delete buffers without changing windows layout
 - [ph1losof/ecolog2.nvim](https://github.com/ph1losof/ecolog2.nvim) - A modern LSP-powered Neovim plugin for seamless environment variable integration and management. Provides intelligent auto-completion, hover, go-to-definition, references, and diagnostics for environm
@@ -6876,7 +6876,7 @@
 - [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Let coding agents diagnose and fix your React code
 - [suhaotian/use-next-tick](https://github.com/suhaotian/use-next-tick) - A React hook for Running callbacks after the DOM or native views have updated.
-- [suhaotian/broad-infinite-list](https://github.com/suhaotian/broad-infinite-list) - A high-performance, bidirectional infinite component for large list rendering, support React/Vue/Expo. Use case: smoothly chat history, news feed updates, or stream logs in both directions without lay
+- [suhaotian/broad-infinite-list](https://github.com/suhaotian/broad-infinite-list) - A high-performance, bidirectional infinite scroll list component for large list rendering, support React/Vue/Expo. Use case: smoothly chat history, news feed updates, or stream logs in both directions
 - [adobe/react-spectrum-charts](https://github.com/adobe/react-spectrum-charts) - Build compelling visualizations using declarative react components.
 - [toss/suspensive](https://github.com/toss/suspensive) - All in one for React Suspense
 - [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
@@ -7200,7 +7200,7 @@
 
 ## react-native 
 
-- [suhaotian/broad-infinite-list](https://github.com/suhaotian/broad-infinite-list) - A high-performance, bidirectional infinite component for large list rendering, support React/Vue/Expo. Use case: smoothly chat history, news feed updates, or stream logs in both directions without lay
+- [suhaotian/broad-infinite-list](https://github.com/suhaotian/broad-infinite-list) - A high-performance, bidirectional infinite scroll list component for large list rendering, support React/Vue/Expo. Use case: smoothly chat history, news feed updates, or stream logs in both directions
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [houseform/houseform](https://github.com/houseform/houseform) - Simple to use React forms, where your validation and UI code live together in harmony.
