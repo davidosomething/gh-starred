@@ -2259,7 +2259,7 @@
 ## golang 
 
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [ikemen-engine/Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control
@@ -6499,7 +6499,7 @@
 - [lalitkapoor/github-changes](https://github.com/lalitkapoor/github-changes) - Generate a changelog based on merged pull requests or commit messages
 - [NickRaven/seaforium](https://github.com/NickRaven/seaforium) - YayHooray!!! clone
 - [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types.
-- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
+- [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [svermeulen/vim-easyclip](https://github.com/svermeulen/vim-easyclip) - Simplified clipboard functionality for Vim
 - [mattn/excelview-vim](https://github.com/mattn/excelview-vim) - 
 - [d3plus/d3plus](https://github.com/d3plus/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
