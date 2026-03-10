@@ -536,7 +536,7 @@
 - [mattn/files](https://github.com/mattn/files) - Fast file find
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
 - [alecthomas/kingpin](https://github.com/alecthomas/kingpin) - CONTRIBUTIONS ONLY: A Go (golang) command line and flag parser
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [babarot/gomi](https://github.com/babarot/gomi) - 🗑️ Your UNIX rm command with a safety net!
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
@@ -795,7 +795,7 @@
 - [jcubic/sysend](https://github.com/jcubic/sysend) - Web application synchronization between different tabs
 - [Secretmapper/react-image-annotation](https://github.com/Secretmapper/react-image-annotation) - An infinitely customizable image annotation library built on React
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm, mdx) compliant markdown parser
-- [Fdawgs/node-poppler](https://github.com/Fdawgs/node-poppler) - Asynchronous Node.js wrapper for the Poppler PDF rendering library
+- [Fdawgs/node-poppler](https://github.com/Fdawgs/node-poppler) - Asynchronous Node.js wrapper for the Poppler PDF rendering utilities
 - [trentm/node-dashdash](https://github.com/trentm/node-dashdash) - A light, featureful and explicit option parsing library for node.js.
 - [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select) - Lightweight, accessible, customizable and fast Dropdown Tree Select component for React
 - [ntfstool/ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
