@@ -3702,7 +3702,7 @@
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
-- [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead
+- [dchinmay2/nvim-ts-rainbow](https://github.com/dchinmay2/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) - A dark neovim colorscheme written in lua
 - [numToStr/BufOnly.nvim](https://github.com/numToStr/BufOnly.nvim) - Lua/Neovim port of BufOnly.vim with some changes
@@ -4350,7 +4350,7 @@
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
-- [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead
+- [dchinmay2/nvim-ts-rainbow](https://github.com/dchinmay2/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) - A dark neovim colorscheme written in lua
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
@@ -4900,7 +4900,6 @@
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) - Generate and edit text in Neovim using OpenAI and GPT.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -4930,7 +4929,7 @@
 - [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats.
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
 - [gregberge/react-merge-refs](https://github.com/gregberge/react-merge-refs) - React utility to merge refs 🖇
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents.
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [coletrammer/seamless-navigation.nvim](https://github.com/coletrammer/seamless-navigation.nvim) - Neovim plugin which implements the seamless navigation protocol (OSC 8671)
 - [saghen/frizbee](https://github.com/saghen/frizbee) - Fast typo-resistant fuzzy matching via SIMD smith waterman, similar algorithm to FZF/FZY
 - [schelskedevco/ignidash](https://github.com/schelskedevco/ignidash) - An open-source, AI-powered alternative to ProjectionLab for planning your long-term personal finances.
