@@ -2413,7 +2413,7 @@
 - [smxi/inxi](https://github.com/smxi/inxi) - inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and does its best to support the BSDs.
 - [SSNikolaevich/DejaVuSansCode](https://github.com/SSNikolaevich/DejaVuSansCode) - Monospaced font with programming ligatures based on DejaVu Sans Mono
 - [dolmen/github-keygen](https://github.com/dolmen/github-keygen) - Easy creation and upgrade of secure SSH configuration for your GitHub account(s)
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 - [LuRsT/vspark](https://github.com/LuRsT/vspark) - :bar_chart: Like spark, but vertical
 - [dolmen/angel-PS1](https://github.com/dolmen/angel-PS1) - Your fancy shell prompt fed by your guardian angel
@@ -3121,7 +3121,7 @@
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [mmkal/eslint-plugin-codegen](https://github.com/mmkal/eslint-plugin-codegen) - An eslint plugin for inline codegen. Auto-fixes out of sync code, with presets for barrels, jsdoc to markdown and more.
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
-- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [mutativejs/zustand-travel](https://github.com/mutativejs/zustand-travel) - A powerful and high-performance undo/redo middleware for Zustand with Travels
 - [radashi-org/radashi](https://github.com/radashi-org/radashi) - The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.
 - [toss/suspensive](https://github.com/toss/suspensive) - All in one for React Suspense
@@ -3596,7 +3596,7 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
+- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
 - [bevry/hooks](https://github.com/bevry/hooks) - Aggregation of react hooks that we use. Such as useInterval and useMetaKey.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [linkedin/eyeglass](https://github.com/linkedin/eyeglass) - NPM Modules for Sass
