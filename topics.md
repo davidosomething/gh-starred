@@ -324,6 +324,7 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
+- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
@@ -1363,7 +1364,7 @@
 - [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
+- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
 - [chunqiuyiyu/ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -2127,7 +2128,7 @@
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [karan/joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
@@ -2653,7 +2654,7 @@
 - [pfefferle/openwebicons](https://github.com/pfefferle/openwebicons) - A font!
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
 - [pgilad/leasot](https://github.com/pgilad/leasot) - Parse and output TODOs and FIXMEs from comments in your files
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [phpenv/phpenv](https://github.com/phpenv/phpenv) - Simple PHP version management
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -7093,7 +7094,7 @@
 - [frontarm/navi](https://github.com/frontarm/navi) - 🧭 Declarative, asynchronous routing for React.
 - [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
+- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
 - [diogomoretti/react-snakke](https://github.com/diogomoretti/react-snakke) - 🐍 Reading position indicator for React
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
 - [rehooks/component-size](https://github.com/rehooks/component-size) - React hook for determining the size of a component
@@ -7477,7 +7478,7 @@
 ## security 
 
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
-- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
@@ -8757,7 +8758,7 @@
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization framework combining React & D3
+- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
 - [shzlw/zeu](https://github.com/shzlw/zeu) - A JavaScript library for real-time visualization
 - [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
