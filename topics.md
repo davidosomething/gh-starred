@@ -302,6 +302,7 @@
 ## agent 
 
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -5307,7 +5308,6 @@
 - [crimx/observable-hooks](https://github.com/crimx/observable-hooks) - ⚛️☯️💪 React hooks for RxJS Observables. Concurrent mode safe.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
-- [ojroques/nvim-osc52](https://github.com/ojroques/nvim-osc52) - A Neovim plugin to copy text through SSH with OSC52
 - [ldelossa/buffertag](https://github.com/ldelossa/buffertag) - 
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [mvisonneau/docker-tailscale](https://github.com/mvisonneau/docker-tailscale) - Run a Tailscale agent/relay in a container
@@ -5833,7 +5833,7 @@
 - [planttheidea/hash-it](https://github.com/planttheidea/hash-it) - Hash any object type based on its values
 - [mafintosh/wifictl](https://github.com/mafintosh/wifictl) - Command line tool to configure wifi using wpa_supplicant
 - [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
+- [vale-cli/vale](https://github.com/vale-cli/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [rainglow/vim](https://github.com/rainglow/vim) - 320+ color themes for VIM.
 - [rainglow/iterm](https://github.com/rainglow/iterm) - 320+ color themes for iTerm2.
