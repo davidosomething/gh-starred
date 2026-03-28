@@ -2828,7 +2828,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [euclio/vim-markdown-composer](https://github.com/euclio/vim-markdown-composer) - An asynchronous markdown preview plugin for Vim and Neovim.
-- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Simple, performant, and keyboard-centric markdown live preview app
+- [rhysd/Shiba](https://github.com/rhysd/Shiba) - Simple, performant, and keyboard-centric markdown browser
 - [tailhook/vagga](https://github.com/tailhook/vagga) - Vagga is a containerization tool without daemons
 
 ## SCSS 
@@ -3646,7 +3646,7 @@
 - [rcjsuen/dockerfile-language-service](https://github.com/rcjsuen/dockerfile-language-service) - Dockerfile language service for providing an API to create feature-rich Dockerfile editors in JavaScript.
 - [argos-ci/jest-puppeteer](https://github.com/argos-ci/jest-puppeteer) - Run tests using Jest & Puppeteer 🎪✨
 - [vv-vim/vv](https://github.com/vv-vim/vv) - Neovim client for macOS
-- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
