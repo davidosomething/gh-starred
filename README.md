@@ -3125,7 +3125,7 @@
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - AI-safe .env files: Schemas for agents, Secrets for humans.
 - [mutativejs/zustand-travel](https://github.com/mutativejs/zustand-travel) - A powerful and high-performance undo/redo middleware for Zustand with Travels
 - [radashi-org/radashi](https://github.com/radashi-org/radashi) - The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.
-- [toss/suspensive](https://github.com/toss/suspensive) - All in one for React Suspense
+- [toss/suspensive](https://github.com/toss/suspensive) - All-in-one for React Suspense — ErrorBoundary with shouldCatch, SSR-safe Suspense, Delay, and more
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [mutativejs/zustand-mutative](https://github.com/mutativejs/zustand-mutative) - A Mutative middleware for Zustand enhances the efficiency of immutable state updates.
