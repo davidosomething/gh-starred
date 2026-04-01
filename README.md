@@ -165,7 +165,6 @@
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
-- [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [arcanericky/ga-cmd](https://github.com/arcanericky/ga-cmd) - Command line access to Google Authenticator and other TOTP verification codes
 - [mjolnirapp/mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X
 
@@ -1603,6 +1602,7 @@
 
 ## Lua 
 
+- [willyelm/pulse.nvim](https://github.com/willyelm/pulse.nvim) - A single command palette with prefix based pickers for Neovim
 - [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats.
 - [coletrammer/seamless-navigation.nvim](https://github.com/coletrammer/seamless-navigation.nvim) - Neovim plugin which implements the seamless navigation protocol (OSC 8671)
 - [ktrysmt/memd.nvim](https://github.com/ktrysmt/memd.nvim) - 
@@ -2120,7 +2120,6 @@
 
 ## Makefile 
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [dilshan/usb2-power-hub](https://github.com/dilshan/usb2-power-hub) - 4-Port High Power USB 2.0 Hub
 - [maniart/diffyjs](https://github.com/maniart/diffyjs) - A dependency-free motion detection library for the browser
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
@@ -2230,6 +2229,7 @@
 - [danklammer/bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)
 - [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
 - [gaul/awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [simevidas/web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of over 1000 RSS feeds for web developers, updated monthly
 - [littlegtplr/Hackintosh-Clover-folder-for-Coffee-Lake-builds](https://github.com/littlegtplr/Hackintosh-Clover-folder-for-Coffee-Lake-builds) - Hackintosh Clover folder for Coffee Lake builds
 - [liyanchang/yubikey-setup](https://github.com/liyanchang/yubikey-setup) - How to set up your yubikey
@@ -3597,7 +3597,7 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [rumble-charts/rumble-charts](https://github.com/rumble-charts/rumble-charts) - React components for building composable and flexible charts
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
-- [nteract/semiotic](https://github.com/nteract/semiotic) - A data visualization for AI and Streaming
+- [nteract/semiotic](https://github.com/nteract/semiotic) - React data visualization library for streaming, networks, and AI-assisted development
 - [bevry/hooks](https://github.com/bevry/hooks) - Aggregation of react hooks that we use. Such as useInterval and useMetaKey.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [linkedin/eyeglass](https://github.com/linkedin/eyeglass) - NPM Modules for Sass
