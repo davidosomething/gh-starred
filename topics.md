@@ -2491,7 +2491,7 @@
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [tamton-aquib/flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) - A neovim plugin to work with floating windows.
 - [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) - 🍒 YAML toolkit for Neovim users
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
@@ -2933,7 +2933,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
-- [TheodoreChu/append-editor](https://github.com/TheodoreChu/append-editor) - Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco | https://appendeditor.com
+- [theodorechu/append-editor](https://github.com/theodorechu/append-editor) - Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco | https://appendeditor.com
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
@@ -3636,7 +3636,7 @@
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - Visual Studio Code inspired breadcrumbs plugin for the Neovim editor
 - [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - :bookmark_tabs: Delete multiple vim buffers based on different conditions
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [ya2s/nvim-cursorline](https://github.com/ya2s/nvim-cursorline) - A plugin for neovim that highlights cursor words and lines
@@ -4240,7 +4240,7 @@
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [amrbashir/nvim-docs-view](https://github.com/amrbashir/nvim-docs-view) - A neovim plugin to display lsp hover documentation in a side panel.
 - [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) - ✍️ All the npm/yarn/pnpm commands I don't want to type
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) - :bookmark_tabs: Delete multiple vim buffers based on different conditions
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
@@ -4523,7 +4523,7 @@
 - [savq/melange-nvim](https://github.com/savq/melange-nvim) - 🗡️ Warm color scheme for Neovim and beyond
 - [ramojus/mellifluous.nvim](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme for Neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [gbprod/nord.nvim](https://github.com/gbprod/nord.nvim) - An arctic, north-bluish clean and elegant Neovim theme.
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
@@ -8225,7 +8225,7 @@
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
-- [TheodoreChu/append-editor](https://github.com/TheodoreChu/append-editor) - Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco | https://appendeditor.com
+- [theodorechu/append-editor](https://github.com/theodorechu/append-editor) - Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco | https://appendeditor.com
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [rikukissa/typehole](https://github.com/rikukissa/typehole) - TypeScript development tool for Visual Studio Code that helps you automate creating the initial static typing for runtime values
@@ -8431,7 +8431,7 @@
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
 - [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) - ✍️ All the npm/yarn/pnpm commands I don't want to type
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [lukas-reineke/lsp-format.nvim](https://github.com/lukas-reineke/lsp-format.nvim) - A wrapper around Neovims native LSP formatting.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [princejoogie/tailwind-highlight.nvim](https://github.com/princejoogie/tailwind-highlight.nvim) - Highlight Tailwind CSS classes in neovim
