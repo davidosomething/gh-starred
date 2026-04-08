@@ -1602,6 +1602,7 @@
 
 ## Lua 
 
+- [desdic/simple-treesitter.nvim](https://github.com/desdic/simple-treesitter.nvim) - Simple installer for treesitter parsers for neovim
 - [willyelm/pulse.nvim](https://github.com/willyelm/pulse.nvim) - A single command palette with prefix based pickers for Neovim
 - [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats.
 - [coletrammer/seamless-navigation.nvim](https://github.com/coletrammer/seamless-navigation.nvim) - Neovim plugin which implements the seamless navigation protocol (OSC 8671)
@@ -3097,6 +3098,7 @@
 
 ## Tree-sitter Query 
 
+- [wsdjeg/treesitter.nvim](https://github.com/wsdjeg/treesitter.nvim) - 
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
