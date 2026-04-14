@@ -1919,7 +1919,7 @@
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
-- [javiorfo/nvim-nyctophilia](https://github.com/javiorfo/nvim-nyctophilia) - A set of Neovim colorschemes for nightlovers
+- [javiorfo/nvim-nyctophilia](https://github.com/javiorfo/nvim-nyctophilia) - MIGRATED TO https://codeberg.org/caskstrength/nvim-nyctophilia
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
@@ -3112,7 +3112,7 @@
 - [suhaotian/broad-infinite-list](https://github.com/suhaotian/broad-infinite-list) - A high-performance, bidirectional infinite scroll list component for large list rendering, support React/Vue/Expo. Use case: smoothly chat history, news feed updates, or stream logs in both directions
 - [schelskedevco/ignidash](https://github.com/schelskedevco/ignidash) - An open-source, AI-powered alternative to ProjectionLab for planning your long-term personal finances.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [databuddy-analytics/better-ratelimit](https://github.com/databuddy-analytics/better-ratelimit) - 
@@ -3872,7 +3872,7 @@
 - [jxnblk/vim-mdx-js](https://github.com/jxnblk/vim-mdx-js) - 
 - [dylanaraps/fff.vim](https://github.com/dylanaraps/fff.vim) - A plugin for vim/neovim which allows you to use fff as a file opener.
 - [tsukkee/vim-cdp-client](https://github.com/tsukkee/vim-cdp-client) - 100% Pure Vim Script implementation of Chrome Debugger Protocol client
-- [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
+- [z4p5a9/blamer.nvim](https://github.com/z4p5a9/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
 - [asgerviggo/nvim-blame-line](https://github.com/asgerviggo/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 - [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [romgrk/winteract.vim](https://github.com/romgrk/winteract.vim) - Interactive window mode
