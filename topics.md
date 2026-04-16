@@ -1823,7 +1823,7 @@
 
 - [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - ☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
-- [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects for simpler, faster, and safer code.
+- [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects for simpler, faster, safer code.
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [esmuellert/nvim-eslint](https://github.com/esmuellert/nvim-eslint) - An ESLint plugin for Neovim, using VSCode ESLint LSP and native nvim LSP client
 - [vitonsky/eslint-plugin-paths](https://github.com/vitonsky/eslint-plugin-paths) - A plugin for ESLint, to force use paths aliases from tsconfig
@@ -4587,7 +4587,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [egoist/mordred](https://github.com/egoist/mordred) - [Experimental] Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
@@ -4915,7 +4915,7 @@
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is an open source React library that generates custom, SVG-based avatars from any username and color palette.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [open-source-labs/Spearmint](https://github.com/open-source-labs/Spearmint) - Testing, simplified. || An inclusive, accessibility-first GUI for generating clean, semantic Javascript tests in only a few clicks of a button.
@@ -6686,7 +6686,7 @@
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [mrusme/journalist](https://github.com/mrusme/journalist) - Journalist. An RSS aggregator.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -6930,7 +6930,7 @@
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [sakthilkv/react-horizontal-heatmap](https://github.com/sakthilkv/react-horizontal-heatmap) - A lightweight React component for rendering a horizontal heatmap. Perfect for timelines, activity charts, or health status indicators. Fully customizable colors, box size, and spacing.
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
-- [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects for simpler, faster, and safer code.
+- [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects for simpler, faster, safer code.
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
@@ -7277,7 +7277,7 @@
 
 ## reactjs 
 
-- [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects for simpler, faster, and safer code.
+- [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects for simpler, faster, safer code.
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
@@ -7926,7 +7926,7 @@
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [mrshmllow/document-color.nvim](https://github.com/mrshmllow/document-color.nvim) - 🌈 LSP-based colorizer for neovim
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit with accessible components, styles, and examples for your next web app
 
 ## telegram 
@@ -8253,7 +8253,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [rikukissa/typehole](https://github.com/rikukissa/typehole) - TypeScript development tool for Visual Studio Code that helps you automate creating the initial static typing for runtime values
 - [williamngan/pts](https://github.com/williamngan/pts) - A library for visualization and creative-coding
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [coralproject/talk](https://github.com/coralproject/talk) - A better commenting experience from Vox Media
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [polyforest/jsdoc-tsimport-plugin](https://github.com/polyforest/jsdoc-tsimport-plugin) - A JSDoc plugin to support the typescript module import syntax.
