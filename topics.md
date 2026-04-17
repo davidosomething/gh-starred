@@ -122,6 +122,7 @@
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [gui](#gui)
+- [hack](#hack)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tools](#hacking-tools)
@@ -2441,6 +2442,11 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [aarzilli/gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve
+
+## hack 
+
+- [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
+- [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 
 ## hackathon 
 
@@ -5038,7 +5044,6 @@
 - [croquet/croquet](https://github.com/croquet/croquet) - Client-side (!) Multiplayer for JavaScript
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
-- [luciodale/react-searchable-dropdown](https://github.com/luciodale/react-searchable-dropdown) - single and multi selection, virtualized, new option creation, search, and more
 - [afonsofrancof/OSC11.nvim](https://github.com/afonsofrancof/OSC11.nvim) - A tiny Neovim plugin for automatic terminal theme synchronization via OSC 11.
 - [thelastbackspace/traceperf](https://github.com/thelastbackspace/traceperf) - TracePerf: Advanced console logging & performance tracking for Node.js. Visualize execution flows with ASCII art, detect bottlenecks, and get optimization suggestions. Features structured logs, condit
 - [webhooked/kanso.nvim](https://github.com/webhooked/kanso.nvim) - 
@@ -6936,6 +6941,7 @@
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [lukasbach/headless-tree](https://github.com/lukasbach/headless-tree) - The definitive tree component for the Web
+- [luciodale/react-searchable-dropdown](https://github.com/luciodale/react-searchable-dropdown) - High performance virtualized React dropdown and combobox. Single and multi selection, async search, custom rendering, create new options, and, fully accessible.
 - [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [7PH/react-powerglitch](https://github.com/7PH/react-powerglitch) - Tiny React library to glitch anything on the web
@@ -8158,6 +8164,7 @@
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
+- [luciodale/react-searchable-dropdown](https://github.com/luciodale/react-searchable-dropdown) - High performance virtualized React dropdown and combobox. Single and multi selection, async search, custom rendering, create new options, and, fully accessible.
 - [vcms-io/solidis](https://github.com/vcms-io/solidis) - High-performance, SOLID-structured RESP client for Redis and other RESP-compatible servers
 - [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay) - 🦖 A JavaScript/TypeScript Game Library that feels like a game.
 - [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
