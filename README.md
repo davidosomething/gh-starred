@@ -357,6 +357,7 @@
 - [sjtug/cerberus](https://github.com/sjtug/cerberus) - A Caddy module that blocks unwanted requests using a sha256 PoW challenge
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
+- [IDisposable/docker-wyze-bridge](https://github.com/IDisposable/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [docker/docker-language-server](https://github.com/docker/docker-language-server) - Language server for Dockerfiles, Compose files, and Bake files
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
@@ -1919,7 +1920,6 @@
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
-- [javiorfo/nvim-nyctophilia](https://github.com/javiorfo/nvim-nyctophilia) - MIGRATED TO https://codeberg.org/caskstrength/nvim-nyctophilia
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) - A Lua rewrite of vim-lastplace
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
@@ -2429,7 +2429,6 @@
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
-- [IDisposable/docker-wyze-bridge](https://github.com/IDisposable/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 - [IDmedia/hass-unraid](https://github.com/IDmedia/hass-unraid) - This Docker container parses and forwards all WebSocket messages from your Unraid server to Home Assistant using the MQTT protocol
 - [ruaan-deysel/ha-unraid](https://github.com/ruaan-deysel/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
