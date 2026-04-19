@@ -3111,7 +3111,7 @@
 - [suhaotian/broad-infinite-list](https://github.com/suhaotian/broad-infinite-list) - A high-performance, bidirectional infinite scroll list component for large list rendering, support React/Vue/Expo. Use case: smoothly chat history, news feed updates, or stream logs in both directions
 - [schelskedevco/ignidash](https://github.com/schelskedevco/ignidash) - An open-source, AI-powered alternative to ProjectionLab for planning your long-term personal finances.
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [databuddy-analytics/better-ratelimit](https://github.com/databuddy-analytics/better-ratelimit) - 
