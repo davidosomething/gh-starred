@@ -2281,7 +2281,6 @@
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
-- [RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) - Everything awesome related to npm scripts and using npm as a build tool.
 - [miguelmota/awesome-amazon-alexa](https://github.com/miguelmota/awesome-amazon-alexa) - 🗣Curated list of awesome resources for the Amazon Alexa platform.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [nikgraf/awesome-draft-js](https://github.com/nikgraf/awesome-draft-js) - Awesome list of Draft.js resources
@@ -2305,7 +2304,6 @@
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
 - [luruke/awesome-casestudy](https://github.com/luruke/awesome-casestudy) - 📕  Curated list of technical case studies on WebGL and creative development
 - [mhartington/oceanic-next-iterm](https://github.com/mhartington/oceanic-next-iterm) - iterm port of https://github.com/voronianski/oceanic-next-theme/
-- [rishirdua/awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters) - A curated list of awesome code formatting tools and libraries
 - [sturobson/BEM-resources](https://github.com/sturobson/BEM-resources) - Just a repo full of BEM resources
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
