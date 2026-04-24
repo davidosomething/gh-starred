@@ -1586,6 +1586,7 @@
 
 ## Kotlin 
 
+- [coredevices/mobileapp](https://github.com/coredevices/mobileapp) - 
 - [yuzono/tachiyomi-extensions](https://github.com/yuzono/tachiyomi-extensions) - Source code of extensions for Komikku / Mihon & forks.
 - [Suwayomi/tachiyomi-extension](https://github.com/Suwayomi/tachiyomi-extension) - Suwayomi Extension for Tachiyomi and variants
 - [keiyoushi/extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of extensions in https://github.com/keiyoushi/extensions
@@ -2352,7 +2353,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [joeyd/iOS-Simulator](https://github.com/joeyd/iOS-Simulator) - Allows you to open Xcode's iPhone simulator and launch Safari. Optionally specify URL.
 - [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
-- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
@@ -2422,6 +2423,7 @@
 
 ## Python 
 
+- [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) - MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
 - [eyeblech/cinecli](https://github.com/eyeblech/cinecli) - CineCLI is a cross-platform command-line movie browser built with Python.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
@@ -2490,7 +2492,7 @@
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+- [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
 - [tsroten/zhon](https://github.com/tsroten/zhon) - Constants used in Chinese text processing
 - [popey/sosumi-snap](https://github.com/popey/sosumi-snap) - 
@@ -3103,6 +3105,7 @@
 
 ## TypeScript 
 
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - 
 - [gregberge/react-merge-refs](https://github.com/gregberge/react-merge-refs) - React utility to merge refs 🖇
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
