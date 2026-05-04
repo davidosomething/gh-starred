@@ -880,7 +880,6 @@
 - [segmentio/daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
 - [alibaba/anyproxy](https://github.com/alibaba/anyproxy) - A fully configurable http/https proxy in NodeJS
 - [dsternlicht/react-dynamic-charts](https://github.com/dsternlicht/react-dynamic-charts) - A React library for creating animated charts visualizations based on dynamic data.
-- [reg-viz/reg-cli](https://github.com/reg-viz/reg-cli) - 📷  Visual regression test tool.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [Vincit/objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
 - [Metroxe/react-border-wrapper](https://github.com/Metroxe/react-border-wrapper) - A wrapper for placing elements along div borders.
@@ -2240,7 +2239,7 @@
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [dmleong/manager-resources](https://github.com/dmleong/manager-resources) - Engineering manager resources
 - [mcchrish/vim-no-color-collections](https://github.com/mcchrish/vim-no-color-collections) - Collection of Vim themes with barely any colors
-- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 - [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [glauberfc/awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) - A curated list about React Hooks
 - [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
@@ -2325,7 +2324,7 @@
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [meteormanaged/neko-atsume-slack-emojis](https://github.com/meteormanaged/neko-atsume-slack-emojis) - Neko Atsume Slack Emojis
 - [uhub/awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -2795,6 +2794,7 @@
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
+- [reg-viz/reg-cli](https://github.com/reg-viz/reg-cli) - 📷  Visual regression test tool.
 - [ivanceras/sauron-native](https://github.com/ivanceras/sauron-native) - Truly cross platform, truly native. multiple backend GUI for rust
 - [wincent/docvim](https://github.com/wincent/docvim) - Documentation generator for Neovim plug-ins
 - [stepchowfun/toast](https://github.com/stepchowfun/toast) - Containerize your development and continuous integration environments. 🥂
@@ -3348,7 +3348,7 @@
 - [code-hike/bright](https://github.com/code-hike/bright) - React Server Component for syntax highlighting
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [chay-xu/load-balancers](https://github.com/chay-xu/load-balancers) - Load balancing algorithms using Node.js
-- [TooTallNate/plist.js](https://github.com/TooTallNate/plist.js) - Mac OS X Plist parser/builder for Node.js and browsers
+- [TooTallNate/plist.js](https://github.com/TooTallNate/plist.js) - Apple property list parser/builder for Node.js and browsers — supports XML, binary (bplist), and OpenStep formats
 - [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
