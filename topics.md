@@ -6901,7 +6901,7 @@
 - [suhaotian/use-next-tick](https://github.com/suhaotian/use-next-tick) - A React hook for Running callbacks after the DOM or native views have updated.
 - [suhaotian/broad-infinite-list](https://github.com/suhaotian/broad-infinite-list) - A high-performance, bidirectional infinite scroll list component for large list rendering, support React/Vue/Expo. Use case: smoothly chat history, news feed updates, or stream logs in both directions
 - [adobe/react-spectrum-charts](https://github.com/adobe/react-spectrum-charts) - Build compelling visualizations using declarative react components.
-- [toss/suspensive](https://github.com/toss/suspensive) - All-in-one for React Suspense — ErrorBoundary with shouldCatch, SSR-safe Suspense, Delay, and more
+- [toss/suspensive](https://github.com/toss/suspensive) - All-in-one for React Suspense — ErrorBoundary with shouldCatch, clientOnly to skip SSR for a boundary, Delay, and more
 - [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [keenthemes/reui](https://github.com/keenthemes/reui) - Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!
