@@ -756,7 +756,6 @@
 - [theodorechu/append-editor](https://github.com/theodorechu/append-editor) - Append to your notes @StandardNotes with GitHub Flavored Markdown via CodeMirror, Rich Markdown, and Monaco
 - [flavioschneider/graphire](https://github.com/flavioschneider/graphire) - An unopinionated react graph visualization library.
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
-- [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the view
@@ -2664,7 +2663,7 @@
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [amethyst/bracket-lib](https://github.com/amethyst/bracket-lib) - The Roguelike Toolkit (RLTK), implemented for Rust.
 - [tomassedovic/roguelike-tutorial](https://github.com/tomassedovic/roguelike-tutorial) - Port of the "Complete Roguelike Tutorial, using python+libtcod" to Rust + tcod
-- [bartolli/codanna](https://github.com/bartolli/codanna) - 
+- [bartolli/codanna](https://github.com/bartolli/codanna) - Local code intelligence MCP server and CLI for AI coding agents
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [treadiehq/port-kill](https://github.com/treadiehq/port-kill) - Port Kill helps you find and free ports and caches blocking your dev work.
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
@@ -3405,6 +3404,7 @@
 - [GoogleChromeLabs/container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill) - A polyfill for CSS Container Queries
 - [software-mansion/react-freeze](https://github.com/software-mansion/react-freeze) - Prevent React component subtrees from rendering.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+- [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
 - [lambdalisue/vim-guise](https://github.com/lambdalisue/vim-guise) - 🎭  Guise is a Vim/Neovim plugin that opens a new tab page rather than invokes a new nested instance when a user tried to open a new Vim/Neovim through a job or terminal on the instance.
 - [steveruizok/perfect-arrows](https://github.com/steveruizok/perfect-arrows) - Draw perfect arrows between points and shapes.
