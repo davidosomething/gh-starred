@@ -733,7 +733,7 @@
 - [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list) - Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [t0gre/react-datepicker](https://github.com/t0gre/react-datepicker) - An easily internationalizable, accessible, mobile-friendly datepicker library for the web, build with styled-components.
-- [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
+- [tabulator-tables/tabulator](https://github.com/tabulator-tables/tabulator) - Interactive Tables and Data Grids for JavaScript
 - [davidosomething/eslint-config-davidosomething](https://github.com/davidosomething/eslint-config-davidosomething) - 
 - [gaearon/react-side-effect](https://github.com/gaearon/react-side-effect) - Create components whose nested prop changes map to a global side effect
 - [kirjs/react-highcharts](https://github.com/kirjs/react-highcharts) - React wrapper for Highcharts library
@@ -1588,6 +1588,7 @@
 
 ## Lua 
 
+- [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) - @ file mentions in neovim. for prompts, notes, commits.
 - [desdic/simple-treesitter.nvim](https://github.com/desdic/simple-treesitter.nvim) - Simple installer for treesitter parsers for neovim
 - [willyelm/pulse.nvim](https://github.com/willyelm/pulse.nvim) - A single command palette with prefix based pickers for Neovim
 - [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats.
