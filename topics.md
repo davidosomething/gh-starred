@@ -1533,6 +1533,7 @@
 
 ## devops 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
@@ -3349,6 +3350,7 @@
 
 ## kubernetes 
 
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
@@ -4955,6 +4957,7 @@
 
 ## others 
 
+- [mutativejs/zustand-travel](https://github.com/mutativejs/zustand-travel) - A powerful and high-performance undo/redo middleware for Zustand with Travels
 - [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
@@ -5003,7 +5006,6 @@
 - [Daydreamer-riri/catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) - Show inlay version and go-to-definition for PNPM/Yarn/Bun catalogs.
 - [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - Raveo is a warmer version of the Inter typeface.
 - [mmkal/eslint-plugin-codegen](https://github.com/mmkal/eslint-plugin-codegen) - An eslint plugin for inline codegen. Auto-fixes out of sync code, with presets for barrels, jsdoc to markdown and more.
-- [mutativejs/zustand-travel](https://github.com/mutativejs/zustand-travel) - A powerful and high-performance undo/redo middleware for Zustand with Travels
 - [taybart/code-actions.nvim](https://github.com/taybart/code-actions.nvim) - 
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [mutativejs/zustand-mutative](https://github.com/mutativejs/zustand-mutative) - A Mutative middleware for Zustand enhances the efficiency of immutable state updates.
