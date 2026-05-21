@@ -3012,7 +3012,7 @@
 - [postmodern/ruby-install](https://github.com/postmodern/ruby-install) - Installs Ruby, JRuby, TruffleRuby, or mruby
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [php-build/php-build](https://github.com/php-build/php-build) - Builds PHP so that multiple versions can be used side by side.
-- [Nitrux/luv-icon-theme](https://github.com/Nitrux/luv-icon-theme) - Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
+- [Nitrux/luv-icon-theme](https://github.com/Nitrux/luv-icon-theme) - Lüv is an icon theme for freedesktop environments.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [liquidprompt/liquidprompt](https://github.com/liquidprompt/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [progrium/gitreceive](https://github.com/progrium/gitreceive) - Easily accept and handle arbitrary git pushes
@@ -3226,7 +3226,7 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [zthxxx/react-dev-inspector](https://github.com/zthxxx/react-dev-inspector) - jump to local IDE code directly from browser React component by just a simple click
-- [Doist/reactist](https://github.com/Doist/reactist) - Open source React components made with ❤️ by Doist
+- [Doist/reactist](https://github.com/Doist/reactist) - Open source React components made with ❤️ by Doist.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
