@@ -1533,6 +1533,7 @@
 
 ## devops 
 
+- [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1581,6 +1582,7 @@
 
 ## docker 
 
+- [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
@@ -1894,6 +1896,7 @@
 
 ## fastapi 
 
+- [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 
 ## finance 
@@ -4009,6 +4012,7 @@
 
 ## monitoring 
 
+- [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -6666,6 +6670,7 @@
 
 ## postgresql 
 
+- [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -7563,6 +7568,7 @@
 
 ## self-hosted 
 
+- [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
