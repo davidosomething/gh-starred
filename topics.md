@@ -5225,7 +5225,7 @@
 - [deasmi/unraid-tailscale](https://github.com/deasmi/unraid-tailscale) - Docker build files for tailscale on unpaid
 - [delphinus/homebrew-sfmono-square](https://github.com/delphinus/homebrew-sfmono-square) - SFMono Square - patched font: SFMono + Migu 1M + Nerd Fonts
 - [luozhiya/lsp-virtual-improved.nvim](https://github.com/luozhiya/lsp-virtual-improved.nvim) - lsp-virtual-improved.nvim
-- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - a GPU powered yet browserless tool to view markdown files in the blink of an eye
 - [hattipjs/hattip](https://github.com/hattipjs/hattip) - Like Express, but for the future
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
 - [yioneko/nvim-vtsls](https://github.com/yioneko/nvim-vtsls) - 
