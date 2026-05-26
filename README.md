@@ -52,6 +52,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PureBasic](#purebasic)
 - [PureScript](#purescript)
 - [Python](#python)
 - [QML](#qml)
@@ -570,10 +571,8 @@
 
 ## HTML 
 
-- [komizoku/manga-repo](https://github.com/komizoku/manga-repo) - Extensions for Komikku / Mihon & forks.
 - [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font.
 - [l4rm4nd/VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Django web application to store and manage vouchers, coupons, loyalty and gift cards digitally. Supports PWA, offline caching, expiry notifications, transaction histories, file uploads and OIDC SSO.
-- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [weiweihuanghuang/fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
 - [tomonic-x/Illusion](https://github.com/tomonic-x/Illusion) - Programming font for JIS X 0208 with Unicode.
@@ -2391,6 +2390,11 @@
 - [LuRsT/vspark](https://github.com/LuRsT/vspark) - :bar_chart: Like spark, but vertical
 - [dolmen/angel-PS1](https://github.com/dolmen/angel-PS1) - Your fancy shell prompt fed by your guardian angel
 
+## PureBasic 
+
+- [komizoku/manga-repo](https://github.com/komizoku/manga-repo) - Extensions for Komikku / Mihon & forks.
+- [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
+
 ## PureScript 
 
 - [shamansir/noodle](https://github.com/shamansir/noodle) - Visual programming UI and framework driven by pure functional language and data streams
@@ -2652,6 +2656,7 @@
 
 ## Rust 
 
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
