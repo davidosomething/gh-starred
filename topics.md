@@ -1947,6 +1947,7 @@
 
 ## font 
 
+- [arrowtype/shantell-sans](https://github.com/arrowtype/shantell-sans) - Shantell Sans, from Shantell Martin, is a marker-style font built for creative expression, typographic play, and animation.
 - [lauridskern/open-runde](https://github.com/lauridskern/open-runde) - A soft, rounded variant of Inter
 - [stgiga/UnifontEX](https://github.com/stgiga/UnifontEX) - An extended fork of GNU Unifont with a focus on high compatibility.
 - [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font.
