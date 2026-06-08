@@ -6285,7 +6285,7 @@
 - [qrohlf/trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated triangle art
 - [rhysd/npm-filetypes.vim](https://github.com/rhysd/npm-filetypes.vim) - Highlight npm-debug.log and .npmrc for human readability
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
-- [nparashuram/seamcarving](https://github.com/nparashuram/seamcarving) - Implementation of Seam Carving in Javascript using Canvas
+- [axe-demo/seamcarving](https://github.com/axe-demo/seamcarving) - Implementation of Seam Carving in Javascript using Canvas
 - [nicolasff/canvas-seam-carving](https://github.com/nicolasff/canvas-seam-carving) - Content-aware resizing (“seam carving”) in Javascript + HTML5 &lt;canvas&gt;
 - [flatpickr/flatpickr](https://github.com/flatpickr/flatpickr) - lightweight, powerful javascript datetimepicker with no dependencies
 - [zenorocha/alfred-workflows](https://github.com/zenorocha/alfred-workflows) - :metal: A collection of Alfred 3 and 4 workflows that will rock your world
