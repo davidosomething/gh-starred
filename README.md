@@ -184,6 +184,7 @@
 ## C++ 
 
 - [coletrammer/ttx](https://github.com/coletrammer/ttx) - A modern terminal multiplexer.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [ihhub/fheroes2](https://github.com/ihhub/fheroes2) - fheroes2 is a recreation of Heroes of Might and Magic II game engine
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -583,7 +584,6 @@
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 - [christian-putzke/freshrss-pocket-button](https://github.com/christian-putzke/freshrss-pocket-button) - Add FreshRSS articles to Pocket with one simple button click or a keyboard shortcut.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 - [thibaudcolas/curlylint](https://github.com/thibaudcolas/curlylint) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid
@@ -2605,7 +2605,6 @@
 
 ## QML 
 
-- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [boraerciyas/kde_controlcentre](https://github.com/boraerciyas/kde_controlcentre) - A beautiful control centre widget for KDE Plasma directly inspired by the MacOS control centre.
 - [aricaldeira/plasma-applet-commandoutput](https://github.com/aricaldeira/plasma-applet-commandoutput) - 
 - [varlesh/org.kde.plasma.compact-shutdown](https://github.com/varlesh/org.kde.plasma.compact-shutdown) - Compact Shutdown Widget for Plasma
@@ -2727,6 +2726,7 @@
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [kurtbuilds/checkexec](https://github.com/kurtbuilds/checkexec) - CLI tool to conditionally execute commands only when files in a dependency list have been updated. Like `make`, but standalone.
