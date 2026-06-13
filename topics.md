@@ -510,6 +510,7 @@
 - [xoseperez/espurna](https://github.com/xoseperez/espurna) - Home automation firmware for ESP8266-based devices
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
@@ -750,7 +751,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu + Neovim
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
-- [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
+- [tanner37/Notica](https://github.com/tanner37/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [bach-sh/bach](https://github.com/bach-sh/bach) - Unit testing framework for developing cross-platform Bash unit tests
@@ -900,7 +901,6 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [TracerBench/tracerbench](https://github.com/TracerBench/tracerbench) - Automated Chrome tracing for benchmarking.
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [casesandberg/react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [argos-ci/jest-puppeteer](https://github.com/argos-ci/jest-puppeteer) - Run tests using Jest & Puppeteer 🎪✨
@@ -940,7 +940,7 @@
 ## cli 
 
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -1005,6 +1005,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [hliyan/jarvis](https://github.com/hliyan/jarvis) - J.A.R.V.I.S - Just Another Rudimentary Verbal Instruction Shell
+- [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [ByronHsu/life-commit](https://github.com/ByronHsu/life-commit) - 🏃📆  Life as a git. Commit on your life.
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
@@ -1153,7 +1154,7 @@
 - [ruyadorno/snapstub](https://github.com/ruyadorno/snapstub) - Copy API endpoints to your fs and run a local server using them
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-- [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
+- [tanner37/Notica](https://github.com/tanner37/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
@@ -1928,7 +1929,6 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
@@ -3558,7 +3558,7 @@
 ## llm 
 
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) - MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -4753,7 +4753,6 @@
 - [sindresorhus/slugify](https://github.com/sindresorhus/slugify) - Slugify a string
 - [adaltas/node-csv-parse](https://github.com/adaltas/node-csv-parse) - CSV parsing implementing the Node.js `stream.Transform` API
 - [ehmicky/unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - A delightful toolkit for building TypeScript-powered command-line apps.
 - [connor4312/cockatiel](https://github.com/connor4312/cockatiel) - 🐦 A resilience and fault-handling library. Supports Backoffs, Retries, Circuit Breakers, Timeouts, Bulkhead Isolation, and Fallbacks.
@@ -6743,7 +6742,7 @@
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
-- [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
+- [tanner37/Notica](https://github.com/tanner37/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -7419,7 +7418,7 @@
 
 ## rust 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [primait/localauth0](https://github.com/primait/localauth0) - Mock auth0 service for local development
@@ -7968,7 +7967,7 @@
 
 ## terminal 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [coletrammer/ttx](https://github.com/coletrammer/ttx) - A modern terminal multiplexer.
@@ -8003,7 +8002,7 @@
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
-- [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
+- [tanner37/Notica](https://github.com/tanner37/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
@@ -8093,7 +8092,7 @@
 - [bach-sh/bach](https://github.com/bach-sh/bach) - Unit testing framework for developing cross-platform Bash unit tests
 - [americanexpress/jest-json-schema](https://github.com/americanexpress/jest-json-schema) - ✨ JSON schema matcher for Jest
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
+- [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 - [fuzzitdev/jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage guided fuzz testing for javascript
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [reg-viz/reg-puppeteer-demo](https://github.com/reg-viz/reg-puppeteer-demo) - :performing_arts: Demonstration reg-suit using puppeteer screenshot
@@ -8126,7 +8125,7 @@
 ## tui 
 
 - [boyter/cs](https://github.com/boyter/cs) - codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required with CLI, TUI, MCP and HTTP support.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -8434,7 +8433,6 @@
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [keredson/gnomecast](https://github.com/keredson/gnomecast) - Chromecast local files from Linux - supports MKV, subtitles, 5.1 sound and 4K!
 - [muammar/mkchromecast](https://github.com/muammar/mkchromecast) - Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
