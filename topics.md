@@ -2902,7 +2902,6 @@
 ## javascript 
 
 - [picardjs/picard](https://github.com/picardjs/picard) - 🖖 👩🏽‍🚀 Expanding the Frontier of Micro Frontends. ⭐️ Star to support our work!
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications.
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
@@ -4021,6 +4020,7 @@
 
 ## mongodb 
 
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -4078,6 +4078,7 @@
 
 ## mysql 
 
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -4696,7 +4697,7 @@
 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.1.x or 3.0.x specification
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications.
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [danitrap/version-lens.nvim](https://github.com/danitrap/version-lens.nvim) - A Neovim plugin that displays installed package versions as virtual text in package.json files.
@@ -6690,6 +6691,7 @@
 
 - [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -7811,6 +7813,7 @@
 ## sqlite 
 
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
@@ -8188,7 +8191,7 @@
 - [sakthilkv/react-horizontal-heatmap](https://github.com/sakthilkv/react-horizontal-heatmap) - A lightweight React component for rendering a horizontal heatmap. Perfect for timelines, activity charts, or health status indicators. Fully customizable colors, box size, and spacing.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
-- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Sidequest is a modern, scalable background job processor for Node.js applications.
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner
