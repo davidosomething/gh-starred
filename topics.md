@@ -4982,6 +4982,7 @@
 
 ## others 
 
+- [CoreyKaylor/diffbandit.nvim](https://github.com/CoreyKaylor/diffbandit.nvim) - 
 - [arborist-ts/arborist.nvim](https://github.com/arborist-ts/arborist.nvim) - Smart, simple, fast tree-sitter parser manager for Neovim 0.12+
 - [mutativejs/zustand-travel](https://github.com/mutativejs/zustand-travel) - A powerful and high-performance undo/redo middleware for Zustand with Travels
 - [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim.
@@ -6956,7 +6957,7 @@
 - [sadmann7/diceui](https://github.com/sadmann7/diceui) - Accessible shadcn/ui components built with React, TypeScript, and Tailwind CSS. Copy-paste ready, and customizable.
 - [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects for simpler, faster, safer code.
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 890k monthly downloads. Collection of awesome react hooks
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [lukasbach/headless-tree](https://github.com/lukasbach/headless-tree) - The definitive tree component for the Web
@@ -7302,7 +7303,7 @@
 
 - [nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect](https://github.com/nickjvandyke/eslint-plugin-react-you-might-not-need-an-effect) - Catch unnecessary React effects for simpler, faster, safer code.
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 890k monthly downloads. Collection of awesome react hooks
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [7PH/react-powerglitch](https://github.com/7PH/react-powerglitch) - Tiny React library to glitch anything on the web
@@ -8191,7 +8192,7 @@
 - [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
 - [sakthilkv/react-horizontal-heatmap](https://github.com/sakthilkv/react-horizontal-heatmap) - A lightweight React component for rendering a horizontal heatmap. Perfect for timelines, activity charts, or health status indicators. Fully customizable colors, box size, and spacing.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 890k monthly downloads. Collection of awesome react hooks
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, and enforces strict argument types — all with zero runtime overhead.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
