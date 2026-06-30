@@ -1283,7 +1283,6 @@
 - [aleen42/badges](https://github.com/aleen42/badges) - :flower_playing_cards: Standard and acceptable badges list
 - [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [andreaferretti/paths-js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes :bar_chart:
 - [freeman-lab/minidocs](https://github.com/freeman-lab/minidocs) - build a minimalist site for your documentation
 - [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom) - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
@@ -3745,6 +3744,7 @@
 - [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 - [cdonohue/polychrome](https://github.com/cdonohue/polychrome) - 🎨 Easy color manipulation in ~2kb (gzipped)
 - [GrimoireGL/GrimoireJS](https://github.com/GrimoireGL/GrimoireJS) - A WebGL framework for Web development.
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js) - A full-featured framework for building command line applications (cli) with node.js
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
@@ -4354,7 +4354,7 @@
 ## Vue 
 
 - [xiaoluoboding/stunning-ui](https://github.com/xiaoluoboding/stunning-ui) - 💚 Stunning UI is a collection of interactive Tailwind CSS components built for Vue and Nuxt.
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - The local-first, open source notes app built with privacy in mind
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source notes that live where you choose: your device, your server, or ours.
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 - [zwave-js/zwave-js-ui](https://github.com/zwave-js/zwave-js-ui) - Full featured Z-Wave Control Panel UI and MQTT gateway. Built using Nodejs, and Vue/Vuetify
