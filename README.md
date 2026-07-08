@@ -505,7 +505,7 @@
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
+- [linagora/cozy-stack](https://github.com/linagora/cozy-stack) - Simple, Versatile, Yours
 - [kentaro-m/md2confl](https://github.com/kentaro-m/md2confl) - 🛠 md2confl is a CLI tool to convert the markdown text to confluence wiki format.
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -4200,7 +4200,6 @@
 - [mattn/vim-sqlfmt](https://github.com/mattn/vim-sqlfmt) - 
 - [vivien/vim-linux-coding-style](https://github.com/vivien/vim-linux-coding-style) - Vim plugin to respect the Linux kernel coding style http://www.vim.org/scripts/script.php?script_id=4369
 - [bpstahlman/txtfmt](https://github.com/bpstahlman/txtfmt) - Txtfmt (The Vim Highlighter) : "Rich text" highlighting in Vim! (colors, underline, bold, italic, etc...)
-- [monokrome/vim-testdrive](https://github.com/monokrome/vim-testdrive) - A plugin for more fluid TDD in Vim.
 - [nelstrom/vim-errorformat-testdrive](https://github.com/nelstrom/vim-errorformat-testdrive) - Use vspec to test-drive development of errorformats
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [thinca/vim-scall](https://github.com/thinca/vim-scall) - Calls a script local function readily.
