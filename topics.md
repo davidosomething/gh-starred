@@ -5817,7 +5817,7 @@
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [googleapis/retry-request](https://github.com/googleapis/retry-request) - **THIS REPOSITORY AND PACKAGE WILL BE DEPRECATED IN JULY 2024**  Retry a request with built-in exponential backoff.
 - [microstates/react](https://github.com/microstates/react) - @microstates/react - Microstates in React.js
-- [cozy/cozy-stack](https://github.com/cozy/cozy-stack) - Simple, Versatile, Yours
+- [linagora/cozy-stack](https://github.com/linagora/cozy-stack) - Simple, Versatile, Yours
 - [c9s/hypergit.vim](https://github.com/c9s/hypergit.vim) - This git plugin provides many awesome features so that you don't need to type commands anymore..
 - [tsunesan3/awsome-jp-coding-fonts](https://github.com/tsunesan3/awsome-jp-coding-fonts) - Awsome Japanese Coding Fonts
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
@@ -6234,7 +6234,6 @@
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [sindresorhus/to-fast-properties](https://github.com/sindresorhus/to-fast-properties) - Force V8 to use fast properties for an object
 - [lambdalisue/nvim-lista](https://github.com/lambdalisue/nvim-lista) - Neovim/Vim buffer filtering plugin
-- [monokrome/vim-testdrive](https://github.com/monokrome/vim-testdrive) - A plugin for more fluid TDD in Vim.
 - [nelstrom/vim-errorformat-testdrive](https://github.com/nelstrom/vim-errorformat-testdrive) - Use vspec to test-drive development of errorformats
 - [unifiedjs/unified-engine](https://github.com/unifiedjs/unified-engine) - Engine to process multiple files with unified
 - [kootenpv/sky](https://github.com/kootenpv/sky) - :sunrise: next generation web crawling using machine intelligence
