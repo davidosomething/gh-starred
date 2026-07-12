@@ -797,7 +797,6 @@
 - [Debdut/react-fast-charts](https://github.com/Debdut/react-fast-charts) - Blazing Fast Charting Library in React with loading time less than 50ms
 - [pqina/react-filepond](https://github.com/pqina/react-filepond) - 🔌 A handy FilePond adapter component for React
 - [ukrbublik/react-awesome-query-builder](https://github.com/ukrbublik/react-awesome-query-builder) - User-friendly query builder for React
-- [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support
 - [alexwforsythe/code-blocks](https://github.com/alexwforsythe/code-blocks) - Syntax highlighting for Google Docs
 - [developit/jsxobj](https://github.com/developit/jsxobj) - Build JSON using JSX 🌈 (may contain blood magic)
 - [krasimir/octomments](https://github.com/krasimir/octomments) - A small library that offers GitHub issues as comments for your site/blog
@@ -1586,7 +1585,7 @@
 
 - [CoreyKaylor/diffbandit.nvim](https://github.com/CoreyKaylor/diffbandit.nvim) - A Neovim diff viewer that preserves each document’s natural shape and line numbers, using connector gutters to map changes without inline diff noise.
 - [Esequiel378/mermaid-hover.nvim](https://github.com/Esequiel378/mermaid-hover.nvim) - Hover a ```mermaid block in Markdown and render it as ASCII art in a floating window (powered by mermaid-ascii).
-- [iilw/nui-diagnostic.nvim](https://github.com/iilw/nui-diagnostic.nvim) - A small Neovim plugin that jumps between diagnostics and shows the current diagnostic together with available LSP code actions in nui.nvim popups.
+- [lwcrafts/nui-diagnostic.nvim](https://github.com/lwcrafts/nui-diagnostic.nvim) - A small Neovim plugin that jumps between diagnostics and shows the current diagnostic together with available LSP code actions in nui.nvim popups.
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) - @ file mentions in neovim. for prompts, notes, commits.
 - [desdic/simple-treesitter.nvim](https://github.com/desdic/simple-treesitter.nvim) - Simple installer for treesitter parsers for neovim
 - [willyelm/pulse.nvim](https://github.com/willyelm/pulse.nvim) - A single command palette with prefix based pickers for Neovim
@@ -3478,6 +3477,7 @@
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [NiGhTTraX/mugshot](https://github.com/NiGhTTraX/mugshot) - Framework independent visual testing library
 - [remirror/remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React 🎉
+- [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support
 - [microsoft/node-fast-plist](https://github.com/microsoft/node-fast-plist) - A fast PLIST parser
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [homerchen19/use-undo](https://github.com/homerchen19/use-undo) - React Hooks to implement Undo and Redo functionality
