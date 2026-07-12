@@ -323,6 +323,7 @@
 ## agent-skills 
 
 - [isak102/neowright](https://github.com/isak102/neowright) - Like Playwright, but for Neovim
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 
 ## agents 
 
@@ -3828,6 +3829,7 @@
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) - A cosy home for your LLMs.
 - [bvanpeski/SystemPreferences](https://github.com/bvanpeski/SystemPreferences) - Navigating System Prefences/Settings on macOS
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -4120,7 +4122,7 @@
 
 - [isak102/neowright](https://github.com/isak102/neowright) - Like Playwright, but for Neovim
 - [Esequiel378/mermaid-hover.nvim](https://github.com/Esequiel378/mermaid-hover.nvim) - Hover a ```mermaid block in Markdown and render it as ASCII art in a floating window (powered by mermaid-ascii).
-- [iilw/nui-diagnostic.nvim](https://github.com/iilw/nui-diagnostic.nvim) - A small Neovim plugin that jumps between diagnostics and shows the current diagnostic together with available LSP code actions in nui.nvim popups.
+- [lwcrafts/nui-diagnostic.nvim](https://github.com/lwcrafts/nui-diagnostic.nvim) - A small Neovim plugin that jumps between diagnostics and shows the current diagnostic together with available LSP code actions in nui.nvim popups.
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) - @ file mentions in neovim. for prompts, notes, commits.
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) - MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
 - [willyelm/pulse.nvim](https://github.com/willyelm/pulse.nvim) - A single command palette with prefix based pickers for Neovim
@@ -7886,6 +7888,7 @@
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [daybrush/selecto](https://github.com/daybrush/selecto) - Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [vime-js/vime](https://github.com/vime-js/vime) - Customizable, extensible, accessible and framework agnostic media player. Modern alternative to Video.js and Plyr. Supports HTML5, HLS, Dash, YouTube, Vimeo, Dailymotion...
