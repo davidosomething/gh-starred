@@ -1221,7 +1221,7 @@
 - [csstools/mdcss](https://github.com/csstools/mdcss) - Easily create and maintain style guides using CSS comments
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
 - [atom/etch](https://github.com/atom/etch) - Builds components using a simple and explicit API around virtual-dom
 - [Bishop92/JavaScript-Data-Structures](https://github.com/Bishop92/JavaScript-Data-Structures) - A library for data structure in JavaScript
