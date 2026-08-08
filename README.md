@@ -1577,6 +1577,7 @@
 
 ## Lua 
 
+- [smalinux/diff-so-fancy.nvim](https://github.com/smalinux/diff-so-fancy.nvim) - 
 - [CoreyKaylor/diffbandit.nvim](https://github.com/CoreyKaylor/diffbandit.nvim) - A Neovim diff viewer that preserves each document’s natural shape and line numbers, using connector gutters to map changes without inline diff noise.
 - [Esequiel378/mermaid-hover.nvim](https://github.com/Esequiel378/mermaid-hover.nvim) - Hover a ```mermaid block in Markdown and render it as ASCII art in a floating window (powered by mermaid-ascii).
 - [lwcrafts/nui-diagnostic.nvim](https://github.com/lwcrafts/nui-diagnostic.nvim) - A small Neovim plugin that jumps between diagnostics and shows the current diagnostic together with available LSP code actions in nui.nvim popups.
@@ -3376,7 +3377,7 @@
 - [jupyterlab/lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
 - [ticlo/rc-dock](https://github.com/ticlo/rc-dock) - Dock Layout for React Component
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
-- [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- [ravionhq/superjson](https://github.com/ravionhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [kristiandupont/kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres
