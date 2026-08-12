@@ -3139,7 +3139,7 @@
 - [Obra-Studio/obra-icons-mr](https://github.com/Obra-Studio/obra-icons-mr) - Obra Icons monorepo
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
-- [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - Replace the default file explorer in Obsidian with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable dis
+- [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - A better file browser and calendar for Obsidian, inspired by Apple Notes, Bear, Evernote and Day One.
 - [picardjs/picard](https://github.com/picardjs/picard) - 🖖 👩🏽‍🚀 Expanding the Frontier of Micro Frontends. ⭐️ Star to support our work!
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 1 Million monthly downloads. Collection of awesome react hooks
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.1.x or 3.0.x specification
@@ -3338,7 +3338,7 @@
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff provides a rich and readable diff for arrays, objects, texts and coordinates. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependenc
-- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - an agentic cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [dorbus/flexboard](https://github.com/dorbus/flexboard) - React component library for re-sizable sidebars
 - [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) - 
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
