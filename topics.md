@@ -345,7 +345,6 @@
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) - Generate and edit text in Neovim using OpenAI and GPT.
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) - Delicious diagnostic debugging in Neovim 🤤
@@ -614,7 +613,7 @@
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [uhub/awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -703,7 +702,7 @@
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [uhub/awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
@@ -909,7 +908,6 @@
 
 ## chatgpt 
 
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -1682,7 +1680,7 @@
 - [mrusme/journalist](https://github.com/mrusme/journalist) - Journalist. An RSS aggregator.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGu
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [whalebrew/whalebrew](https://github.com/whalebrew/whalebrew) - Homebrew, but with Docker images
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -2379,7 +2377,7 @@
 - [skx/sysbox](https://github.com/skx/sysbox) - sysadmin/scripting utilities, distributed as a single binary
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go
 - [keys-pub/keys](https://github.com/keys-pub/keys) - Cryptographic key management is hard
@@ -3231,7 +3229,7 @@
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [mysticatea/eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
@@ -3396,7 +3394,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [jonhadfield/soba](https://github.com/jonhadfield/soba) - Automated, encrypted Git repository backups from GitHub, GitLab, Bitbucket, Azure DevOps, Gitea, and Sourcehut
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [kubie-org/kubie](https://github.com/kubie-org/kubie) - A more powerful alternative to kubectx and kubens
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [rootless-containers/usernetes](https://github.com/rootless-containers/usernetes) - Kubernetes without the root privileges
@@ -4710,7 +4708,7 @@
 - [zoubin/vim-gotofile](https://github.com/zoubin/vim-gotofile) - Enhance the native `gf` command to act like node-resolve
 - [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 - [dthree/vorpal](https://github.com/dthree/vorpal) - Node's framework for interactive CLIs
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [mysticatea/eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
@@ -4869,7 +4867,7 @@
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
 - [icyflame/bar-horizontal](https://github.com/icyflame/bar-horizontal) - Create beautiful horizontal charts, that fit your terminal.
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [mysticatea/eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
@@ -7576,7 +7574,7 @@
 - [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent, now in Python.
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch.
 - [steffenfritz/pacaudit](https://github.com/steffenfritz/pacaudit) - pacaudit audits installed packages against known vulnerabilities listed on https://security.archlinux.org
