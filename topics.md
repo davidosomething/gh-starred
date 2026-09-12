@@ -1492,6 +1492,7 @@
 
 ## deployment 
 
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: projects, Git deployments, HTTPS domains, logs and backups. Wraps the real docker compose rather than replacing it, so your containers keep runnin
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
@@ -1570,6 +1571,7 @@
 
 ## devops 
 
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: projects, Git deployments, HTTPS domains, logs and backups. Wraps the real docker compose rather than replacing it, so your containers keep runnin
 - [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.
@@ -1619,10 +1621,11 @@
 
 ## docker 
 
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: projects, Git deployments, HTTPS domains, logs and backups. Wraps the real docker compose rather than replacing it, so your containers keep runnin
 - [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [Finsys/dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration.
@@ -2103,7 +2106,7 @@
 ## gamedev 
 
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [ikemen-engine/Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 - [verekia/manapotion](https://github.com/verekia/manapotion) - 🧪 Mana Potion – Toolkit for JavaScript game development and interactive experiences (React, Vue, Svelte, vanilla)
 - [nkzw-tech/athena-crisis](https://github.com/nkzw-tech/athena-crisis) - Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.
@@ -2336,6 +2339,7 @@
 
 ## golang 
 
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: projects, Git deployments, HTTPS domains, logs and backups. Wraps the real docker compose rather than replacing it, so your containers keep runnin
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration.
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
@@ -4019,7 +4023,7 @@
 ## minecraft 
 
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [gnmyt/VoxelDash](https://github.com/gnmyt/VoxelDash) - VoxelDash is a simple dashboard for your Minecraft and Hytale servers
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
@@ -7453,7 +7457,7 @@
 
 - [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [primait/localauth0](https://github.com/primait/localauth0) - Mock auth0 service for local development
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [LucasPickering/slumber](https://github.com/LucasPickering/slumber) - Terminal-based HTTP/REST client
@@ -7618,6 +7622,7 @@
 
 ## self-hosted 
 
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: projects, Git deployments, HTTPS domains, logs and backups. Wraps the real docker compose rather than replacing it, so your containers keep runnin
 - [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
@@ -7693,7 +7698,7 @@
 
 ## server 
 
-- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
@@ -7926,6 +7931,7 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 - [keith/swift.vim](https://github.com/keith/swift.vim) - Vim runtime files for Swift
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [hatashiro/kawa](https://github.com/hatashiro/kawa) - A macOS input source switcher with user-defined shortcuts.
 
@@ -7934,6 +7940,7 @@
 - [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 ## symfony 
