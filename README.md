@@ -1358,6 +1358,7 @@
 - [billyvg/tigris.nvim](https://github.com/billyvg/tigris.nvim) - A semantic javascript syntax highlighter (uses babylon) for Neovim
 - [katiefenn/parker](https://github.com/katiefenn/parker) - Stylesheet analysis tool.
 - [liftoff/HumanInput](https://github.com/liftoff/HumanInput) - A JavaScript library for handling keyboard shortcuts and other human-generated events
+- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [stylelint-scss/stylelint-scss](https://github.com/stylelint-scss/stylelint-scss) - A collection of SCSS specific linting rules for Stylelint
 - [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck) - Job scheduler and rate limiter, supports Clustering
 - [Automattic/kue](https://github.com/Automattic/kue) - Kue is a priority job queue backed by redis, built for node.js.
@@ -1558,6 +1559,7 @@
 
 ## Just 
 
+- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation
 - [casey/tree-sitter-just](https://github.com/casey/tree-sitter-just) - Treesitter grammar for Justfiles (casey/just)
 
 ## Kotlin 
@@ -2287,7 +2289,6 @@
 - [jaredthecoder/awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
 - [a0viedo/demystifying-js-engines](https://github.com/a0viedo/demystifying-js-engines) - A list of resources about JavaScript engines
 - [mcxiaoke/awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin) - A curated list of awesome Kotlin frameworks, libraries, documents and other resources
-- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [matiassingers/awesome-slack](https://github.com/matiassingers/awesome-slack) - A curated list of awesome Slack related things
 - [jsantell/engineering-management-resources](https://github.com/jsantell/engineering-management-resources) - A collection of links of engineering manager resources
 - [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows) - A curated list of awesome alfred workflows
@@ -2829,7 +2830,6 @@
 
 ## Shell 
 
-- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation
 - [c0deJedi/nbd-vram](https://github.com/c0deJedi/nbd-vram) - Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD,
 - [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 - [Suwayomi/Suwayomi-Server-docker](https://github.com/Suwayomi/Suwayomi-Server-docker) - Run Suwayomi-Server in a docker container
@@ -3336,7 +3336,7 @@
 - [TooTallNate/plist.js](https://github.com/TooTallNate/plist.js) - Apple property list parser/builder for Node.js and browsers — supports XML, binary (bplist), and OpenStep formats
 - [larswaechter/voici.js](https://github.com/larswaechter/voici.js) - A Node.js library for pretty printing your data on the terminal🎨
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [fsouza/prettierd](https://github.com/fsouza/prettierd) - prettier, as a daemon, for improved formatting speed.
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff) - Superdiff provides a rich and readable diff for arrays, objects, texts and coordinates. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependenc
