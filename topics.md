@@ -2350,7 +2350,7 @@
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.
-- [Dhravya/radish](https://github.com/Dhravya/radish) - Super fast drop-in replacement of the in memory key-value store Redis, made in Golang
+- [Dhravya/radish](https://github.com/Dhravya/radish) - Super fast drop-in replacement of Redis, but runs on Cloudflare Durable Objects
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
@@ -5889,7 +5889,6 @@
 - [cam-inc/viron](https://github.com/cam-inc/viron) - OAS-driven Frontend-NoCode Administration Console
 - [developit/jsdom-worker](https://github.com/developit/jsdom-worker) - 👷‍♀️ Use Web Workers in Jest / JSDOM 🌈
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [jwiegley/scripts](https://github.com/jwiegley/scripts) - Various and sundry shell scripts used on my system
 - [rhysd/vim-healthcheck](https://github.com/rhysd/vim-healthcheck) - Polyfill of Neovim's health-check for Vim
 - [McJtyMods/RFTools](https://github.com/McJtyMods/RFTools) - A set of blocks and items to help with RF in general. Currently contains a Dimension Builder, Teleportation System, Shield System, RF monitor, an RF network debug tool and an automatic crafter
 - [roxma/vim-encode](https://github.com/roxma/vim-encode) - Provides simple stirng encode/escape functionality inside vim
