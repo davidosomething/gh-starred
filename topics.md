@@ -5011,7 +5011,6 @@
 
 ## others 
 
-- [smalinux/diff-so-fancy.nvim](https://github.com/smalinux/diff-so-fancy.nvim) - 
 - [CoreyKaylor/diffbandit.nvim](https://github.com/CoreyKaylor/diffbandit.nvim) - A Neovim diff viewer that preserves each document’s natural shape and line numbers, using connector gutters to map changes without inline diff noise.
 - [arborist-ts/arborist.nvim](https://github.com/arborist-ts/arborist.nvim) - Smart, simple, fast tree-sitter parser manager for Neovim 0.12+
 - [mutativejs/zustand-travel](https://github.com/mutativejs/zustand-travel) - A powerful and high-performance undo/redo middleware for Zustand with Travels
@@ -5164,7 +5163,7 @@
 - [chakra-ui/park-ui](https://github.com/chakra-ui/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
 - [unjs/changelogen](https://github.com/unjs/changelogen) - 💅 Beautiful Changelogs using Conventional Commits
 - [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
-- [yutkat/term-gf.nvim](https://github.com/yutkat/term-gf.nvim) - 
+- [yutkat/term-gf.nvim](https://github.com/yutkat/term-gf.nvim) - Neovim plugin that opens filenames under the cursor from terminal buffers with gf
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [AnyRoad/react-json-view-lite](https://github.com/AnyRoad/react-json-view-lite) - Lightweight Json view component for React
 - [antfu/eslint-plugin-command](https://github.com/antfu/eslint-plugin-command) - Comment-as-command for one-off codemod with ESLint.
@@ -9033,6 +9032,7 @@
 
 ## windows 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Golang, Python, Flutter, .NET & more
