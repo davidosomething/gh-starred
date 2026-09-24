@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [ajax](#ajax)
 - [algorithm](#algorithm)
@@ -360,6 +361,13 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
+
+## ai-agent 
+
+- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## ai-agents 
 
@@ -765,7 +773,7 @@
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A minimalist, powerful webhook server designed to easily trigger shell scripts and run external processes via HTTP requests.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
-- [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, and fish key bindings for Git objects, powered by fzf
+- [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, fish, and tmux bindings for Git objects, powered by fzf
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu + Neovim
@@ -4127,6 +4135,7 @@
 
 ## neovim 
 
+- [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs
 - [isak102/neowright](https://github.com/isak102/neowright) - Like Playwright, but for Neovim
 - [Esequiel378/mermaid-hover.nvim](https://github.com/Esequiel378/mermaid-hover.nvim) - Hover a ```mermaid block in Markdown and render it as ASCII art in a floating window (powered by mermaid-ascii).
 - [lwcrafts/nui-diagnostic.nvim](https://github.com/lwcrafts/nui-diagnostic.nvim) - A small Neovim plugin that jumps between diagnostics and shows the current diagnostic together with available LSP code actions in nui.nvim popups.
@@ -8102,7 +8111,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
@@ -8489,6 +8498,7 @@
 
 ## vim 
 
+- [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) - @ file mentions in neovim. for prompts, notes, commits.
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) - MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
@@ -9140,7 +9150,7 @@
 - [davidosomething/devcon](https://github.com/davidosomething/devcon) - Dev container
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [wbthomason/dotfiles](https://github.com/wbthomason/dotfiles) - My dotfiles
-- [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, and fish key bindings for Git objects, powered by fzf
+- [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh) - bash, zsh, fish, and tmux bindings for Git objects, powered by fzf
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [davidosomething/dotfiles](https://github.com/davidosomething/dotfiles) - mac OS, Arch Linux, and Debian/Ubuntu + Neovim
 - [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - 🤔 perhaps you don't need a Zsh plugin manager after all...
