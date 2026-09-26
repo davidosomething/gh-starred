@@ -1616,7 +1616,7 @@
 ## distributed-systems 
 
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 
 ## django 
 
@@ -2178,7 +2178,7 @@
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [JamieMason/eslint-formatter-git-log](https://github.com/JamieMason/eslint-formatter-git-log) - ESLint Formatter featuring Git Author, Date, and Hash
 - [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker integrated in git
 - [rbong/vim-flog](https://github.com/rbong/vim-flog) - A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [bahmutov/changed-log](https://github.com/bahmutov/changed-log) - Returns all commit messages between 2 versions of an NPM module
