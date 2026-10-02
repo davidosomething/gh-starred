@@ -1438,7 +1438,6 @@
 - [amireh/happypack](https://github.com/amireh/happypack) - Happiness in the form of faster webpack build times.
 - [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
 - [ustwo/ustwo.com-frontend](https://github.com/ustwo/ustwo.com-frontend) - The New & Improved ustwo Website
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
 - [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views
@@ -2454,6 +2453,7 @@
 - [lovesegfault/beautysh](https://github.com/lovesegfault/beautysh) - A Bash beautifier for the masses.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [rbaron/catprinter](https://github.com/rbaron/catprinter) - 🐱🖨
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -3146,7 +3146,7 @@
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [johansan/notebook-navigator](https://github.com/johansan/notebook-navigator) - A better file browser and calendar inspired by Apple Notes, Bear, Evernote and Day One.
 - [picardjs/picard](https://github.com/picardjs/picard) - 🖖 👩🏽‍🚀 Expanding the Frontier of Micro Frontends. ⭐️ Star to support our work!
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 700 k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 800 k monthly downloads. Collection of awesome react hooks
 - [cdimascio/express-openapi-validator](https://github.com/cdimascio/express-openapi-validator) - 🦋 Auto-validates api requests, responses, and securities using ExpressJS and an OpenAPI 3.1.x or 3.0.x specification
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, enforces strict argument types with zero runtime overhead.
@@ -3271,7 +3271,7 @@
 - [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list and grid component for React, Vue, Solid, Svelte and Angular.
 - [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
-- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧡 Turn your API spec into type-safe code. Generate TypeScript types, API clients, hooks, validators and mocks from a spec such as OpenAPI.
 - [rileytomasek/zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
@@ -3373,7 +3373,6 @@
 - [kettanaito/until-async](https://github.com/kettanaito/until-async) - Gracefully handle Promises using async/await without try/catch.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js, with SVG and Canvas rendering support
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
@@ -3463,7 +3462,7 @@
 - [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 - [naver/egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Everyday 30 million people experience. It's reliable, flexible and extendable carousel.
 - [SlashArash/react-linky](https://github.com/SlashArash/react-linky) - A React component to find URLs and Emails in text and turn them into html links
-- [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
+- [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (3,1 KB) color picker component for React and Preact apps
 - [MTG/essentia.js](https://github.com/MTG/essentia.js) - JavaScript library for music/audio analysis and processing powered by Essentia WebAssembly
 - [pmndrs/detect-gpu](https://github.com/pmndrs/detect-gpu) - Classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications.
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
@@ -3767,6 +3766,7 @@
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [superpowers/superpowers-core](https://github.com/superpowers/superpowers-core) - :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
