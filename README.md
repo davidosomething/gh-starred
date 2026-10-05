@@ -2181,7 +2181,7 @@
 - [madmalik/mononoki](https://github.com/madmalik/mononoki) - a programming typeface
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [stefanjudis/awesome-command-palette](https://github.com/stefanjudis/awesome-command-palette) - A list of awesome command palette implementations.
 - [theleagueof/league-mono](https://github.com/theleagueof/league-mono) - A monospace typeface inspired by Fira Mono, Libertinus Mono, and Courier.
 - [dylanaraps/openbox-patched](https://github.com/dylanaraps/openbox-patched) - PKGBUILD and patches for Openbox with Rounded Corners
@@ -2655,7 +2655,7 @@
 
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling and scrolling window manager for macos
 - [isak102/neowright](https://github.com/isak102/neowright) - Like Playwright, but for Neovim
-- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
@@ -3122,7 +3122,7 @@
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flags, Experimentation, and Product Analytics
 - [mutativejs/zustand-mutative](https://github.com/mutativejs/zustand-mutative) - A Mutative middleware for Zustand enhances the efficiency of immutable state updates.
-- [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer.
+- [unadlib/mutative](https://github.com/unadlib/mutative) - Efficient immutable updates, about 3-6x faster than Immer.
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - EvilCharts is an open-source chart UI website built with shadcn and Recharts, beautifully designed and handcrafted.
@@ -3161,7 +3161,6 @@
 - [vcms-io/solidis](https://github.com/vcms-io/solidis) - The fastest Redis & Valkey client for Node.js. Zero dependencies, 2x+ faster than ioredis, battle-tested in production.
 - [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
-- [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [wojtekmaj/merge-refs](https://github.com/wojtekmaj/merge-refs) - A function that merges React refs into one.
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -3269,7 +3268,7 @@
 - [open-circle/valibot](https://github.com/open-circle/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [ethanniser/next-typesafe-url](https://github.com/ethanniser/next-typesafe-url) - Fully typesafe, JSON serializable, and zod validated URL search params, dynamic route params, and routing for NextJS.
-- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list and grid component for React, Vue, Solid, Svelte and Angular.
+- [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.
 - [gajus/lightship](https://github.com/gajus/lightship) - Abstracts readiness, liveness and startup checks and graceful shutdown of Node.js services running in Kubernetes.
 - [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - 🧡 Turn your API spec into type-safe code. Generate TypeScript types, API clients, hooks, validators and mocks from a spec such as OpenAPI.
 - [rileytomasek/zodix](https://github.com/rileytomasek/zodix) - Zod utilities for Remix loaders and actions.
@@ -3583,7 +3582,7 @@
 - [fraserxu/react-chartist](https://github.com/fraserxu/react-chartist) - ⚛ React component for Chartist.js
 - [Vibrant-Colors/node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - 🎨 Extract prominent colors from an image
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
-- [aykutkardas/Json-Function](https://github.com/aykutkardas/Json-Function) - It allows you to use methods such as schema, innerJoin, where, limit, select, orderBy on JSON data.
+- [aykutkardas/Json-Function](https://github.com/aykutkardas/Json-Function) - Query arrays of JSON objects with where, search, select, orderBy, limit, schema and joins. Typed, dependency-free, fast on large arrays.
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - 🎣 Minimal hooks-first GraphQL client
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
 - [davidkpiano/flipping](https://github.com/davidkpiano/flipping) - Flipping awesome animations.
