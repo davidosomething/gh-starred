@@ -1532,6 +1532,7 @@
 
 ## developer-tools 
 
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.
@@ -3812,7 +3813,7 @@
 
 ## mac 
 
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling and scrolling window manager for macos
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [huangyz0918/Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - Open source tutorial & information collector for hackintosh installation.
@@ -3845,7 +3846,7 @@
 
 ## macos 
 
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling and scrolling window manager for macos
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
@@ -7471,7 +7472,6 @@
 
 ## rust 
 
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling and scrolling window manager for macos
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
@@ -8028,6 +8028,7 @@
 ## terminal 
 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
+- [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [coletrammer/ttx](https://github.com/coletrammer/ttx) - A modern terminal multiplexer.
@@ -8119,7 +8120,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
