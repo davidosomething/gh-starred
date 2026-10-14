@@ -1588,7 +1588,7 @@
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) - @ file mentions in neovim. for prompts, notes, commits.
 - [desdic/simple-treesitter.nvim](https://github.com/desdic/simple-treesitter.nvim) - Simple installer for treesitter parsers for neovim
 - [willyelm/pulse.nvim](https://github.com/willyelm/pulse.nvim) - A single command palette with prefix based pickers for Neovim
-- [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats.
+- [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Expandable TypeScript type hover for Neovim (vtsls and TypeScript 7)
 - [coletrammer/seamless-navigation.nvim](https://github.com/coletrammer/seamless-navigation.nvim) - Neovim plugin which implements the seamless navigation protocol (OSC 8671)
 - [ktrysmt/memd.nvim](https://github.com/ktrysmt/memd.nvim) - 
 - [oskarnurm/koda.nvim](https://github.com/oskarnurm/koda.nvim) - Code's quiet companion. A minimalist theme for Neovim, written in Lua.
@@ -2560,7 +2560,7 @@
 - [python-rope/ropevim](https://github.com/python-rope/ropevim) - vim mode that uses rope library to provide features like python refactorings and code-assists
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
-- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [lambdalisue/nvim-lista](https://github.com/lambdalisue/nvim-lista) - Neovim/Vim buffer filtering plugin
 - [kootenpv/sky](https://github.com/kootenpv/sky) - :sunrise: next generation web crawling using machine intelligence
@@ -3407,7 +3407,7 @@
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
-- [johnwalley/allotment](https://github.com/johnwalley/allotment) - A React component for resizable split views
+- [johnwalley/allotment](https://github.com/johnwalley/allotment) - Resizable split panes for React, derived from VS Code
 - [naver/egjs-conveyer](https://github.com/naver/egjs-conveyer) - Conveyer adds Drag gestures to your Native Scroll.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
