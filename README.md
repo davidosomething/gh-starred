@@ -387,7 +387,7 @@
 - [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [reviewdog/errorformat](https://github.com/reviewdog/errorformat) - Vim's quickfix errorformat implementation in Go
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader - for markdown readers or terminals
@@ -722,7 +722,6 @@
 - [Jaid/action-sync-node-meta](https://github.com/Jaid/action-sync-node-meta) - GitHub Action that syncs package.json with the repository metadata.
 - [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
 - [forwardemail/supertest](https://github.com/forwardemail/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
-- [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [ehmicky/modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
 - [ruyadorno/snapstub](https://github.com/ruyadorno/snapstub) - Copy API endpoints to your fs and run a local server using them
@@ -3322,6 +3321,7 @@
 - [DiiiaZoTe/next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer) - 
 - [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes
 - [ts-stack/openapi-spec](https://github.com/ts-stack/openapi-spec) - OpenAPI Specification v3.1 writen in TypeScript.
+- [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [bvaughn/react-virtualized-auto-sizer](https://github.com/bvaughn/react-virtualized-auto-sizer) - Standalone version of the AutoSizer component from react-virtualized
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [smolck/uivonim](https://github.com/smolck/uivonim) - Fork of the Veonim Neovim GUI
