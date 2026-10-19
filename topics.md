@@ -475,7 +475,7 @@
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
 - [6over3/tempo](https://github.com/6over3/tempo) - 🥁 Don't miss a beat. Real-time, end-to-end typesafe APIs.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-- [homelabapi/homelabapi](https://github.com/homelabapi/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
+- [gregdotca/homelabapi](https://github.com/gregdotca/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
 - [dunglas/mercure](https://github.com/dunglas/mercure) - 🪽 An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [seashell/drago](https://github.com/seashell/drago) - ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.
@@ -1616,7 +1616,7 @@
 
 ## discord 
 
-- [homelabapi/homelabapi](https://github.com/homelabapi/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
+- [gregdotca/homelabapi](https://github.com/gregdotca/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 
@@ -1666,7 +1666,7 @@
 - [crazy-max/docker-samba](https://github.com/crazy-max/docker-samba) - Samba Docker image
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [davidosomething/caddy-docker-proxy-cloudflare](https://github.com/davidosomething/caddy-docker-proxy-cloudflare) - Caddy with docker proxy and cloudflare module
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
@@ -1679,7 +1679,7 @@
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [homelabapi/homelabapi](https://github.com/homelabapi/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
+- [gregdotca/homelabapi](https://github.com/gregdotca/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
@@ -2253,7 +2253,7 @@
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [eldimious/network-avatar-picker](https://github.com/eldimious/network-avatar-picker) - A npm module that returns user's social network avatar. Supported providers: facebook, instagram, twitter, tumblr, vimeo, github, youtube and gmail
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
-- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
+- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk — a comment component based on GitHub Discussions (current, 2.x). The GitHub Issues based 1.x line is end-of-life.
 - [klaudiosinani/rels](https://github.com/klaudiosinani/rels) - Github release analytics for the console
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
@@ -2294,7 +2294,7 @@
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [reviewdog/errorformat](https://github.com/reviewdog/errorformat) - Vim's quickfix errorformat implementation in Go
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader - for markdown readers or terminals
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
@@ -2771,7 +2771,7 @@
 ## home-assistant 
 
 - [tinkerologie/ha-unraid](https://github.com/tinkerologie/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
-- [homelabapi/homelabapi](https://github.com/homelabapi/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
+- [gregdotca/homelabapi](https://github.com/gregdotca/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
@@ -2945,6 +2945,7 @@
 
 - [picardjs/picard](https://github.com/picardjs/picard) - 🖖 👩🏽‍🚀 Expanding the Frontier of Micro Frontends. ⭐️ Star to support our work!
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, enforces strict argument types with zero runtime overhead.
+- [c15t/c15t](https://github.com/c15t/c15t) - Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [7PH/react-powerglitch](https://github.com/7PH/react-powerglitch) - Tiny React library to glitch anything on the web
@@ -3971,7 +3972,7 @@
 - [tk04/Marker](https://github.com/tk04/Marker) - A Desktop App for Easily Viewing and Editing Markdown Files
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader - for markdown readers or terminals
 - [haltcase/tablemark](https://github.com/haltcase/tablemark) - Generate markdown tables from JSON data.
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -3992,7 +3993,7 @@
 - [kentaro-m/md2confl](https://github.com/kentaro-m/md2confl) - 🛠 md2confl is a CLI tool to convert the markdown text to confluence wiki format.
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [Thinkmill/react-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in &lt;Components/&gt;, &lt;Components/&gt; in **Markdown**
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
@@ -4154,6 +4155,7 @@
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) - @ file mentions in neovim. for prompts, notes, commits.
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) - MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
 - [willyelm/pulse.nvim](https://github.com/willyelm/pulse.nvim) - A single command palette with prefix based pickers for Neovim
+- [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Expandable TypeScript type hover for Neovim (vtsls and TypeScript 7)
 - [ktrysmt/memd.nvim](https://github.com/ktrysmt/memd.nvim) - 
 - [oskarnurm/koda.nvim](https://github.com/oskarnurm/koda.nvim) - Code's quiet companion. A minimalist theme for Neovim, written in Lua.
 - [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) - A Live Preview Plugin for Neovim that allows you to view Markdown, HTML (along with CSS, JavaScript), AsciiDoc, SVG files in a web browser with live updates.
@@ -4189,7 +4191,7 @@
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames
 - [lewis6991/ts-install.nvim](https://github.com/lewis6991/ts-install.nvim) - Treesitter parser manager for Neovim
-- [thesimonho/kanagawa-paper.nvim](https://github.com/thesimonho/kanagawa-paper.nvim) - 🌊 Remixed Kanagawa colourschemes with muted colors. For Neovim.
+- [thesimonho/kanagawa-paper](https://github.com/thesimonho/kanagawa-paper) - 🌊 Remixed Kanagawa colourschemes with muted colors.
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) - A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.
 - [psjay/blamer.nvim](https://github.com/psjay/blamer.nvim) - Neovim plugin for displaying Git blame information in vim-fugitive style with some enhancements.
@@ -4602,7 +4604,7 @@
 - [oskarnurm/koda.nvim](https://github.com/oskarnurm/koda.nvim) - Code's quiet companion. A minimalist theme for Neovim, written in Lua.
 - [datsfilipe/vesper.nvim](https://github.com/datsfilipe/vesper.nvim) - Port of Vesper theme from Visual Studio Code to Neovim.
 - [wnkz/monoglow.nvim](https://github.com/wnkz/monoglow.nvim) - 🎆 A dark, mostly monochrome colorscheme with a touch of glowing.
-- [thesimonho/kanagawa-paper.nvim](https://github.com/thesimonho/kanagawa-paper.nvim) - 🌊 Remixed Kanagawa colourschemes with muted colors. For Neovim.
+- [thesimonho/kanagawa-paper](https://github.com/thesimonho/kanagawa-paper) - 🌊 Remixed Kanagawa colourschemes with muted colors.
 - [aktersnurra/no-clown-fiesta.nvim](https://github.com/aktersnurra/no-clown-fiesta.nvim) - A dark gray colorscheme
 - [cvigilv/patana.nvim](https://github.com/cvigilv/patana.nvim) - Neovim colorscheme inspired in Patana Trufillo from 31 Minutos
 - [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.
@@ -4642,6 +4644,7 @@
 - [SameerJS6/lina](https://github.com/SameerJS6/lina) - Drop-in shadcn/ui ScrollArea replacement (Radix/Base UI) with native touch, adaptive masks, and polished interactions.
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid,
 - [1weiho/next-lens](https://github.com/1weiho/next-lens) - A CLI that scans Next.js routes and provides quick insights from your terminal, web UI, and MCP.
+- [c15t/c15t](https://github.com/c15t/c15t) - Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.
 - [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker) - A simple shadcn/ui TimePicker component
 - [nyxb-ui/ui](https://github.com/nyxb-ui/ui) - Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -4971,12 +4974,13 @@
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
+- [c15t/c15t](https://github.com/c15t/c15t) - Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.
 - [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source, local-first workspace for notes, projects, and meetings. Your data stays yours.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record manager
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -5046,7 +5050,6 @@
 - [fluffypony/yojam](https://github.com/fluffypony/yojam) - open links on macOS in whatever browser, app, or profile you need - whatever yo jam is
 - [desdic/simple-treesitter.nvim](https://github.com/desdic/simple-treesitter.nvim) - Simple installer for treesitter parsers for neovim
 - [wsdjeg/treesitter.nvim](https://github.com/wsdjeg/treesitter.nvim) - 
-- [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats.
 - [atusy/kakehashi](https://github.com/atusy/kakehashi) - language server that bridges the gap between languages, editors, and tooling
 - [gregberge/react-merge-refs](https://github.com/gregberge/react-merge-refs) - React utility to merge refs 🖇
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
@@ -5468,7 +5471,7 @@
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) - Lua Development for Neovim
 - [euclidianAce/BetterLua.vim](https://github.com/euclidianAce/BetterLua.vim) - Better Lua syntax highlighting in Vim/NeoVim
 - [pfnet/pysen](https://github.com/pfnet/pysen) - Python linting made easy. Also a casual yet honorific way to address individuals who have entered an organization prior to you.
-- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy offers highly customizable theming for the KDE Plasma desktop.
+- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy aims for sensible, balanced and intuitive defaults for the KDE Plasma desktop; yet also offers highly customizable theming.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [shamansir/noodle](https://github.com/shamansir/noodle) - Visual programming UI and framework driven by pure functional language and data streams
@@ -6773,6 +6776,7 @@
 
 ## privacy 
 
+- [c15t/c15t](https://github.com/c15t/c15t) - Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source, local-first workspace for notes, projects, and meetings. Your data stays yours.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -6863,7 +6867,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
-- [homelabapi/homelabapi](https://github.com/homelabapi/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
+- [gregdotca/homelabapi](https://github.com/gregdotca/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
 - [featbit/featbit](https://github.com/featbit/featbit) - Enterprise-grade feature flag platform that you can self-host. Get started - free.
 - [PolicyEngine/policyengine-us](https://github.com/PolicyEngine/policyengine-us) - The PolicyEngine US Python package contains a rules engine of the US tax-benefit system, and microdata generation for microsimulation analysis.
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
@@ -6916,7 +6920,7 @@
 - [pearl-core/pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessibl
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
-- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
@@ -6927,7 +6931,6 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
-- [emre/storm](https://github.com/emre/storm) - Manage your SSH like a boss.
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 
 ## python3 
@@ -7006,6 +7009,7 @@
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, enforces strict argument types with zero runtime overhead.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
 - [lukasbach/headless-tree](https://github.com/lukasbach/headless-tree) - The definitive tree component for the Web
+- [c15t/c15t](https://github.com/c15t/c15t) - Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.
 - [luciodale/react-searchable-dropdown](https://github.com/luciodale/react-searchable-dropdown) - High performance virtualized React dropdown and combobox. Single and multi selection, async search, custom rendering, create new options, and, fully accessible.
 - [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
@@ -7038,7 +7042,7 @@
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [code-forge-io/react-router-devtools](https://github.com/code-forge-io/react-router-devtools) - Debug your apps, find hydration errors, trace your network and more in your react-router app with these devtools
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
 - [inokawa/virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.
@@ -7098,7 +7102,7 @@
 - [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
-- [johnwalley/allotment](https://github.com/johnwalley/allotment) - A React component for resizable split views
+- [johnwalley/allotment](https://github.com/johnwalley/allotment) - Resizable split panes for React, derived from VS Code
 - [tomsouthall/turnstone](https://github.com/tomsouthall/turnstone) - React customisable autocomplete component with typeahead and grouped results from multiple APIs.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [flavioschneider/graphire](https://github.com/flavioschneider/graphire) - An unopinionated react graph visualization library.
@@ -7187,7 +7191,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [dvtng/react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app!
-- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
+- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk — a comment component based on GitHub Discussions (current, 2.x). The GitHub Issues based 1.x line is end-of-life.
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas](https://github.com/mimikim/Harvest-Moon-SNES-Feed-Jack-HTML5-Canvas) - React application built with HTML5 Canvas. ES6, React, JSX, Redux. Features cute Harvest Moon sprites! :cow:
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
@@ -7651,6 +7655,7 @@
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Expose Docker containers as Tailscale Services using label-based configuration.
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
+- [c15t/c15t](https://github.com/c15t/c15t) - Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player.
@@ -7677,14 +7682,14 @@
 - [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader - for markdown readers or terminals
 - [LordEidi/wombag](https://github.com/LordEidi/wombag) - Wombag is the alternative, lightweight backend for your Wallabag apps. Wombag supports the Wallabag API.
 - [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [homelabapi/homelabapi](https://github.com/homelabapi/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
+- [gregdotca/homelabapi](https://github.com/gregdotca/homelabapi) - HomelabAPI is a self-hosted API that you can use to consolidate all of your homelab notifications and other outputs. This allows you to use HomelabAPI as your central input/output hub, and if you ever
 - [featbit/featbit](https://github.com/featbit/featbit) - Enterprise-grade feature flag platform that you can self-host. Get started - free.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -7869,7 +7874,7 @@
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [kkharji/sqlite.lua](https://github.com/kkharji/sqlite.lua) - SQLite LuaJIT binding with a very simple api.
@@ -7908,6 +7913,7 @@
 ## svelte 
 
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
+- [c15t/c15t](https://github.com/c15t/c15t) - Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -8230,13 +8236,13 @@
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Your Personal AI-Powered Information Hub
 - [eldimious/network-avatar-picker](https://github.com/eldimious/network-avatar-picker) - A npm module that returns user's social network avatar. Supported providers: facebook, instagram, twitter, tumblr, vimeo, github, youtube and gmail
 - [lipp/login-with](https://github.com/lipp/login-with) - Stateless login-with microservice for OAuth
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery. Just vanilla JS
 
 ## typescript 
 
 - [kcsujeet/ilamy-calendar](https://github.com/kcsujeet/ilamy-calendar) - A modern, open-source Full Calendar alternative for React. Month, week, day, and year views with drag-and-drop, horizontal and vertical resource views, and RFC 5545 recurring events — all MIT licensed
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
+- [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Expandable TypeScript type hover for Neovim (vtsls and TypeScript 7)
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [radashi-org/radashi](https://github.com/radashi-org/radashi) - The modern, community-first TypeScript toolkit with all of the fast, readable, and minimal utility functions you need. Type-safe, dependency-free, tree-shakeable, fully tested.
@@ -8250,7 +8256,7 @@
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest) - Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.
 - [draftswithea/react-query-key-manager](https://github.com/draftswithea/react-query-key-manager) - Type-safe, namespaced query key manager for TanStack Query. Prevents collisions, improves discoverability, enforces strict argument types with zero runtime overhead.
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
-- [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner
+- [c15t/c15t](https://github.com/c15t/c15t) - Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [luciodale/react-searchable-dropdown](https://github.com/luciodale/react-searchable-dropdown) - High performance virtualized React dropdown and combobox. Single and multi selection, async search, custom rendering, create new options, and, fully accessible.
 - [vcms-io/solidis](https://github.com/vcms-io/solidis) - The fastest Redis & Valkey client for Node.js. Zero dependencies, 2x+ faster than ioredis, battle-tested in production.
@@ -8327,7 +8333,6 @@
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [t0gre/react-datepicker](https://github.com/t0gre/react-datepicker) - An easily internationalizable, accessible, mobile-friendly datepicker library for the web, build with styled-components.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
-- [kettanaito/until-async](https://github.com/kettanaito/until-async) - Gracefully handle Promises using async/await without try/catch.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
@@ -8522,7 +8527,6 @@
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) - Generate and edit text in Neovim using OpenAI and GPT.
 - [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
-- [thesimonho/kanagawa-paper.nvim](https://github.com/thesimonho/kanagawa-paper.nvim) - 🌊 Remixed Kanagawa colourschemes with muted colors. For Neovim.
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [fcancelinha/nordern.nvim](https://github.com/fcancelinha/nordern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
 - [ntk148v/komau.vim](https://github.com/ntk148v/komau.vim) - Yet another minimal colorscheme for Vim/Neovim
@@ -8687,7 +8691,7 @@
 - [kristijanhusak/vim-js-file-import](https://github.com/kristijanhusak/vim-js-file-import) - Import/require files in javascript and typescript with single button!
 - [sodapopcan/vim-twiggy](https://github.com/sodapopcan/vim-twiggy) - Git branch management for Vim
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text.
 - [dhruvasagar/vim-buffer-history](https://github.com/dhruvasagar/vim-buffer-history) - A vim plugin to maintain a buffer jump history per window
 - [zefei/vim-wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager for Vim
 - [thenewvu/vim-colors-sketching](https://github.com/thenewvu/vim-colors-sketching) - A minimal light colorscheme for Vim/Neovim
@@ -8911,6 +8915,7 @@
 ## vue 
 
 - [middleapi/orpc](https://github.com/middleapi/orpc) - Typesafe APIs Made Simple 🪄
+- [c15t/c15t](https://github.com/c15t/c15t) - Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
 - [xiaoluoboding/stunning-ui](https://github.com/xiaoluoboding/stunning-ui) - 💚 Stunning UI is a collection of interactive Tailwind CSS components built for Vue and Nuxt.
@@ -8942,7 +8947,6 @@
 - [lingui/js-lingui](https://github.com/lingui/js-lingui) - 🌍 📖 A readable, automated, and optimized (2 kb) internationalization for JavaScript
 - [saberland/saber](https://github.com/saberland/saber) - ()==[:::::::::::::&gt; Build static sites in Vue.js, without the hassle
 - [simonwep/viselect](https://github.com/simonwep/viselect) - ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks!
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [text-mask/text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript
