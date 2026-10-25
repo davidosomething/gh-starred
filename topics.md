@@ -88,6 +88,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -1776,6 +1777,10 @@
 - [featbit/featbit](https://github.com/featbit/featbit) - Enterprise-grade feature flag platform that you can self-host. Get started - free.
 - [yatli/fvim](https://github.com/yatli/fvim) - Cross platform Neovim front-end UI, built with F# + Avalonia
 
+## downloader 
+
+- [eyeblech/cinecli](https://github.com/eyeblech/cinecli) - CineCLI is a cross-platform command-line movie browser built with Python.
+
 ## education 
 
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -2308,6 +2313,7 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go
+- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [furkansenharputlu/f-license](https://github.com/furkansenharputlu/f-license) - Open Source License Key Generation and Verification Tool written in Go
@@ -3447,7 +3453,6 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [serversideup/financial-freedom](https://github.com/serversideup/financial-freedom) - 🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.
 - [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
-- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
@@ -4115,7 +4120,7 @@
 
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
-- [karolkozer/planby](https://github.com/karolkozer/planby) - 
+- [karolkozer/planby](https://github.com/karolkozer/planby) - Planby is a component for a quick implementation of Schedules, Timelines, Electronic Program Guide, Calendar Planner, Music Events and many more ideas. It uses a custom virtual view which allows you t
 - [airsonic/airsonic](https://github.com/airsonic/airsonic) - :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 - [martpie/museeks](https://github.com/martpie/museeks) - 🎵 A simple, clean and cross-platform music player
 - [vincelwt/harmony](https://github.com/vincelwt/harmony) - :musical_note: Sleek music player for Spotify, SoundCloud, Google Play Music and your local files
@@ -7103,7 +7108,7 @@
 - [expo/use-unmount-signal](https://github.com/expo/use-unmount-signal) - A React Hook to cancel promises when a component is unmounted
 - [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [pierpo/react-archer](https://github.com/pierpo/react-archer) - 🏹 Draw arrows between React elements 🖋
-- [karolkozer/planby](https://github.com/karolkozer/planby) - 
+- [karolkozer/planby](https://github.com/karolkozer/planby) - Planby is a component for a quick implementation of Schedules, Timelines, Electronic Program Guide, Calendar Planner, Music Events and many more ideas. It uses a custom virtual view which allows you t
 - [johnwalley/allotment](https://github.com/johnwalley/allotment) - Resizable split panes for React, derived from VS Code
 - [tomsouthall/turnstone](https://github.com/tomsouthall/turnstone) - React customisable autocomplete component with typeahead and grouped results from multiple APIs.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
@@ -8132,7 +8137,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
@@ -8934,6 +8939,7 @@
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor featuring version control, AI Copilot, document annotations, mind maps, document encryption, executable code snippets, chart embedding, HTML applets, plugins, and m
 - [zwave-js/zwave-js-ui](https://github.com/zwave-js/zwave-js-ui) - Full featured Z-Wave Control Panel UI and MQTT gateway. Built using Nodejs, and Vue/Vuetify
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+- [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [yaegassy/coc-html-css-support](https://github.com/yaegassy/coc-html-css-support) - HTML id and class attribute "completion" for coc.nvim.
 - [vime-js/vime](https://github.com/vime-js/vime) - Deprecated and no longer maintained. Succeeded by Video.js 10 (https://videojs.org). Customizable, accessible media player web components.
 - [awesome-reveal/awesome-reveal](https://github.com/awesome-reveal/awesome-reveal) - Reveal-on-scroll animations for React, Vue, Astro and plain JavaScript, built on IntersectionObserver and the Web Animations API.
@@ -8976,7 +8982,7 @@
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.
 - [meursyphus/flitter](https://github.com/meursyphus/flitter) - A JavaScript rendering engine inspired by Flutter. Build any visualization — charts, diagrams, editors — with composable widgets and Canvas/SVG.
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [karolkozer/planby](https://github.com/karolkozer/planby) - 
+- [karolkozer/planby](https://github.com/karolkozer/planby) - Planby is a component for a quick implementation of Schedules, Timelines, Electronic Program Guide, Calendar Planner, Music Events and many more ideas. It uses a custom virtual view which allows you t
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [awesome-reveal/awesome-reveal](https://github.com/awesome-reveal/awesome-reveal) - Reveal-on-scroll animations for React, Vue, Astro and plain JavaScript, built on IntersectionObserver and the Web Animations API.
@@ -9058,7 +9064,7 @@
 
 ## website 
 
-- [karolkozer/planby](https://github.com/karolkozer/planby) - 
+- [karolkozer/planby](https://github.com/karolkozer/planby) - Planby is a component for a quick implementation of Schedules, Timelines, Electronic Program Guide, Calendar Planner, Music Events and many more ideas. It uses a custom virtual view which allows you t
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
 - [samccone/bundle-buddy](https://github.com/samccone/bundle-buddy) - A tool to understand your bundle size and why files are in your bundle
 
