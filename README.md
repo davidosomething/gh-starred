@@ -372,7 +372,7 @@
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [neuralink/tsui](https://github.com/neuralink/tsui) - An (experimental) elegant TUI for configuring Tailscale.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes, Proxmox LXC, SystemD, AWS ECS and Nomad compatible.
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
 - [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core) - Realtime log viewer with web UI, tail -f for logs with a web interface browser.
 - [syncyomi/syncyomi](https://github.com/syncyomi/syncyomi) - SyncYomi is an open-source project crafted to provide a seamless synchronization experience for your TachiyomiSY/Mihon (Mihon client is not implemented but it works the same probably will never be imp
