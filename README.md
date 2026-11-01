@@ -788,7 +788,6 @@
 - [Fdawgs/node-poppler](https://github.com/Fdawgs/node-poppler) - Asynchronous Node.js wrapper for the Poppler PDF rendering utilities
 - [trentm/node-dashdash](https://github.com/trentm/node-dashdash) - A light, featureful and explicit option parsing library for node.js.
 - [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select) - Lightweight, accessible, customizable and fast Dropdown Tree Select component for React
-- [ntfstool/ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
 - [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [crossfilter/crossfilter](https://github.com/crossfilter/crossfilter) - Fast n-dimensional filtering and grouping of records.
 - [Debdut/react-fast-charts](https://github.com/Debdut/react-fast-charts) - Blazing Fast Charting Library in React with loading time less than 50ms
@@ -3039,6 +3038,7 @@
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [XcodeReleasesOrg/xcinfo](https://github.com/XcodeReleasesOrg/xcinfo) - Install as many Xcodes at once as you can
+- [ntfstool/ntfstool](https://github.com/ntfstool/ntfstool) - A ntfs tool for mac
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
