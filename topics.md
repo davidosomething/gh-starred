@@ -159,6 +159,7 @@
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
+- [knowledge-graph](#knowledge-graph)
 - [koa](#koa)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -380,6 +381,7 @@
 
 ## ai-agents 
 
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
 - [bartolli/codanna](https://github.com/bartolli/codanna) - Local code intelligence MCP server and CLI for AI coding agents
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -1540,7 +1542,7 @@
 
 ## deployment 
 
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: projects, Git deployments, HTTPS domains, logs and backups. Wraps the real docker compose rather than replacing it, so your containers keep runnin
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
@@ -1620,7 +1622,7 @@
 
 ## devops 
 
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: projects, Git deployments, HTTPS domains, logs and backups. Wraps the real docker compose rather than replacing it, so your containers keep runnin
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
 - [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.
@@ -1672,7 +1674,7 @@
 ## docker 
 
 - [manasseh-fikadu/bield](https://github.com/manasseh-fikadu/bield) - A simple, self-hosted control plane for every machine on your tailnet.
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: projects, Git deployments, HTTPS domains, logs and backups. Wraps the real docker compose rather than replacing it, so your containers keep runnin
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
 - [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
@@ -2399,7 +2401,7 @@
 
 ## golang 
 
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: projects, Git deployments, HTTPS domains, logs and backups. Wraps the real docker compose rather than replacing it, so your containers keep runnin
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Label-based Tailscale Services for Docker containers
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
@@ -3427,6 +3429,10 @@
 - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [nteract/archived-desktop-app](https://github.com/nteract/archived-desktop-app) - The old electron based nteract notebook
 
+## knowledge-graph 
+
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
+
 ## koa 
 
 - [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list) - Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.
@@ -4065,6 +4071,7 @@
 
 ## mcp 
 
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) - MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
@@ -4080,6 +4087,7 @@
 
 ## mcp-server 
 
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) - MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
@@ -5671,7 +5679,7 @@
 - [oldboyxx/jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
 - [gaul/awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
 - [simevidas/web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of over 1000 RSS feeds for web developers, updated monthly
-- [littlegtplr/Hackintosh-Clover-folder-for-Coffee-Lake-builds](https://github.com/littlegtplr/Hackintosh-Clover-folder-for-Coffee-Lake-builds) - Hackintosh Clover folder for Coffee Lake builds
+- [wool4577/Hackintosh-Clover-folder-for-Coffee-Lake-builds](https://github.com/wool4577/Hackintosh-Clover-folder-for-Coffee-Lake-builds) - Hackintosh Clover folder for Coffee Lake builds
 - [lukeed/klona](https://github.com/lukeed/klona) - A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!
 - [forbesmyester/esqlate](https://github.com/forbesmyester/esqlate) - Build minimum viable admin panels quickly with just SQL
 - [conweller/findr.vim](https://github.com/conweller/findr.vim) - An incremental narrowing engine for (neo)vim inspired by emacs helm/ivy/ido
@@ -6243,7 +6251,6 @@
 - [Slgoetz/lemniscate](https://github.com/Slgoetz/lemniscate) - Infinite Loop
 - [filamentgroup/criticalCSS](https://github.com/filamentgroup/criticalCSS) - Finds the Above the Fold CSS for your page, and outputs it into a file
 - [zefei/vim-colortuner](https://github.com/zefei/vim-colortuner) - Adjust your vim colors using sliders
-- [catchpoint/WebPageTest.visual-metrics](https://github.com/catchpoint/WebPageTest.visual-metrics) - Calculate visual performance metrics from a video (Speed Index, Visual Complete, Incremental progress, etc)
 - [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
 - [jaredhanson/electrolyte](https://github.com/jaredhanson/electrolyte) - Elegant dependency injection for Node.js.
@@ -7702,7 +7709,7 @@
 ## self-hosted 
 
 - [manasseh-fikadu/bield](https://github.com/manasseh-fikadu/bield) - A simple, self-hosted control plane for every machine on your tailnet.
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: projects, Git deployments, HTTPS domains, logs and backups. Wraps the real docker compose rather than replacing it, so your containers keep runnin
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
 - [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
@@ -8194,7 +8201,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
