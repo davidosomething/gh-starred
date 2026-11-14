@@ -382,7 +382,7 @@
 
 ## ai-agents 
 
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose panel, a Coolify, Dokploy and Portainer alternative: Git deploys, HTTPS domains, logs, backups and an MCP server so AI agents deploy with scoped tokens. Runs the
 - [bartolli/codanna](https://github.com/bartolli/codanna) - Local code intelligence MCP server and CLI for AI coding agents
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -1543,7 +1543,7 @@
 
 ## deployment 
 
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose panel, a Coolify, Dokploy and Portainer alternative: Git deploys, HTTPS domains, logs, backups and an MCP server so AI agents deploy with scoped tokens. Runs the
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [shipitjs/shipit](https://github.com/shipitjs/shipit) - Universal automation and deployment tool ⛵️
@@ -1623,7 +1623,7 @@
 
 ## devops 
 
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose panel, a Coolify, Dokploy and Portainer alternative: Git deploys, HTTPS domains, logs, backups and an MCP server so AI agents deploy with scoped tokens. Runs the
 - [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Kubernetes Dashboard for Multi-Cluster Management Real-Time, Self-Hosted, Single Binary, AI-powered. Manage, monitor & debug K8s clusters in your browser, no cloud, no agents.
@@ -1675,7 +1675,7 @@
 ## docker 
 
 - [manasseh-fikadu/bield](https://github.com/manasseh-fikadu/bield) - A simple, self-hosted control plane for every machine on your tailnet.
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose panel, a Coolify, Dokploy and Portainer alternative: Git deploys, HTTPS domains, logs, backups and an MCP server so AI agents deploy with scoped tokens. Runs the
 - [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
@@ -2402,7 +2402,7 @@
 
 ## golang 
 
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose panel, a Coolify, Dokploy and Portainer alternative: Git deploys, HTTPS domains, logs, backups and an MCP server so AI agents deploy with scoped tokens. Runs the
 - [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with an interactive Terminal User Interface (TUI) written in Go.  Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 - [marvinvr/docktail](https://github.com/marvinvr/docktail) - Label-based Tailscale Services for Docker containers
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
@@ -4074,7 +4074,7 @@
 
 ## mcp 
 
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose panel, a Coolify, Dokploy and Portainer alternative: Git deploys, HTTPS domains, logs, backups and an MCP server so AI agents deploy with scoped tokens. Runs the
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) - MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
@@ -4090,7 +4090,7 @@
 
 ## mcp-server 
 
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose panel, a Coolify, Dokploy and Portainer alternative: Git deploys, HTTPS domains, logs, backups and an MCP server so AI agents deploy with scoped tokens. Runs the
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) - MCP server that connects AI agents to your running Neovim instance via msgpack-RPC — no plugins required.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The open-source agent harness for macOS. Run local or cloud models with persistent memory, skills, tools, and autonomous execution. Built in Swift.
 - [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
@@ -4254,7 +4254,7 @@
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) - A neovim plugin to live preview lsp renames
 - [lewis6991/ts-install.nvim](https://github.com/lewis6991/ts-install.nvim) - Treesitter parser manager for Neovim
-- [thesimonho/kanagawa-paper](https://github.com/thesimonho/kanagawa-paper) - Remixed Kanagawa colourschemes with muted colors.
+- [thesimonho/kanagawa-paper](https://github.com/thesimonho/kanagawa-paper) - 🌊 Remixed Kanagawa colourschemes with muted colors.
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown in Neovim
 - [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) - A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.
 - [psjay/blamer.nvim](https://github.com/psjay/blamer.nvim) - Neovim plugin for displaying Git blame information in vim-fugitive style with some enhancements.
@@ -4666,7 +4666,7 @@
 - [oskarnurm/koda.nvim](https://github.com/oskarnurm/koda.nvim) - Code's quiet companion. A minimalist theme for Neovim, written in Lua.
 - [datsfilipe/vesper.nvim](https://github.com/datsfilipe/vesper.nvim) - Port of Vesper theme from Visual Studio Code to Neovim.
 - [wnkz/monoglow.nvim](https://github.com/wnkz/monoglow.nvim) - 🎆 A dark, mostly monochrome colorscheme with a touch of glowing.
-- [thesimonho/kanagawa-paper](https://github.com/thesimonho/kanagawa-paper) - Remixed Kanagawa colourschemes with muted colors.
+- [thesimonho/kanagawa-paper](https://github.com/thesimonho/kanagawa-paper) - 🌊 Remixed Kanagawa colourschemes with muted colors.
 - [aktersnurra/no-clown-fiesta.nvim](https://github.com/aktersnurra/no-clown-fiesta.nvim) - A dark gray colorscheme
 - [cvigilv/patana.nvim](https://github.com/cvigilv/patana.nvim) - Neovim colorscheme inspired in Patana Trufillo from 31 Minutos
 - [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.
@@ -5150,7 +5150,7 @@
 - [blopker/codebook](https://github.com/blopker/codebook) - An unholy spell checker for code
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 - [Daydreamer-riri/catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) - Show inlay version and go-to-definition for PNPM/Yarn/Bun catalogs.
-- [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - Raveo is a warmer version of the Inter typeface.
+- [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - A warm grotesque: a variable sans in seven weights and three widths, upright and italic. Free and open source.
 - [mmkal/eslint-plugin-codegen](https://github.com/mmkal/eslint-plugin-codegen) - An eslint plugin for inline codegen. Auto-fixes out of sync code, with presets for barrels, jsdoc to markdown and more.
 - [taybart/code-actions.nvim](https://github.com/taybart/code-actions.nvim) - 
 - [sindresorhus/p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
@@ -7713,7 +7713,7 @@
 ## self-hosted 
 
 - [manasseh-fikadu/bield](https://github.com/manasseh-fikadu/bield) - A simple, self-hosted control plane for every machine on your tailnet.
-- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose control plane: Git deployments, HTTPS domains, logs and backups, plus an MCP server so AI agents can deploy with scoped tokens. Wraps the real docker compose, so
+- [Sulaiman-Dauda/windlass](https://github.com/Sulaiman-Dauda/windlass) - Lightweight self-hosted Docker Compose panel, a Coolify, Dokploy and Portainer alternative: Git deploys, HTTPS domains, logs, backups and an MCP server so AI agents deploy with scoped tokens. Runs the
 - [missedrun/missedrun-selfhosted](https://github.com/missedrun/missedrun-selfhosted) - Self-hosted cron job monitoring with ping URLs and email alerts.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
