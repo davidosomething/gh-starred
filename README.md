@@ -181,6 +181,7 @@
 
 ## C++ 
 
+- [AlexGraveler/KDEGlance](https://github.com/AlexGraveler/KDEGlance) - Quick Look-style file preview for KDE Plasma and Dolphin
 - [coletrammer/ttx](https://github.com/coletrammer/ttx) - A modern terminal multiplexer.
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -1553,7 +1554,6 @@
 
 ## Just 
 
-- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation
 - [casey/tree-sitter-just](https://github.com/casey/tree-sitter-just) - Treesitter grammar for Justfiles (casey/just)
 
 ## Kotlin 
@@ -2824,6 +2824,7 @@
 
 ## Shell 
 
+- [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation
 - [c0deJedi/nbd-vram](https://github.com/c0deJedi/nbd-vram) - Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD,
 - [christianhaitian/arkos](https://github.com/christianhaitian/arkos) - Another rockchip Operating System
 - [Suwayomi/Suwayomi-Server-docker](https://github.com/Suwayomi/Suwayomi-Server-docker) - Run Suwayomi-Server in a docker container
@@ -2949,7 +2950,7 @@
 - [ytet5uy4/fzf-widgets](https://github.com/ytet5uy4/fzf-widgets) - ZLE widgets of fzf
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - ACME client implemented as a simple shell-script – just add water
 - [babarot/zsh-vimode-visual](https://github.com/babarot/zsh-vimode-visual) - Implement the vim-like visual mode to vi-mode of zsh
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 1000 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources
 - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these serv
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
