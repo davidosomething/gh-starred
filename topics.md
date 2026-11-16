@@ -3541,6 +3541,7 @@
 
 ## linux 
 
+- [AlexGraveler/KDEGlance](https://github.com/AlexGraveler/KDEGlance) - Quick Look-style file preview for KDE Plasma and Dolphin
 - [ublue-os/aurora](https://github.com/ublue-os/aurora) - The ultimate productivity workstation
 - [c0deJedi/nbd-vram](https://github.com/c0deJedi/nbd-vram) - Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD,
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
@@ -6919,6 +6920,7 @@
 
 ## python 
 
+- [AlexGraveler/KDEGlance](https://github.com/AlexGraveler/KDEGlance) - Quick Look-style file preview for KDE Plasma and Dolphin
 - [Jay-Madden/tylsp-pep723.nvim](https://github.com/Jay-Madden/tylsp-pep723.nvim) - Adds LSP support for inline metadata python scripts to neovim
 - [eyeblech/cinecli](https://github.com/eyeblech/cinecli) - CineCLI is a cross-platform command-line movie browser built with Python.
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust.
@@ -8207,7 +8209,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 1000 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim) - :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 - [TomasTomecek/sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for containers.
