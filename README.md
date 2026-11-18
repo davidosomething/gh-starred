@@ -404,7 +404,7 @@
 - [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [netdata/netdata](https://github.com/netdata/netdata) - Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish ·
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ncarlier/webhookd](https://github.com/ncarlier/webhookd) - A minimalist, powerful webhook server designed to easily trigger shell scripts and run external processes via HTTP requests.
@@ -3045,7 +3045,7 @@
 - [ther0n/UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [bloomberg/xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files.
-- [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+- [consolelabs/hidden](https://github.com/consolelabs/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [dgurkaynak/Penc](https://github.com/dgurkaynak/Penc) - Trackpad-oriented window manager for macOS
 - [github/SoftU2F](https://github.com/github/SoftU2F) - Software U2F authenticator for macOS
 - [macmade/Console](https://github.com/macmade/Console) - OS X console application.
@@ -3151,7 +3151,7 @@
 - [c15t/c15t](https://github.com/c15t/c15t) - Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue and JavaScript. Google Consent Mode v2 and IAB TCF.
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [luciodale/react-searchable-dropdown](https://github.com/luciodale/react-searchable-dropdown) - High performance virtualized React dropdown and combobox. Single and multi selection, async search, custom rendering, create new options, and, fully accessible.
-- [thelastbackspace/traceperf](https://github.com/thelastbackspace/traceperf) - TracePerf: Advanced console logging & performance tracking for Node.js. Visualize execution flows with ASCII art, detect bottlenecks, and get optimization suggestions. Features structured logs, condit
+- [thelastbackspace/traceperf](https://github.com/thelastbackspace/traceperf) - Finds why your Node.js API is slow: N+1 queries, event-loop blocking, pool exhaustion, missing indexes. One command, plus a CI check that fails PRs adding queries.
 - [vcms-io/solidis](https://github.com/vcms-io/solidis) - The fastest Redis & Valkey client for Node.js. Zero dependencies, 2x+ faster than ioredis, battle-tested in production.
 - [yamada-ui/yamada-ui](https://github.com/yamada-ui/yamada-ui) - React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.
 - [rcjsuen/dockerfile-language-server](https://github.com/rcjsuen/dockerfile-language-server) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
@@ -3490,7 +3490,7 @@
 - [TypeScriptToLua/TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua) - Typescript to lua transpiler. https://typescripttolua.github.io/
 - [egoist/mordred](https://github.com/egoist/mordred) - [Experimental] Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
 - [bluebill1049/little-state-machine](https://github.com/bluebill1049/little-state-machine) - 📠 React custom hook for persist state management
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow | Vue Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev), Svelte (https://svelteflow.dev) and Vue (https://vueflow.dev). Read
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [maxchehab/phelia](https://github.com/maxchehab/phelia) - ⚡ A reactive Slack application framework.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
